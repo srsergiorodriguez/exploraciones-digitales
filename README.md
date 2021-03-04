@@ -1,1 +1,1 @@
-# exploraciones-digitales
+# Exploraciones digitales para humanistas
