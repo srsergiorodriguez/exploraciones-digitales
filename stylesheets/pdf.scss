@@ -1,0 +1,30 @@
+@import 'shared';
+
+section[data-type="chapter"] {
+  page-break-after: always;
+}
+
+nav[data-type="toc"] a[href]::after {
+  content: " --- Pág. " target-counter(attr(href), page);
+}
+
+@page {
+  size: 15cm 22.5cm;
+  @bottom {
+      content: counter(page);
+  }
+}
+
+.text-p {
+  font-size: 10pt;
+  text-align: justify;
+}
+
+figcaption {
+  font-size: 8pt;
+  text-align: center;
+}
+
+figure img {
+  max-width: 100%;
+}

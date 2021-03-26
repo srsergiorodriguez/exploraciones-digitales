@@ -1,0 +1,33 @@
+{
+  "title" : "Exploraciones digitales para humanistas",
+  "destination" : "build/:build",
+  "addPlugins": [
+    "./plugins/addP5.js"
+  ],
+  "builds" : [
+    {
+      "format" : "pdf",
+      "layout" : "layouts/pdf.html",
+      "stylesheets" : {
+        "files" : ["stylesheets/pdf.scss"]
+      },
+      "files" : [
+        "content/toc.html",
+        "content/informacion.html"
+      ]
+    },
+    {
+      "format" : "html",
+      "layout" : "layouts/html.html",
+      "stylesheets" : {
+        "files" : ["stylesheets/html.scss"]
+      },
+      "javascripts" : {
+        "files" : ["javascripts/scripts.js"]
+      },
+      "files" : [
+        "content/informacion.html"
+      ]
+    }
+  ]
+}

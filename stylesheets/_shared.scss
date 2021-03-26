@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Noto Serif';
+  src: font-path('NotoSerif-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Libre Baskerville';
+  src: font-path('LibreBaskerville-Regular.ttf');
+}
+
+/* Variables */
+:root {
+  --colbg: #F3F7F4;
+  --colmain: #ed6a5a;
+  --colblack: #313030;
+  --col1: #5ca4a9;
+  --col2: #9bc1bc;
+
+  --mainhfont: 'Libre Baskerville', serif;
+  --headfont: 'Libre Baskerville', serif;
+  --contentfont: 'Noto Serif SC', serif;
+
+  --ttime: 0.5s;
+}
+
+body {
+  font-family: 'Noto Serif';
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Libre Baskerville';
+}
+
+.formula {
+  text-align: center;
+}

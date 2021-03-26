@@ -1,0 +1,53 @@
+---
+title:  Información
+subtitle: Diferencias que hacen diferencias
+---
+
+<section data-type="chapter">
+  <header class="chapter-headers">
+    <h1>{{ page.title }}</h1>
+    <h2>{{ page.subtitle }}</h2>
+  </header>
+
+  <section data-type="sect1">
+    <h1>Introducción</h1>
+    <p class="text-p">
+      En la vida contemporánea se habla constantemente de información, prinicipalmente en los medios de comunicación y en el rápido movimiento del mundo digital. Información es un término que tiene un uso cotidiano, intuitivo, que todas las personas entendemos, relacionado con el conocimiento que nos permite llevar a cabo las tareas de la vida diaria, pero también tiene ciertas conotaciones técnicas y tecnológicas, que tienen que ver con infraestructuras de telecomunicaciones y con datos registrados en grandes computadores, cuya operación está oculta para la mayoría de la gente. Este capítulo aborda los dos sentidos del concepto, sus relaciones estrechas, y la importancia que tiene para las humanidades considerar los imbricamientos entre la información y el significado.
+    </p>
+    <p class="text-p">
+      Como punto de partida tomemos una definición concreta pero muy fructífera de información: el ciberantropólogo Gregory Bateson decía en su libro Mind and Nature: A Necessary Unity <span data-type="footnote">Bateson, G. (1979). Mind and Nature: A Necessary Unity. Dutton.</span> que la información consiste en <span class="highlight">"una diferencia que hace una diferencia"</span> (p.99). Pero, aunque esa es una frase ya famosa en los círculos epecializados de la cibernética, su poderoso mensaje es críptico a primera vista. ¿Qué quiso decir Bateson con esta definición? Para desempaquetarla un poco, podríamos decir que la primera diferencia en la frase se refiere a la información formalmente definida, domesticada, a sus operaciones matemáticas, clasificadas sintácticamente, útiles para la ingeniería de la comunicación y la computación. La segunda diferencia se refiere al significado, al contenido semántico y al uso pragmático, a la utilidad que tiene la información para una persona —o para cualquier ser vivo en general—, al nuevo conocimiento adquirido, al aprendizaje que sirve para acciones futuras. La primera diferencia es una diferencia, pues está pasivamente registrada en un sustrato físico, mientras que la segunda hace una diferencia, pues implica moverse activamente en el mundo basado en la lectura del sustrato que contiene el registro. Para que exista información en el sentido de Bateson, necesitamos de las dos diferencias. Aunque distintas teorías las separen y las consideren aisladamente son, para recontextualizar una frase Batesoniana, una unidad necesaria.
+    </p>
+    <p class="text-p">
+      Entonces, en este capítulo aprovecharemos la frase para hacer una lectura semiomaterial del concepto de información. Es decir, veremos cómo existen procedimientos, teorías y reglas que regulan y configuran los aspectos materiales, las prestaciones y la manipulación de la información como objeto concreto —la primera diferencia—, y también veremos cómo esos aspectos técnicos se relacionan con los problemas del significado y la interpretación, cómo se conectan con el uso concreto que le dan las personas a lo que perciben como información —la segunda diferencia—. Tal lectura semiomaterial servirá a su vez como un fundamento para entender reflexivamente el impacto que puede tener el uso del concepto de información para las humanidades: ¿qué sucede cuando se tratan los fenómenos y los objetos culturales como información? ¿es posible codificarlos en su totalidad? ¿qué límites plantea el lado técnico de la información? ¿qué problemas plantea lo informacional a lo humanístico? ¿qué requiere una teoría de la información que tenga verdaramente en cuenta al significado?
+    </p>
+  </section>
+
+  <section data-type="sect1">
+    <h1>La primera diferencia</h1>
+    <h2>La teoría matemática</h2>
+    <p class="text-p">
+      En su descripción más formal y matemática, la información es la cantidad de diferencias que puede contener un mensaje codificado en un soporte o canal. Un canal es cualquier medio material que pueda ser modificado físicamente y con el que se puedan registrar diferencias: desde un pedazo de papel hasta una compleja red de fibra óptica. Esta idea se la debemos a Claude Shannon, el inventor de la Teoría matemática de la información, y a Warren Weaver, quien colaboró con una interpretación importante de la teoría. Por ejemplo, un interruptor, de los que usamos para prender y apagar la luz, es un soporte que contiene dos estados posibles: encendido o apagado. Es decir, contiene una sola diferencia, pues para diferir se necesitan dos, como mínimo. La unidad de medida de las diferencias en información es el bit, un término que se ha hecho cada vez más común con el uso extendido de los computadores digitales. Concretamente, bit quiere decir binary unit, o sea, unidad binaria, y es binaria porque guarda la diferencia entre dos opciones, la cantidad mínima posible de diferencias. Pero también, si lo vemos así, quiere decir "pedacito" en inglés. Un bit es el pedacito más pequeño de la información. Así, si codificamos la información del interruptor en cuestión en un sistema binario más abstracto, podemos decir que 0 es apagado y 1 es encendido.
+      Para Shannon, y la posterior interpretación de Weaver, el espacio que debemos tener disponible en un soporte o un canal en el que queremos guardar información depende de la cantidad de "sorpresa", o el número de posibilidades que podemos esperar que represente el soporte. Un interruptor puede estar solamente en una de dos opciones, así que solo necesitamos un bit. Pero si quisiéramos registrar una letra, de las 27 que hay en el alfabeto del español, tendríamos que usar la famosa fórmula de Shannon que sirve determinar el número de bits necesarios: H = log2(k). Donde H es el número de bits y k es el número de posibles diferencias que queremos poder guardar en el soporte o mover en el canal, suponiendo que todas las letras tienen el mismo chance de aparecer. Entonces, necesitamos como mínimo 4.7548 bits en el soporte para guardar una letra. Como en los sistemas digitales realmente los bits son las unidades más pequeñas, y por eso son indivisibles, en realidad necesitaríamos 5 bits. Y para codificar cada letra usaríamos una secuencia binaria de esos 5 bits. Digamos, 00000 para la A, 00001 para la B, 00010 para la C, 00011 para la D, y así sucesivamente.
+    </p>
+    <figure class="screenshot" sketch-height="100px" data-p5-sketch="https://srsergiorodriguez.github.io/exploraciones-sketches/C1/1bits/">
+      <figcaption>Aquí, combinaciones de bits corresponden con letras del alfabeto</figcaption>
+      <img alt="intro ex02" src="bits.png" />
+    </figure>
+
+    <figure class="screenshot" sketch-height="220px" data-p5-sketch="https://srsergiorodriguez.github.io/exploraciones-sketches/C1/2facult/">
+      <figcaption>Aquí, combinaciones de bits corresponden con letras del alfabeto</figcaption>
+      <img alt="intro ex02" src="bits.png" />
+    </figure>
+
+    <figure class="screenshot" sketch-height="500px" data-p5-sketch="https://srsergiorodriguez.github.io/exploraciones-sketches/C1/5interp/">
+      <figcaption>Aquí, combinaciones de bits corresponden con letras del alfabeto</figcaption>
+      <img alt="intro ex02" src="bits.png" />
+    </figure>
+  </section>
+
+  {% if format == 'pdf' %}
+  ESTO SOLO SE VE EN PDF
+  {% else %}
+  ESTO SOLO SE VE EN WEB
+  {% endif %}
+</section>

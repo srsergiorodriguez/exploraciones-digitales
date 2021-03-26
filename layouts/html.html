@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ config.title }}</title>
+    {{ javascripts }}
+    {{ stylesheets }}
+  </head>
+  <body data-type="book">
+    <header class="topheader">
+      <hgroup class="mainh">
+        <h1>Exploraciones digitales para humanistas</h1>
+        <h2>---subtítulo----</h2>
+      </hgroup>
+      <ul class="titlebar1">
+        <li><a>*</a></li>
+        <li><a>**</a></li>
+      </ul>
+    </header>
+    <section class="mainset">
+      <aside class="sidebar">
+        {{ toc }}
+      </aside>
+      <article class="chapter">
+        {{ content }}
+        {% include navigation.html %}
+        
+      </article>
+      <aside class=sidebar>
+        <h1>Referencias</h1>
+        {{ footnotes }}
+      </aside>
+    </section>
+  </body>
+</html>

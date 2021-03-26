@@ -1,0 +1,33 @@
+{
+  "name": "exploraciones-digitales",
+  "version": "0.0.1",
+  "description": "Un libro digital explorable sobre la relación entre el pensamiento digital y las humanidades",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srsergiorodriguez/exploraciones-digitales.git"
+  },
+  "keywords": [
+    "humanidades digitales",
+    "programación creativa",
+    "exploraciones explorables",
+    "Latinoamérica"
+  ],
+  "author": "Sergio Rodríguez Gómez",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/srsergiorodriguez/exploraciones-digitales/issues"
+  },
+  "homepage": "https://github.com/srsergiorodriguez/exploraciones-digitales#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "magicbook build",
+    "watch": "magicbook build --watch"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "magicbook-codesplit": "^0.1.6",
+    "magicbook-katex": "0.0.7",
+    "magicbook-webpack": "0.0.4",
+    "through2": "^3.0.1"
+  }
+}
