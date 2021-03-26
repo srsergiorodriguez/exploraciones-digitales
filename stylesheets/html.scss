@@ -69,7 +69,7 @@ iframe {
 .titlebar1 {
   list-style-type: none;
   margin: 0;
-  padding: 0em 1em;
+  padding: 0px 10px;
   display: flex;
   justify-content: flex-end;
 }
@@ -137,7 +137,7 @@ iframe {
 /* Content section */
 
 .chapter {
-  padding: 0em 15px 0em 20px;
+  padding: 0px 15px 0px 20px;
   border: solid 1px;
 }
 
@@ -164,7 +164,7 @@ iframe {
 .chapter-headers h1 {
   font-size: 25px;
   font-weight: 700;
-  padding: 1em 0em 0em 0em;
+  padding: 10px 0px 0px 0px;
   margin:0;
   text-decoration: underline;
   text-decoration-color: var(--colmain);
