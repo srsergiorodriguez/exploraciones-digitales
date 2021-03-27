@@ -7,21 +7,6 @@ body {
   background: var(--colbg);
 }
 
-.p5-wrapper {
-  text-align: center;
-  margin: 0 0 30px;
-}
-
-.p5-wrapper p {
-  font-size: 12px;
-  padding: 5px 0;
-  margin: 0px;
-}
-
-iframe {
-  margin: auto;
-}
-
 /* Header rect */
 
 .topheader {
@@ -60,8 +45,55 @@ iframe {
   font-size: 17px;
 }
 
-.highlight {
+.formula {
+  font-size: 25px;
+}
+
+mark {
+  // background: lightgrey;
   background: var(--col2);
+}
+
+/* Figures */
+
+figure.left {
+  float:left;
+  max-width: 300px;
+}
+
+figure.right {
+  float:right;
+  max-width: 300px;
+}
+
+figure.whole {
+  float: center;
+  max-width: 100%;
+}
+
+figure img {
+  width: 100%;
+}
+
+figcaption {
+  font-size: 12px;
+}
+
+/* Sketches */
+
+.p5-wrapper {
+  text-align: center;
+  margin: 0 0 30px;
+}
+
+.p5-wrapper p {
+  font-size: 12px;
+  padding: 5px 0;
+  margin: 0px;
+}
+
+iframe {
+  margin: auto;
 }
 
 /* Header menu */
@@ -102,7 +134,7 @@ iframe {
   // list-style-type: circle;
   font-family: var(--mainhfont);
   font-weight: 400;
-  border: solid 1px;
+  // border: solid 1px;
   padding: 10px;
 }
 
@@ -138,7 +170,7 @@ iframe {
 
 .chapter {
   padding: 0px 15px 0px 20px;
-  border: solid 1px;
+  // border: solid 1px;
 }
 
 .chapter p {
@@ -188,21 +220,44 @@ section[data-type="sect1"] h1:after {
 }
 
 section[data-type="sect1"] h1 {
-  font-weight: 400;
+  font-weight: 700;
   font-size: 20px;
   padding: 30px 0 0 0;
   margin: 0;
 }
 
 section[data-type="sect1"] h2 {
-  font-weight: 400;
+  font-weight: 700;
   font-size: 18px;
   padding: 30px 0 0 0;
   margin: 0;
 }
 
 /* Footnotes */
+span[data-type="footnote"] a {
+  vertical-align: super;
+  font-size: smaller;
+  color: var(--colmain);
+  cursor: pointer;
+  transition: var(--ttime);
+  text-decoration: none;
+  text-decoration-color: var(--colbg);
+}
+
+span[data-type="footnote"] a:hover {
+  text-decoration: underline;
+  text-decoration-color: var(--col1);
+}
+
+span[data-type="footnote"] a:visited {
+  text-decoration: underline;
+  text-decoration-color: var(--colblack);
+}
 
 ol[data-type="footnotes"] {
-  font-size: 12px;
+  font-size: 14px;
+}
+
+ol[data-type="footnotes"] li {
+  margin-bottom: 8px;
 }
