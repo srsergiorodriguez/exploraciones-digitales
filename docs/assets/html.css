@@ -80,13 +80,15 @@ figure.right {
 
 figure.whole {
   float: center;
-  max-width: 100%; }
+  max-width: 100%;
+  margin: 10px; }
 
 figure img {
   width: 100%; }
 
 figcaption {
-  font-size: 12px; }
+  font-size: 12px;
+  margin: 5px; }
 
 /* Sketches */
 .p5-wrapper {
