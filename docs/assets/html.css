@@ -79,6 +79,7 @@ figure.right {
   max-width: 300px; }
 
 figure.whole {
+  text-align: center;
   float: center;
   max-width: 100%;
   margin: 10px; }
@@ -87,8 +88,10 @@ figure img {
   width: 100%; }
 
 figcaption {
+  width: 80%;
   font-size: 12px;
-  margin: 5px; }
+  margin: 20px 0px;
+  text-align: center; }
 
 /* Sketches */
 .p5-wrapper {
