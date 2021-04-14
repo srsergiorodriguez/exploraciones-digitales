@@ -78,10 +78,13 @@ figure img {
 }
 
 figcaption {
-  width: 80%;
   font-size: 12px;
-  margin: 20px 0px;
+  margin: 10px 0px;
+}
+
+figure.whole figcaption{
   text-align: center;
+  width: 80%;
 }
 
 /* Sketches */
