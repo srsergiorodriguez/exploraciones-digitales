@@ -67,7 +67,8 @@ figure.right {
 }
 
 figure.whole {
-  float: center;
+  text-align: center;
+  float: center; // No está centrando
   max-width: 100%;
   margin: 10px;
 }
@@ -78,7 +79,8 @@ figure img {
 
 figcaption {
   font-size: 12px;
-  margin: 5px;
+  margin: 20px 0px;
+  text-align: center;
 }
 
 /* Sketches */
