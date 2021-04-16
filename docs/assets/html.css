@@ -92,8 +92,7 @@ figcaption {
   margin: 10px 0px; }
 
 figure.whole figcaption {
-  text-align: center;
-  width: 80%; }
+  text-align: center; }
 
 /* Sketches */
 .p5-wrapper {
