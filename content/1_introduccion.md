@@ -1,0 +1,14 @@
+---
+title: Introducción
+subtitle: ¿De qué trata este proyecto?
+---
+
+<header class="chapter-headers">
+  <h1>{{ page.title }}</h1>
+  <h2>{{ page.subtitle }}</h2>
+</header>
+
+‘Humanidades digitales’ es un término que engloba muchas prácticas investigativas, académicas y activistas diferentes, así como muchas posturas conceptuales contradictorias; es un gran paraguas que recubre múltiples disciplinas transversalmente. Aunque por ese mismo motivo el término ha escapado a definiciones precisas, para situarnos podríamos decir que las humanidades digitales tienen su núcleo en dos movimientos relacionados: el potenciamiento de la investigación humanística por medio de tecnologías digitales y la indagación, desde un punto de vista humanístico, acerca del impacto del medio digital en las dinámicas culturales. Así, como ha sucedido con la penetración de las tecnologías digitales en otros contextos, las humanidades digitales han introducido conceptos propios de la computación —la datificación, las bases de datos, el procesamiento computacional, los algoritmos, la visualización, etc.— en las prácticas tradicionalmente humanísticas —la lectura, el archivo, la iconografía, la filología, la exhibición museística, la edición, la glosa, etc.—. Pero, adicionalmente, las humanidades digitales han servido para revisitar los propios conceptos que configuran el pensamiento humanístico y las humanidades, y han definido un posible camino crítico para entender la cultura digital y una nueva visión de lo humano —por ejemplo, el estudio del software, la internet, la información y su acceso, las obras artísticas producidas por medios computacionales, las infraestructuras tecnológicas y el acceso a la cultura, la inteligencia artificial y la creación, las nuevas formas de narración, etc.—.
+El doble movimiento de las humanidades digitales nos permite pensar en dos mundos que se interrelacionan, por una parte, las humanidades como una tradición de estudio académico pero también como un ejercicio moral de construcción de lo humano y su lugar, y en segundo lugar lo digital como un conjunto de desarrollos tecnológicos y conceptuales con efectos en la cultura y la sociedad. Tanto en las humanidades como en lo digital, Latinoamérica aparece como un elemento que busca su propio lugar pero que a la vez vive en busca de referentes externos: la búsqueda de una autenticidad entre lo latino (la tradición clásica y el concepto de civilización) y lo americano (lo nativo y el concepto de lo bárbaro), lo global y lo local, 
+
+Este es el resultado de la investigación realizada por Sergio Rodríguez Gómez en el doctorado en Comunicación, Lenguajes e Información de la Pontificia Universidad Javeriana en Bogotá, Colombia.

@@ -23,7 +23,8 @@ Plugin.prototype = {
             
             let source = jel.attr('data-p5-sketch');
             let sketchHeight = jel.attr('sketch-height');
-            let newel = `<div class="p5-wrapper"><iframe src=${source} width="650px" height="${sketchHeight}"frameborder="0" allowfullscreen></iframe></div>`;
+            // let newel = `<div class="p5-wrapper"><iframe src=${source} width="650px" height="${sketchHeight}"frameborder="0" allowfullscreen></iframe></div>`;
+            let newel = `<div class="p5-wrapper"><iframe src=${source} width="100%" height="${sketchHeight}"frameborder="0" allowfullscreen></iframe></div>`;
             jel.before(newel);
 
             // check for a caption; if found, add to new element

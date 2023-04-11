@@ -9,8 +9,8 @@
   <body data-type="book">
     <header class="topheader">
       <hgroup class="mainh">
-        <h1>Exploraciones digitales para humanistas</h1>
-        <h2>---subtítulo----</h2>
+        <h1>{{ config.title }}</h1>
+        <h2>{{ config.subtitle }}</h2>
       </hgroup>
       <ul class="titlebar1">
         <li><a>*</a></li>
@@ -24,7 +24,6 @@
       <article class="chapter">
         {{ content }}
         {% include navigation.html %}
-        <h1>Referencias</h1>
         {{ footnotes }}
       </article>
       <aside class=sidebar>

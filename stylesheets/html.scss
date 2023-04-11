@@ -1,9 +1,9 @@
 @import 'shared';
 
 body {
+  box-sizing: border-box;
   padding: 0;
   margin: 0;
-  box-sizing: border-box;
   background: var(--colbg);
 }
 
@@ -13,6 +13,7 @@ body {
   text-align:center;
   background: var(--colmain);
   width: 100%;
+  user-select: none;
 }
 
 .mainh h1:before {
@@ -28,7 +29,7 @@ body {
 .mainh h1 {
   font-size: 30px;
   font-weight: 700;
-  padding:12px 0 4px 0;
+  padding: 12px 0px 4px 0;
   margin:0;
 }
 
@@ -49,21 +50,16 @@ body {
   font-size: 25px;
 }
 
-mark {
-  // background: lightgrey;
-  background: var(--col2);
-}
-
 /* Figures */
 
 figure.left {
   float:left;
-  max-width: 300px;
+  max-width: 40%;
 }
 
 figure.right {
   float:right;
-  max-width: 300px;
+  max-width: 40%;
 }
 
 figure.whole {
@@ -131,7 +127,7 @@ iframe {
 
 .mainset {
   display: grid;
-  grid-template-columns: 1fr 750px 1fr;
+  grid-template-columns: 1fr 3fr 1fr;
   grid-gap: 10px;
 }
 
@@ -142,11 +138,15 @@ iframe {
   font-family: var(--mainhfont);
   font-weight: 400;
   // border: solid 1px;
-  padding: 10px;
+  padding: 35px 15px;
 }
 
 .sidebar ol {
   padding: 0 0 0 20px;
+}
+
+.sidebar h1 {
+  user-select: none;
 }
 
 // .sidebar li::marker {
@@ -154,7 +154,7 @@ iframe {
 // }
 
 .sidebar ol ul {
-  padding: 0 0 0 20px;
+  padding: 0 0 0 10px;
 }
 
 .sidebar li a {
@@ -163,12 +163,17 @@ iframe {
   display: block;
   color: var(--colblack);
   cursor: pointer;
-  transition: var(--ttime);
   text-decoration: none;
   text-decoration-color: var(--colbg);
+  user-select: none;
+}
+
+.sidebar span {
+  user-select: none;
 }
 
 .sidebar li a:hover {
+  transition: var(--ttime);
   text-decoration: underline;
   text-decoration-color: var(--col1);
 }
@@ -187,12 +192,11 @@ iframe {
 .chapter-headers {
   color: var(--colblack);
   font-family: var(--mainhfont);
-  margin:0;
 }
 
 .chapter-headers h1:before {
   color:var(--col1);
-  content: "\2772 \0020";
+  content: "\2772\0020";
 }
 
 .chapter-headers h1:after {
@@ -204,7 +208,7 @@ iframe {
   font-size: 25px;
   font-weight: 700;
   padding: 10px 0px 0px 0px;
-  margin:0;
+  margin: 35px 0px 8px 0px;
   text-decoration: underline;
   text-decoration-color: var(--colmain);
 }
@@ -267,4 +271,15 @@ ol[data-type="footnotes"] {
 
 ol[data-type="footnotes"] li {
   margin-bottom: 8px;
+}
+
+// Navigation
+
+.navigation-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navigation-container a {
+  text-decoration: none;
 }

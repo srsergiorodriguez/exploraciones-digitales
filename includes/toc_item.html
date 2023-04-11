@@ -3,9 +3,9 @@
   {% if item.href %}
     <a data-toc="{{ item.type }}" href="{{ item.href }}">{{ item.label }}</a>
   {% else %}
-    <span data-toc="{{ item.type }}">{{ item.label }}</span>
+    <span data-toc="{{ item.type }}">{{ item.label }}:</span>
   {% endif %}
-  {% if item.children.length > 0 %}
+  {% if item.children.length > 0 && item.type === 'part' %}
   <ul>
     {% include toc_item.html children=item.children %}
   </ul>

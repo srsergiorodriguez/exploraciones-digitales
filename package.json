@@ -1,7 +1,7 @@
 {
   "name": "exploraciones-digitales",
   "version": "0.0.1",
-  "description": "Un libro digital explorable sobre la relación entre el pensamiento digital y las humanidades",
+  "description": "Un libro digital explorable sobre las tensiones en las humanidades digitales en América Latina",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/srsergiorodriguez/exploraciones-digitales.git"
@@ -9,7 +9,7 @@
   "keywords": [
     "humanidades digitales",
     "programación creativa",
-    "exploraciones explorables",
+    "explicaciones explorables",
     "Latinoamérica"
   ],
   "author": "Sergio Rodríguez Gómez",

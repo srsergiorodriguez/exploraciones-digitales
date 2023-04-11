@@ -1,3 +1,6 @@
+{% if footnotes.length > 0 %}
+  <h1>Referencias</h1>
+{% endif %}
 <ol data-type="footnotes">
   {% for footnote in footnotes %}
     <li id="{{ footnote.id }}">{{ footnote.label }}</li>
