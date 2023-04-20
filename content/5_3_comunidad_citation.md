@@ -1,6 +1,6 @@
 ---
 bibliography: biblioteca.bib
-csl: chicago-fullnote-bibliography.csl
+csl: chicago-fullnote-bibliography-with-ibid.csl
 reference-section-title: Referencias
 subtitle: La dimensión comunitaria
 title: Comunidad
@@ -12,7 +12,7 @@ title: Comunidad
 Fragilidad, precariedad vs. trabajo sostenido y significativo^[Stephen Papson, "Scholars, Intellectuals, and Bricoleurs," *Arts and Humanities in Higher Education* 13, no. 4 (October 2014): 377--94, <https://doi.org/10.1177/1474022213487951>.]
 
 ACADÉMICO, INTELECTUAL, BRICOLER Y aquí añadiríamos también al
-activista.
+activista.^[John Dewey, *Art as Experience*, \[Nachdr.\]; 1. Perigee print 1980, A Perigee Book (New York, NY: Berkley, 1995).]
 
 Siguiendo esta idea del bricolér, podríamos decir que una de las
 características más particulares de las humanidades digitales,

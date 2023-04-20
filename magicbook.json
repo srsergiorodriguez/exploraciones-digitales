@@ -3,6 +3,7 @@
   "subtitle": "Subtítulo",
   "destination" : "build/:build",
   "addPlugins": [
+    "./plugins/addSketch.js",
     "./plugins/addP5.js",
     "./plugins/mdClass.js"
   ],
@@ -51,7 +52,7 @@
         "files" : ["stylesheets/pdf.scss"]
       },
       "files" : [
-        "content/toc.html",
+        "content/toc.md",
         "content/1_introduccion.md",
         "content/2_problema.md",
         "content/3_metodos.md",

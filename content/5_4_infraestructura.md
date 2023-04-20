@@ -7,23 +7,47 @@ subtitle: La dimensión insfrastructural
   <h2>{{ page.subtitle }}</h2>
 </header>
 
-HACER INFRAESTRUCTURAS VS HACER PROYECTOS CONCRETOS
+## El demonio invisible
+
+El Demonio de Maxwell es un experimento mental clásico en el campo de la termodinámica. El experimento consiste en imaginar una caja en la que circulan moleculas de algún gas. En la mitad de la caja hay un separador que divide la caja en dos lados, el izquierdo y el derecho, y un demonio controla una compuerta en el separador que permite, a voluntad, dejar pasar algunas moléculas y otras no. El demonio, en el experimento, abre y cierra la compuerta de una manera en la que las moléculas que se mueven más rápido quedan en un lado de la caja, mientras que las que se mueven más lento quedan en el otro. En términos efectivos, el movimiento de las moléculas es equivalente a la temperatura del gas, así que como resultado un lado estaría caliente y el otro frío. Aunque en el siglo XIX este experimento mental se planteó como una refuntación de la segunda ley de la termodinámica, una demostración de que sería posible,  pero pronto críticos posteriores señalaron un falla importante: es justamente el demonio el que realiza el trabajo necesario para separar las moléculas, así que la ley sigue respetándose. Justamente, en el origen griego de la palabra demonio, daimon, encontramos dos sentidos importantes: una entidad benigna o maligna que trabaja en el fondo, oculta, o una entidad que divide, y así lleva a cabo.
+
+<sketch
+  height="520px"
+  src="./assets/sketches/5_4_infraestructuras/maxwell"
+  caption="El experimento mental del Demonio de Maxwell"
+/>
+
+Aunque el concepto de infraestructura puede ser entendido de varias maneras: como forma de organización, como movimiento de material, o como ampliación de la agencia de los seres humanos (scaffolding), todas estas concepciones, de una manera u otra, implican dos conceptos fundamentales ejemplificados en el experimento de Maxwell, el trabajo y la energía: organizarse y organizar es, en esencia, reducir la entropía. Cuando una comunidad establece roles y procedimientos, está reduciendo la incertidumbre en favor de . Cuando un grupo de expertos define un sistema de estándares está reduciendo la entropía a partir de definir
+mover materia prima requiere formas de energía que mantengan el movimiento, construir un andamiaje. Por otra parte, estas concepciones de infraestructura también . Así, podemos pensar que las infraestructuras son, en su sentido más abstracto, formas de ejercer trabajo para, en el futuro, facilitar nuevo trabajo. De hecho, como lo afirman los estudiosos de los STS, así como el demonio de Maxwell, las infraestructuras suelen ser invisibles, al menos, hasta que fallan y nos damos cuenta del nuevo esfuerzo que hay que realizar y las facilidades que estabamos dando por sentado.
+ 
+Esto es evidente en las muchas infraestructuras que involucran las prácticas de las humanidades digitales, una gran fracción del interés por lo digital radica en la computación como una infraestructura que facilita el trabajo tedioso a través de la automatización. En sus orígenes, las computadoras, pues eran en su mayoría mujeres, eran personas que trabajaban haciendo ese trabajo. Analizar cientos de objetos culturales.
+
+## ¿Modelos importados que no son la solución?
+
+No obstante, en el caso de las humanidades digitales en América Latina, existe una clara tensión entre las formas propias de crear infraestructura y aprovechar infraestructuras exteriores. O visto desde otra manera, una tensión entre dedicar energía y trabajo en HACER INFRAESTRUCTURAS on en HACER PROYECTOS CONCRETOS. Para entender mejor esta relación podemos hablar de energía y trabajo. El demonio de boltzmann
+
+Partamos, por ejemplo, del propio término humanidaes digitales.
 
 La relación de lo global con lo local
 Humanidades digitales como un término importado
 
 Baseline, por defecto
 Interoperabilidad parte de la idea de generalización pero generalización que implica acomodarse al baseline del inglés
+TEI
 
 Dependencia (Proyecto Humboldt Digital, financiación externa) y producción propia, que tenga resonancia, que sea sostenible, que puede mantenerse en el largo plazo, que pueda hacerse correctamente (un efecto de red en el que, entre más grande es la otra infraestructura, menos sentido tiene hacer algo local(Sistema mundo de wallerstein))
 
  "limitations we see in many technologies today thus speak to the disproportionate voice and power of Western and first world elites in their design and deployment" SRNISAVAN WHose global village p.46
 
- "While many grassroots communities may appropriate, or creatively use or repurpose the technologies that have entered their worlds, it re- mains important to not merely celebrate these acts" p.47
+ "While many grassroots communities may appropriate, or creatively use or repurpose the technologies that have entered their worlds, it remains important to not merely celebrate these acts" p.47
 
- "Most off-the-shelf systems fol- low precreated metadata and ontology standards and thus command how information about or for a local community is described, classified, and retrieved. This tends to favor the perpetuation of the standards of the software creator rather than support of diverse, local community- based ways of thinking and knowing." p.47
+ "Most off-the-shelf systems follow precreated metadata and ontology standards and thus command how information about or for a local community is described, classified, and retrieved. This tends to favor the perpetuation of the standards of the software creator rather than support of diverse, local community- based ways of thinking and knowing." p.47
 
  "If “global” means the exporting of Western values, then we may be ignoring diverse traditions, values, and beliefs" p.48
+
+ ESCALABILIDAD UPROOTING
+ GAINING AGENCY
+ SIMPLER METHODS
 
 Brecha idiomática
 Brecha epistemológica

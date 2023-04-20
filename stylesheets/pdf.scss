@@ -22,10 +22,11 @@ nav[data-type="toc"] a[href]::after {
 
 section[data-type="chapter"]  h1 {
   font-size: 14pt;
+  text-align: center;
 }
 
 section[data-type="chapter"] h2 {
-  font-size: 12pt;
+  font-size: 11pt;
 }
 
 section[data-type="chapter"]  p {

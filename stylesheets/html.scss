@@ -84,15 +84,16 @@ figure.whole figcaption{
 
 /* Sketches */
 
-.p5-wrapper {
+.sketch-wrapper {
   text-align: center;
   margin: 0 0 30px;
 }
 
-.p5-wrapper p {
+.sketch-wrapper .caption {
   font-size: 12px;
   padding: 5px 0;
   margin: 0px;
+  text-align: center;
 }
 
 iframe {
@@ -127,7 +128,7 @@ iframe {
 
 .mainset {
   display: grid;
-  grid-template-columns: 1fr 3fr 1fr;
+  grid-template-columns: 1fr minmax(100px, 800px) 1fr;
   grid-gap: 10px;
 }
 
@@ -187,6 +188,7 @@ iframe {
 
 .chapter p {
   line-height: 34px;
+  text-align:justify;
 }
 
 .chapter-headers {

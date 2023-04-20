@@ -1,5 +1,5 @@
 ---
-title: La dimensión de la tradición humanística
+title: Tradición humanística
 subtitle: La autenticidad latinoamericana y la salvación digital de la crísis humanísica
 ---
 
