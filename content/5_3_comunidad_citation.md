@@ -207,7 +207,7 @@ Affiliativeincentives include social activities and formal ceremonies."
 Puffer and Meindl The congruence of motives and incentives in Note a
 voluntary organization 1992
 
-Incongruence between motves and incentives
+Incongruence between motives and incentives
 
 "The intent is to sustain the learning and build the capacity for future
 collective learning rather than simply seek a solution to a problem.
@@ -218,3 +218,5 @@ historical, cultural, and social perspectives." p.38 Creating Local
 Knowledge Through Learning in Community: A Case Study David S. Stein NEW
 DIRECTIONS FOR ADULT AND CONTINUING EDUCATION, no. 95, Fall 2002
 
+
+Richard Ryan y Edward Deci

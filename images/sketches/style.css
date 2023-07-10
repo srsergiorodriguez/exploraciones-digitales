@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+
+:root {
+  --colbg: white;
+  --colmain: #ed6a5a;
+  --colblack: #313030;
+  --col1: #5ca4a9;
+  --col2: #ffc0b5;
+  --contentfont: 'Libre Baskerville', serif;
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: var(--contentfont);
+}
+
+.box {
+  position: relative;
+  box-sizing: border-box;
+  margin: auto;
+  width: 800px;
+  border: solid 1px var(--colblack);
+  border-radius: 5px;
+  padding: 1em;
+}
+
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 1em;
+}
+
+.big-left {
+  grid-template-columns: 2fr 1fr;
+}
+
+.slider {
+  box-shadow:none;
+  -webkit-appearance: none;
+  -moz-appearance:none;
+  appearance: none;
+  width: 100%;
+  background: var(--col2);
+  /* height: 2px; */
+  border-radius: 5px;
+  list-style: none;
+  cursor:pointer;
+}
+
+.slider:focus {
+  outline: none;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 1.4em;
+  height: 1.4em;
+  border-radius: 5px;
+  border: solid 2px var(--colblack);
+  background: var(--colmain);
+  
+}
+
+.slider::-webkit-slider-thumb:hover {
+  background: var(--colbg);
+}

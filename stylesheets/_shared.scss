@@ -18,17 +18,17 @@
 
   --mainhfont: 'Libre Baskerville', serif;
   --headfont: 'Libre Baskerville', serif;
-  --contentfont: 'Noto Serif SC', serif;
+  --contentfont: 'Noto Serif', serif;
 
   --ttime: 0.5s;
 }
 
 body {
-  font-family: 'Noto Serif';
+  font-family: var(--contentfont);
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Libre Baskerville';
+  font-family: var(--headfont);
 }
 
 .formula {
@@ -37,4 +37,5 @@ h1, h2, h3, h4, h5 {
 
 strong {
   background: var(--col2);
+  font-weight: 300;
 }

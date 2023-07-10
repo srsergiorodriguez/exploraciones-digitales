@@ -7,12 +7,12 @@ let cheerio = require('cheerio');
 // to register plugin functions in the pipeline.
 
 let Plugin = function(registry){
-  registry.after('markdown:convert', 'addSketch:insert', this.addFrames);
+  registry.after('markdown:convert', 'addSketch:insert', this.addSketch);
 };
 
 Plugin.prototype = {
 
-  addFrames: function(config, stream, extras, cb) {
+  addSketch: function(config, stream, extras, cb) {
     
     stream = stream.pipe(through.obj(function(file, enc, cb) {
       if(!file.$el) file.$el = cheerio.load(file.contents.toString());
@@ -23,15 +23,16 @@ Plugin.prototype = {
           let content;
           let source = jel.attr('src');
           let caption = jel.attr('caption');
+          let captionprint = jel.attr('captionprint');
 
           if(config.format == "html") {
             let height = jel.attr('height');
             content = `<iframe src=${source} width="100%" height="${height}"frameborder="0" allowfullscreen></iframe>`;          
           } else {
-            content =  `<img src=${source + "/img.png"} alt="${caption}" />`;
+            content =  `<img src=${source + "/img.png"} alt="${captionprint || caption}" />`;
           }
 
-          let newel = `<div class="sketch-wrapper"><p class="caption">${caption}</p>${content}</div>`;
+          let newel = `<div class="sketch-wrapper"><figcaption>${caption}</figcaption>${content}</div>`;
 
           jel.replaceWith(newel);
         });
