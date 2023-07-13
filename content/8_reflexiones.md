@@ -13,3 +13,5 @@ Construir los ensayos interactivos implicó un descubrimiento constante de estra
 Ejemplos:
 
 https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
+
+https://penelope.hypotheses.org/332 QUIPU
