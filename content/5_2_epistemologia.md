@@ -10,7 +10,23 @@ subtitle: La dimensión de la epistemología digital
 
 ## Dimensión de la epistemología digital
 
+### La gran carpa y la interfaz de las humanidades digitales
+Puedo empezar con las discusiones de la GRan CArpa
+Discusiones sobre la pertenencia
+Glen Worthey Big Tent of DH, gatekeeping, 
+Letras y comunicación y medios
+FACULTADES
+
+ESCRAPEAR REVISTA DE HUMANIDADES DIGITALES
+PROCEEDINGS ASOCIACION ARGENTINA
+REVIEWS IN DIGITAL HUMANITIES
+
+HACER VECTORES DE PALABRAS PARA INTENTAR DIBUJAR EL MAPA DE ESA GRAN CARPA
+
+Let's see, we go to type one, and then we keep going even further, we have traditional nondigital humanities; and even further on this other axis, we have traditional communications theory and communication studies and media studies. And those two extreme extremes don't really talk to each other at all. So in some ways, our DH type one and type two are much closer to being able to talk to each other
+
 Una distinción matizada de la relación digital-humanidades nos permite ver que existen al menos tres distintas capas en las que lo digital puede irrumpir en las prácticas de las humanidades: lo digital como herramienta o método, como pregunta o problema, o como detonante de prácticas, creación o investigación.
+
 
 ## Digital como método y herramienta
 
@@ -23,12 +39,13 @@ Escobar varela data-assisted vs data-driven
 
 Por otra parte, están los procesos de análisis de objetos y fenómenos culturales mediante el uso de métodos de análisis computacionales. Estos métodos han sido heredados en buena medida de la ciencia de datos, la estadística y las matemáticas y han sido poco a poco adaptadas para ofrecer interpretaciones de obras literarias, artísticas, musicales, fuentes históricas. Desde este aspecto, las humanidades digitales, en su crisis, se presentan como una solución que ofrece un aparente rigor metodológico. Tomemos como ejemplo el proyecto de las Cultural Analytics. A pesar de que, dependiendo de a quién se le pregunte, este puede ser un campo paralelo o intímamente integrado a las humanidades digitales, la analítica cultural se propuso, en sus primeros manifiestos e introducciones en el campo académico, como una aproximación a la investigación que solventaba carencias de la investigación humanística tradicional: especialmente el problema de la transparencia en el uso de datos y en los métodos aplicados. (There will be numbers), una mezcla de las dos (Discusiones en cultural analytics: Ramsays´Reading Machines ). El historiador Jairo Melo, por ejemplo, menciona en la entrevista que en buena medida su interés por las humanidades digitales radica en una visión más rigurosa de la investigación histórica:. Estandarización (Ania Hernandez). En cierta medida, esta es la capa más evitable para la práctica humanística. Al menos hasta el día de hoy, un académico de las humanidades puede desarrollar su investigación sin involucrarse demasiado en métodos de análisis computacionales, aunque, probablemente, interactúe intensamente con archivos y repositorios que digitalizan y conservan acervo cultural.
 
+For me, the ideal is to hire a Shakespeare scholar with digital humanities expertise Glen Worthey. No es una carrera aparte, sino una habilidad y punto de vista que se suma a una experticia humanística
+
 ## Digital como fenómeno cultural
 
 Segundo está la capa del involucramiento de lo digital en las preguntas de lo humanístico: es decir, cuál es el impacto de las tecnologías digitales en la cultura humana. En este aspecto, es inevitable, si las humanidades quieren continuar siendo una visión relevante en la academia, que se normalizen las preguntas acerca de nuestro presente. sin embargo, las posturas más instrumentales de las humanidades digitales consideran estas preguntas como campos aparte y no como humanidades digitales en su centro.
 
 Lo digital como cultura (pasar lo digital de un estatus de método a un estátus de pregunta de investigación, y así añadir lo digital al grupo de problemas de lo que vale la pena estudiar, desde este lugar necesariamente entran preguntas acerca de la representación, la participación y la justicia).
-
 
 Arqueología de los medios - lo digital humanístico
 Las lógicas de lo digital han estado insertas en la historia de las humanidades: el códice es un objeto digital. Kittler
@@ -37,7 +54,7 @@ Apertura del campo a teorías que reflexionan críticamente acerca del impacto d
 
 La pregunta por los métodos y las formas de construcción de datos necesariamente nos lleva a preguntarnos por los sesgos y presuposiciones en la construcción de software y archivos. Aunque se puede posponer la reflexión, al final es inevitable. Drucker, Kiriloff, Ramsay.
 
-## Digital como causa
+## Lo digital para la causa
 
 Tercero, está la pregunta por el motivo por el cual se quiere reflexionar con respecto a lo digital, y en este punto cabe pensar si lo digital se convierte en un lugar de apreciación de la cultura humana, en el sentido de las humanidades que se menciona en la sección del dominio de la tradición humanística, o si se convierte en un lugar para defender la justicia, el pluralismo y la democracia, en la defensa de valores humanos, en el sentido de humanismo que se menciona en la misma sección.
 
@@ -51,9 +68,9 @@ Descubir el poder detrás de las infraestructuras digitales transparentes (gober
 Valores positivos y negativos de las tecnologías digitales
 Democratización del archivo (Carolina Gainza)
 
-Cybernética latinoamericana: activismo con ciencias duras
-
 También están los usos de herramientas digitales en la creación de obras artísticas y literarias. queda la duda de si las humanidades digitales también comprenden estas formas de creación o si.
+
+## Lo digital reaccionario
 
 Los comunes
 
@@ -62,3 +79,10 @@ Por otra parte, visiones más críticas de las humanidades digitales (Golumbia),
 Por supuesto, estas capas no están separadas, por ejemplo, un archivo digital puede servir para propiciar la representación de grupos marginalizados, o un proyecto artístico puede movilizar una reflexión compleja acerca de una pregunta de investigación humanística. Sin embargo, encontramos una tensión en esta relación: la visión instrumental de lo digital, la que ve lo digital solo como una herramienta, puede caer en una visión irreflexiva de los métodos importados de otras partes.
 "There is sometimes a tendency in digital humanities to skip to the end by speculating about how computational methods will transform the humanities without digging into the intellectual histories of those methods or explaining how the theoretical assumptions inherited from other disciplines align with the assumptions that otherwise inform one’s thinking." Spaces of Meaning: Conceptual History, Vector Semantics, and Close Reading
 Michael Gavin et al 2019 debates in digital humanities
+
+
+Proyectos de humanidades digitales sobre tormentas en el caribe AREPR, Schuyler Esprit, Leonardo Flores, Alex Gil
+
+## Lo digital transveral
+
+Cybernética latinoamericana: activismo con ciencias duras

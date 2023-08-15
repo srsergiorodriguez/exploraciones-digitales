@@ -10,11 +10,18 @@ subtitle: Mapeos de controversias, visiones mediarqueológicas, explicaciones ex
 
 Esta investigación se fundamenta en una metodología de investigación mixta, es decir, mezcla métodos cualitativos y cuantitativos.
 
+TEORIA FUNDAMENTADA
+VARIAS ITERACIONES DE CODIFICACION
+ADECUAR LOS CODIGOS A LOS EJES
+
 ## Investigación cualitativa
 
 Por una parte, se basa en una serie de entrevistas semiestructuradas a distintas personas cuyas prácticas pueden encerrarse dentro del concepto de las humanidades digitales.
 
 La lista de personas entrevistadas es la siguiente: Ernesto Priani, profesor de filosofía de la UNAM de México y en su momento director de la RedHD mexicana; Isabel Galina, profesora de la UNAM de méxico y coordinadora de múltiples publicaciones; Riva Quiroga editora del proyecto Programming Historian en español y coordinadora del grupo R Ladies en Chile; Carolina Zúñiga, profesora de la Univeridad Diego Portales y co-coordinadora de la Cartografía de la Literatura Digital Latinoamericana; María José Afanador, profesora de la Maestría en Humanidades Digitales de la Universidad de los Andes en Colombia; Mariana Córdoba, directora de la organización Acción Cultural Popular ACPO, que coordina el proyecto de Escuelas Digitales Campesinas; Jairo Antonio Melo, coordinador del Mooc en México y profesor de la Maestría en Humanidades Digitales Antonio Rojas Castro, coordinador del proyecto Humboldt Digital entre Alemania y Chile, y profesor del Máster Universitario en Humanidades Digitales de UNIR; Domenico Fiormonte, profesor de la Universidad de Roma Tré y autor y editor de múltiples libros que proponen una visión crítica de las humanidades digitales desde el Sur Global.
+
+PRIMER PROTOTIPO DE CODIFICACION A PARTIR DE LAS PRIMERAS ENTREVISTAS
+SE REFINARON LOS CODIGOS Y LA TEORIA DE LAS TENSIONES
 
 Aunque las entrevistas semiestructuradas se desarrollaron como charlas informales, hay un protocolo general que orientó las preguntas y el hilo conductor de la conversación. El protocolo completo se puede consultar aquí, sin embargo, a grandes rasgos, las preguntas estaban orientadas alrededor de los siguientes temas:
 
@@ -34,8 +41,6 @@ Las entrevistas completa, el libro de códigos y las anotaciones realizadas se p
 Adicionalmente, y debido a que la relación global - local es uno de los puntos centrales que definen el diagnóstico que se presenta en este proyecto, una visita de estancia doctoral a la escuela de ciencias de la información (iSchool) de la Universidad de Illinois en Urbana-Champaign (UIUC) en los Estados Unidos sirvió como un ejercicio de comparación de las diferencias de escala, infraestructura, e intereses en una institución del Norte global. La iSchool de UIUC se destaca por ser un centro de pensamiento y discusión de las humanidades digitales y la analítica cultural que tiene gran influencia en el mundo. Durante esta estancia tuve la oportundad de conversar y entrevistar a . Adicionalmente, vale destacar que algunos profesores de la iSchool tienen fuertes lazos con proyectos en América Latina: Glen Layne-Worthey es uno de los fundadores originales de la RedHD de México y Anita Chan ha realizado investigaciones en Ciencia Tecnología y Sociedad en Perú y Colombia.
 
 Estas entrevistas siguieron un protocolo centrado en las dimensiones en tensión.
-
-Adicionalmente, y para ganar un panorama más amplio, y por eso mismo menos granular de las tensiones de las humanidades digitales en América Latina realicé un sondeo en línea entre practicantes de humanidades digitales. En este sondeo participaron .
 
 ## Investigación cuantitativa
 

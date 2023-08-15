@@ -148,3 +148,8 @@ Over time, this collective learning results in practices that reflect both the p
 
 "However, what defines a ‘community of practice’ is not simply that members share a skill or knowledge-set related to a task. Crucially, they are defined by the social relationships that exist and/or develop over time between the members. This is why the concept of ‘community’ struck Lave and Wenger as appropriate to describe this phenomenon. This is a key point. The concept of community, as used here, sees learning as being about participation rather than internalisation."Stuart Billingham p.40
 
+## Una simbiosis necesaria
+
+La doble necesidad de las comunidades informales (No regladas) y las comunidades formales 
+
+EL PROBLEMA DEL SISTEMA DEL PRESTIGIO

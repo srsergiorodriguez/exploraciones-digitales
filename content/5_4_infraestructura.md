@@ -46,6 +46,7 @@ Esta paradoja de la brecha idiómatica, una de tantas brechas, como veremos, se 
 
 De este modo, la tensión infraestructural de las humanidades digitales en América Latina por en juego un movimiento entre lo global con lo local. Una idea importante para este tipo de estándares es que puedan ser escalables. Es decir, que no requiera mayor esfuerzo. Usando el mismo estándar, es posible codificar documentos. 
 
+UN SKETCH QUE MUESTRE EL CODIGO EN INGLES Y LAS VARIABLES EN ESPAÑOL
 
 
 "Most off-the-shelf systems follow precreated metadata and ontology standards and thus command how information about or for a local community is described, classified, and retrieved. This tends to favor the perpetuation of the standards of the software creator rather than support of diverse, local community- based ways of thinking and knowing." p.47
@@ -61,6 +62,8 @@ terra nullius
 Uprooting, desarraigo plantas y metadatos
 
 Las formas de organización y divulgación de las humanidades digitales también operan bajo una lógica similar. congresos, historias oficiales.
+
+INTEROPERABILIDAD COMO ARMA DE DOBLE FILO
 
 ## Brechas
 
