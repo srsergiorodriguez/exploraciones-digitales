@@ -84,6 +84,8 @@ Para las humanidades esta limitación expresiva tiene un impacto importante. Los
   <img alt="Torre de babel" src="babel.jpg" />
 </figure>
 
+Escobar Cultura como estructura simbólica vs cultura como diferencia radical
+
 ### La finca raíz de la información
 
 El teórico Donald MacKay, especialmente en su libro *Information: mechanism and meaning* ^[Donald MacCrimmon MacKay, Information, mechanism and meaning (Cambridge: M.I.T. Press, 1969).], concebía tres tipos diferentes de contenidos-informacionales que le dan forma a la información: el **contenido seleccional** —que es equivalente a la medida de diferencia propuesta por Shannon—, el **contenido estructural** y el **contenido métrico**. Aunque con otro nombre, ya desarrollamos la idea del contenido seleccional, ahora merece la pena ahondar ahora en los otros dos tipos de contenidos-informacionales. Las formas de contenido-informacional se ubican aún en el nivel A de los problemas de la información, pero ofrecen ciertos matices sería importante mencionar, porque nos darán herramientas críticas para entender las imbricaciones entre el sustrato y el sentido de forma más compleja.

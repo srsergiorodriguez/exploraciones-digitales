@@ -33,6 +33,10 @@ Una distinción matizada de la relación digital-humanidades nos permite ver que
 Primero está la capa del involucramiento de lo digital en el método de indagación humanística, es decir, en la introducción de métodos computacionales y herramientas en la investigación propia de las humanidades. Adicionalmente, en esta capa existen dos grandes procesos importantes, ligados a los fines humanísticos de la conservación de la memoria y la interpretación de la cultura. Por una parte está la digitalización, conservación, y facilitamiento del acceso a artefactos culturales. Este es un problema relativamente fácil 
 Incluso, desde Latinoamérica, ha existido un trabajo importante con respecto a la defensa del acceso abierto a la información, como es el caso de Gimena del Río y otras personas en Argentina. O los múltiples archivos comunitarios que han surgido como proyectos de humanidades digitales. Minimal computing y creación de colecciones livianas. Tei en argetnina, iiif en cuba.
 
+"It's not pure information alone, but the way the information was produced that supports interpretation" (Seely Brown / Duguid, 2000, The social life of information, 173)
+"Paper documents perform less like a cable carrying a stream of bits and more like a program to help interpret those bits" (173)
+
+
 La sección de infraestructuras se ocupa de los problemas posibles con respecto a este tipo de proyectos en América Latina.
 
 Escobar varela data-assisted vs data-driven
@@ -42,6 +46,8 @@ Por otra parte, están los procesos de análisis de objetos y fenómenos cultura
 For me, the ideal is to hire a Shakespeare scholar with digital humanities expertise Glen Worthey. No es una carrera aparte, sino una habilidad y punto de vista que se suma a una experticia humanística
 
 ## Digital como fenómeno cultural
+
+"What is culture after if has been softwarized?" (2008: 41) EPíGRAFE DE ESTA SECCIÓN
 
 Segundo está la capa del involucramiento de lo digital en las preguntas de lo humanístico: es decir, cuál es el impacto de las tecnologías digitales en la cultura humana. En este aspecto, es inevitable, si las humanidades quieren continuar siendo una visión relevante en la academia, que se normalizen las preguntas acerca de nuestro presente. sin embargo, las posturas más instrumentales de las humanidades digitales consideran estas preguntas como campos aparte y no como humanidades digitales en su centro.
 
@@ -53,6 +59,18 @@ Las lógicas de lo digital han estado insertas en la historia de las humanidades
 Apertura del campo a teorías que reflexionan críticamente acerca del impacto de las tecnologías digitales en los fenómenos sociales.
 
 La pregunta por los métodos y las formas de construcción de datos necesariamente nos lleva a preguntarnos por los sesgos y presuposiciones en la construcción de software y archivos. Aunque se puede posponer la reflexión, al final es inevitable. Drucker, Kiriloff, Ramsay.
+
+
+----
+David M. Berry The computational turn: 
+Digital humanities 1.0 (archiving), 2.0 (born digital), (3.0) (medium specificty abd epistemic changes):
+"To look at the *digital* component of the digital humanities in the light of its medium specificity, as a way of thinking about how medial changes produce epistemic changes" Berry 4
+Parecido a lo que menciona fiormonte
+Es una postura muy de la comunicación
+software studies
+critical code studies
+platform studies
+
 
 ## Lo digital para la causa
 
@@ -70,9 +88,9 @@ Democratización del archivo (Carolina Gainza)
 
 También están los usos de herramientas digitales en la creación de obras artísticas y literarias. queda la duda de si las humanidades digitales también comprenden estas formas de creación o si.
 
-## Lo digital reaccionario
-
 Los comunes
+
+## Lo digital como nuevo medio para las prácticas viejas
 
 Por otra parte, visiones más críticas de las humanidades digitales (Golumbia), las relacionan con una postura reaccionaria por parte de los grupos elitistas que controlan.
 

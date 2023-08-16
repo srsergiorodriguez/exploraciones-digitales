@@ -1,6 +1,6 @@
 ---
 title: Tradición humanística
-subtitle: La autenticidad latinoamericana y la salvación digital de la crísis humanísica
+subtitle: La autenticidad latinoamericana y la salvación digital de la crísis humanística
 ---
 
 <header class="chapter-headers">
@@ -11,6 +11,7 @@ subtitle: La autenticidad latinoamericana y la salvación digital de la crísis 
 Aunque pueda parecer que el asunto central de las humanidades digitales es la irrupción de las tecnologías digitales en las humanidades, y concebía lo humanístico como un concepto estable aunque vago y difuso. Sin embargo, conforme se fueron dibujando con más claridad las demás tensiones, también se hizo evidente que el concepto de humanidades se convertía en un elemento problemático que debía contextualizarse para 
 Antes de acercarnos a las demás dimensiones, es útil indagar las raíces profundas del pensamiento humanístico que dan lugar a su relación paradójica con América Latina y a las condiciones que permiten que surja el proyecto de las humanidades digitales.
 
+Valores Ambivalentes. Es decir, valores que deben ser vistos con matices, pues pueden resultar opresivos y perniciosos. 
 TENGO QUE AÑADIR MÁS VALORES POSITIVOS HUMANÍSTICOS A LA HISTORIA RELÁMPAGO: conservación de la memoria, interpretación y apreciación de la cultura, educación y cultivo intelectual, expresión a través de la materialidad, argumentación y participación en la esfera pública
 
 ## Un contexto zigzageante de las humanidades y el humanismo
@@ -24,6 +25,8 @@ Aquí podemos hacer un recuento relámpago de la trayectoria de las humanidades 
 Este recuento es relevante porque plantea varios de los propósitos generales a los que, de alguna manera, se comprometen las humanidades y el humanismo, y así se fundamentan sus instituciones (el archivo, la biblioteca, el museo, la universidad, la democracia) y sus prácticas, disciplinas e indisciplinas. Las humanidades digitales continúan estos compromisos, se fundamentan en versiones particulares de las mismas instituciones, y continúan las disciplinas o las indisciplinan.
 
 DISCIPLINAS
+Kant el conflicto de las facultades
+
 "The collective projects of academic disciplines have two major components: An intellectual component -the forms and kind of knowledge and values the discipline wants to enhance, and an occupational component -the ideology, organization, and command of resources, including status, that the collective uses in order to justify and enhance itself in the academic and larger community.
 The two components, intellectual and occupational, should not be construed as distinct, but rather as interlocked aspects of the overall collective project. That is, intellectual choices require different kinds and amounts of resources and a social organization of disciplinary resources that are dependent upon societal support. (To give a concrete example, contrast the needs of national and international sampling frames in public opinion research with the resources and organization needed to do ethnomethodological work.) The provision of societal support is related to the valuation of the products of intellectual choice and affects the distribution of prestige and status within the profession and for the profession as a whole." 168 [@zaldSociologyDisciplineQuasiscience1991, p. 168]
 
@@ -53,6 +56,11 @@ Como lo ha estudiado (Høyrup, 2000), el Renacimiento italiano ve una nueva reas
 
 Finalmente, desde el siglo XVII se establece con mayor claridad la separación entre las humanidades: lo que hace la gente en la expresión de su subjetividad, y las ciencias naturales: lo que es verdad objetivamente hablando. O, según Windelband (1980), entre las humanidades que describen específicos (son idiográficas) y las ciencias que describen leyes generales (son nomotéticas). Las aspiraciones mágico-prácticas de las matemáticas de origen pitagórico se mudan ambiguamente al lado utilitario de las ciencias y las aplicaciones tecnológicas (Zielinski, 2012). Los diccionarios y la lingüística aprovechan la distinción entre lenguas cultas y lenguas vulgares para entrar en una batalla nacionalista que ha sido muy bien documentada por Calvet (2005). En otros términos, la distinción entre civilización y barbarie toma un discurso científico cuando las discusiones lingüísticas se apoyan en métodos formales para definir cuál lengua es la lengua original o la lengua más perfecta (Calvet, 2005; Eco, 1995). Las comunidades religiosas católicas continúan con su tarea de conformar escuelas de élites, y los protestantes Luteranos forman sus propias élites, y tratan de promover el alfabetismo. Desde las comunidades religiosas, la antropología y la etnografía, que se usaban para conocer a los pueblos dominados, van dando lugar poco a poco a las ciencias sociales, apoyadas a veces por tecnócratas ilustrados como Hume, Rousseau y Smith, interesados en la incipiente economía y la ciencia política. Así, va tomando forma la aparente lucha entre las dos culturas: la científica y la humanística, en la que, si tomamos la mencionada noción de “ídolos” de Gombrich (1973), se ha ido disminuyendo el alcance de la investigación humanística y por lo tanto se ha acelerado su crisis. La universidad del presente, aunque debe su forma a la tradición humanística, ha transformado sus intereses para privilegiar el discurso científico y tecnológico, y ha ampliado sus públicos a personas más interesadas en la educación para el trabajo que en el cultivo personal por el que aboga el humanismo.
 
+
+(Seely Brown / Duguid, 2000, The social life of information, 173) "Invisible colleges" Royal Society. Semipubloc Erudite letters, origins of journasl. Philosophical transactions. "A sense of communitiy arises from reading the same text"
+
+David Berry The computational Turn: German idealists 19th century modern university. Humboldt Schiller. Cultivo de sí mismo, conteminiento del conocimiento
+
 ## Crisis de las humanidades
 
 En el recorrido de esta historia zigzagente vemos que existe un entrecruzamiento profundo entre los valores positivos y los valores negativos de las humanidades, de sus vicios y virtudes, si se quiere. La acumulación de esta historia nos lleva al tiempo presente y al lugar actual que ocupan las humanidades y el humanismo en las sociedades contemporáneas; el diagnóstico, para muchos autores, es que hay una crisis. Esta crisis en las humanidades y el humanismo se da, si seguimos la narrativa que he tratado de construir, por una pérdida del reconocimiento de sus virtudes, o al menos una infravaloración, y por una exacerbación de sus vicios. O, en otros términos, por la consideración de que lo que ofrece lo humanístico es irrelevante, porque hay otros campos que reemplazan lo que hacían las humanidades, o porque se considera que las presuposiciones humanísticas son dañinas. En el lado de las humanidades, se consideran irrelevantes los estudios humanísticos en comparación con estudios que ven a futuro y también producen más dinero en el mercado laboral; en el lado del humanismo, la participación democrática encuentra otras formas alternativas de discusión que no están basadas directamente en los métodos humanistas. Sloterdijk, en su libro Normas para el Parque Humano, que es una respuesta a la Carta sobre el humanismo de Heidegger, defiende entender las humanidades como un faro moral de la humanidad (el claro del ser, si usamos el dialecto heideggeriano) que evita la barbarie.
@@ -78,6 +86,8 @@ Desfinanciación de las instituciones humanísticas
 Perdida de puestos
 Eliminación de cursos, profesores, etc, y como consecuencia, pérdida de los valores humanistas: democracia, pluralismo
 
+Martín Barbero: Redescubriendo al pueblo: la cultira como espacio de hegemonía: de las amasas a la masa... .incorporación de las clases populares a la cultura hegemónica a través del folletín. Es parecido a los blogs, las redes y el mundo de internet. Cuál es la relación de internet con el humanismo?
+
 ## humanidades en Latino/América
 
 Muchos pensadores en Latinoamérica se han preguntado por la autenticidad de nuestro humanismo: posrevolucionarios mexicanos, civilización y barbarie argentina, presidentes gramáticos... Esta discusión siempre lleva a una dicotomía que se puede expresar en el concepto de Latino / América, es decir, la división entre pertencer simultáneamente a un origen tradicional occidental, lo Latino, y un origen del nuevo mundo, lo Americano. Teoría de la dependencia, modernización. Somos bárbaros civilizados, por decirlo así. James Clifford The Predicament: autenticity as relational and local tactic
@@ -99,9 +109,19 @@ Gramática de Cano - Malcolm deas del poder y la gramática
 Tweets que estigmatizan a los indígenas en la protesta social (Colombia, Perú, Bolivia)
 Tal vez la misión capuchina en la sierra nevada
 
+
+Martín Barbero: Modernidad y massmediación en América Latina: Diferencia grande: patrimonio, diferencia chica curiosidad folclórica. Proyecto de la clase criolla ¿ hacerse "nacional". Humanismo culturalista de Vasconcelos: La revolución popular guiada por el estado.
+
+Martín Barbero: Procesos de comunicación y matrices de cultura. Años 70: "Atadas por sus privilegios y encandiladas por la mitología de lo científico las élites de pode latinoamericanas no han tenido el menor inconveniente en renunciar a producir la ciencia y la tecnología que sus países necesitaban favoreciendo incluso el éxodo de los científicos hacia las verdaderas "patrias de la ciencia"" (20)
+
+"confrontar la multietnicidad vigente con las visiones de aquellos para quienes el humanismo genérico pasa por la abolición de la diferencia, en pos de la construcción de un mundo poblado por una humanidad única e idéntica a sí misma, cuyos rasgos dominantes serían básicamente los de la civilización occidental" (Miguel A. Bartolomé. La diversidad de las diversidades. Reflexiones sobre el pluralismo cultural en América Latina. P. 34)
+Noción ddecimonónica de ciudadanía: "el ideal liberal de la ciudadanía se basa en la igualdad de sus miembros" (p.43)
+
 ## las humanidades digitales en la crisis
 
-EL nuevo trivium de Fiormonte
+EL nuevo trivium digital de Fiormonte. Estudios de la comunicación
+
+"no to advocate that the existing methods and practices of computer science become hegemonic, rather that a *humanistic* understanding of technology could be developed, which also involves an urgent inquiry into what is human about the *computational* humanities or social sciences" (Berry, 2012, 9)
 
 Lo digital como instrumento del estudio humanístico (estructura simbólica y lo especulativo)
 
@@ -112,7 +132,19 @@ La conservación
 La lectura a escala
 La difusión
 
-Discusiones sobre el acceso, las tecnolohías
+Discusiones sobre el acceso, las tecnologías
+
+
+OPORTUNIDADES EN LA DIFERENCIA
+(Edwin Cruz Rodríguez, La interculturalidad en las políticas de educación intercultural, 2015)
+La interculturalidad latinoamericana (no Multiculturalidad basada en la acción afirmativa)
+
+Largo plazo
+Causas estructurales
+Mutuo aprendizaje
+"no es suficiente con fortalecer la identidad de los excluidos o discriminados, es necesario trabajar en mejorar las relaciones entre culturas" (p. 200)
+Formar ciudadados capaces de desenvolverse en ambientes hostiles
+
 
 ## Unas humanidades digitales en Latino/América
 
@@ -141,3 +173,13 @@ EXCEPCIONALISMO HUMANO (heidegger)
 Es en este punto crítico donde tienen cabida las relativamente recientes teorías de lo poshumano. Como en todo, las llamadas poshumanidades tienen diferentes interpretaciones que se cruzan y se contradicen: como lista (Wolfe, 2010), existe un poshumanismo transhumanista que defiende la idea de un ser humano no esencialista, infinitamente modificable por técnicas tecnobiológicas; o un poshumanismo situado que implica pensar en las condiciones concretas de cada forma de experiencia humana; o un poshumanismo que busca borrar las fronteras entre animal y humano. Aquí vamos a tomar solo una postura en particular con el fin de reducir las contradicciones: para “salvar” a las humanidades, estas tienen que cambiar, tienen que quitar del centro al humano y ubicarlo en conexión con su entorno ecológico diverso. Como diría Borges, parafraseando al científico Blaise Pascal, reconocer a la naturaleza como “una esfera infinita cuyo centro está en todas partes y la circunferencia en ninguna” (Borges, 1984, p. 704). Este pensamiento ecológico, como lo definiría Timothy Morton (2010), implica entender el relacionamiento profundo que existe entre los humanos y los no humanos, incluyendo a las comunidades no representadas por el humanismo tradicional, los animales y los objetos. En complemento, la biosemiótica se ha enfocado en estudiar otras formas de producción de sentido —de semiosis, dirían ellos— diferentes a la antroposemiosis. Así, con un método que el biólogo Jakob von Uexküll (2010) llamaría “participación”, se han preocupado no por las propias formas de significar, sino por las formas en las que significan otros seres. Digamos, de un enfoque egocéntrico a un enfoque otrocéntrico. Para von Uexküll, y sus seguidores, el Umwelt o mundo entorno de cada organismo depende de sus capacidades corporales y sus posibilidades de acción. Así, el Umwelt de una abeja es diferente al de un perro, o el Umwelt de un Europeo rico es diferente al de un Latinoamericano pobre. Los Umwelts se superponen en semiósferas (Lotman, 2005) que cubren al planeta como lo hace la atmósfera, y tienen la misma función de sostener la vida pero a través del significado; son una versión de la esfera de la naturaleza de Pascal, compuesta por múltiples “burbujas de jabón”, como las llamaría von Uexküll. Estas burbujas no solo se superponen sino que son interdependientes, están dadas por caminos comunicativos que les dan una estructura interrelacionada. La postura ecológica de Morton y la biosemiótica de von Uexküll apuntan a una idea muy importante para concebir unas nuevas humanidades en el presente: el ser humano no es excepcional, y por lo tanto no tiene un destino particular en la dominación de la naturaleza. El ser humano es un agente más en la naturaleza, no la mira desde afuera, y por eso no es un centro, ni una medida de todas las cosas. Así, no existe la oposición humano-naturaleza, existe un sistema ecológico de coexistencia (en un sentido que no implica valoraciones morales a priori sino un entendimiento de las cosas que nos rodean como cosas que también están ahí; que nos afectan y también afectamos). Esta no es una forma de relativismo cultural sino de concreción cultural y de observación participante. Hay que decir que, para Morton, la Naturaleza, con ene mayúscula, es una idea igual de perniciosa que la noción de Humano con hache mayúscula. Tener pensamiento ecológico no es lo mismo que tener pensamiento ambientalista, porque no implica romantizar la Naturaleza como un ser antropomorfizado (de nuevo, caer en tratar al hombre como medida del mundo). Por ejemplo, caer en ver a la Naturaleza como una fuente de jerarquía y autoridad (“que sabe lo que hace”), o como entidad pura, neutral y misteriosa (que no debe ser tocada y sigue caminos inescrutables). La naturaleza es relativamente es más entendible si se le da la oportunidad de hablar con calma, sin idealizaciones. Curiosamente, y como el propio Morton lo afirma, esta forma de pensamiento ecológico nos lleva a considerar lo humano y lo natural, que serían finalmente lo mismo, de una forma insustancial: quitarles las mayúsculas para, justamente, ver que los humanos somos minúsculos ante la vastedad de todo lo demás. En otros términos, aprender a ser humanos y a encontrar una moralidad en ello no por ser superiores sino como participantes de un lugar que en el fondo es indiferente a nuestras ínfulas de grandilocuencia. ¿Ver qué tan lejos se puede ver parados en hombros de muchos enanos? La estrategia tradicional del humanismo de centrarse en obras particulares, o en periodos claramente definidos, puede remplazarse por una visión más amplia de las interconexiones entre los Umwelts de los humanos minúsculos. Dicho en otro modo, de una celebración de lo increíble de la insustancialidad humana y lo maravilloso de la producción cultural en medio de tal insustancialidad. Así, al menos dos defensas de lo humanístico seguirían siendo pertinentes: el humanismo se preocupa por las formas de dar sentido, y, en su calidad de investigación motivada por la curiosidad, puede llegar a ser valioso por sí mismo, como una forma de participación creativa en la comunicación semiosférica. Timothy Morton invita a fijarse en el extraño forastero (strange stranger), en el otro que entre más conocemos, más extraño es. Esa es, luego del camino que hemos recorrido en el ensayo, una visión refrescante del lugar del humanismo contemporáneo.
 
 CONOCER QUé SOn las humanidades digitales desde afuera VER Glen Worthey, pero también darles su propio lugar y affordances
+
+
+TAL VEZ, PERO NO NECESARIAMENTE RELEVANTE:
+MODELO DE EDUCACIÓN MULTICULTURAL de BANKS 1999 (Un modelo de otro humanismo):
+
+1) Integración de contenidos (ejemplos diversos)
+2) Proceso de construcción del conocimiento (cómo se llegó ahí)
+3) Pedagogía de la equidad (estilos)
+4) Diminución del prejuicio
+5) Cultura escolar empoderada.. Empoderamiento: ejercer el poder que otorga la propia condición de ciudadanía

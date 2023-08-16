@@ -9,7 +9,7 @@ subtitle: La dimensión insfrastructural
 
 ## El demonio invisible
 
-El Demonio de Maxwell, propuesto por James Clark Maxwell, es un experimento mental clásico en el campo de la termodinámica. El experimento consiste en imaginar una caja en la que circulan moleculas de algún gas. En la mitad de la caja hay un separador que divide la caja en dos lados iguales, y un demonio controla una compuerta en el separador que permite o no el paso de las moléculas. El demonio, en el experimento, abre y cierra la compuerta de una manera en la que las moléculas que se mueven más rápido quedan en un lado de la caja, mientras que las que se mueven más lento quedan en el otro. En términos efectivos, el movimiento de las moléculas es equivalente a la temperatura del gas, así que como resultado un lado estaría caliente y el otro frío. Aunque en el siglo XIX este experimento mental se planteó como una refutación de la segunda ley de la termodinámica, una demostración de que sería posible reducir la entropía sin necesidad de ejercer ningún trabajo, pronto críticos señalaron un falla importante: es justamente el demonio el que realiza el trabajo necesario para separar las moléculas, así que la ley sigue respetándose. En pocas palabras, **se necesita trabajo para producir organización, aunque ese trabajo sea invisible**. Justamente, en el origen griego de la palabra demonio, *daimon*, encontramos dos sentidos importantes: una entidad benigna o maligna que trabaja en el fondo, oculta, o una entidad que divide, y así lleva a cabo algún tipo de orden.
+El Demonio de Maxwell, propuesto por James Clark Maxwell, es un experimento mental clásico en el campo de la termodinámica. El experimento consiste en imaginar una caja en la que circulan moleculas de algún gas. En la mitad de la caja hay un separador que divide la caja en dos lados iguales, y un demonio controla una compuerta en el separador que permite o no el paso de las moléculas. En el experimento, el demonio abre y cierra la compuerta de una manera en la que las moléculas que se mueven más rápido quedan en un lado de la caja, mientras que las que se mueven más lento quedan en el otro. En términos efectivos, el movimiento de las moléculas es equivalente a la temperatura del gas, así que como resultado un lado estaría caliente y el otro frío. Aunque en el siglo XIX este experimento mental se planteó como una refutación de la segunda ley de la termodinámica, una demostración de que sería posible reducir la entropía sin necesidad de ejercer ningún trabajo, pronto críticos señalaron un falla importante: es justamente el demonio el que realiza el trabajo necesario para separar las moléculas, así que la ley sigue respetándose. En pocas palabras, **se necesita trabajo para producir organización, aunque ese trabajo sea invisible**. Justamente, en el origen griego de la palabra demonio, *daimon*, encontramos dos sentidos importantes: una entidad benigna o maligna que trabaja en el fondo, oculta, o una entidad que divide, y así lleva a cabo algún tipo de orden.
 
 <sketch
   height="410px"
@@ -18,7 +18,21 @@ El Demonio de Maxwell, propuesto por James Clark Maxwell, es un experimento ment
 />
 
 El concepto de infraestructura puede ser entendido de varias maneras: como forma de organización y estandarización [@bowkerSortingThingsOut2000], como movimiento de bienes, materias o ideas [@larkinPoliticsPoeticsInfrastructure2013], o como ampliación de la agencia de los seres humanos (scaffolding) [@mcluhanUnderstandingMediaExtensions1994]. Sin embargo, todas estas concepciones implican dos conceptos fundamentales ejemplificados en el experimento mental de Maxwell, el trabajo y la energía como forma de reducción de la entropía. Cuando una comunidad establece roles y procedimientos, está reduciendo la incertidumbre para que las mismas actividades puedan ser resueltas por distintas personas o para resolver patrones comunes de una forma que tengan efectos esperables y similares. Cuando un grupo de expertos define un sistema de estándares está reduciendo la entropía a partir de definir categorías que, esperan, sean lo suficientemente expresivas para representar necesidades, pero que a la vez sean lo suficientementemente pequeñas para que sean controlables. Transportar materia prima o mensajes requiere formas mecanismos que, con energía, muevan algo de un inicio a un destino. Por otra parte, estas concepciones de infraestructura también implican la idea que la infraestructura, a pesar del esfuerzo que requiere su construcción y su mantenimiento, trae más beneficios que existir sin ella. Así, podemos pensar que **las infraestructuras son, en su sentido más abstracto, formas de ejercer trabajo para, en el futuro, hacer algo con menos trabajo**. De hecho, como lo afirman personas como Paul Edwards [@edwardsInfrastructureModernityForce2003] en el campo de los estudios de ciencia, tecnología y sociedad, así como el demonio de Maxwell, las infraestructuras suelen ser invisibles, al menos hasta que fallan y nos damos cuenta del nuevo esfuerzo que hay que realizar y las facilidades que estábamos dando por sentado. Normalmente no necesitamos pensar en cómo llega el agua al grifo, o cómo se transmiten los bits de información a través de internet. Las humildes infraestructuras buscan tener un bajo perfil.
- 
+
+The Ethnography of Infrastructure. Susan Leigh Star:
+Ecological and relational
+Standards, wires, settings and what they allow
+
+Embeddedness
+Transparency
+Reach or scope
+Learned as part of membership
+links with conventions or practice
+embodimentof standars
+build on an installed base
+becomes visible upon breakdown
+is fixed in moduler increments
+
 Esto es evidente en las muchas infraestructuras que involucran las prácticas de las humanidades digitales. Una gran fracción del interés por lo digital en las humanidades radica en pensar y usar la computación como una infraestructura que facilita el trabajo tedioso por medio de la automatización. En sus orígenes, las computadoras eran personas que trabajaban haciendo cálculos tediosos, hoy hablar de computadora es hablar de una máquina capaz de hacer esas mismas operaciones en escalas y velocidades humanamente imposibles. Procesar millones de palabras para encontrar patrones comunes en obras literarias, crear ediciones en línea que facilitan la comunicación de algún tema a través del acceso simplificado a documentos y formatos multimedia,. Sin embargo, en ocasiones esta aparente automatización oculta el trabajo que seres humanos han realizado para construir y mantener la operación de las infraestructuras, así como las condiciones de trabajo y financiación que sustentan estas prácticas.
 
 Por ejemplo, como lo muestra un estudio de Colbert, Li, Schwartz y Satten-Lopez, la mayoría de páginas escaneadas en la colección del Internet Archive, que alberga un número enorme de libros, fueron realizadas en China y Filipinas, en unas condiciones muy inferiores a las de otros centros de escaneo. De acuerdo con personas entrevistadas por estos investigadores, los problemas de espalda y las largas horas de trabajo implicaban una rotación y cambio de empleados más recurrente en estos países que, digamos, en Estados Unidos o Europa. En un sentido similar, en geology of media, Jussi Parikka muestra cómo los grandes centros de processamiento de datos usados en inteligencia artificial o que alojan los datos masivos de lo que eufemísticamente llamamos "la nube", aprovechan los antiguos molinos de agua en lugares como Alaska para enfríar los servidores que están día y noche haciendo computaciones. (para bajarle la velocidad a las moléculas). Es decir, son infraestructuras reutilizadas para trabajos diferentes.
@@ -32,6 +46,17 @@ Por ejemplo, como lo muestra un estudio de Colbert, Li, Schwartz y Satten-Lopez,
 ## ¿Modelos importados que no son la solución?
 
 En el caso particular de las humanidades digitales en América Latina, existe una tensión que se mueve entre crear infraestructuras propias para resolver problemas locales o aprovechar infraestructuras ajenas que ya han sido diseñadas, construidas y estandarizadas. O dicho desde otra manera, **una tensión entre dedicar energía y trabajo en hacer infraestructuras o en dedicarlo a realizar proyectos concretos**. Esta noción puede resultar un poco abstracta al hablar de infraestructuras digitales, pues no son directamente tangibles como sí lo pueden ser otro tipo de infraestructuras, como el acueducto o las carreteras. Sin embargo, 
+
+El pensador argentino Amilcar Herrera:
+"tecnología se puede definir como el conjunto de instrumentos o herramientas materiales, conocimientos y habilidades utilizados para proveer a todas las necesidades de la comunidad y aumentar su dominio del medio ambiente" (Amilcar Herrera, la creación de tecnología como expresión cultural, 1973, nueva sociedad, 59)
+"La única solución para los países en desarrollo, es recuperar la tecnologías como parte realmente integrante de su cultura""modo legítimo de expresión de sus propios valores y aspiraciones" (72)
+"El objetivo primordial debe ser revertir la situación actual, haciendo que los sistemas de ciencia y tecnología dejen de ser casi exclusivamente receptores y transmisores de tecnologías generadas en el exterior, para convertirse en la manifestación legítima y dinámica de las aspiraciones y la capacidad creativa de la sociedad"(78)
+
+
+Star: look to standarizing, tinkering, tailoring
+Master narratives
+herteropraxial - diff practicas
+heteroglossial - diff voices
 
 Partamos, por ejemplo, del propio término humanidades digitales. Como reconocen una buena parte de las personas entrevistadas para este proyecto,  
 Conocer ADHO sistema de estándares y de prácicas comúnes.
@@ -82,7 +107,10 @@ Brecha epistemológica
 Brecha técnica
 Brecha educativa
 Brecha econónomica
+"financial considerations are also new with these computational disciplines, as they require more money and organization thatn the old individual scholar of lore did" (Berry, 2012, 12)
 
+"Las personas y los grupos sociales tienen derecho a ser iguales cuando la diferencia los inferioriza, y el derecho a ser diferentes cuando la igualdad los descaracteriza" (De sousa Santos, 2001, P. 10)
+Globalización, cosmopolitismo, patrimonio común de la humanidad
 ## Relaciones de trabajo
 
 ACPO Accion con Daño

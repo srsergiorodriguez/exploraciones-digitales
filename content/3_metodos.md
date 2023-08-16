@@ -42,6 +42,8 @@ Adicionalmente, y debido a que la relación global - local es uno de los puntos 
 
 Estas entrevistas siguieron un protocolo centrado en las dimensiones en tensión.
 
+Observación participante en dos contextos particulares: como miembro del comité de base de la red colombiana de humanidades digitales (organización de eventos y producción de contenidos de divulgación) y como coordinador del Club de Programación de la red colombiana de humanidades digitales (voluntarismo, infrasestructuras propias, formas de colaboración, brechas idiomáticas)
+
 ## Investigación cuantitativa
 
 Métodos digitales:
@@ -50,4 +52,31 @@ Análisis de redes
 
 Así, el referente conceptual Latouriano se liga fácilmente al marco metodológico propuesto antes: en este proyecto realicé un mapeo de controversias de las humanidades digitales en América Latina a través de métodos digitales, entrevistas codificadas, sondeos, etc. (Lourenço y Tomaél, 2018; Marres, 2015; Venturini y Munk, 2022). En términos generales, se toman datos tomados de medios digitales nativos y a través de visualizaciones de datos y análisis de contenido se determinan posibles controversias y sus desarrollos en las asociaciones y formaciones de grupos de un contexto particular, y estos datos se complementan con la visión granular de las entrevistas y el trabajo de campo. De este modo, la teoría de Actor-Red funciona como un sistema analítico con el cual se puede dar sentido a datos obtenidos por métodos digitales, y por lecturas cuantitativas y cualitativas.
 
-## Creación como investigación
+## Investigación visual, escrita e interactiva
+
+EL propio texto que compone este proyecto es un Ejercicio experimental de investigación
+
+Ensayos interactivos
+Johana Drucker Humanities Approaches to Graphical Display:
+"we need to takeon the challenge of developing graphical expressions rooted in and appropiate to interpretative activity"
+
+Escritura como investigación:
+Laurel richardson: Writing: a method of inquiry:
+Nurturing writing voices
+Creative analytical procesess
+
+
+Cristalization: drawing from many genres, methods, case studies. Not only triangulation
+Writting stories ': dituatiing writing in one's bigger experience
+Trying different methaphors (demonio, torre de babel....)
+
+
+-----
+Sampieri Metodología de la invetigación
+Uso y audiencia: básico y aplicado a la acción
+Invetigación cross sectional porque corresponde a un momento en particular en el tiempo, el presente en un rango de diez años
+Propósito: Explorar y describir
+Across multiple case studies
+
+"Researchers who conduct exploratory research must be creative, open minded, and flexible; adopt an invetigative stance; and explore al sources of information" Sampieri 38
+"They ask creative questions and take advantage of serendipity (i.e., unexpected or chance factors that have large implications)" (Sampieri 38)
