@@ -8,6 +8,12 @@ subtitle: Programa/software y programa/proyecto
   <h2>{{ page.subtitle }}</h2>
 </header>
 
+"To take action, it is necessary to have a program" [@rodriguez-ortegaDigitalSocialSciences2022, p. 107]
+
+BE BOLD
+
+PROGRAMA ES INVENTAR UN PROYECTO Y UN FUTURO
+
 Ensayos interactivos
 Programa intelectual
 UNA MEZCLA ENTRE LA REFLEXIÓN de las humanidades y el humanismo

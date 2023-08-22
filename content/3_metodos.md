@@ -55,6 +55,8 @@ Así, el referente conceptual Latouriano se liga fácilmente al marco metodológ
 ## Investigación visual, escrita e interactiva
 
 EL propio texto que compone este proyecto es un Ejercicio experimental de investigación
+Especificidad del medio digital
+Otras formas de argumentar
 
 Ensayos interactivos
 Johana Drucker Humanities Approaches to Graphical Display:

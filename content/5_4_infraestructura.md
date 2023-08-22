@@ -19,6 +19,9 @@ El Demonio de Maxwell, propuesto por James Clark Maxwell, es un experimento ment
 
 El concepto de infraestructura puede ser entendido de varias maneras: como forma de organización y estandarización [@bowkerSortingThingsOut2000], como movimiento de bienes, materias o ideas [@larkinPoliticsPoeticsInfrastructure2013], o como ampliación de la agencia de los seres humanos (scaffolding) [@mcluhanUnderstandingMediaExtensions1994]. Sin embargo, todas estas concepciones implican dos conceptos fundamentales ejemplificados en el experimento mental de Maxwell, el trabajo y la energía como forma de reducción de la entropía. Cuando una comunidad establece roles y procedimientos, está reduciendo la incertidumbre para que las mismas actividades puedan ser resueltas por distintas personas o para resolver patrones comunes de una forma que tengan efectos esperables y similares. Cuando un grupo de expertos define un sistema de estándares está reduciendo la entropía a partir de definir categorías que, esperan, sean lo suficientemente expresivas para representar necesidades, pero que a la vez sean lo suficientementemente pequeñas para que sean controlables. Transportar materia prima o mensajes requiere formas mecanismos que, con energía, muevan algo de un inicio a un destino. Por otra parte, estas concepciones de infraestructura también implican la idea que la infraestructura, a pesar del esfuerzo que requiere su construcción y su mantenimiento, trae más beneficios que existir sin ella. Así, podemos pensar que **las infraestructuras son, en su sentido más abstracto, formas de ejercer trabajo para, en el futuro, hacer algo con menos trabajo**. De hecho, como lo afirman personas como Paul Edwards [@edwardsInfrastructureModernityForce2003] en el campo de los estudios de ciencia, tecnología y sociedad, así como el demonio de Maxwell, las infraestructuras suelen ser invisibles, al menos hasta que fallan y nos damos cuenta del nuevo esfuerzo que hay que realizar y las facilidades que estábamos dando por sentado. Normalmente no necesitamos pensar en cómo llega el agua al grifo, o cómo se transmiten los bits de información a través de internet. Las humildes infraestructuras buscan tener un bajo perfil.
 
+"in the context of the digital humanities (DH), an infrastructure can refer to physical objects such as servers, to knowledge infrastructures—laboratories, cen- ters, or learned societies—and even to abstract representations such as code, soft- ware, or standards" [@delrioriandeDigitalHumanitiesVisible2022, p. 247]
+SET OF TECHNOLOGIES FOR MEDIATION
+
 The Ethnography of Infrastructure. Susan Leigh Star:
 Ecological and relational
 Standards, wires, settings and what they allow
@@ -33,6 +36,11 @@ build on an installed base
 becomes visible upon breakdown
 is fixed in moduler increments
 
+Star: look to standarizing, tinkering, tailoring
+Master narratives
+herteropraxial - diff practicas
+heteroglossial - diff voices
+
 Esto es evidente en las muchas infraestructuras que involucran las prácticas de las humanidades digitales. Una gran fracción del interés por lo digital en las humanidades radica en pensar y usar la computación como una infraestructura que facilita el trabajo tedioso por medio de la automatización. En sus orígenes, las computadoras eran personas que trabajaban haciendo cálculos tediosos, hoy hablar de computadora es hablar de una máquina capaz de hacer esas mismas operaciones en escalas y velocidades humanamente imposibles. Procesar millones de palabras para encontrar patrones comunes en obras literarias, crear ediciones en línea que facilitan la comunicación de algún tema a través del acceso simplificado a documentos y formatos multimedia,. Sin embargo, en ocasiones esta aparente automatización oculta el trabajo que seres humanos han realizado para construir y mantener la operación de las infraestructuras, así como las condiciones de trabajo y financiación que sustentan estas prácticas.
 
 Por ejemplo, como lo muestra un estudio de Colbert, Li, Schwartz y Satten-Lopez, la mayoría de páginas escaneadas en la colección del Internet Archive, que alberga un número enorme de libros, fueron realizadas en China y Filipinas, en unas condiciones muy inferiores a las de otros centros de escaneo. De acuerdo con personas entrevistadas por estos investigadores, los problemas de espalda y las largas horas de trabajo implicaban una rotación y cambio de empleados más recurrente en estos países que, digamos, en Estados Unidos o Europa. En un sentido similar, en geology of media, Jussi Parikka muestra cómo los grandes centros de processamiento de datos usados en inteligencia artificial o que alojan los datos masivos de lo que eufemísticamente llamamos "la nube", aprovechan los antiguos molinos de agua en lugares como Alaska para enfríar los servidores que están día y noche haciendo computaciones. (para bajarle la velocidad a las moléculas). Es decir, son infraestructuras reutilizadas para trabajos diferentes.
@@ -43,20 +51,32 @@ Por ejemplo, como lo muestra un estudio de Colbert, Li, Schwartz y Satten-Lopez,
   caption='Cantidad de páginas escaneadas por mes en centros de digitalización para colecciones del Internet Archive. Los <a href="https://github.com/scanninglabor/IAScanningLabor/tree/main/code/map_json_files" target="_blank">datos</a> fueron recogidos por Eleanor Colbert, Lucian Li, Elizabeth Schwartz y David Satten-Lopez, esta visualización se hace con su autorización.'
 />
 
+"The “digital” in digital humanities could not be disconnected from the methods and infrastructures by which such scholarship was produced and disseminated, and this included thinking of those who were being left outside by those mechanisms." [@priegoCanSubalternDH2022, p. 28]
+
 ## ¿Modelos importados que no son la solución?
 
 En el caso particular de las humanidades digitales en América Latina, existe una tensión que se mueve entre crear infraestructuras propias para resolver problemas locales o aprovechar infraestructuras ajenas que ya han sido diseñadas, construidas y estandarizadas. O dicho desde otra manera, **una tensión entre dedicar energía y trabajo en hacer infraestructuras o en dedicarlo a realizar proyectos concretos**. Esta noción puede resultar un poco abstracta al hablar de infraestructuras digitales, pues no son directamente tangibles como sí lo pueden ser otro tipo de infraestructuras, como el acueducto o las carreteras. Sin embargo, 
+
+Si lo pensamos así, esta pregunta guarda cercanas analogías con las nociones de la autenticidad latinoamericana planteadas en la sección 5_1
+
+Lasgas políticas de transferencia tecnológica 
+
+"Uno de sus principales logros fue la crítica al modelo lineal de innovación, al mismo tiempo que refutaba en sus fun- damentos el desarrollismo rostoviano, al enfatizar los aspectos históri- cos y políticos que explicaban la génesis dialéctica de la situación entonces existente. Se proponían instrumentos analíticos como "pro- yecto nacional", "demanda social por cyT", "política implícita y explícita", "estilos tecnológicos", "paquetes tecnológicos". Es particularmente inte- resante que estos instrumentos hayan sido formulados como herra- mientas que permitían comprender el cambio en términos globales, y no solamente explicar la situación local.
+Conformaron esta corriente de pensamiento autores como Amílcar Herrera, Jorge Sábato y Oscar Varsavsky, en la Argentina; José Leite Lopes en Brasil; Miguel Wionczek en México; Francisco Sagasti en Pe- rú; Máximo Halty Carrere en Uruguay; Marcel Roche en Venezuela, en- tre otros." [@dagninoPensamientoCienciaTecnologia1996, p. 20]
 
 El pensador argentino Amilcar Herrera:
 "tecnología se puede definir como el conjunto de instrumentos o herramientas materiales, conocimientos y habilidades utilizados para proveer a todas las necesidades de la comunidad y aumentar su dominio del medio ambiente" (Amilcar Herrera, la creación de tecnología como expresión cultural, 1973, nueva sociedad, 59)
 "La única solución para los países en desarrollo, es recuperar la tecnologías como parte realmente integrante de su cultura""modo legítimo de expresión de sus propios valores y aspiraciones" (72)
 "El objetivo primordial debe ser revertir la situación actual, haciendo que los sistemas de ciencia y tecnología dejen de ser casi exclusivamente receptores y transmisores de tecnologías generadas en el exterior, para convertirse en la manifestación legítima y dinámica de las aspiraciones y la capacidad creativa de la sociedad"(78)
 
+TECNOLOGIA DENTRO DE SU MARCO SOCIAL
 
-Star: look to standarizing, tinkering, tailoring
-Master narratives
-herteropraxial - diff practicas
-heteroglossial - diff voices
+MIX TECNOLÓGICO Jorge Sábato Soberanía a través de la integración
+
+VInculación (publico I+D + industria privada)
+
+Transferencia de tecnologías
+Traducción de lo externo ECTS es una visión cosmopolita de la ciencia
 
 Partamos, por ejemplo, del propio término humanidades digitales. Como reconocen una buena parte de las personas entrevistadas para este proyecto,  
 Conocer ADHO sistema de estándares y de prácicas comúnes.
@@ -73,22 +93,7 @@ De este modo, la tensión infraestructural de las humanidades digitales en Amér
 
 UN SKETCH QUE MUESTRE EL CODIGO EN INGLES Y LAS VARIABLES EN ESPAÑOL
 
-
-"Most off-the-shelf systems follow precreated metadata and ontology standards and thus command how information about or for a local community is described, classified, and retrieved. This tends to favor the perpetuation of the standards of the software creator rather than support of diverse, local community- based ways of thinking and knowing." p.47
-
-"If “global” means the exporting of Western values, then we may be ignoring diverse traditions, values, and beliefs" p.48
-
-ESCALABILIDAD UPROOTING
-GAINING AGENCY
-SIMPLER METHODS
-Scalability as functionalism - estructuras trasladables - Ontología relacional - mano amiga - colaboración
-Desarraigo Anna Tsing Bananas y caña de azúcar como escalables, clones, estándares nonsoels - nonsocial landscape element
-terra nullius
-Uprooting, desarraigo plantas y metadatos
-
-Las formas de organización y divulgación de las humanidades digitales también operan bajo una lógica similar. congresos, historias oficiales.
-
-INTEROPERABILIDAD COMO ARMA DE DOBLE FILO
+PELAGIO: "However, until we started our project, the idea of the past related only to classical Greek, Roman, and Byzantine history. The mini- grants offered by this community, and the infrastructure using semantic technol- ogies such as Linked Open Geodata for the humanities, led us to work with tools designed primarily for texts in English from the classical or European past. From our different location, we had not only to recontextualize the Pelagios infrastruc- ture but also to “transculture” (Ortiz, Contrapunteo cubano) its tools from the periphery." 
 
 ## Brechas
 
@@ -111,6 +116,7 @@ Brecha econónomica
 
 "Las personas y los grupos sociales tienen derecho a ser iguales cuando la diferencia los inferioriza, y el derecho a ser diferentes cuando la igualdad los descaracteriza" (De sousa Santos, 2001, P. 10)
 Globalización, cosmopolitismo, patrimonio común de la humanidad
+
 ## Relaciones de trabajo
 
 ACPO Accion con Daño
@@ -128,6 +134,13 @@ No solo acceso sino también expansión de la agencia y resonancia con las motiv
 Dependencia (Proyecto Humboldt Digital, financiación externa) y producción propia, que tenga resonancia, que sea sostenible, que puede mantenerse en el largo plazo, que pueda hacerse correctamente (un efecto de red en el que, entre más grande es la otra infraestructura, menos sentido tiene hacer algo local(Sistema mundo de wallerstein))
 
 Minimal computing
+
+"It seemed to me at the time that “the promise of the digital humanities” was not only where the big money was; I suggested it was also where innovation using readily available and inexpensive technologies was at work" [@priegoCanSubalternDH2022, p. 30]
+
+"I continue to believe that international collaboration with a focus on open access, interoperability, affordable technologies, and sustainability might be one of
+the essential steps toward the fulfillment of that promise." [@priegoCanSubalternDH2022, p. 30]
+
+"the impossibility of accessing or running basic research infrastructures such as our own servers, and the instability of the Wi-Fi connection, led us toward the minimal, open, and agnostic technologies that in recent years have been defined as Minimal Computing" [@delrioriandeDigitalHumanitiesVisible2022, p. 253]
 
 ## Haciendo apropiado lo apropiado
 
@@ -147,7 +160,26 @@ El paquete semanal
 
 LO Que hacen los de Hackbo
 
-## Los comunes
+Nuria Rodriguez Ortega habla de la filantropia tecnológica como una forma de dar acceso a herramientas pero manteniendo el monopolio y el control industrial de la tecnología. Por el contrario Rodriguez ortega propone:
+"This inquiry and these initiatives must be based on technological solutions that are appropriate to the territory where they are generated, so that they can be used locally and incorporated into local knowledge systems"
+
+INTEROPERABILIDAD COMO ARMA DE DOBLE FILO
+
+"Most off-the-shelf systems follow precreated metadata and ontology standards and thus command how information about or for a local community is described, classified, and retrieved. This tends to favor the perpetuation of the standards of the software creator rather than support of diverse, local community- based ways of thinking and knowing." p.47
+
+"If “global” means the exporting of Western values, then we may be ignoring diverse traditions, values, and beliefs" p.48
+
+ESCALABILIDAD UPROOTING
+GAINING AGENCY
+SIMPLER METHODS
+Scalability as functionalism - estructuras trasladables - Ontología relacional - mano amiga - colaboración
+Desarraigo Anna Tsing Bananas y caña de azúcar como escalables, clones, estándares nonsoels - nonsocial landscape element
+terra nullius
+Uprooting, desarraigo plantas y metadatos
+
+Las formas de organización y divulgación de las humanidades digitales también operan bajo una lógica similar. congresos, historias oficiales.
+
+## haciendo lo propio, Los comunes
 
 Los comunes
 
@@ -158,3 +190,7 @@ Proyectos duraderos que no se disuelven cuando no hay manera de sostener los inc
 Optimizing solutions to other's problems
 
 El beta permanente (Jairo Melo y Carolina Zúñiga)
+
+"Similarly, Shorish and Chan (“Co-creating Open Infrastructure”) affirm that any infrastructure should include social systems and practices that reflect the values of its creators and, ideally, of those who interact with it: an infrastructure is never neutral but implies struggles for power, legitimizing voices and determining who can access the information and in what manner." [@delrioriandeDigitalHumanitiesVisible2022, p. 251]
+
+"Although the region has low citizen digital lit- eracy, and also very low levels of technology adoption, it is also a region where most of the research done in public institutions has, for many years, been published online in open and noncommercial terms, with few copyright restrictions" [@delrioriandeDigitalHumanitiesVisible2022, p. 252] AL ya es un ejemplo de ciencia abieta

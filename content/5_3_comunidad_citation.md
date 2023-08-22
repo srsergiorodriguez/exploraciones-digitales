@@ -42,6 +42,8 @@ Diferenciación Ver las partes VS. Integración Configurar un todo
 
 UNA TABLA CON EJEMPLOS DE COMUNIDADES
 
+"It is therefore necessary to conceive and propose new logics that reconnect human beings with their own interests and needs, with aspirations and expectations modeled by an honest pact between individuals and the conditions in which they lead their lives: not by exter- nal markets, whether academic, financial, or technological." [@rodriguez-ortegaDigitalSocialSciences2022, p. 110]
+
 ## Aumentar la agencia colectiva
 
 Para infraestructura, lo formal y lo informal

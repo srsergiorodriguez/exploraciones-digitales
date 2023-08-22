@@ -16,13 +16,23 @@ TENGO QUE AÑADIR MÁS VALORES POSITIVOS HUMANÍSTICOS A LA HISTORIA RELÁMPAGO:
 
 ## Un contexto zigzageante de las humanidades y el humanismo
 
-Humanidades y humanismo pueden entenderse como dos conceptos relacionados y conectados por una tradición cultural común que proviene principalmente de Occidente, o de apropiaciones occidentales de otros valores culturales. Si lo vemos en términos generales, diríamos que las humanidades se encargan de estudiar, conservar apreciar las actividades y la producción humana, es decir, su cultura, y el humanismo reflexiona acerca de en qué consiste ser humano, cuál es su lugar en el mundo y, de forma subyacente, establece un horizonte moral para la humanidad. En su lectura de los orígenes del humanismo, Giusti (2010) afirma que humanismo y humanidades son dos aspectos de la pregunta por lo Humano, con mayúscula, del *humanitas* latino. El humanismo es la *philantropia*, la pregunta por cómo proporcionar bienestar a la humanidad y cómo tratar a los demás humanos, y las humanidades son la *paideia*, el estudio de la humanidad que surge de la curiosidad por aprender y por cultivarse a sí misma. La relación es recursiva, pues el humanismo define los confines de las humanidades y las humanidades definen lo que puede considerarse como bueno para el Humano.
+Humanidades y humanismo pueden entenderse como dos conceptos relacionados y conectados por una tradición cultural común que proviene principalmente de Occidente o de apropiaciones occidentales de otros valores culturales. Si lo vemos en términos generales, diríamos que las humanidades se encargan de estudiar, conservar apreciar las actividades y la producción humana, es decir, su cultura, y el humanismo reflexiona acerca de en qué consiste ser humano, cuál es su lugar en el mundo y, de forma subyacente, establece un horizonte moral para la humanidad. En su lectura de los orígenes del humanismo, Giusti (2010) afirma que humanismo y humanidades son dos aspectos de la pregunta por lo Humano, con mayúscula, del *humanitas* latino. El humanismo es la *philantropia*, la pregunta por cómo proporcionar bienestar a la humanidad y cómo tratar a los demás humanos, y las humanidades son la *paideia*, el estudio de la humanidad que surge de la curiosidad por aprender y por cultivarse a sí misma. La relación es recursiva, pues el humanismo define los confines de las humanidades y las humanidades definen lo que puede considerarse como bueno para el Humano.
 
 Por supuesto, la manera como se ha entendido lo Humano y su estudio no ha sido homogénea en todos los contextos y no ha querido decir lo mismo en todos los momentos de la historia. Como afirma Molano Camargo (2016), el humanismo es un “proyecto inacabado, paradójico, zigzagueante, pero urgente e indispensable” (19). Por ejemplo, Nussbaum (2016) en su defensa del papel de las humanidades en las sociedades contemporáneas, aboga principalmente por la cultura grecolatina y el racionalismo ilustrado, y excluye otras formas de pensamiento como el catolicismo y el marxismo, que para ella son ideologías radicales y, aparententeme, en consecuencia, antihumanísticas. Por el contrario, el humanismo al que se refiere Heidegger en su Carta sobre el Humanismo (2013) apunta a todos los lugares desde los que se ha hecho la pregunta por el Ser Humano, aunque, en su apreciación, hayan fracasado por no haber entendido el Ser por fuera de fines utilitarios. Así, para Heidegger, son humanísticas, aunque equivocadas, tanto el pensamiento de la antigüedad clásica como el catolicismo, el marxismo, el existencialismo, etc. A su vez, en América Latina, como desarrollaré más adelante, han existido apuestas propias por el humanismo y las humanidades guiadas principalmente por la noción de autenticidad, es decir, por cómo construir un pensamiento humanístico propio en nuestro contexto particular. En otros términos, por preguntarse quiénes son los Humanos del humanismo y si los latinoamericanos caben en esa categoría.
 
 Aquí podemos hacer un recuento relámpago de la trayectoria de las humanidades en sus múltiples sentidos y para ubicar los problemas que mencionamos al principio de este capítulo: el Humano latinoamericano y su autenticidad, y el humanismo en relación con lo digital.
 
-Este recuento es relevante porque plantea varios de los propósitos generales a los que, de alguna manera, se comprometen las humanidades y el humanismo, y así se fundamentan sus instituciones (el archivo, la biblioteca, el museo, la universidad, la democracia) y sus prácticas, disciplinas e indisciplinas. Las humanidades digitales continúan estos compromisos, se fundamentan en versiones particulares de las mismas instituciones, y continúan las disciplinas o las indisciplinan.
+Este recuento es tiene una finalidad importante para otros capítulos de este proyecto, porque, por una parte plantea varios de los propósitos generales a los que, de alguna manera, se comprometen las humanidades y el humanismo. como veremos, el desarrollo de estos propósitos pueden verse, a la vez, como vicios y virtudes de las humanidades. por otra parte, y basado en esos propósitos se fundamentan sus instituciones (el archivo, la biblioteca, el museo, la universidad, el estado y las instituciones democráticas) y sus prácticas, disciplinas e indisciplinas. Las humanidades digitales continúan estos compromisos, se fundamentan en versiones particulares de las mismas instituciones, y continúan las disciplinas o las indisciplinan.
+
+PROPÓSITOS EN FUNCIÓN DE VALORES (VICIOS Y VIRTUDES HUMANÍSTICAS)
+INSTITUCIONES
+DISCIPLINAS E INDISCIPLINAMIENTOS
+
+EL HUMANISMO LATINOAMERICANO EN MEDIO DE LOS VICIOS Y LAS VIRTUDES
+
+LAS HUMANIDADES DIGITALES
+
+LAS HUMANIDADES DIGITALES EN AL
 
 DISCIPLINAS
 Kant el conflicto de las facultades
@@ -96,9 +106,17 @@ Igualmente, el excepcionalismo heideggeriano/sloterdijkiano trae consigo una jus
 
 Llegada tarde al banquete de la civilización europea, América vive saltando etapas, apresurando el paso y corriendo de una forma en otra, sin haber dado tiempo a que madure del todo la forma precedente. A veces, el salto es osado y la nueva forma tiene el aire de un alimento retirado del fuego antes de alcanzar su plena cocción. La tradición ha pesado menos, y esto explica la audacia. Pero falta todavía saber si el ritmo europeo —que procuramos alcanzar a grandes zancadas, no pudiendo emparejarlo a su paso medio—, es el único “tempo” histórico posible, y nadie ha demostrado todavía que una cierta aceleración del proceso sea contra natura (5).
 
+Gabriel Méndez Plancarte, (1945) Los Fundadores del Humanismo Mexicano, donde afirma que: [...] el humanismo grecolatino es una de nuestras más hondas y fecundas raíces, uno de los elementos vitales y específicos que han plasmado nuestra fisonomía espiritual y han contribuido a formar lo que bien podemos, sin rústica jactancia, llamar la cultura mexicana. (p. 242)
+
 Esta problema de la autenticidad nos pone en la mitad, además, de los valores positivos y los valores negativos de las humanidades. Podemos participar de la apreciación y el estudio de la cultura, pero a la vez nos vemos parcialmente excluidos de ser considerados como los humanos que construyen esa cultura. Esto se ve además acrecentado en grupos subalternizados detro de la propia Latinoamérica. Como ejemplo solo hay que considerar las constantes tensiones políticas en América Latina en los años recientes: la distinción indígena civilizado, que parecería anacrónica y , se ve repetida constantemente en la opinión pública. La destrucción de monumentos da cuenta de un conflicto acerca de cómo ciertos grupos han sido excluidos de la construcción de la memoria y la apreciación de la cultura. De nuevo, paradójicamente, esta condición barbárica también ha construido el exotismo hacia el exterior de lo Latinoamericano (tomar la idea de barbero de separar algunas cosas indígenas para el floclor y otras recharzarlas). problema de la representación (Resistencia en la línea negra)
 
 Es decir, el bárbaro que no habla latín y que viene de afuera es el que trae la barbarie, es el otro transformado en verbo y en sinónimo de destrucción de lo construido. Como sucede con las manifestaciones del paro nacional en Colombia en este preciso momento, hablar de vándalo implica deshumanizar al otro y darle un carácter esencialmente maligno (¡quieren acabar con las instituciones!), una forma de poder basado en el enconamiento de una tradición hegemónica que no cree en la capacidad de agencia propia del otro y su lugar en la discusión política. El contraste civilización/barbarie sobre el que se construyen implícitamente el humanismo y las humanidades es entonces problemático.
+
+"Como decía Martí, no podemos resolver nuestros problemas con las ideas de Paris; por lo tanto, el humanismo que debemos producir es un humanismo sobre nuestras propios experiencias y necesidades. Es falso sostener que lo humano es universal; lo humano no puede universal porque los sujetos que constituyen esa humanidad somos de carne y hueso, somos distintos, estamos en distintos lugares, y pensamos y sentimos diferente." [@cardosoHumanidadesUniversidadTradicion2019, p. 46]
+
+"Las universidades en México, como todas aquellas que se crearon durante la época colonial, tenían una función básica: contribuir a la creación de las mejores condiciones ideológicas para favorecer la dominación ideológica de los pueblos originarios de lo que hoy se reivindica como Abya Yala." [@cardosoHumanidadesUniversidadTradicion2019, p. 47]
+
+"Quesada no fue un historiador, ni un poeta, ni un autor religioso, precisa- mente porque pasó por todas esas modalidades, sin circuns- cribirse a ninguna en particular. Fue humanista porque supo combinar tal universalidad de conocimientos con ciertas cua- lidades humanas, fundadas éstas y aquélla en una sólida y bien asimilada formación latino-clásica." [@rivassacconiExordiosHumanismoColombia1946, p. 55] José Manuel Rivas Sacconi Fundador del instituto caro y cuervo
 
 Facundo, civilización y barbarie
 Imágenes civilización y barbarie Argentina
@@ -119,6 +137,8 @@ Noción ddecimonónica de ciudadanía: "el ideal liberal de la ciudadanía se ba
 
 ## las humanidades digitales en la crisis
 
+"Where, then, lies the value of the adjective “digital”? Isn’t this label somewhat redundant, and therefore dispensable, in our contemporary world?" [@rodriguez-ortegaDigitalSocialSciences2022, p. 101]
+
 EL nuevo trivium digital de Fiormonte. Estudios de la comunicación
 
 "no to advocate that the existing methods and practices of computer science become hegemonic, rather that a *humanistic* understanding of technology could be developed, which also involves an urgent inquiry into what is human about the *computational* humanities or social sciences" (Berry, 2012, 9)
@@ -132,7 +152,7 @@ La conservación
 La lectura a escala
 La difusión
 
-Discusiones sobre el acceso, las tecnologías
+Discusiones sobre el acceso, las tecnologías. Humanidades públicas
 
 
 OPORTUNIDADES EN LA DIFERENCIA
@@ -145,8 +165,18 @@ Mutuo aprendizaje
 "no es suficiente con fortalecer la identidad de los excluidos o discriminados, es necesario trabajar en mejorar las relaciones entre culturas" (p. 200)
 Formar ciudadados capaces de desenvolverse en ambientes hostiles
 
+"On the contrary, what we are trying to achieve is a space for symmetry, rebalance, horizontality, and productive dialogue, because the big issue we have to deal with is: How do we all live together in a global space? How do we build a common space in which we all feel represented, where all of us find ourselves on an equal footing?" [@rodriguez-ortegaDigitalSocialSciences2022, p. 105]
+
+"How can digital humanities (as the space for problematizing the techne that defines our historical time) be transformed into a project to construct a new humanism that corresponds to the human condition in our world?" [@rodriguez-ortegaDigitalSocialSciences2022, p. 111]
+FROM TECHNOLOGY AS A PROBLEM TO THE HUMAN SUBJECT A S A PROJECT
+
+
+"This entails, first, favoring notions such as creative experimentation, the cog- nitive fertility of error, cross-culturality, transdisciplinarity, the hybridization of learning spaces, collaboration at the edges of disciplines, diversity as the artic- ulator of a worldview, and critical thinking. All these will help to expand the narrow-mindedness produced by a monoculture of thought in a state of intellectual, technological, and cultural dependence on foreign markets." [@rodriguez-ortegaDigitalSocialSciences2022, p. 112]
+
 
 ## Unas humanidades digitales en Latino/América
+
+Si evitamos la trampa de pensar las humanidades digitales como una mera apropiación instrumental de las tecnológicas digiales para el estudio tradicional Una oportunidad para pensar en las humanidades desde un fenómeno cultural inescapable, lo digital. Relaciones infraestructurales, de comunidad y de construcción de conocimiento.
 
 Una tensión global local acerca de dónde provienen las tecnologías, métodos, teorías, estándares, lineamientos y presupuestos de las humanidades digitales
 

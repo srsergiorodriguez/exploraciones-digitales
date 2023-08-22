@@ -12,7 +12,7 @@ HABLAR MÁS DE PROYECTOS CONCRETOS DE ARCHIVO (OBRAS DE ARTE QUE JUEGAN CON EL C
 
 ## El sustrato y la acción
 
-Información es un término que tiene un uso cotidiano, intuitivo, que todas las personas entendemos, relacionado con el conocimiento que nos permite llevar a cabo las tareas de la vida diaria, pero también tiene ciertas conotaciones técnicas y tecnológicas, que tienen que ver con infraestructuras de telecomunicaciones y con datos registrados en grandes computadores, cuya operación está oculta para la mayoría de la gente. Este capítulo aborda los dos sentidos del concepto, sus relaciones estrechas, y la importancia que tiene para las humanidades considerar los imbricamientos entre la información y el significado, y sus alcances y limitaciones en la representación de la cultura.
+Información es un término que tiene un uso cotidiano, intuitivo, que todas las personas entendemos, relacionado con el conocimiento que nos permite llevar a cabo las tareas de la vida diaria, pero también tiene ciertas conotaciones técnicas y tecnológicas, que tienen que ver con infraestructuras de telecomunicaciones y con datos registrados en grandes servidores, cuya operación está oculta para la mayoría de la gente. Este capítulo aborda los dos sentidos del concepto, sus relaciones estrechas, y la importancia que tiene para las humanidades considerar los imbricamientos entre la información y el significado, y sus alcances y limitaciones en la representación de la cultura.
 
 Como punto de partida tomemos esta definición empaquetada: el ciberantropólogo Gregory Bateson afirma que la información consiste en **"una diferencia que hace una diferencia"**[@batesonMindNatureNecessary1979, p. 99]. Aunque aquella es una frase ya famosa en los círculos especializados de la cibernética, su sentido es críptico a primera vista. ¿Qué quiso decir Bateson con esta definición? Para desempaquetarla un poco, podríamos decir que la primera diferencia en la frase se refiere a la información formalmente definida, domesticada, a sus operaciones matemáticas, clasificadas sintácticamente, útiles para la ingeniería de la comunicación y la computación. La segunda diferencia se refiere al significado, al contenido semántico y al uso pragmático, a la utilidad que tiene la información para una persona —o para cualquier ser vivo—, al nuevo conocimiento adquirido, al aprendizaje que sirve para acciones futuras. La primera diferencia **es** una diferencia, pues está pasivamente registrada en un sustrato físico, mientras que la segunda **hace** una diferencia, pues implica moverse activamente en el mundo basado en la lectura del sustrato que contiene el registro. Para que exista información en el sentido de Bateson, necesitamos de las dos diferencias. Aunque distintas teorías las separen y las consideren aisladamente son, en realidad, para recontextualizar una frase Batesoniana, una unidad necesaria.
 
@@ -85,6 +85,21 @@ Para las humanidades esta limitación expresiva tiene un impacto importante. Los
 </figure>
 
 Escobar Cultura como estructura simbólica vs cultura como diferencia radical
+
+In Tlilli in Tlapalli / In Xochitl in Cuicatl
+The Representation of Other Mexican Literatures through Digital Media
+Ernesto Miranda Trigueros
+
+Textiles: signo táctil, memoria y oralidad
+Textiles: Táctil Sign, Memory and Orality
+Alejandra Echazú Conitzer*
+"El textil andino comparte con el libro la cualidad de multiplicidad y ningún otro elemento tuvo una importancia mayor en el ámbito simbólico o ritual1, siendo el tejido una metonimia de la cultura viva. Si la totalidad del mundo se ofrece a una lectura semiótica, más relevante es ésta cuando un determinado grupo cultural está acostumbrado a “leer” o descifrar aquello donde otros ven apenas colores o dibujos. " P.186
+
+"El texto resultante, además de informar, narrar y contener una cosmovisión inscripta en el tejido, es el resultado de un aprendizaje y una formación del tejedor, y cumple a su vez una función envolvente que arropa como el universo mismo, universo que es más comunitario que individual." P. 186
+
+"Andrea Heckman (2003) coincide en que el tejido es una presentación metafórica y un medio de transmisión de información cul- tural, mítica y/o cósmica que está codificada en forma escritural no tradicional (semasiográfica); los tejidos se constituyen en metáforas visuales." P. 187
+
+"Basada en su propia experiencia como tejedora y en los usos de la nueva tecnología, la artista Sandra de Berduccy (Aruma) (2020b), en un proyecto desarrollado entre 2014 y 2017), manifiesta que el código QR (Quick Response) es una matriz basada en el cuadrado, que almacena información de una manera similar a la técnica textil precolombina “tapiz kelim”, de la cultura Huari-Tiwanaku."
 
 ### La finca raíz de la información
 

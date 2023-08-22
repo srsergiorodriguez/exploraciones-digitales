@@ -10,6 +10,8 @@ subtitle: Las explicaciones explorables como productos académicos
 
 Construir los ensayos interactivos implicó un descubrimiento constante de estrategias y reformulaciones del proyecto
 
+"blogging and open digital scholarship could not be separated from the digital humanities (DH). A digital humanities that disseminated its research outputs through the same tra- ditional methods as other “nondigital” fields seemed to me a contradiction" [@priegoCanSubalternDH2022, p. 28]
+
 Ejemplos:
 
 https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
@@ -23,3 +25,5 @@ Entrevista a ernesto Oroza: https://dhdebates.gc.cuny.edu/read/untitled/section/
 What is a computational essay:
 
 https://writings.stephenwolfram.com/2017/11/what-is-a-computational-essay/
+
+Este libro utiliza un sistema que se mueve entre la publicación digital y la impresa: el magicbook project
