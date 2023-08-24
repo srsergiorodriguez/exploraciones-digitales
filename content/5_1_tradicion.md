@@ -9,7 +9,7 @@ subtitle: La autenticidad latinoamericana y la salvación digital de la crísis 
 </header>
 
 Aunque pueda parecer que el asunto central de las humanidades digitales es la irrupción de las tecnologías digitales en las humanidades, y concebía lo humanístico como un concepto estable aunque vago y difuso. Sin embargo, conforme se fueron dibujando con más claridad las demás tensiones, también se hizo evidente que el concepto de humanidades se convertía en un elemento problemático que debía contextualizarse para 
-Antes de acercarnos a las demás dimensiones, es útil indagar las raíces profundas del pensamiento humanístico que dan lugar a su relación paradójica con América Latina y a las condiciones que permiten que surja el proyecto de las humanidades digitales.
+Antes de acercarnos a las demás dimensiones, es útil indagar las raíces profundas del pensamiento humanístico que dan lugar a su relación paradójica con América Latina y a las condiciones que permiten que surja el proyecto de las humanidades digitales. Infraestructuras, formas epistemológicas y formas de organización.
 
 Valores Ambivalentes. Es decir, valores que deben ser vistos con matices, pues pueden resultar opresivos y perniciosos. 
 TENGO QUE AÑADIR MÁS VALORES POSITIVOS HUMANÍSTICOS A LA HISTORIA RELÁMPAGO: conservación de la memoria, interpretación y apreciación de la cultura, educación y cultivo intelectual, expresión a través de la materialidad, argumentación y participación en la esfera pública
@@ -71,6 +71,9 @@ Finalmente, desde el siglo XVII se establece con mayor claridad la separación e
 
 David Berry The computational Turn: German idealists 19th century modern university. Humboldt Schiller. Cultivo de sí mismo, conteminiento del conocimiento
 
+
+ "Pero es ya obvio que existen múltiples interpreta­ ciones del hombre y del mundo (este pluralismo se refleja incluso en los marcos doctrinales de las universidades) y por ello EL TIPO DE HUMANISMO Y DE HUMANIDADES está referido a las opciones que se tomen tanto a nivel institu­ cional como de los profesores en general." Dr. Eudoro Rodríguez A.
+
 ## Crisis de las humanidades
 
 En el recorrido de esta historia zigzagente vemos que existe un entrecruzamiento profundo entre los valores positivos y los valores negativos de las humanidades, de sus vicios y virtudes, si se quiere. La acumulación de esta historia nos lleva al tiempo presente y al lugar actual que ocupan las humanidades y el humanismo en las sociedades contemporáneas; el diagnóstico, para muchos autores, es que hay una crisis. Esta crisis en las humanidades y el humanismo se da, si seguimos la narrativa que he tratado de construir, por una pérdida del reconocimiento de sus virtudes, o al menos una infravaloración, y por una exacerbación de sus vicios. O, en otros términos, por la consideración de que lo que ofrece lo humanístico es irrelevante, porque hay otros campos que reemplazan lo que hacían las humanidades, o porque se considera que las presuposiciones humanísticas son dañinas. En el lado de las humanidades, se consideran irrelevantes los estudios humanísticos en comparación con estudios que ven a futuro y también producen más dinero en el mercado laboral; en el lado del humanismo, la participación democrática encuentra otras formas alternativas de discusión que no están basadas directamente en los métodos humanistas. Sloterdijk, en su libro Normas para el Parque Humano, que es una respuesta a la Carta sobre el humanismo de Heidegger, defiende entender las humanidades como un faro moral de la humanidad (el claro del ser, si usamos el dialecto heideggeriano) que evita la barbarie.
@@ -98,7 +101,7 @@ Eliminación de cursos, profesores, etc, y como consecuencia, pérdida de los va
 
 Martín Barbero: Redescubriendo al pueblo: la cultira como espacio de hegemonía: de las amasas a la masa... .incorporación de las clases populares a la cultura hegemónica a través del folletín. Es parecido a los blogs, las redes y el mundo de internet. Cuál es la relación de internet con el humanismo?
 
-## humanidades en Latino/América
+## Bárbaros en el ateneo - humanidades en Latino/América 
 
 Muchos pensadores en Latinoamérica se han preguntado por la autenticidad de nuestro humanismo: posrevolucionarios mexicanos, civilización y barbarie argentina, presidentes gramáticos... Esta discusión siempre lleva a una dicotomía que se puede expresar en el concepto de Latino / América, es decir, la división entre pertencer simultáneamente a un origen tradicional occidental, lo Latino, y un origen del nuevo mundo, lo Americano. Teoría de la dependencia, modernización. Somos bárbaros civilizados, por decirlo así. James Clifford The Predicament: autenticity as relational and local tactic
 
@@ -127,6 +130,20 @@ Gramática de Cano - Malcolm deas del poder y la gramática
 Tweets que estigmatizan a los indígenas en la protesta social (Colombia, Perú, Bolivia)
 Tal vez la misión capuchina en la sierra nevada
 
+"que contribuye a fijar los rasgos de nuestra identidad como pueblo” RIVASSACCONI,JoséManuel.EllatínenColombia: bosquejo histórico del humanismo colombiano. 3 ed Santafé de Bogotá, Instituto Caro y Cuervo. 1993, Noticia preliminar.
+
+"En su modalidad contemporánea se puede destacar algunos elementos propios de esa visión del mundo que son relevantes en la obra de Rivas Sacconi. La jerarquización racial y lingüística del orden social nacional con lo blanco-hispano-romano en la cúspide; una identificación, estricta de la élite con la nación, la preservación de la pureza de la raza de conquistadores humanistas como misión histórica cultural y como garantía de la unidad nacional, la sub- alternización de lo negro y lo indígena por la sociedad mayor, por considerarse factores negativos del progreso nacional. Todos estos elementos convergen de una manera u otra en la concepción humanista de Rivas Sacconi." [@puamoraPreguntaPorHumanismo2018, p. 65]
+
+"¡No volvamos a repetir la vieja historia, aceptando que solo seremos plenamente hombres, que tendremos una auténtica cultura y una no menos auténtica filosofía, cuando nos asemejemos, una vez más, al hombre occidental en su desarrollo!" [@zeaFilosofiaAmericanaComo1978, p. 152]
+
+"Una humanidad concreta, tan concreta como toda humanidad, que se imponía a otras humanidades igualmente concretas, exigiéndole —como pretexto— rindiesen cuenta de esa su humanidad. Una humanidad que, en abstracto, a fuerza de serlo acababa por ser expresión de los concretos intereses de quienes se consideraban a sí mismo expresión de lo humano por excelencia"[@zeaFilosofiaAmericanaComo1978, p. 53]
+
+"En tal sentido, lo que se presenta como lo universal por excelencia posee una connotación eurocéntrica, aun cuando representa en definitiva una cultura particular que se ha vuelto dominante y se convierte en un paradigma para evaluar a otras culturas."Dante Ramaglia
+
+"El latinoamericano no, éste, tratando de justificar su pretensión, la de ser Hombre, no un hombre, se empeñará en someterse al modelo de esta supuesta única forma de lo humano, recortando, destruyendo, lo que sobrase en la calca, pegando, parchando aunque natda tuviese que ver con su personalidad lo que flatase de ella. Recortando lo propio, añadiendo, pero sin asimilar, lo extraño. Creando, ahora sí, un humanismo híbrido, lo que era, con lo que era extraño a éste, ser." [@zeaFilosofiaAmericanaComo1978, p. 21]
+
+"Al lado de las filosofías vinculadas con los
+grandes bloques actuales o del futuro inmediato es preciso, pues, forjar un pensamiento que, a la vez que arraigue en la realidad histórico-social de nuestras comunidades y traduzca sus necesidades y metas, sirva como medio para cancelar el subdesarrollo y la dominación que tipifican nuestra condición histórica." [@salazarbondyExisteFilosofiaNuestra2006, p. 113] 113
 
 Martín Barbero: Modernidad y massmediación en América Latina: Diferencia grande: patrimonio, diferencia chica curiosidad folclórica. Proyecto de la clase criolla ¿ hacerse "nacional". Humanismo culturalista de Vasconcelos: La revolución popular guiada por el estado.
 
@@ -176,6 +193,8 @@ FROM TECHNOLOGY AS A PROBLEM TO THE HUMAN SUBJECT A S A PROJECT
 
 ## Unas humanidades digitales en Latino/América
 
+"el segundo republicanismo no se propuso metas organizativas de manera deliberada. \[...\] buscaba echar las bases culturales y educativas para que las élites políticas llevaran a cabo el proyecto de un “humanismo cívico”. La búsqueda de los modelos clásicos pretendía crear las condiciones necesarias dentro del ambiente espiritual a fin de que aconteciera." [@maizHUMANISMOCIVICOEPISODIO2016, p. 121]
+
 Si evitamos la trampa de pensar las humanidades digitales como una mera apropiación instrumental de las tecnológicas digiales para el estudio tradicional Una oportunidad para pensar en las humanidades desde un fenómeno cultural inescapable, lo digital. Relaciones infraestructurales, de comunidad y de construcción de conocimiento.
 
 Una tensión global local acerca de dónde provienen las tecnologías, métodos, teorías, estándares, lineamientos y presupuestos de las humanidades digitales
@@ -194,9 +213,13 @@ Reparación, memoria, representación de las comunidades oprimidas y marginadas
 Las humanidades digitales pueden jugar un papel en esa crisis en la medida en que pueden crear un rol constructivo
 
 Volver al problema de la representación, la tokenización y la cultura como estructura simbólica
-Un humanismo que se interesa por el conflicto, la paz, la reconciliación y no solo
+Un humanismo que se interesa por el conflicto, la paz, la reconciliación y no solo. Una amenaza que puede verse con la eliminación de la lectura y por lo tanto la eliminación de las letras y su reemplazo por los números [@brownHumanismoCyborgLetrado2008a]
 
 EXCEPCIONALISMO HUMANO (heidegger)
+
+Henríquez Ureña Grecolatinista
+
+CORTAZAR Y SÁBATO, contra lo mecánico y cibernético, las humanidades (desde la letras) ofrecen la rehumanización del humano. Recentramiento en el hombre
 
 4.	Descentrar al humano, hacerlo minúsculo
 
