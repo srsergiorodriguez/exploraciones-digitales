@@ -89,13 +89,24 @@ No obstante, hay una particularidad que salta a la vista con estándares como TE
 
 Esta paradoja de la brecha idiómatica, una de tantas brechas, como veremos, se ve en otros ejemplos de la construcción de infraestructuras digitales. En el libro Coding Places, Yuri Takhteyev [@takhteyevCodingPlacesSoftware2012] describe su investigación sociológica acerca de los desarrolladores de Software en Rio de Janeiro, Brasil. Lua es un lenguaje de programación desarrollado en Brasil, Lua quiere decir luna en Portugués, pero, para tener una audiencia amplia y un uso competitivo globalmente Lua está escrito en inglés. como lo describe Takhteyev, los desarrolladores brasileros viven en un estado de diglosia cultural, o vivir en dos lenguajes al mismo tiempo, en este caso, el lenguaje cotidiano, local, el portugués, 
 
+"En Brasil, como lo ha mostrado el historiador da Costa Marques, un
+grupo de ingenieros construyó una versión local del computador Apple ii.
+Conocido en su momento como el Mac de la periferia, el diseño del proto-
+tipo Unitron se hizo a partir de procesos de ingeniería inversa, en los que,
+a través del análisis del funcionamiento de las partes, se podía generar
+una versión que simuló el funcionamiento del original" [@prietonanezInteraccionesComputacionVida2019, p. 145]
+
 De este modo, la tensión infraestructural de las humanidades digitales en América Latina por en juego un movimiento entre lo global con lo local. Una idea importante para este tipo de estándares es que puedan ser escalables. Es decir, que no requiera mayor esfuerzo. Usando el mismo estándar, es posible codificar documentos. 
 
 UN SKETCH QUE MUESTRE EL CODIGO EN INGLES Y LAS VARIABLES EN ESPAÑOL
 
 PELAGIO: "However, until we started our project, the idea of the past related only to classical Greek, Roman, and Byzantine history. The mini- grants offered by this community, and the infrastructure using semantic technol- ogies such as Linked Open Geodata for the humanities, led us to work with tools designed primarily for texts in English from the classical or European past. From our different location, we had not only to recontextualize the Pelagios infrastruc- ture but also to “transculture” (Ortiz, Contrapunteo cubano) its tools from the periphery." 
 
-## Brechas
+## Brechas de la dependencia
+
+Qué es una brecha
+
+Sketch de apego preferencial
 
 Acknowledge the gaps
 Ken Keniston, human development scholar from the Mas- sachusetts Institute of Technology, and colleagues argue for the importance of recognizing four distinct digital divides between:54

@@ -23,7 +23,7 @@
         "content/3_metodos.md",
         "content/4_mapa.md",
         {
-          "label": "Tensiones",
+          "label": "Dimensiones",
           "files": [
             "content/5_1_tradicion.md",
             "content/5_2_epistemologia.md",
@@ -33,7 +33,7 @@
         },
         "content/6_programa.md",
         {
-          "label": "Ensayos",
+          "label": "Conceptos",
           "files": [
             "content/7_1_informacion.md",
             "content/7_2_datificacion.md",
