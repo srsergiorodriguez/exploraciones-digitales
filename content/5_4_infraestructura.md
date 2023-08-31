@@ -13,7 +13,7 @@ El Demonio de Maxwell, propuesto por James Clark Maxwell, es un experimento ment
 
 <sketch
   height="410px"
-  src="./assets/sketches/5_4_infraestructuras/maxwell"
+  src="./assets/sketches/infraestructuras/maxwell"
   caption="El experimento mental del Demonio de Maxwell. El demonio hace lo que puede para clasificar y separar las moléculas"
 />
 
@@ -47,7 +47,7 @@ Por ejemplo, como lo muestra un estudio de Colbert, Li, Schwartz y Satten-Lopez,
 
 <sketch
   height="360px"
-  src="./assets/sketches/5_4_infraestructuras/laborScanners"
+  src="./assets/sketches/infraestructuras/laborScanners"
   caption='Cantidad de páginas escaneadas por mes en centros de digitalización para colecciones del Internet Archive. Los <a href="https://github.com/scanninglabor/IAScanningLabor/tree/main/code/map_json_files" target="_blank">datos</a> fueron recogidos por Eleanor Colbert, Lucian Li, Elizabeth Schwartz y David Satten-Lopez, esta visualización se hace con su autorización.'
 />
 

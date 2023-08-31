@@ -13,7 +13,7 @@ async function setup() {
 
   let selectedYear = years[yearSlider.value()];
   let filteredData = data.filter(d => d.date === selectedYear);
-  const r = d3.scaleLinear().domain(d3.extent(data, d => d.count)).range([1, m.h/8]);
+  const r = d3.scaleLinear().domain(d3.extent(data, d => d.count)).range([1, m.h/7]);
 
   const update = makeMap(geoData, filteredData, r);
 
@@ -32,7 +32,7 @@ function makeMap(geoData, data, r) {
       .fitSize([m.w, m.h], geoData)
 
   let geoPath = d3.geoPath().projection(projection)
-  let svg = d3.select("#general").append("svg").attr("width", w).attr("height" ,h);
+  let svg = d3.select("#general").append("svg").attr("preserveAspectRatio", "xMinYMin meet").attr("viewBox", `0 0 ${w} ${h}`)
   let g = svg.append("g").attr("transform", `translate(${m.l},${m.t})`);
   
   g.append("g")
@@ -86,18 +86,18 @@ function makeMap(geoData, data, r) {
       .attr("cy",d=>projection([d.lon,d.lat])[1])
       .attr("r", d => r(d.count))
       .attr("fill", colmain)
-      // .on("mouseover", function(e, d) {
-      //   console.log(d);
-      //   circles.append("text")
-      //     .text(d.count)
-      //     .attr("alignment-baseline", "middle")
-      //     .attr("text-anchor", "middle")
-      //     .attr("x",projection([d.lon,d.lat])[0])
-      //     .attr("y",projection([d.lon,d.lat])[1])
-      // })
-      // .on("mouseout", function(e, d) {
-      //   circles.selectAll("text").remove();
-      // })
+      .on("mouseover", function(e, d) {
+        circles.attr("r", 100)
+        circles.append("text")
+          .text(d.count + " libros escaneados por " + d.name)
+          .attr("alignment-baseline", "middle")
+          .attr("text-anchor", "middle")
+          .attr("x",w/2)
+          .attr("y",10)
+      })
+      .on("mouseout", function(e, d) {
+        circles.selectAll("text").remove();
+      })
 
   }
 

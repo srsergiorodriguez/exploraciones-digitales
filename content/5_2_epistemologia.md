@@ -14,9 +14,19 @@ Luego de intensas discusiones en las redes formales e informales de la academia 
 
 Más de diez años después podríamos decir que la metáfora de la gran carpa ha mutado en la metáfora de los archipiélagos, sugerida por Glen Layne-Worthey, justamente uno de los proponentes de la primera metáfora, en la entrevista que sostuvimos: por fuerza del tiempo y del ímpetu particular se han asentado prácticas particulares de las humanidades digitales que se han manifestado en múltiples y diversos proyectos, a pesar de que nunca se haya logrado definir exactamente qué son las humanidades digitales. Esto es, al final, una comprobación de que no es necesario definirlas, sino, tal vez, ejercerlas, sea como sea que se entiendan. Las exclusiones y confusiones siguen ahí, pero al menos ahora podemos armar un mapa y ver que algunas islas en el archipiélago están más cerca unas de otras, y otras más están tan lejos que ya no se comunican ni se entienden —y en el peor de los casos, se odian—. Solo andando el terreno se puede ver que, efectivamente, es posible atravesarlo y cambiar de ambiente gradualmente. Algunos practicantes prefieren quedarse en su orilla, y otras buscan maneras de crear puentes, caminos, medios de comunicación entre zonas aparentemente disímiles.En general, en el mapa de los archipiélagos cohabitan posturas de las humanidades digitales que ven a las tecnologías digitales como herramientas para la continuación de las prácticas tradicionales, existen otras que las ven como instrumentos para el activismo social, también existen posturas críticas de las tecnologías digitales y posturas. Este mapa es en cierta medida análogo a las divisiones y el disciplinamiento que existe en la academia de las humanidades y que ya ha sido en parte elaborado en el capítulo 5.1. Por ejemplo, existen marcadas divisiones entre disciplinas tradicionales de las humanidades como la historia, la linguística y la filología con otros campos como los estudios de la comunicación y los medios, o la creación artística. Sin embargo, en ocasiones estas discordancias son artificiales, y por fuerza del propio desarrollo de proyectos con sus preguntas y objetivos particulares es inevitable el salto transdiciplinario y la indisciplina. Incluso el investigador computacional más estricto no puede evitar pensar en algún momento en las particularidades de las tecnologías digitales como medio, y así, aunque sea un poco, mojarse los dedos en problemas que, aparentemente, son del dominio de los estudios de la comunicación. Por supuesto, también se debe a otros factores, como las infraestructuras y la formación de comunidad, elaborados en los capítulos 5.3 y 5.4 que vienen después de este, y que complejizan la situación. A pesar del tono optimista de la noción de gran carpa, las diferencias sociales de los grupos que hacen humanidades digitales. Existen islas que no han sido cartografiadas aún.
 
+<sketch
+  height="700px"
+  src="./assets/sketches/epistemologia/vectoresReviewsDH"
+  caption="Un mapa de vectores que representa la semántica distribucional de los artículos publicados hasta el Vol. 4 No. 8 de Reviews in digital humanities"
+/>
+
 No todas las partes del archipiélago han sido exploradas con igual intensidad desde América Latina. En este capítulo presentaré distintas formas de epistemología de lo digital desde las humanidades o para las humanidades que orientan prácticas de las humanidades digitales: lo digital como método y herramienta, lo digital como fenómeno cultural, lo digital para la causa, y lo digital como medio expresivo. Estas distintas formas de epistemología digital se suman al mapa de tensiones que se dibujan en este proyecto.
 
-HACER VECTORES DE PALABRAS PARA INTENTAR DIBUJAR EL MAPA DE ESA GRAN CARPA
+<sketch
+  height="700px"
+  src="./assets/sketches/epistemologia/vectoresRevistaHD"
+  caption="Un mapa de vectores que representa la semántica distribucional de los artículos publicados hasta el Vol. 8 de la Revista de Humanidades Digitales "
+/>
 
 PRAXIS AND THEORY NURIA RODRIGUEZ-ORTEGA
 
@@ -26,15 +36,17 @@ Digital scholarship - erudición digital - Erudito = fuera de lo tosco
 
 La noción por defecto con la que se caracterizan a las humanidades digitales es la de el uso de tecnologías digitales para el estudio de los temas humanísticos. Esta noción proviene de una narrativa ya muy establecida por las humanidades digitales que han construido una genealogía que se remonta a las prácticas tradicionales de las humanidades. Como reconoce XXX en la entrevista que sostuvimos, esta narrativa es ideal en el sentido en el que se construye como una continuidad con la tradición ortodoxa de las humandiades: Busa, un sacerdote, continúa las prácticas de los copistas medievales escolásticos de los monasterios y anota un texto tradicional, las obras de Tomás de Aquino —que a su vez incluye múltiples interpretaciones de textos más canónicos, la obra de aristóteles— pero esta vez no copia a mano sino que, con la ayuda de la IBM produce un catálogo datificado, operable computacionalmente. Desde esta gran narrativa, la mesa de copista ahora es una mesa de cómputo, las glosas con comentarios anotados en las márgenes de los libros ahora son anotaciones escritas en formatos de intercambio interoperables, las bibliotecas y sus formas de organización ahora son estructuras de datos. Y el proceso de lectura puede hacerse a través de algoritmos que, en vez de palabras y colores, ven números y píxeles, y de ellos extraen patrones, tendencias y relaciones. Así, cada proceso del estudio erudito de la cultura tiene un equivalente potenciado en en el mundo digital.
 
-<figure class="illustration whole">
-  <figcaption>El padre Roberto Busa en la Universidad de Yale en 1956. (<a href="https://dhlab.yale.edu/about.html" target="_blank">Fuente</a>, CIRCSE Research Centre, Università Cattolica del Sacro Cuore, Milan, Italy, Licencia CC-BY-NC)</figcaption>
-  <img alt="Un sacerdote revisando un libro antiguo y copiando su contenido en un computador de los años 50" src="epistemologia/busa.png" />
-</figure>
+<div class="side-by-side">
+  <figure class="illustration">
+    <figcaption>Monje Olivetano — Atribuida a Baldassare Tommaso Peruzzi. (<a href="https://library.artstor.org/#/asset/SS7731421_7731421_11265326;prevRouteTS=1693349251244" target="_blank">Fuente</a>, Artstor | The Metropolitan Museum of Art, Licencia CC0)</figcaption>
+    <img alt="La pintura de un monje que está escribiendo en una mesa" src="images/epistemologia/monjeOlivetano.jpg" />
+  </figure>
 
-<figure class="illustration whole">
-  <figcaption>Monje Olivetano — Atribuida a . (<a href="https://library.artstor.org/#/asset/SS7731421_7731421_11265326;prevRouteTS=1693349251244" target="_blank">Fuente</a>, Artstor | The Metropolitan Museum of Art, Licencia CC0)</figcaption>
-  <img alt="La pintura de un monje que está escribiendo en una mesa" src="epistemologia/monjeOlivetano.jpg" />
-</figure>
+  <figure class="illustration">
+    <figcaption>El padre Roberto Busa en la Universidad de Yale en 1956. (<a href="https://dhlab.yale.edu/about.html" target="_blank">Fuente</a>, CIRCSE Research Centre, Università Cattolica del Sacro Cuore, Milan, Italy, Licencia CC-BY-NC)</figcaption>
+    <img alt="Un sacerdote revisando un libro antiguo y copiando su contenido en un computador de los años 50" src="images/epistemologia/busa.jpeg" />
+  </figure>
+</div>
 
 Así desde la epistemología de lo digital como instrumento existen dos grandes procesos importantes, ligados a los fines humanísticos de la conservación de la memoria y la interpretación y apreciación de la cultura. Por una parte está la digitalización, conservación, y facilitamiento del acceso a artefactos culturales y sus metadatos, y, por la otra, el análisis por medio o con ayuda de procesos computacionales y algorítmicos.
 

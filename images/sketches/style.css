@@ -31,8 +31,8 @@ body {
   grid-gap: 1em;
 }
 
-.big-left {
-  grid-template-columns: 2fr 1fr;
+.date-slider {
+  grid-template-columns: 5fr 1fr;
 }
 
 .slider {
@@ -46,6 +46,30 @@ body {
   border-radius: 5px;
   list-style: none;
   cursor:pointer;
+}
+
+button {
+  box-shadow:none;
+  -webkit-appearance: none;
+  -moz-appearance:none;
+  appearance: none;
+  background: var(--colbg);
+  border: solid 1px var(--colblack);
+  color: var(--colblack);
+  cursor: pointer;
+  padding: 0.5em;
+  border-radius: 5px;
+  list-style: none;
+  cursor:pointer;
+  user-select: none;
+}
+
+button:hover {
+  background: var(--col2);
+}
+
+button:active {
+  background: var(--col1);
 }
 
 .slider:focus {

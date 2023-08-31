@@ -69,7 +69,7 @@ figure.whole {
   text-align: center;
   float: center; // No está centrando
   max-width: 100%;
-  margin: 10px;
+  margin: 0.5em;
 }
 
 figure img {
@@ -78,11 +78,22 @@ figure img {
 
 figcaption {
   font-size: 0.9em;
-  margin: 10px 0px;
+  margin: 0.5em 0px;
 }
 
 figure.whole figcaption{
   text-align: center;
+}
+
+.side-by-side {
+  display: flex;
+}
+
+.side-by-side figure {
+  text-align: center;
+  float: center;
+  max-width: 100%;
+  margin: 0.5em;
 }
 
 /* Sketches */
@@ -124,7 +135,7 @@ iframe {
 
 .mainset {
   display: grid;
-  grid-template-columns: 1fr minmax(100px, 800px) 1fr;
+  grid-template-columns: 1fr minmax(100px, 900px) 1fr;
   grid-gap: 10px;
 }
 
