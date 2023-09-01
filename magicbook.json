@@ -1,6 +1,6 @@
 {
-  "title" : "Exploraciones digitales para humanistas",
-  "subtitle": "Subtítulo",
+  "title" : "Dimensiones y tensiones de las humanidades digitales en América Latina",
+  "subtitle": "Un programa intelectual",
   "destination" : "build/:build",
   "addPlugins": [
     "./plugins/addSketch.js",

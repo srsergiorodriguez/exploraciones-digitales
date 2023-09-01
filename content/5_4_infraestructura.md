@@ -46,7 +46,7 @@ Esto es evidente en las muchas infraestructuras que involucran las prácticas de
 Por ejemplo, como lo muestra un estudio de Colbert, Li, Schwartz y Satten-Lopez, la mayoría de páginas escaneadas en la colección del Internet Archive, que alberga un número enorme de libros, fueron realizadas en China y Filipinas, en unas condiciones muy inferiores a las de otros centros de escaneo. De acuerdo con personas entrevistadas por estos investigadores, los problemas de espalda y las largas horas de trabajo implicaban una rotación y cambio de empleados más recurrente en estos países que, digamos, en Estados Unidos o Europa. En un sentido similar, en geology of media, Jussi Parikka muestra cómo los grandes centros de processamiento de datos usados en inteligencia artificial o que alojan los datos masivos de lo que eufemísticamente llamamos "la nube", aprovechan los antiguos molinos de agua en lugares como Alaska para enfríar los servidores que están día y noche haciendo computaciones. (para bajarle la velocidad a las moléculas). Es decir, son infraestructuras reutilizadas para trabajos diferentes.
 
 <sketch
-  height="360px"
+  height="457px"
   src="./assets/sketches/infraestructuras/laborScanners"
   caption='Cantidad de páginas escaneadas por mes en centros de digitalización para colecciones del Internet Archive. Los <a href="https://github.com/scanninglabor/IAScanningLabor/tree/main/code/map_json_files" target="_blank">datos</a> fueron recogidos por Eleanor Colbert, Lucian Li, Elizabeth Schwartz y David Satten-Lopez, esta visualización se hace con su autorización.'
 />

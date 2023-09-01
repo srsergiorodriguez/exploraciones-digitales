@@ -91,6 +91,7 @@ function wordVectorMap(data) {
       .attr("y", d => y(d.y))
       .style("fill", "black")
       .style("font-size", 1)
+      .style("font-size", 0.4)
       .text(d => d.word)
 
   const gx = g.append("g");
