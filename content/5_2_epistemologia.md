@@ -3,7 +3,7 @@ title: Epistemología de lo digital
 subtitle: Instrumentalización, crítica, resistencia, construcción
 ---
 
-<header class="chapter-headers">
+<header class="chapter-headers" id="chapter-header">
   <h1>{{ page.title }}</h1>
   <h2>{{ page.subtitle }}</h2>
 </header>
@@ -27,6 +27,9 @@ No todas las partes del archipiélago han sido exploradas con igual intensidad d
   src="./assets/sketches/epistemologia/vectoresRevistaHD"
   caption="Un mapa de vectores que representa la semántica distribucional de los artículos publicados hasta el Vol. 8 de la Revista de Humanidades Digitales "
 />
+
+
+http://archipelagosjournal.org/ Investigación digital en el caribe
 
 PRAXIS AND THEORY NURIA RODRIGUEZ-ORTEGA
 
@@ -57,6 +60,8 @@ El primer proceso normalmente se ha concebido como una transición relativamente
 Colecciones digitalizadas de archivos
 Anotación de textos.
 
+Lope de VEga LA Dama Boba: http://damaboba.unibo.it/aplicacion.html
+
 Un sketch con la biblioteca del nombre de la rosa.
 
 sin embargo, a esta transparencia subyacen problemas con respecto a las formas de categorización y estandarización que pueden invisibilizar culturas no hegemónicas. Este problema se elabora en más detalle en el ensayo dedicado a la información.
@@ -68,6 +73,9 @@ Revistas digitalizadas y marginalia del Che en Cuba
 Proyectos de TEI en Argentina
 Biblioteca del pensamiento NovoHispano
 
+E incluso, de forma meta, la conservación digital de proyectos de conservación digital,
+https://thecaribbeandigital.org//caridischo/collections/
+CARIDISCHO
 
 Un proyecto de conservación de objetos culturales digitales
 
@@ -172,6 +180,8 @@ Bridging Personal, Political, and Geographical Borderlands
 Maira E. Álvarez and Sylvia Fernández Quintanilla
 
 Proyectos de humanidades digitales sobre tormentas en el caribe AREPR, Schuyler Esprit, Leonardo Flores, Alex Gil
+http://archipelagosjournal.org/issue07/rogers-etal-coasts.html
+Huracanes
 
 
 ### Resistencias frente a hegemonías digitales

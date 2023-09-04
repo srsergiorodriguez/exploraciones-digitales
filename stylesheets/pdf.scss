@@ -1,11 +1,25 @@
 @import 'shared';
 
+:root {
+  --h1-size: 14pt;
+  --h2-size: 11pt;
+  --p-size: 8pt;
+}
+
 section[data-type="chapter"] {
   page-break-after: always;
 }
 
 nav[data-type="toc"] a[href]::after {
   content: " --- P. " target-counter(attr(href), page);
+}
+
+ol[data-type="footnotes"] {
+  color: red;
+}
+
+.references-title {
+  font-size: var(--h1-size);
 }
 
 @page {
@@ -21,16 +35,16 @@ nav[data-type="toc"] a[href]::after {
 }
 
 section[data-type="chapter"]  h1 {
-  font-size: 14pt;
+  font-size: var(--h1-size);
   text-align: center;
 }
 
 section[data-type="chapter"] h2 {
-  font-size: 11pt;
+  font-size: var(--h2-size);
 }
 
 section[data-type="chapter"]  p {
-  font-size: 8pt;
+  font-size: var(--p-size);
   text-align: justify;
 }
 

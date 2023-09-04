@@ -13,6 +13,8 @@ Debido al interés por los entrecruzamientos entre la sociedad, la cultura y la 
 
 New Humanities Project Universitá di Roma Tre Bergonzi: interdisciplinarity and transdiciplinarity. Distant collaboration
 
+https://arounddh.elotroalex.com/journey/
+
 De cualquier modo, estos roles de las humanidades digitales cumplen ciertas funciones y operan dentro de ciertas comunidades particulares, que pueden ser tanto formales como informales, una colaboración entre los dos formatos, o un híbrido: podemos pensar las blibliotecas, universidades, mundos editoriales, grupos activistas, grupos de interés, asociaciones, centros educativos, espacios creativos, laboratorios, hackerspaces, como espacios comunitarios con diferentes niveles de instucionalización y formalización: en el sentido de un establecimiento de reglas, disciplinamiento. El tipo de comunidad en buena medida define los intereses, límites y posibilidades del tipo de actividades y proyectos que pueden realizar. REFERENCIAR MUNDOS DEL ARTE DE BECKER En ocasiones, además, la misma persona puede enactuar varios roles al tiempo o cambiar de uno a otro. Las prácticas de las humanidades digitales se desenvuelven dentro de distintas comunidades que pueden ser formales o informales, una colaboración entre las dos, o un híbrido. 
 
 <sketch
