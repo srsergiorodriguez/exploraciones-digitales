@@ -65,6 +65,10 @@ Creación de grupos para lograr propósitos comunes que conectan a las humanidad
 
 ## Una simbiosis necesaria
 
+Como en otros campos del conocimiento, las humanidades digitales se desenvuelven tanto en comunidades formales como informales, y la conjunción de ellas conforma una simbiosis necesaria pero que no está libre de problemas.
+
+Formas excluyentes de participación, especialmente debido a que se construyen de manera jerárquica y dependen de políticas más amplias que son difíciles de reencausar, sea el estado, la política local, las posturas ideológicas de gobernantes de turno, o los intereses institucionales de universidades, archivos y museos. Alianzas formales.
+
 La doble necesidad de las comunidades informales (No regladas) y las comunidades formales 
 
 EL PROBLEMA DEL SISTEMA DEL PRESTIGIO
@@ -81,8 +85,7 @@ Informal:
 - grupos de la sociedad civil
 - hacker spaces, laboratorios
 
-
-"The key element which distinguishes learning communities as a pedagogic model (and relates them to the sister concept of ‘communities of practice’) is the idea that learning isn’t the acquisition of knowledge but is about participation in a social process." Stuart Billingham en CLay, MAdden and Potts Towards Understanding Community 2007 p.36
+"The key element which distinguishes learning communities as a pedagogic model (and relates them to the sister concept of ‘communities of practice’) is the idea that learning isn’t the acquisition of knowledge but is about participation in a social process." Stuart Billingham en Clay, Madden and Potts Towards Understanding Community 2007 p.36
 
 Community of practice como duradera, efectiva, informal y más abierta a la representación de comunidades marginadas. Stuart Billingham en Clay etal
 
@@ -90,10 +93,11 @@ Community of practice como duradera, efectiva, informal y más abierta a la repr
 
 Lave and Wenger (1991) first explored the idea of ‘communities of practice’ in the context of developing a theory that genuine learning is always ‘situated’. According to Lave and Wenger, knowledge is always produced within a context. By 1999, Wenger summarised the idea of ‘communities of practice’ as follows:
 
-Being alive as human beings means we are constantly engaged in the pursuit of enterprises of all kinds, from ensuring our physical survival to seeking the most lofty pleasures. As we define these enterprises and engage in their pursuit together, we interact with each other and with the world and we tune our relations with each other and with the world accordingly. In other words we learn.
 Over time, this collective learning results in practices that reflect both the pursuit of our enterprises and the attendant social relations. These relations are thus the property of a kind of community created over time by the sustained pursuit of a shared enterprise. It makes sense, therefore, to call these kinds of communities, communities of practice (Wenger 1999: 45).
 
 "However, what defines a ‘community of practice’ is not simply that members share a skill or knowledge-set related to a task. Crucially, they are defined by the social relationships that exist and/or develop over time between the members. This is why the concept of ‘community’ struck Lave and Wenger as appropriate to describe this phenomenon. This is a key point. The concept of community, as used here, sees learning as being about participation rather than internalisation."Stuart Billingham p.40
+
+Un ejemplo de ello es el club de programación de la REd COlombiana de Humanidades Digitales que, hasta el momento, coordino. El club se ha construido como un espacio informal para el aprendizaje y en él se han fraguado proyectos comunes y amistades.
 
 ## Acciones duraderas y sostenidas
 

@@ -3,15 +3,37 @@
 :root {
   --h1-size: 14pt;
   --h2-size: 11pt;
+  --h1-size-sect: 11pt;
+  --h2-size-sect: 9pt;
   --p-size: 8pt;
+  --caption-size: 7pt;
 }
 
 section[data-type="chapter"] {
   page-break-after: always;
+  color: var(--colblack);
+}
+
+section.single-page {
+  page-break-after: always;
+}
+
+.toc-title {
+  text-align: center;
+  font-size: var(--h1-size);
 }
 
 nav[data-type="toc"] a[href]::after {
   content: " --- P. " target-counter(attr(href), page);
+}
+
+nav[data-type="toc"] a[href] {
+  color: var(--colblack);
+}
+
+nav[data-type="toc"] li {
+  list-style-type: none;
+  font-size:  var(--p-size);
 }
 
 ol[data-type="footnotes"] {
@@ -26,12 +48,8 @@ ol[data-type="footnotes"] {
   size: 15cm 22.5cm;
   @bottom {
     content: counter(page);
+    font-size: 7pt;
   }
-}
-
-.text-p {
-  font-size: 6pt;
-  text-align: justify;
 }
 
 section[data-type="chapter"]  h1 {
@@ -43,16 +61,27 @@ section[data-type="chapter"] h2 {
   font-size: var(--h2-size);
 }
 
+section[data-type="sect1"] h1 {
+  font-size: var(--h1-size-sect);
+  color: red;
+}
+
+section[data-type="sect1"] h2 {
+  font-size: var(--h2-size-sect);
+  color: blue;
+}
+
 section[data-type="chapter"]  p {
   font-size: var(--p-size);
   text-align: justify;
 }
 
 figcaption {
-  font-size: 6pt;
+  font-size: var(--caption-size);
   text-align: center;
 }
 
 figure img {
   max-width: 100%;
+  max-height: 400px;
 }

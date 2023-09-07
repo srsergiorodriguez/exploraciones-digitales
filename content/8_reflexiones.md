@@ -1,5 +1,5 @@
 ---
-title: Reflexiones ensayos interactivos
+title: Sobre los ensayos interactivos
 subtitle: Las explicaciones explorables como productos académicos
 ---
 

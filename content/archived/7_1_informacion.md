@@ -92,7 +92,7 @@ Escobar Cultura como estructura simbólica vs cultura como diferencia radical
 “it is the substitution of a historically authoritative text for heterogeneous manuscripts and performances that constituted Hafiz, the Mu‘allaqāt, and Śakuntalā as literature in the first place and hence instituted non-Western literatures” [@ahmedArchaeologyBabelColonial2018, p. 12]
 Autonomía de las vidas ahistóricas [@ahmedArchaeologyBabelColonial2018]
 
- Hafiz, Mu‘allaqāt, Śakuntalā. Conversitdas en literatura a través de la Filología de William Jones. Cristalización de culturas indescriptibles. “In each of these examples, the practice that ultimately lends the literary work its meaning is something philology cannot place. Each of these practices not only resisted being recorded but, furthermore, disavowed all philological power in order to pursue a fundamentally different form of life” “they resist not just literary inscription but historical transmission of any kind” [@ahmedArchaeologyBabelColonial2018, p. 16]
+Hafiz, Mu‘allaqāt, Śakuntalā. Conversitdas en literatura a través de la Filología de William Jones. Cristalización de culturas indescriptibles. “In each of these examples, the practice that ultimately lends the literary work its meaning is something philology cannot place. Each of these practices not only resisted being recorded but, furthermore, disavowed all philological power in order to pursue a fundamentally different form of life” “they resist not just literary inscription but historical transmission of any kind” [@ahmedArchaeologyBabelColonial2018, p. 16]
 
 In Tlilli in Tlapalli / In Xochitl in Cuicatl
 The Representation of Other Mexican Literatures through Digital Media

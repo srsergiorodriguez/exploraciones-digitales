@@ -10,34 +10,35 @@ subtitle: Instrumentalización, crítica, resistencia, construcción
 
 ## Dimensión de la epistemología digital: de la carpa al archipiélago
 
-Luego de intensas discusiones en las redes formales e informales de la academia acerca de lo que podría o no considerarse como humanidades digitales, en el congreso del 2011 de la ADHO (Alianza de Organizaciones de Humanidades Digitales) se planteó la metáfora de las humanidades digitales como un "gran carpa" (o "big tent", en inglés)[@adhoDigitalHumanities20112011]. Es decir, como un lugar en el que muchas prácticas, disciplinas y epistemologías diferentes pueden participar y sentirse cobijadas, e incluso protegidas, si se quiere, de visiones que impiden que prosperen. El uso de tecnologías digitales para el estudio de las humanidades era un tema que, aunque no era nuevo, estaba ganando un interés y una visibilidad que atraía miradas curiosas y críticas, entusiastas y resistentes. La metáfora de la carpa también traía consigo la noción de exhibición y actuación; la carpa de un circo en la que personas interesadas pueden simplemente asomarse y decidir si quieren o no participar del espectáculo. La metáfora en ese momento correspondía con un claro intento de funambulismo: evitar definir estrictamente los límites del campo de las humanidades digitales y al tiempo contar con una manera clara de describir qué cabría dentro de ellas. El propósito de este acto de equilibrio era recibir nuevas personas, proyectos y financiadores sin que se sintieran excluidas pero tampoco confundidas.
+Luego de intensas discusiones en las redes formales e informales de la academia acerca de lo que podría o no considerarse como humanidades digitales, en el congreso del 2011 de la ADHO (Alianza de Organizaciones de Humanidades Digitales) se planteó la metáfora de las humanidades digitales como una "gran carpa" (o "big tent", en inglés)[@adhoDigitalHumanities20112011]. Es decir, como un lugar en el que muchas prácticas, disciplinas y epistemologías diferentes podían participar y sentirse cobijadas, e incluso protegidas del rechazo de otros campos. El uso de tecnologías digitales para el estudio de las humanidades era un tema que, aunque no era nuevo, estaba ganando un interés y una visibilidad que atraía miradas curiosas y críticas, entusiastas y resistentes. La metáfora de la carpa también traía consigo la noción de exhibición y actuación; la carpa de un circo en la que personas interesadas podían simplemente asomarse y decidir si querían o no participar del espectáculo. Hoy se puede decir que la metáfora de ese momento correspondía con un claro intento de funambulismo: evitar definir estrictamente los límites del campo de las humanidades digitales y al tiempo contar con una manera relativamente clara de describir qué cabría dentro de ellas. El propósito de este acto de equilibrio era recibir nuevas personas, proyectos y financiadores sin que se sintieran excluidas pero tampoco confundidas por el aspecto etéreo de las humanidades digitales.
 
-Más de diez años después podríamos decir que la metáfora de la gran carpa ha mutado en la metáfora de los archipiélagos, sugerida por Glen Layne-Worthey, justamente uno de los proponentes de la primera metáfora, en la entrevista que sostuvimos: por fuerza del tiempo y del ímpetu particular se han asentado prácticas particulares de las humanidades digitales que se han manifestado en múltiples y diversos proyectos, a pesar de que nunca se haya logrado definir exactamente qué son las humanidades digitales. Esto es, al final, una comprobación de que no es necesario definirlas, sino, tal vez, ejercerlas, sea como sea que se entiendan. Las exclusiones y confusiones siguen ahí, pero al menos ahora podemos armar un mapa y ver que algunas islas en el archipiélago están más cerca unas de otras, y otras más están tan lejos que ya no se comunican ni se entienden —y en el peor de los casos, se odian—. Solo andando el terreno se puede ver que, efectivamente, es posible atravesarlo y cambiar de ambiente gradualmente. Algunos practicantes prefieren quedarse en su orilla, y otras buscan maneras de crear puentes, caminos, medios de comunicación entre zonas aparentemente disímiles.En general, en el mapa de los archipiélagos cohabitan posturas de las humanidades digitales que ven a las tecnologías digitales como herramientas para la continuación de las prácticas tradicionales, existen otras que las ven como instrumentos para el activismo social, también existen posturas críticas de las tecnologías digitales y posturas. Este mapa es en cierta medida análogo a las divisiones y el disciplinamiento que existe en la academia de las humanidades y que ya ha sido en parte elaborado en el capítulo 5.1. Por ejemplo, existen marcadas divisiones entre disciplinas tradicionales de las humanidades como la historia, la linguística y la filología con otros campos como los estudios de la comunicación y los medios, o la creación artística. Sin embargo, en ocasiones estas discordancias son artificiales, y por fuerza del propio desarrollo de proyectos con sus preguntas y objetivos particulares es inevitable el salto transdiciplinario y la indisciplina. Incluso el investigador computacional más estricto no puede evitar pensar en algún momento en las particularidades de las tecnologías digitales como medio, y así, aunque sea un poco, mojarse los dedos en problemas que, aparentemente, son del dominio de los estudios de la comunicación. Por supuesto, también se debe a otros factores, como las infraestructuras y la formación de comunidad, elaborados en los capítulos 5.3 y 5.4 que vienen después de este, y que complejizan la situación. A pesar del tono optimista de la noción de gran carpa, las diferencias sociales de los grupos que hacen humanidades digitales. Existen islas que no han sido cartografiadas aún.
+Más de diez años después de ese congreso de la ADHO, tiene sentido afirmar que la metáfora de la gran carpa ha mutado en la metáfora de los archipiélagos, sugerida por Glen Layne-Worthey —justamente, uno de los proponentes de la primera metáfora— en la entrevista que sostuvimos: por fuerza del tiempo y del ímpetu particular se han asentado prácticas particulares que se han manifestado en múltiples y diversos proyectos, a pesar de que nunca se haya logrado definir exactamente qué son las humanidades digitales. Esto es, al final, una comprobación de que no era necesario definirlas, sino, tal vez, ejercerlas, sea como sea que se entiendan, y a través de proyectos ver sus alcances y grietas. Las exclusiones y confusiones siguen ahí, pero, al menos, ahora podemos dibujar un mapa, o muchos, y ver que algunas islas en el archipiélago están más cerca unas de otras, y otras más están tan lejos que ya no se comunican ni se entienden —y en el peor de los casos, sus habitantes se odian—. Solo andando el terreno se puede ver que, efectivamente, es posible atravesarlo y cambiar de ambiente gradualmente, así como se cambia de paisaje. Algunas practicantes prefieren quedarse en su orilla, y otras buscan maneras de crear puentes, caminos, medios de comunicación entre zonas aparentemente disímiles. En general, en el mapa de los archipiélagos cohabitan posturas de las humanidades digitales que ven a las tecnologías digitales como herramientas para la continuación de las prácticas tradicionales, existen otras que las ven como instrumentos para el activismo social, existen posturas críticas de las tecnologías digitales, y posturas que las ven como otro medio para la experimentación y la creación.
+
+Por supuesto, a pesar del tono optimista de la noción de gran carpa, las diferencias sociales de los grupos que hacen humanidades digitales han representado distintas formas de exclusión y de dinámicas de poder y relaciones subalternas; lugares más centrales y lugares periféricos. Además, este mapa es en cierta medida análogo a las divisiones y el disciplinamiento que existe en la academia de las humanidades y que ya ha sido en parte elaborado en el capítulo 5.1. Por ejemplo, existen marcadas divisiones entre disciplinas tradicionales de las humanidades, como la historia, la linguística y la filología, con otros campos como los estudios de la comunicación y los medios, o con el hermano rebelde de las humanidades, la creación artística. Sin embargo, en ocasiones estas discordancias son artificiales, y por la inercia del propio desarrollo de proyectos, con sus preguntas y objetivos particulares, es inevitable el salto transdiciplinario y, en casos extremos, la indisciplina. Ni el investigador computacional más estricto y apegado a sus métodos puede evitar pensar en algún momento en las particularidades de las tecnologías digitales como medio y como fenómeno cultural, y así, aunque sea un poco, mojarse los dedos en problemas que, aparentemente, son del dominio de los estudios de la comunicación. Por supuesto, la separación también se debe a otros factores, como las infraestructuras y la formación de comunidad, elaborados en los capítulos 5.3 y 5.4 —que vienen después de este—, y que complejizan y enriquecen la situación.
+
+Para continuar acercándonos a este territorio de archipiélagos, hagamos un ejercicio de meta-análisis: indaguemos a las humanidades digitales por medio de una técnica de humanidades digitales. La Gráfica 1, que presento a continuación, es una buena aproximación, a través de un sampleo pequeño pero diverso, de la amplitud de proyectos de humandidades digitales en escala global. La gráfica está basada en los proyectos reseñados en la revista *Reviews in Digital Humanities* en los últimos tres años (2020 - 2023). Concretamente, la gráfica es un mapa de vectores derivado de la técnica de análisis denominada "incrustaciones de palabras" (o *word embeddings*, en inglés). Esta técnica de análisis computacional, usada extendidamente en proyectos de humanidades digitales, utiliza algoritmos de procesamiento de lenguaje natural para extraer una representación semántica de un corpus textual derivada del contexto de aparición de las palabras contenidas en él. En este caso, el contexto es, literalmente, el texto que está al lado del texto, y el algoritmo Word2Vec SkipGram es usado para disponer en un espacio metafórico bidimensional las palabras que aparecen en contextos similares. Aunque los principios de la semántica distribucional en los que se basa este tipo de procesamiento son controversiales, porque suponen que se puede extraer sentido puramente de la estructura y las frecuencias del texto, este ejercicio puede darnos pistas del fenómeno de las humanidades digitales por aproximación. Como afirmaría Stephen Ramsey, este tipo de procesos computacionales ofrece un paratexto, un texto que acompaña al texto. Así, si navegamos el mapa de vectores veremos que hay distintos temas agrupados, pequeñas islas, en los contenidos de la revista. La Gráfica 1 ofrece una especie de visita guiada y a distancia, un sobrevuelo temático de la revista.
 
 <sketch
   height="700px"
   src="./assets/sketches/epistemologia/vectoresReviewsDH"
-  caption="Un mapa de vectores que representa la semántica distribucional de los artículos publicados hasta el Vol. 4 No. 8 de Reviews in digital humanities"
+  caption="Gráfica 1. Un mapa de vectores que representa la semántica distribucional de los artículos publicados hasta el Vol. 4 No. 8 de Reviews in digital humanities"
 />
 
-No todas las partes del archipiélago han sido exploradas con igual intensidad desde América Latina. En este capítulo presentaré distintas formas de epistemología de lo digital desde las humanidades o para las humanidades que orientan prácticas de las humanidades digitales: lo digital como método y herramienta, lo digital como fenómeno cultural, lo digital para la causa, y lo digital como medio expresivo. Estas distintas formas de epistemología digital se suman al mapa de tensiones que se dibujan en este proyecto.
+Tal vez, luego de la visita guiada a Reviews in Digital Humanities se hace más evidente que es una revista que tiene un enfoque explícitamente postcolonial e interesado en la justicia social, y por ese motivo procura reseñar proyectos de diversas partes del mundo y de grupos marginalizados o subrepresentados; si analizaramos el mapa de las humanidades digitales desde otra publicación más conservadora en cuanto a sus temas y posturas políticas —digamos, la revista Digital Scholarship in the Humanities—, el mapa presentaría un terreno distinto y sus omisiones particulares. Por ejemplo,  el mismo ejercicio con una fuente académica del contexto hispanohablante y lusohablante (Gráfica 2), tanto europeo como americano, la *Revista de Humanidades Digitales*, muestra que el mapa cambia: la representación del archipiélago desde este punto de vista tiene otra apariencia: partes nuevas y partes inexploradas. Efectivamente, la Revista de Humanidades Digitales tiene un sesgo y una postura particular frente a qué cabe dentro de su línea editorial, explícitamente delimitado en sus instrucciones de publicación: "RHD no publica crítica de objetos digitales (por ejemplo, crítica de literatura electrónica, juegos, problemas de literatura en la web)". En otras palabras, quienes editan la revista no tienen interés en los estudios de medios y tienen un enfoque más centrado en proyectos aplicados. La Gráfica 2 ofrece una visita guiada de los vectores de palabras derivados del corpus textual de los artículos de la revista.
 
 <sketch
   height="700px"
   src="./assets/sketches/epistemologia/vectoresRevistaHD"
-  caption="Un mapa de vectores que representa la semántica distribucional de los artículos publicados hasta el Vol. 8 de la Revista de Humanidades Digitales "
+  caption="Gráfica 2. Un mapa de vectores que representa la semántica distribucional de los artículos publicados hasta el Vol. 8 de la Revista de Humanidades Digitales "
 />
 
+Por medio de estos ejemplos podemos observar que no existe una sola fuente autoritaria y única que nos permita dibujar el mapa de las humanidades digitales en el mundo o en América Latina. Sin embargo, en lo que sigue de este capítulo presentaré un panorama crítico de distintas formas de epistemología de lo digital, tanto desde las humanidades como para las humanidades, que orientan las prácticas de las humanidades digitales en nuestro contexto, con la intención de bosquejar a grandes rasgos el mapa Latinoamericano: lo digital como método y herramienta, lo digital como fenómeno cultural, lo digital como medio o problema para el activismo, y lo digital como medio expresivo. Estas distintas formas de epistemología digital se suman al mapa de tensiones que se dibujan en este proyecto y contribuyen a la caracterización de las humanidades digitales en el contexto Latinoamericano. No obstante, como lo sugiere la propia noción de archipiélago, la división que propongo a continuación es un poco artificial, y funciona como un artefacto descriptivo más que como una división claramente diferenciada.
 
-http://archipelagosjournal.org/ Investigación digital en el caribe
+## Digital como herramienta - La erudición digital
 
-PRAXIS AND THEORY NURIA RODRIGUEZ-ORTEGA
+La noción más extendida de humanidades digitales se relaciona con el ejercicio de usar tecnologías digitales para el estudio de temas humanísticos, lo en inglés es conocido como "digital scholarship". Sin embargo, digital scholarship es un término difícil de traducir al español. Si lo traducimos como investigación digital, nos acercamos al concepto de indagación de la cultura propio del trabajo de los humanistas; si lo traducimos como erudición digital, no sacercamos al cultivo del intelecto particular; si lo traduciomos como escolástica digital, tal vez nos hará pensar en la construcción de un cánon de la cultura y sus lecturas autorizadas. En realidad, todos los sentidos son adecuados y se entremezclan.
 
-## Digital como método y herramienta
-
-Digital scholarship - erudición digital - Erudito = fuera de lo tosco
-
-La noción por defecto con la que se caracterizan a las humanidades digitales es la de el uso de tecnologías digitales para el estudio de los temas humanísticos. Esta noción proviene de una narrativa ya muy establecida por las humanidades digitales que han construido una genealogía que se remonta a las prácticas tradicionales de las humanidades. Como reconoce XXX en la entrevista que sostuvimos, esta narrativa es ideal en el sentido en el que se construye como una continuidad con la tradición ortodoxa de las humandiades: Busa, un sacerdote, continúa las prácticas de los copistas medievales escolásticos de los monasterios y anota un texto tradicional, las obras de Tomás de Aquino —que a su vez incluye múltiples interpretaciones de textos más canónicos, la obra de aristóteles— pero esta vez no copia a mano sino que, con la ayuda de la IBM produce un catálogo datificado, operable computacionalmente. Desde esta gran narrativa, la mesa de copista ahora es una mesa de cómputo, las glosas con comentarios anotados en las márgenes de los libros ahora son anotaciones escritas en formatos de intercambio interoperables, las bibliotecas y sus formas de organización ahora son estructuras de datos. Y el proceso de lectura puede hacerse a través de algoritmos que, en vez de palabras y colores, ven números y píxeles, y de ellos extraen patrones, tendencias y relaciones. Así, cada proceso del estudio erudito de la cultura tiene un equivalente potenciado en en el mundo digital.
+En cualquier caso, esta noción proviene de una narrativa ya muy establecida por las humanidades digitales estadounidenses y europeas que han construido una genealogía que busca entretejer a las tecnologías digitales con las prácticas tradicionales de las humanidades. Dentro de esta narrativa, comúnmente se reconoce al sacerdote Roberto Busa como uno de los primeros estudiosos en usar tecnologías digitales para el estudio de fuentes clásicas. Particularmente, su Índice Tomísticus, un compendio de concordancias de la obra de Tomás de Aquino, inició en 1940, se prologó por varias décadas, y se guardó en distintos medios de almacenamiento de información: tarjetas perforadas, cintas magnéticas, CD-ROMS, servidores de internet. Como reconoce XXX en la entrevista que sostuvimos, esta narrativa es ideal para las humanidades digitales más centrales y hegemónicas, en el sentido en el que se construye como una continuidad con la tradición ortodoxa de las humandiades: Busa, un sacerdote, continúa las prácticas de los copistas medievales escolásticos de los monasterios y anota un texto tradicional, las obras de Tomás de Aquino —que a su vez incluye múltiples interpretaciones de textos más canónicos, la obra de aristóteles— pero esta vez no copia a mano sino que, con la ayuda de la IBM produce un catálogo datificado, operable computacionalmente. Desde esta gran narrativa, la mesa de copista ahora es una mesa de cómputo, las glosas con comentarios anotados en las márgenes de los libros ahora son anotaciones escritas en formatos de intercambio interoperables, las bibliotecas y sus formas de organización ahora son estructuras de datos. Y el proceso de lectura puede hacerse a través de algoritmos que, en vez de palabras y colores, ven números y píxeles, y de ellos extraen patrones, tendencias y relaciones. Así, cada proceso del estudio erudito de la cultura tiene un equivalente potenciado en en el mundo digital.
 
 <div class="side-by-side">
   <figure class="illustration">
@@ -51,20 +52,17 @@ La noción por defecto con la que se caracterizan a las humanidades digitales es
   </figure>
 </div>
 
-Así desde la epistemología de lo digital como instrumento existen dos grandes procesos importantes, ligados a los fines humanísticos de la conservación de la memoria y la interpretación y apreciación de la cultura. Por una parte está la digitalización, conservación, y facilitamiento del acceso a artefactos culturales y sus metadatos, y, por la otra, el análisis por medio o con ayuda de procesos computacionales y algorítmicos.
+Fuertemente influenciado por las teorías de los medios de Marshall McLuhan, en su libro Arqueología de los medios, Siegfried Zielinski hace un recorrido por las relaciones entre los medios y distintas búsquedas humanas por la extención y potenciación de su propia agencia. Por ejemplo, la manipulación de la experiencia visual a través de narcóticos, intervenciones corporales, o aparatos protocinematográficos, o la clasificación racional de la conducta humana . Pues bien, si seguimos esta mísma línea propuesta podr Zielinski, podríamos afirmar que las tecnologías digitales se anclan a dos propósitos humanísticos como medio para la potenciación de la agencia humana: la conservación de la memoria y la interpretación de la cultura. O, dicho de otra forma, la significación de la memoria como valoración de la existencia humana. En este sentido, las tarjetas perforadas, cintas magnéticas, CD-Roms y los servidores del Índice de Busa son solo una continuación natural de la labor que cumplen los libros y otros documentos: disponer en un sustrato físico el sentido de lo humano representado en símbolos, y de la biblioteca y el archivo: organizar y facilitar el acceso a esos sustratos. Y los algoritmos y procesos computacionales son solo una continuación natural de la lectura. Así desde la epistemología de lo digital como herramienta existen dos grandes procesos importantes, ligados a los fines humanísticos de la conservación de la memoria y la interpretación y apreciación de la cultura. Por una parte está la digitalización, conservación, y facilitamiento del acceso a artefactos culturales y sus metadatos, y, por la otra, el análisis por medio o con ayuda de procesos computacionales y algorítmicos. Al decir que estas tecnologías digitales se plantean como "continuaciones" de medios humanísticos tradicionales no quiero decir que idénticos o sucedáneos, por el contrario, siguiendo a Lev Manovich, son "nuevos medios", es decir, medios que hibridizan y remezclan a los medios anteriores, pero que también ofrecen prestaciones y posibilidades antes inexistentes.
 
 ### Conservación digital de la memoria
 
-El primer proceso normalmente se ha concebido como una transición relativamente tranquila y transparente. Las instituciones humanísticas del archivo, la biblioteca y el museo usan tecnologías digitales para la conservación relativa facilidad. La profesora cubana Ania Hernandez Quintana, en la entrevista que mantuvimos, afirma que la bibliotecología y las ciencias de la información contemporáneas han estado fundamentadas en la computación desde sus inicios, y por eso no es posible realmente establecer una distinción entre unas prácticas pre y pos digitales.
+El proceso de conservación de la memoria a través de tecnologías digitales normalmente se ha concebido como una transición relativamente tranquila y transparente para varios campos de las humanidades. Las instituciones humanísticas del archivo, la biblioteca y el museo usan tecnologías digitales para la conservación de la memoria con relativa facilidad. La profesora cubana Ania Hernandez Quintana, en la entrevista que mantuvimos, afirma que la bibliotecología y las ciencias de la información contemporáneas han estado fundamentadas en la computación desde sus inicios, y por eso no es posible realmente establecer una distinción entre unas prácticas pre y pos digitales. Si nos fijamos en la historia del padre Busa, podríamos decir que incluso son las humanidades las que fundamentan estos procesos y sus lógicas subyacentes, en la gran narrativa de las humanidades digitales se afirma que fue Busa quien sugirió la idea del hipervínculo a la IBM.
 
-Colecciones digitalizadas de archivos
-Anotación de textos.
+Volvamos entonces a las tecnologías digitales como continuaciones del libro y la biblioteca.
+
+Por una parte, están los objetos culturales que deben ser conservados, y en humanidades digitales se han desarrollado estándares y protocolos digitales para su conservación. La noción de interoperabilidad es esencial aquí: lo interoperable es lo que se peude transmitir y entender a través de un sistema de comunicación definido por común acuerdo entre las partes interesadas. Dos ejemplos paradigmáticos son el estándar IIIF para la transmisión interoperable de imágenes, y el estándar TEI para la anotación de textos. En la Revista de Humanidades Digitales abundan los ejemplos de proyectos producidos desde latinoamerica o por latinoamericanos que aprovechan estos estándares para la conservación de documentos tanto de origen latinoamericano como de otras partes del mundo. Aquí vale la pena mencionar algunos proyectos que cumplen la valiosa tarea:
 
 Lope de VEga LA Dama Boba: http://damaboba.unibo.it/aplicacion.html
-
-Un sketch con la biblioteca del nombre de la rosa.
-
-sin embargo, a esta transparencia subyacen problemas con respecto a las formas de categorización y estandarización que pueden invisibilizar culturas no hegemónicas. Este problema se elabora en más detalle en el ensayo dedicado a la información.
 
 Algunos proyectos desarrollados en América Latina son los siguientes:
 
@@ -73,6 +71,11 @@ Revistas digitalizadas y marginalia del Che en Cuba
 Proyectos de TEI en Argentina
 Biblioteca del pensamiento NovoHispano
 
+Por otra parte, está la estructura que organiza y conserva los documentos. Una estructura de datos es una abstracción computacional que se diseña de una forma tal en la que se facilita la búsqueda 
+
+Un sketch con la biblioteca del nombre de la rosa como estructura de datos.
+
+http://archipelagosjournal.org/ Investigación digital en el caribe
 E incluso, de forma meta, la conservación digital de proyectos de conservación digital,
 https://thecaribbeandigital.org//caridischo/collections/
 CARIDISCHO
@@ -85,7 +88,27 @@ Carolina Gainza y los problemas de la conservación de objetos digitales
 
 Paradójicamente, a pesar de la aparente estabilidad de la conservación digital, existen múltiples dificultades a la hora de conservar. Como es el caso de Flash.
 
+No onstante, a la aparente transparencia con la que se piensa la continuidad de la conservación de la memoria por medio de tecnologías digitales subyacen problemas con respecto a las formas de categorización y estandarización que pueden invisibilizar culturas no hegemónicas.
+
+
+Aquí podría incluir lo de la información
+
+“As soon as they express their desire to be a single people with a single tongue (Genesis 11:4), God confounds their idioms, making them mutually unintelligible”[@ahmedArchaeologyBabelColonial2018, p. 52]
+“Answering the human desire for an imperial language, God ensured that no linguistic experience except confusion could ever be universal again.”[@ahmedArchaeologyBabelColonial2018, p. 53]
+
+Escobar Cultura como estructura simbólica vs cultura como diferencia radical
+
+
+Por otra parte, visiones más críticas de las humanidades digitales (Golumbia), las relacionan con una postura reaccionaria por parte de los grupos elitistas que controlan.
+
+“it is the substitution of a historically authoritative text for heterogeneous manuscripts and performances that constituted Hafiz, the Mu‘allaqāt, and Śakuntalā as literature in the first place and hence instituted non-Western literatures” [@ahmedArchaeologyBabelColonial2018, p. 12]
+Autonomía de las vidas ahistóricas [@ahmedArchaeologyBabelColonial2018]
+
+Hafiz, Mu‘allaqāt, Śakuntalā. Conversitdas en literatura a través de la Filología de William Jones. Cristalización de culturas indescriptibles. “In each of these examples, the practice that ultimately lends the literary work its meaning is something philology cannot place. Each of these practices not only resisted being recorded but, furthermore, disavowed all philological power in order to pursue a fundamentally different form of life” “they resist not just literary inscription but historical transmission of any kind” [@ahmedArchaeologyBabelColonial2018, p. 16]
+
 ### Interpretación computacional de objetos culturales
+
+El segundo modo de continuación de los propósitos humanísiticos es la interpretación de la cultura a través de sus artefactos, trazas y registros.
 
 DIGITAL COMO HERRAMIENTA PARA LA INTERPRETACIÓN Y APRECIACIÓN DE LA CULTURA
 
@@ -94,24 +117,33 @@ Por otra parte, están los procesos de análisis de objetos y fenómenos cultura
 
 El historiador Jairo Melo, por ejemplo, menciona en la entrevista que en buena medida su interés por las humanidades digitales radica en una visión más rigurosa de la investigación histórica:. Estandarización (Ania Hernandez). En cierta medida, esta es la capa más evitable para la práctica humanística. Al menos hasta el día de hoy, un académico de las humanidades puede desarrollar su investigación sin involucrarse demasiado en métodos de análisis computacionales, aunque, probablemente, interactúe intensamente con archivos y repositorios que digitalizan y conservan acervo cultural.
 
-
 Prácticas derivadas de la analítica cultural
 
 "It's not pure information alone, but the way the information was produced that supports interpretation" (Seely Brown / Duguid, 2000, The social life of information, 173)
 "Paper documents perform less like a cable carrying a stream of bits and more like a program to help interpret those bits" (173)
 
-
 Escobar varela data-assisted vs data-driven
 
 For me, the ideal is to hire a Shakespeare scholar with digital humanities expertise Glen Worthey. No es una carrera aparte, sino una habilidad y punto de vista que se suma a una experticia humanística
 
-### Lo digital como nuevo medio para las prácticas viejas
+## Digital como fenómeno cultural
 
-Por otra parte, visiones más críticas de las humanidades digitales (Golumbia), las relacionan con una postura reaccionaria por parte de los grupos elitistas que controlan.
+"¿Qué es la cultura cuando se a softwarizado?"
+—Lev Manovich, Software Takes Command, 2008. P 41
 
-Por supuesto, estas capas no están separadas, por ejemplo, un archivo digital puede servir para propiciar la representación de grupos marginalizados, o un proyecto artístico puede movilizar una reflexión compleja acerca de una pregunta de investigación humanística. Sin embargo, encontramos una tensión en esta relación: la visión instrumental de lo digital, la que ve lo digital solo como una herramienta, puede caer en una visión irreflexiva de los métodos importados de otras partes.
-"There is sometimes a tendency in digital humanities to skip to the end by speculating about how computational methods will transform the humanities without digging into the intellectual histories of those methods or explaining how the theoretical assumptions inherited from other disciplines align with the assumptions that otherwise inform one’s thinking." Spaces of Meaning: Conceptual History, Vector Semantics, and Close Reading
-Michael Gavin et al 2019 debates in digital humanities
+En The computational turn (el giro computacional), David M. Berry diferencia tres momentos de las humanidades digitales: las 1.0, preocupadas por el archivo de documentos a través de la digitalización, las 2.0, centradas en la conservación de documentos nativos digitales, y las 3.0, que consisten en "mirar el componente *digital* de las humanidades digitales a la luz de la especificidad del medio como una forma de mirar cómo los cambios mediáticos producen cambios epistémicos". Con especificidad del medio Berry hace referencia a una noción planteada por el crítico de arte Clement Greenberg en su defensa del estilo pictórico del expresionismo abstracto norteamericano: en resumen, cada medio tiene su propia especificidad, es decir, cosas para las que se presta mejor —la pintura para chorrear, cubrir, embadurnar; el dibujo para hacer líneas, por ejemplo—, y el arte debe ganar conciencia de esa especificidad y aprovecharla. La lectura de Berry está cercanamente alineada con los estudios de los medios en la comunicación y con las ciencias sociales. Efectivamente, existe toda una corriente de estudios de medios ocupada en estudiar los efectos culturales del software, las plataformas, y el código de programación, como nuevos medios, entre otros. Esta aproximación no ve lo digital solo como herramienta sino también como un fenómeno que modifica las vidas de las personas y por lo tanto hace parte de la cultura humana. Medio que tiene particularidades estéticas y físicas, prestaciones, pero que también influye en la agencia y el comportamiento humano. En uno de los capítulos enteder los medios Marshall McLuhan analiza la luz producida por bombillos como un medio que extiende las capacidades de los seres humanos, concretamente la capacidad de acción a lo largo del día.
+
+No obstante, existen barreras disciplinares en el archipiélago que distancia los estudios de medios de otras prácticas de las humanidades digitales. Los entrevistados para este proyecto se distancian o se acercan a este campo de acuerdo con sus intereses particulares, temas de estudio, tradiciones educativas, organizaciones administrativas universitarias: algunos se posicionan como estritcamente como humanistas digitales instrumentales, mientras que otros defienden la reflexión sobre los medios dentro del campo. Como afirma Michael Gavin et al., "hay a veces una tendencia en las humanidades digitales de saltarse al final especulando cómo los métodos computacionales transformarán a las humanidades sin excavar las historias intelectuales de esos métodos y sin explicar cómo las suposiciones teóricas heredadas de otras disciplinas se alinean con las suposiciones que de otra forma informarían el pensamiento propio". [@gavinSpacesMeaningConceptual2019]
+
+Defendamos la postura de que la pregunta por los métodos y las formas de construcción de datos necesariamente nos lleva a preguntarnos por los sesgos y presuposiciones en la construcción de software y archivos. Aunque se puede posponer la reflexión, al final es inevitable. PODRIA USAR ALGO DE DRUCKER. 
+
+Al respecto Nuria Rodríguez-Ortega propone una visión expandida de las humanidades digitales que se plantee desde un marco crítico de pensamiento:
+
+"En este marco, como lo veo, la humanidades digitales representan el espacio de pensamiento, crítica y acción que nos permite problematizar la tecno-episteme que define nuestra era actual y la ecología sociotecnológica de nuestro tiempo, en relación con los procesos de producción, representación, comunicación, y diseminación del conocimiento acerca de la facetas culturales de la humanidad" [@rodriguez-ortegaDigitalSocialSciences2022, p. 102]
+
+Rodríguez-Ortega agrega: "Esta dimensión crítica es consubstancial con las humanidades digitales, pues construye el sustrato esencial sin el cual avanzaríamos solo hacia la tecnologización de las disciplinas humanísticas"[@rodriguez-ortegaDigitalSocialSciences2022, p. 102]
+
+Digital humanities as an insturmentfor emancipation
 
 David Golumbia
 
@@ -120,49 +152,17 @@ Auerbach weltliteratur
 S XVIII “The European encounter with countless non-European languages and archaic literatures initiated the new philology, which identified the genealogy of every nation with the history of its language.” [@ahmedArchaeologyBabelColonial2018, p. 36]
 Permitir a la diversidad su agencia
 
-
-## Digital como fenómeno cultural
-
-La epistemología de lo digital como fenómeno cultural se alinea con las proecupaciones de la investigación humanística en conexión con las ciencias sociales y los estudios de la comunicación.
-
-"What is culture after it has been softwarized?" (2008: 41) EPíGRAFE DE ESTA SECCIÓN
-
-"I would now prefer to situate DH within a broader framework of thought, linked to the long-standing critical discussion of the complex relationship between culture, society, human knowledge, and technology—this last being understood as a cultural factor, having a reciprocal relationship to the biological, cognitive, social, and cultural development of the human beings who produce it" [@rodriguez-ortegaDigitalSocialSciences2022, p. 102]
-Marcos críticos
-
-"Within this framework, as I see it, digital humanities represents the space of thought, criticism, and action that allows us to problematize the techno-episteme that defines our current era and the sociotechnological ecology of our time, in rela- tion to the processes of production, representation, communication, and dissem- ination of knowledge about the cultural facets of humanity" [@rodriguez-ortegaDigitalSocialSciences2022, p. 102]
-
-Segundo está la capa del involucramiento de lo digital en las preguntas de lo humanístico: es decir, cuál es el impacto de las tecnologías digitales en la cultura humana. En este aspecto, es inevitable, si las humanidades quieren continuar siendo una visión relevante en la academia, que se normalizen las preguntas acerca de nuestro presente. sin embargo, las posturas más instrumentales de las humanidades digitales consideran estas preguntas como campos aparte y no como humanidades digitales en su centro.
-
-Lo digital como cultura (pasar lo digital de un estatus de método a un estátus de pregunta de investigación, y así añadir lo digital al grupo de problemas de lo que vale la pena estudiar, desde este lugar necesariamente entran preguntas acerca de la representación, la participación y la justicia).
-
-Arqueología de los medios - lo digital humanístico
-Las lógicas de lo digital han estado insertas en la historia de las humanidades: el códice es un objeto digital. Kittler
-
-Apertura del campo a teorías que reflexionan críticamente acerca del impacto de las tecnologías digitales en los fenómenos sociales. "This critical dimension is consubstantial with the digital humanities, as it makes up that essential substratum without which we would advance toward only a technologization of the humanistic disciplines" [@rodriguez-ortegaDigitalSocialSciences2022, p. 102]
-Digital humanities as an insturmentfor emancipation
-
-La pregunta por los métodos y las formas de construcción de datos necesariamente nos lleva a preguntarnos por los sesgos y presuposiciones en la construcción de software y archivos. Aunque se puede posponer la reflexión, al final es inevitable. Drucker, Kiriloff, Ramsay.
-
-----
-David M. Berry The computational turn: 
-Digital humanities 1.0 (archiving), 2.0 (born digital), (3.0) (medium specificty abd epistemic changes):
-"To look at the *digital* component of the digital humanities in the light of its medium specificity, as a way of thinking about how medial changes produce epistemic changes" Berry 4
-Parecido a lo que menciona fiormonte
-Es una postura muy de la comunicación
-software studies
-critical code studies
-platform studies
-
 Valores positivos y negativos de las tecnologías digitales
+
+Por supuesto, estas capas no están separadas, por ejemplo, un archivo digital puede servir para propiciar la representación de grupos marginalizados, o un proyecto artístico puede movilizar una reflexión compleja acerca de una pregunta de investigación humanística como veremos en un apartado posterior. Sin embargo, encontramos una tensión en esta relación: la visión instrumental de lo digital, la que ve lo digital solo como una herramienta, puede caer en una visión irreflexiva de los métodos importados de otras partes.
 
 ## Activismo digital
 
-El propósito humanístico de la participación democrática
+Si nos ubicamos en el punto de vista del propósito humanístico de la participación en la vida pública y el ejercicio democrático, veremos que hay dos formas de epistemología de lo digital que se han venido desarrollando a lo largo de los años: ambas visiones combinan la perspectiva instrumental, pues hacen uso de tecnologías digitales par lograr sus fines, y de un marco crítico. La diferencia está en que la primera aplica el marco crítico a fenómenos sociales que pueden abordarse a través del medio digital y la segunda opera como resitencia a los efectos de la cultura digital.
 
 ### Lo digital para la causa
 
-Tercero, está la pregunta por el motivo por el cual se quiere reflexionar con respecto a lo digital, y en este punto cabe pensar si lo digital se convierte en un lugar de apreciación de la cultura humana, en el sentido de las humanidades que se menciona en la sección del dominio de la tradición humanística, o si se convierte en un lugar para defender la justicia, el pluralismo y la democracia, en la defensa de valores humanos, en el sentido de humanismo que se menciona en la misma sección.
+Lo digital como herramienta puede converse en un manera de para defender la justicia, el pluralismo y la democracia, en la defensa de valores humanos, en el sentido de humanismo que se menciona en la misma sección.
 
 Comunidades vivas? Diferentes partes interesadas
 Memoria y Protección de las comunidades marginalizadas (reflexión de carolina zúñiga de moverse de lo online a lo offline)
@@ -185,6 +185,8 @@ Huracanes
 
 
 ### Resistencias frente a hegemonías digitales
+
+Lo digital como cultura (pasar lo digital de un estatus de método a un estátus de pregunta de investigación, y así añadir lo digital al grupo de problemas de lo que vale la pena estudiar, desde este lugar necesariamente entran preguntas acerca de la representación, la participación y la justicia).
 
 Juntos contra la computadora. Gustavo de Roux y Fals Borda
 Colonialismo de datos

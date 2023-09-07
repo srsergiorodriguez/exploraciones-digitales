@@ -1,6 +1,11 @@
 {
-  "title" : "Dimensiones y tensiones de las humanidades digitales en América Latina",
-  "subtitle": "Un programa intelectual",
+  "title" : "Tensiones de las humanidades digitales en América Latina",
+  "subtitle": "Un mapeo multidimensional",
+  "designation": "Tesis para optar al título de Doctor en Comunicación, Lenguajes e Información",
+  "tutor": "Andrés Lombana Bermúdez",
+  "university": "Pontificia Universidad Javeriana",
+  "author": "Sergio Rodríguez Gómez",
+  "year": 2024,
   "destination" : "build/:build",
   "addPlugins": [
     "./plugins/addSketch.js",
@@ -35,16 +40,6 @@
             "content/5_4_infraestructura.md"
           ]
         },
-        "content/6_programa.md",
-        {
-          "label": "Conceptos",
-          "files": [
-            "content/7_1_informacion.md",
-            "content/7_2_datificacion.md",
-            "content/7_3_computacion.md",
-            "content/7_4_andamiajes.md"
-          ]
-        },
         "content/8_reflexiones.md",
         "content/9_conclusiones.md"
       ]
@@ -56,7 +51,8 @@
         "files" : ["stylesheets/pdf.scss"]
       },
       "files" : [
-        "content/toc.md",
+        "content/0_cover.md",
+        "content/0_toc.md",
         "content/1_introduccion.md",
         "content/2_problema.md",
         "content/3_metodos.md",
@@ -68,16 +64,6 @@
             "content/5_2_epistemologia.md",
             "content/5_3_comunidad.md",
             "content/5_4_infraestructura.md"
-          ]
-        },
-        "content/6_programa.md",
-        {
-          "label": "Ensayos",
-          "files": [
-            "content/7_1_informacion.md",
-            "content/7_2_datificacion.md",
-            "content/7_3_computacion.md",
-            "content/7_4_andamiajes.md"
           ]
         },
         "content/8_reflexiones.md",

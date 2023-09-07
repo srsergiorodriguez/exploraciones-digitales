@@ -66,14 +66,14 @@ Conformaron esta corriente de pensamiento autores como Amílcar Herrera, Jorge S
 
 El pensador argentino Amilcar Herrera:
 "tecnología se puede definir como el conjunto de instrumentos o herramientas materiales, conocimientos y habilidades utilizados para proveer a todas las necesidades de la comunidad y aumentar su dominio del medio ambiente" (Amilcar Herrera, la creación de tecnología como expresión cultural, 1973, nueva sociedad, 59)
-"La única solución para los países en desarrollo, es recuperar la tecnologías como parte realmente integrante de su cultura""modo legítimo de expresión de sus propios valores y aspiraciones" (72)
+"La única solución para los países en desarrollo, es recuperar la tecnologías como parte realmente integrante de su cultura" "modo legítimo de expresión de sus propios valores y aspiraciones" (72)
 "El objetivo primordial debe ser revertir la situación actual, haciendo que los sistemas de ciencia y tecnología dejen de ser casi exclusivamente receptores y transmisores de tecnologías generadas en el exterior, para convertirse en la manifestación legítima y dinámica de las aspiraciones y la capacidad creativa de la sociedad"(78)
 
 TECNOLOGIA DENTRO DE SU MARCO SOCIAL
 
 MIX TECNOLÓGICO Jorge Sábato Soberanía a través de la integración
 
-VInculación (publico I+D + industria privada)
+Vinculación (publico I+D + industria privada)
 
 Transferencia de tecnologías
 Traducción de lo externo ECTS es una visión cosmopolita de la ciencia
@@ -81,7 +81,7 @@ Traducción de lo externo ECTS es una visión cosmopolita de la ciencia
 Partamos, por ejemplo, del propio término humanidades digitales. Como reconocen una buena parte de las personas entrevistadas para este proyecto,  
 Conocer ADHO sistema de estándares y de prácicas comúnes.
 
-Pensemos esta tensión con un ejemplo concreto. La Text Encoding Initative (TEI), o iniciativa de codificación de texto, es una serie de estándares que definen cómo codificar y anotar textos de una manera que sea legible por computador (machine readable), es decir, codificado en datos computacionales, e interoperable, es decir, que los datos estén codificados de una forma en la que pueda ser fácilmente intercambiados, interpretados, procesados y analizados. El sistema de TEI funciona a partir de señalar distintas partes del texto con etiquetas y atributos, así: `<etiqueta atributo="valor">contenido</etiqueta>`. De esta manera, TEI permite que personas en distintas instituciones a nivel global que trabajan en el campo de las humanidades digitales hablen un lenguaje común cuando están realizando proyectos con documentos de archivo, como libros, cartas, documentos oficiales, etc. Un documento anotado con TEI permite convertir la estructura de los elementos que componen su texto en información en un formato con el que posteriormente pueden conservarse digitalmente, realizar búsquedas, o hacer computaciones y procesamientos posteriores. Por ejemplo, tal estudio hace tal cosa con TEI. Desde latinoamérica se ha impulsado un fuerte trabajo de promoción y uso de TEI para proyectos de humanidades digitales, por ejemplo, GImena del Rio, Ernesto Priani, Nicolás Vaughn en Colombia. Existen otros estándares similares que facilitan el trabajo con otros medios, como el estandar IIIF para la transmisión interoperable de imágenes en internet, o el MEI, Musical Encoding Iniative, para la codificación de piezas musicales.
+Pensemos esta tensión con un ejemplo concreto. La Text Encoding Initative (TEI), o iniciativa de codificación de texto, es una serie de estándares que definen cómo codificar y anotar textos de una manera que sea legible por computador (machine readable), es decir, codificado en datos computacionales, e interoperable, es decir, que los datos estén codificados de una forma en la que pueda ser fácilmente intercambiados, interpretados, procesados y analizados. El sistema de TEI funciona a partir de señalar distintas partes del texto con etiquetas y atributos, así: `<etiqueta atributo="valor">contenido</etiqueta>`. De esta manera, TEI permite que personas en distintas instituciones a nivel global que trabajan en el campo de las humanidades digitales hablen un lenguaje común cuando están realizando proyectos con documentos de archivo, como libros, cartas, documentos oficiales, etc. Un documento anotado con TEI permite convertir la estructura de los elementos que componen su texto en información en un formato con el que posteriormente pueden conservarse digitalmente, realizar búsquedas, o hacer computaciones y procesamientos posteriores. Por ejemplo, tal estudio hace tal cosa con TEI. Desde latinoamérica se ha impulsado un fuerte trabajo de promoción y uso de TEI para proyectos de humanidades digitales, por ejemplo, Gimena del Rio, Ernesto Priani, Nicolás Vaughn en Colombia. Existen otros estándares similares que facilitan el trabajo con otros medios, como el estandar IIIF para la transmisión interoperable de imágenes en internet, o el MEI, Musical Encoding Iniative, para la codificación de piezas musicales.
 
 UN SKETCH SOBRE CÓMO FUNCIONA TEI
 

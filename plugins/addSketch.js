@@ -24,15 +24,16 @@ Plugin.prototype = {
           let source = jel.attr('src');
           let caption = jel.attr('caption');
           let captionprint = jel.attr('captionprint');
-
+          let newel;
+          
           if(config.format == "html") {
             let height = jel.attr('height');
-            content = `<iframe src=${source} width="100%" height="${height}"frameborder="0" allowfullscreen></iframe>`;          
+            content = `<iframe src=${source} width="100%" height="${height}"frameborder="0" allowfullscreen></iframe>`;
+            newel = `<div class="sketch-wrapper"><figcaption>${caption}</figcaption>${content}</div>`;        
           } else {
-            content =  `<img src=${source + "/img.png"} alt="${captionprint || caption}" />`;
+            content =  `<img src=${source + "/img.png"} alt="" />`;
+            newel = `<div class="sketch-wrapper"><figcaption>${captionprint || caption}</figcaption>${content}</div>`;
           }
-
-          let newel = `<div class="sketch-wrapper"><figcaption>${caption}</figcaption>${content}</div>`;
 
           jel.replaceWith(newel);
         });

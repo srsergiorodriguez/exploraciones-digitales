@@ -135,7 +135,7 @@ iframe {
 
 .mainset {
   display: grid;
-  grid-template-columns: 1fr minmax(100px, 900px) 1fr;
+  grid-template-columns: 1.5fr minmax(100px, 900px) 1fr;
   grid-gap: 10px;
 }
 

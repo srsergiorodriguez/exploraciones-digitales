@@ -52,11 +52,14 @@ Análisis de redes
 
 Así, el referente conceptual Latouriano se liga fácilmente al marco metodológico propuesto antes: en este proyecto realicé un mapeo de controversias de las humanidades digitales en América Latina a través de métodos digitales, entrevistas codificadas, sondeos, etc. (Lourenço y Tomaél, 2018; Marres, 2015; Venturini y Munk, 2022). En términos generales, se toman datos tomados de medios digitales nativos y a través de visualizaciones de datos y análisis de contenido se determinan posibles controversias y sus desarrollos en las asociaciones y formaciones de grupos de un contexto particular, y estos datos se complementan con la visión granular de las entrevistas y el trabajo de campo. De este modo, la teoría de Actor-Red funciona como un sistema analítico con el cual se puede dar sentido a datos obtenidos por métodos digitales, y por lecturas cuantitativas y cualitativas.
 
-## Investigación visual, escrita e interactiva
+## Investigación creación — Conocimiento visual, escrito e interactiva
 
-EL propio texto que compone este proyecto es un Ejercicio experimental de investigación
+EL propio texto que compone este proyecto es un Ejercicio experimental de investigación - creación
+
 Especificidad del medio digital
 Otras formas de argumentar
+
+Algunas de las piezas propuestas acá circulan en contextos artísticos
 
 Ensayos interactivos
 Johana Drucker Humanities Approaches to Graphical Display:
