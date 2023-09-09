@@ -42,7 +42,7 @@ En cualquier caso, esta noción proviene de una narrativa ya muy establecida por
 
 <div class="side-by-side">
   <figure class="illustration">
-    <figcaption>Monje Olivetano — Atribuida a Baldassare Tommaso Peruzzi. (<a href="https://library.artstor.org/#/asset/SS7731421_7731421_11265326;prevRouteTS=1693349251244" target="_blank">Fuente</a>, Artstor | The Metropolitan Museum of Art, Licencia CC0)</figcaption>
+    <figcaption>Monje Olivetano — Atribuida a Baldassare Tommaso Peruzzi. (<a href="https://library.artstor.org/#/asset/SS7731421_7731421_11265326;prevRouteTS=1693349251244" target="_blank">Fuente</a>, Artstor - The Metropolitan Museum of Art, Licencia CC0)</figcaption>
     <img alt="La pintura de un monje que está escribiendo en una mesa" src="images/epistemologia/monjeOlivetano.jpg" />
   </figure>
 
@@ -97,7 +97,6 @@ Aquí podría incluir lo de la información
 “Answering the human desire for an imperial language, God ensured that no linguistic experience except confusion could ever be universal again.”[@ahmedArchaeologyBabelColonial2018, p. 53]
 
 Escobar Cultura como estructura simbólica vs cultura como diferencia radical
-
 
 Por otra parte, visiones más críticas de las humanidades digitales (Golumbia), las relacionan con una postura reaccionaria por parte de los grupos elitistas que controlan.
 
@@ -201,5 +200,9 @@ Desobediencia tecnológica
 
 También están los usos de herramientas digitales en la creación de obras artísticas y literarias. queda la duda de si las humanidades digitales también comprenden estas formas de creación o si.
 Literatura electrónica
+
+Leonardo Flores Elika Ortega ' Literatura electrónica
+
+Artes electrónicas ana maria uribe y otros argentinos
 
 Cybernética latinoamericana: activismo con ciencias duras

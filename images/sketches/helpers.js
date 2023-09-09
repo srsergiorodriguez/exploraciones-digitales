@@ -67,3 +67,9 @@ function wrap(data) {
   }
   return hull
 }
+
+function euclideanDistance(a, b) {
+  const dx = b.x - a.x;
+  const dy = b.y - a.y;
+  return Math.sqrt((dx * dx) + (dy * dy))
+}

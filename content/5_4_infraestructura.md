@@ -9,17 +9,17 @@ subtitle: La dimensión insfrastructural
 
 ## El demonio invisible
 
-El Demonio de Maxwell, propuesto por James Clark Maxwell, es un experimento mental clásico en el campo de la termodinámica. El experimento consiste en imaginar una caja en la que circulan moleculas de algún gas. En la mitad de la caja hay un separador que divide la caja en dos lados iguales, y un demonio controla una compuerta en el separador que permite o no el paso de las moléculas. En el experimento, el demonio abre y cierra la compuerta de una manera en la que las moléculas que se mueven más rápido quedan en un lado de la caja, mientras que las que se mueven más lento quedan en el otro. En términos efectivos, el movimiento de las moléculas es equivalente a la temperatura del gas, así que como resultado un lado estaría caliente y el otro frío. Aunque en el siglo XIX este experimento mental se planteó como una refutación de la segunda ley de la termodinámica, una demostración de que sería posible reducir la entropía sin necesidad de ejercer ningún trabajo, pronto críticos señalaron un falla importante: es justamente el demonio el que realiza el trabajo necesario para separar las moléculas, así que la ley sigue respetándose. En pocas palabras, **se necesita trabajo para producir organización, aunque ese trabajo sea invisible**. Justamente, en el origen griego de la palabra demonio, *daimon*, encontramos dos sentidos importantes: una entidad benigna o maligna que trabaja en el fondo, oculta, o una entidad que divide, y así lleva a cabo algún tipo de orden.
+El Demonio de Maxwell, propuesto por James Clark Maxwell, es un experimento mental clásico en el campo de la termodinámica. El experimento consiste en imaginar una caja en la que circulan moleculas de algún gas. En la mitad de la caja hay un separador que divide la caja en dos lados iguales, y un demonio controla una compuerta en el separador que permite o no el paso de las moléculas. En el experimento, el demonio abre y cierra la compuerta de una manera en la que las moléculas que se mueven más rápido quedan en un lado de la caja, mientras que las que se mueven más lento quedan en el otro. En términos efectivos, el movimiento de las moléculas es equivalente a la temperatura del gas, así que como resultado un lado estaría caliente y el otro frío. Aunque en el siglo XIX este experimento mental se planteó como una refutación de la segunda ley de la termodinámica, una demostración de que sería posible reducir la entropía sin necesidad de ejercer ningún trabajo, pronto críticos señalaron un falla importante: es justamente el demonio el que realiza el trabajo necesario para separar las moléculas, así que la ley sigue respetándose. En pocas palabras, **se necesita trabajo para producir organización, aunque ese trabajo sea invisible**. Justamente, en el origen griego de la palabra demonio, *daimon*, encontramos dos sentidos importantes: una entidad benigna o maligna que trabaja en el fondo, oculta, o una entidad que divide, y así lleva a cabo algún tipo de orden. Derivado de esta noción, en software también se denomina daemon a un programa que ejecuta tareas en segundo plano, oculto para el usuario.
 
 <sketch
-  height="410px"
+  height="407px"
   src="./assets/sketches/infraestructuras/maxwell"
   caption="El experimento mental del Demonio de Maxwell. El demonio hace lo que puede para clasificar y separar las moléculas"
 />
 
 El concepto de infraestructura puede ser entendido de varias maneras: como forma de organización y estandarización [@bowkerSortingThingsOut2000], como movimiento de bienes, materias o ideas [@larkinPoliticsPoeticsInfrastructure2013], o como ampliación de la agencia de los seres humanos (scaffolding) [@mcluhanUnderstandingMediaExtensions1994]. Sin embargo, todas estas concepciones implican dos conceptos fundamentales ejemplificados en el experimento mental de Maxwell, el trabajo y la energía como forma de reducción de la entropía. Cuando una comunidad establece roles y procedimientos, está reduciendo la incertidumbre para que las mismas actividades puedan ser resueltas por distintas personas o para resolver patrones comunes de una forma que tengan efectos esperables y similares. Cuando un grupo de expertos define un sistema de estándares está reduciendo la entropía a partir de definir categorías que, esperan, sean lo suficientemente expresivas para representar necesidades, pero que a la vez sean lo suficientementemente pequeñas para que sean controlables. Transportar materia prima o mensajes requiere formas mecanismos que, con energía, muevan algo de un inicio a un destino. Por otra parte, estas concepciones de infraestructura también implican la idea que la infraestructura, a pesar del esfuerzo que requiere su construcción y su mantenimiento, trae más beneficios que existir sin ella. Así, podemos pensar que **las infraestructuras son, en su sentido más abstracto, formas de ejercer trabajo para, en el futuro, hacer algo con menos trabajo**. De hecho, como lo afirman personas como Paul Edwards [@edwardsInfrastructureModernityForce2003] en el campo de los estudios de ciencia, tecnología y sociedad, así como el demonio de Maxwell, las infraestructuras suelen ser invisibles, al menos hasta que fallan y nos damos cuenta del nuevo esfuerzo que hay que realizar y las facilidades que estábamos dando por sentado. Normalmente no necesitamos pensar en cómo llega el agua al grifo, o cómo se transmiten los bits de información a través de internet. Las humildes infraestructuras buscan tener un bajo perfil.
 
-"in the context of the digital humanities (DH), an infrastructure can refer to physical objects such as servers, to knowledge infrastructures—laboratories, cen- ters, or learned societies—and even to abstract representations such as code, soft- ware, or standards" [@delrioriandeDigitalHumanitiesVisible2022, p. 247]
+"in the context of the digital humanities (DH), an infrastructure can refer to physical objects such as servers, to knowledge infrastructures—laboratories, centers, or learned societies —and even to abstract representations such as code, software, or standards" [@delrioriandeDigitalHumanitiesVisible2022, p. 247]
 SET OF TECHNOLOGIES FOR MEDIATION
 
 The Ethnography of Infrastructure. Susan Leigh Star:
@@ -55,14 +55,20 @@ Por ejemplo, como lo muestra un estudio de Colbert, Li, Schwartz y Satten-Lopez,
 
 ## ¿Modelos importados que no son la solución?
 
-En el caso particular de las humanidades digitales en América Latina, existe una tensión que se mueve entre crear infraestructuras propias para resolver problemas locales o aprovechar infraestructuras ajenas que ya han sido diseñadas, construidas y estandarizadas. O dicho desde otra manera, **una tensión entre dedicar energía y trabajo en hacer infraestructuras o en dedicarlo a realizar proyectos concretos**. Esta noción puede resultar un poco abstracta al hablar de infraestructuras digitales, pues no son directamente tangibles como sí lo pueden ser otro tipo de infraestructuras, como el acueducto o las carreteras. Sin embargo, 
+En el caso particular de las humanidades digitales en América Latina, existe una tensión que se mueve entre crear infraestructuras propias para resolver problemas locales o aprovechar infraestructuras ajenas que ya han sido diseñadas, construidas y estandarizadas. O dicho desde otra manera, **una tensión entre dedicar energía y trabajo en hacer infraestructuras o en dedicarlo a realizar proyectos concretos**. Esta noción puede resultar un poco abstracta al hablar de infraestructuras digitales, pues no son directamente tangibles como sí lo pueden ser otro tipo de infraestructuras, como el acueducto o las carreteras. Sin embargo,
 
 Si lo pensamos así, esta pregunta guarda cercanas analogías con las nociones de la autenticidad latinoamericana planteadas en la sección 5_1
 
+<sketch
+  height="500px"
+  src="./assets/sketches/infraestructuras/panelCts"
+  caption="Varias posturas con respecto a los estudios de Ciencia y Tecnología en América Latina. Cliquea en las imágenes de los autores"
+/>
+
 Lasgas políticas de transferencia tecnológica 
 
-"Uno de sus principales logros fue la crítica al modelo lineal de innovación, al mismo tiempo que refutaba en sus fun- damentos el desarrollismo rostoviano, al enfatizar los aspectos históri- cos y políticos que explicaban la génesis dialéctica de la situación entonces existente. Se proponían instrumentos analíticos como "pro- yecto nacional", "demanda social por cyT", "política implícita y explícita", "estilos tecnológicos", "paquetes tecnológicos". Es particularmente inte- resante que estos instrumentos hayan sido formulados como herra- mientas que permitían comprender el cambio en términos globales, y no solamente explicar la situación local.
-Conformaron esta corriente de pensamiento autores como Amílcar Herrera, Jorge Sábato y Oscar Varsavsky, en la Argentina; José Leite Lopes en Brasil; Miguel Wionczek en México; Francisco Sagasti en Pe- rú; Máximo Halty Carrere en Uruguay; Marcel Roche en Venezuela, en- tre otros." [@dagninoPensamientoCienciaTecnologia1996, p. 20]
+"Uno de sus principales logros fue la crítica al modelo lineal de innovación, al mismo tiempo que refutaba en sus fundamentos el desarrollismo rostoviano, al enfatizar los aspectos históricos y políticos que explicaban la génesis dialéctica de la situación entonces existente. Se proponían instrumentos analíticos como "proyecto nacional", "demanda social por CyT", "política implícita y explícita", "estilos tecnológicos", "paquetes tecnológicos". Es particularmente interesante que estos instrumentos hayan sido formulados como herramientas que permitían comprender el cambio en términos globales, y no solamente explicar la situación local.
+Conformaron esta corriente de pensamiento autores como Amílcar Herrera, Jorge Sábato y Oscar Varsavsky, en la Argentina; José Leite Lopes en Brasil; Miguel Wionczek en México; Francisco Sagasti en Perú; Máximo Halty Carrere en Uruguay; Marcel Roche en Venezuela, entre otros." [@dagninoPensamientoCienciaTecnologia1996, p. 20]
 
 El pensador argentino Amilcar Herrera:
 "tecnología se puede definir como el conjunto de instrumentos o herramientas materiales, conocimientos y habilidades utilizados para proveer a todas las necesidades de la comunidad y aumentar su dominio del medio ambiente" (Amilcar Herrera, la creación de tecnología como expresión cultural, 1973, nueva sociedad, 59)
@@ -98,15 +104,19 @@ una versión que simuló el funcionamiento del original" [@prietonanezInteraccio
 
 De este modo, la tensión infraestructural de las humanidades digitales en América Latina por en juego un movimiento entre lo global con lo local. Una idea importante para este tipo de estándares es que puedan ser escalables. Es decir, que no requiera mayor esfuerzo. Usando el mismo estándar, es posible codificar documentos. 
 
-UN SKETCH QUE MUESTRE EL CODIGO EN INGLES Y LAS VARIABLES EN ESPAÑOL
+UN SKETCH QUE MUESTRE EL CODIGO EN INGLES Y LAS VARIABLES EN ESPAÑOL. Generar un círculo en p5.
 
-PELAGIO: "However, until we started our project, the idea of the past related only to classical Greek, Roman, and Byzantine history. The mini- grants offered by this community, and the infrastructure using semantic technol- ogies such as Linked Open Geodata for the humanities, led us to work with tools designed primarily for texts in English from the classical or European past. From our different location, we had not only to recontextualize the Pelagios infrastruc- ture but also to “transculture” (Ortiz, Contrapunteo cubano) its tools from the periphery." 
+PELAGIO: "However, until we started our project, the idea of the past related only to classical Greek, Roman, and Byzantine history. The mini-grants offered by this community, and the infrastructure using semantic technologies such as Linked Open Geodata for the humanities, led us to work with tools designed primarily for texts in English from the classical or European past. From our different location, we had not only to recontextualize the Pelagios infrastructure but also to “transculture” (Ortiz, Contrapunteo cubano) its tools from the periphery." DEL RIO GLOBAL DEBATES 
 
 ## Brechas de la dependencia
 
-Qué es una brecha
+La idea general que define una brecha puede resumirse en una frase: quien ya tiene puede, más fácilmente, tener más. Pensemos en una metáfora para entender cómo se desenvuelve la producción de una brecha. La teoría del apego preferencial define un tipo de red denominada de "escala libre", en la que pocos nodos tienen muchas conexiones con los demas y, logarítmicamente, los demás nodos tienen muchas menos.
 
-Sketch de apego preferencial
+<sketch
+  height="434px"
+  src="./assets/sketches/infraestructuras/apegoPreferencial"
+  caption='Una simulación del fenómeno del apego preferencial. El tamaño de los nodos representa la probabilidad de que un nuevo nodo se conecte con ellos, y el color del nodo representa la distancia con el centro. Esta visualización puede pensarse como una metáfora del surgimiento de brechas y de la marginalización (es decir, el alejamiento del centro hacia las márgenes)'
+/>
 
 Acknowledge the gaps
 Ken Keniston, human development scholar from the Mas- sachusetts Institute of Technology, and colleagues argue for the importance of recognizing four distinct digital divides between:54

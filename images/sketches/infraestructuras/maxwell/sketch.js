@@ -13,9 +13,8 @@ const demonSize = 40;
 const sensor = 7;
 
 function setup() {
-  const { w, h, elt } = getGeneral();
   div = h/4;
-  createCanvas(w, h).parent(elt);
+  const cnv = createCanvas(w, h).parent(elt);
   textAlign(CENTER, CENTER);
   textSize(demonSize);
 
@@ -25,8 +24,17 @@ function setup() {
   drawBox();
   createButton("Remezclar")
     .parent("general")
-    .position(w - 100, div/2)
+    .position(10, 10)
     .mouseClicked(reset);
+
+  const observer = new IntersectionObserver(event => {
+    if (event[0].isIntersecting) {
+      loop();
+    } else {
+      noLoop();
+    }
+  }, { threshold: 0.4 });
+  observer.observe(cnv.elt);
 }
 
 function draw() {

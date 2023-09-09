@@ -1,6 +1,6 @@
 {
-  "title" : "Tensiones de las humanidades digitales en América Latina",
-  "subtitle": "Un mapeo multidimensional",
+  "title" : "Humanidades digitales en América Latina",
+  "subtitle": "Un mapeo multidimensional de sus tensiones",
   "designation": "Tesis para optar al título de Doctor en Comunicación, Lenguajes e Información",
   "tutor": "Andrés Lombana Bermúdez",
   "university": "Pontificia Universidad Javeriana",
@@ -27,6 +27,7 @@
         "files" : ["javascripts/scripts.js"]
       },
       "files" : [
+        "content/index.md",
         "content/1_introduccion.md",
         "content/2_problema.md",
         "content/3_metodos.md",

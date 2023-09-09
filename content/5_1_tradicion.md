@@ -8,11 +8,9 @@ subtitle: La autenticidad latinoamericana y la salvación digital de la crísis 
   <h2>{{ page.subtitle }}</h2>
 </header>
 
-Aunque pueda parecer que el asunto central de las humanidades digitales es la irrupción de las tecnologías digitales en las humanidades, y concebía lo humanístico como un concepto estable aunque vago y difuso. Sin embargo, conforme se fueron dibujando con más claridad las demás tensiones, también se hizo evidente que el concepto de humanidades se convertía en un elemento problemático que debía contextualizarse para 
-Antes de acercarnos a las demás dimensiones, es útil indagar las raíces profundas del pensamiento humanístico que dan lugar a su relación paradójica con América Latina y a las condiciones que permiten que surja el proyecto de las humanidades digitales. Infraestructuras, formas epistemológicas y formas de organización.
+Aunque pueda parecer que el asunto central de las humanidades digitales es la irrupción de las tecnologías digitales en las humanidades, y parezca que las humanidades, con sus cientos de años de historia, conforman un andamiaje estable, en realidad, las humanidades son una idea compleja y problemática; y en América Latina lo es aún más. Por esta razón, antes de acercarnos a las demás dimensiones (las formas de conocimiento de las humanidades digitales, la organización de las comunidades y las infraestructuras en las que se soporta), es útil indagar las raíces profundas del pensamiento humanístico que dan lugar a su relación paradójica con América Latina y a las condiciones que permiten que surja el proyecto de las humanidades digitales.
 
-Valores Ambivalentes. Es decir, valores que deben ser vistos con matices, pues pueden resultar opresivos y perniciosos. 
-TENGO QUE AÑADIR MÁS VALORES POSITIVOS HUMANÍSTICOS A LA HISTORIA RELÁMPAGO: conservación de la memoria, interpretación y apreciación de la cultura, educación y cultivo intelectual, expresión a través de la materialidad, argumentación y participación en la esfera pública
+La columna vertebral que estructura este capítulo es la idea de las humanidades como una tradición con propósitos y valores ambivalentes: sus virtudes también son sus vicios. Tales valores deben ser vistos con matices, pues pueden resultar tanto en proyectos necesarios para ejercer lo humano como en fenómenos perniciosos y opresivos. Las humanidades se reconocen como las guardianas de la memoria humana, las posibilitadoras de la interpretación y apreciación de la cultura, las promotoras de la educación y el cutltivo intelectual, las defensoras de la argumentación y la participación democrática en la esfera pública, y, aún así, todos esos propósitos, en ocasiones, se enfocan en disminuir lo que significa ser humano y así oprimir a otros. En América Latina esta relación ambivalente es aún más marcada, pues, desde nuestro contexto y tradición particular, se ha planteado en múltiples ocasiones la pregunta por la autenticidad de nuestras humanidades y nuestro humanismo, o, dicho de otra forma, la pregunta: ¿Somos los humanos del humanismo?
 
 ## Un contexto zigzageante de las humanidades y el humanismo
 
@@ -115,6 +113,9 @@ Eliminación de cursos, profesores, etc, y como consecuencia, pérdida de los va
 Martín Barbero: Redescubriendo al pueblo: la cultira como espacio de hegemonía: de las amasas a la masa... .incorporación de las clases populares a la cultura hegemónica a través del folletín. Es parecido a los blogs, las redes y el mundo de internet. Cuál es la relación de internet con el humanismo?
 
 ## Bárbaros en el ateneo - humanidades en Latino/América
+
+"Tupi or not tupi" —Oswald de Andrade - Manifiesto antropofágico 1928
+
 En su libro más bien propagandístico del humanismo en América Latina, Pablo Guadarrama establece un panorama claro: "La lucha contra las distintas formasde enajenación en lasque se ve envuelto el hombre latinoamericano durante estos quinientos años de historia ha sido objeto de reflexión desde distintos ángulos por el espiritualismo, el eclecticismo, el positivismo, el irracionalismo, el marxismo, la analítica, al filosofía de al liberación, etc., en el pensamiento latinoamericano. Cada corriente ha tratado por diversas vías de contribuir a al que considera más adecuada para el logro del "humanismo real"." [@guadarramagonzalezJoseMartiHumanismo2003, p. 38]
 DESALIENADOR
 La postura de Guadarrama es moral, basado en un nociones antropocéntricas, en el trabajo como virtud moral, y el patriotismo nacionalista.

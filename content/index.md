@@ -3,6 +3,6 @@ title: Presentaciónn
 subtitle: ""
 ---
 
-<section data-type="chapter">
+<section class="single-page">
   PORTADA
 </section>

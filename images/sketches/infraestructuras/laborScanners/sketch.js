@@ -60,6 +60,13 @@ function makeMap(geoData, data, r) {
     .join("g")
     .attr("transform", (d,i) => `translate(${0},${i * r(d) * 1.7})`)
 
+  g.append("text")
+    .attr("transform", `translate(${m.w / 9},${m.h*0.53})`)
+    .text("Páginas escaneadas")
+    .attr("fill", colblack)
+    .attr("text-anchor", "middle")
+    .attr("font-size", "0.7em")
+
   labels.append("circle")
     .attr("cx", 0)
     .attr("cy", 0)
@@ -89,7 +96,7 @@ function makeMap(geoData, data, r) {
       .on("mouseover", function(e, d) {
         circles.attr("r", 100)
         circles.append("text")
-          .text(d.count + " libros escaneados por " + d.name)
+          .text(`${d.count} página${d.count > 1 ? "s" : ""} escaneada${d.count > 1 ? "s" : ""} por ${d.name}`)
           .attr("alignment-baseline", "middle")
           .attr("text-anchor", "middle")
           .attr("x",w/2)

@@ -26,4 +26,6 @@ What is a computational essay:
 
 https://writings.stephenwolfram.com/2017/11/what-is-a-computational-essay/
 
-Este libro utiliza un sistema que se mueve entre la publicación digital y la impresa: el magicbook project
+Este libro utiliza un sistema que se mueve entre la publicación digital y la impresa: el magicbook project. Nature of code, programming design systems
+
+Aventura js

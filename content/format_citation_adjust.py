@@ -1,15 +1,25 @@
-import sys
 import re
+import argparse
+
+def parse_arguments():
+    parser = argparse.ArgumentParser(description="Convert a flag -t to a boolean value and open a file.")
+    parser.add_argument('-t', action='store_true', help='Set the boolean flag to True')
+    parser.add_argument('-f', '--filename', help='Specify a filename to open')
+    args = parser.parse_args()
+    return args.t, args.filename
 
 def main():
-  with open(str(sys.argv[1]), 'r') as f:
+  maketooltips, filename = parse_arguments()
+
+  with open(filename, 'r') as f:
     text = f.read()
 
   text = adjust_html(text)
-  text = to_inline(text)
+  text = to_inline(text, maketooltips)
   text = remove_bibliography(text)
+  text = replace_after(text, "---", "-", 2)
 
-  with open(str(sys.argv[1]), 'w') as f:
+  with open(filename, 'w') as f:
     f.write(text)
 
 def adjust_html(text):
@@ -20,7 +30,7 @@ def adjust_html(text):
   text = re.sub(closing, ">", text)
   return text
 
-def to_inline(text):
+def to_inline(text, maketooltips):
   counter = 0
   while True:
     try:
@@ -35,21 +45,35 @@ def to_inline(text):
 
       offset = len(str(counter)) + 5
 
-      note = "^[" + text[refStart+offset:refEnd] + "]"
+      cleannote = text[refStart+offset:refEnd]
+      note = "^[" + cleannote + "]"
+
+      if maketooltips:
+        note = f"<span class='tooltip'>{note}<span class='tooltiptext'>{cleannote}</span></span>"
+
       text = text.replace(cite, note)
 
     except ValueError:
       break
 
   if counter > 1:
-    note = "^[" + text[refStart+offset:len(text)-1] + "]"
+    cleannote = text[refStart+offset:len(text)-1]
+    note = "^[" + cleannote  + "]"
+
+    if maketooltips:
+        note = f"<span class='tooltip'>{note}<span class='tooltiptext'>{cleannote}</span></span>"
+
     text = text.replace(cite, note)
     text = text.replace("\n    ", " ")
-    cutPoint = text.index("\n^")
-    text = text[0:cutPoint]
+    # cutPoint = text.index("\n^")
+    # text = text[0:cutPoint]
   
   return text
 
+def replace_after(text, search, replace, n):
+  parts = text.split(search)
+  return search.join(parts[: n + 1]) + search.join(parts[n - 1:]).replace(search, replace)
+    
 def remove_bibliography(text):
   marker = re.compile('# Referencias', re.IGNORECASE)
   text = re.split(marker, text)[0]
