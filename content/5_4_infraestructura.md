@@ -55,6 +55,10 @@ Por ejemplo, como lo muestra un estudio de Colbert, Li, Schwartz y Satten-Lopez,
 
 ## ¿Modelos importados que no son la solución?
 
+SITUADOS, MÚLTIPLES ACTORES, APROVECHAN LOS CONOCIMIENTOS AUTÓCTONOS, SON RESPONSABLES CON EL MEDIO AMBIENTE
+
+"The critical situation of the region must be recognized as a reality and not as a restriction, and as Simon Rodriguez, the mentor of Bolivar, said, ‘Either we invent, or we fail’." [@sagastiCrisisChallenge1989, p. 168]
+
 En el caso particular de las humanidades digitales en América Latina, existe una tensión que se mueve entre crear infraestructuras propias para resolver problemas locales o aprovechar infraestructuras ajenas que ya han sido diseñadas, construidas y estandarizadas. O dicho desde otra manera, **una tensión entre dedicar energía y trabajo en hacer infraestructuras o en dedicarlo a realizar proyectos concretos**. Esta noción puede resultar un poco abstracta al hablar de infraestructuras digitales, pues no son directamente tangibles como sí lo pueden ser otro tipo de infraestructuras, como el acueducto o las carreteras. Sin embargo,
 
 Si lo pensamos así, esta pregunta guarda cercanas analogías con las nociones de la autenticidad latinoamericana planteadas en la sección 5_1
@@ -69,11 +73,38 @@ Lasgas políticas de transferencia tecnológica
 
 "Uno de sus principales logros fue la crítica al modelo lineal de innovación, al mismo tiempo que refutaba en sus fundamentos el desarrollismo rostoviano, al enfatizar los aspectos históricos y políticos que explicaban la génesis dialéctica de la situación entonces existente. Se proponían instrumentos analíticos como "proyecto nacional", "demanda social por CyT", "política implícita y explícita", "estilos tecnológicos", "paquetes tecnológicos". Es particularmente interesante que estos instrumentos hayan sido formulados como herramientas que permitían comprender el cambio en términos globales, y no solamente explicar la situación local.
 Conformaron esta corriente de pensamiento autores como Amílcar Herrera, Jorge Sábato y Oscar Varsavsky, en la Argentina; José Leite Lopes en Brasil; Miguel Wionczek en México; Francisco Sagasti en Perú; Máximo Halty Carrere en Uruguay; Marcel Roche en Venezuela, entre otros." [@dagninoPensamientoCienciaTecnologia1996, p. 20]
+Empresa de tecnología de Sábato. Triángulo de sábato, Estado, Infraestructura Científico tecnológica, Sector productivo. Interrelaciones y Extrarrelaciones (dependencia)
 
 El pensador argentino Amilcar Herrera:
 "tecnología se puede definir como el conjunto de instrumentos o herramientas materiales, conocimientos y habilidades utilizados para proveer a todas las necesidades de la comunidad y aumentar su dominio del medio ambiente" (Amilcar Herrera, la creación de tecnología como expresión cultural, 1973, nueva sociedad, 59)
 "La única solución para los países en desarrollo, es recuperar la tecnologías como parte realmente integrante de su cultura" "modo legítimo de expresión de sus propios valores y aspiraciones" (72)
 "El objetivo primordial debe ser revertir la situación actual, haciendo que los sistemas de ciencia y tecnología dejen de ser casi exclusivamente receptores y transmisores de tecnologías generadas en el exterior, para convertirse en la manifestación legítima y dinámica de las aspiraciones y la capacidad creativa de la sociedad"(78)
+
+"somos fundamentalmente consumidores de tecnología, pero no productores; por lo tanto, espectores y no autores, recipientes pasivos de lo que otros realizan en función de sus intereses y no de los nuestros" [@sabatoCambioTecnologicoNecesario1976, p. 32]
+
+"Se llega así a una de dos posiciones igualmente nefastas: a la peor de las tecnolatrías, la del mimetismo o la copia o a la denuncia furibunda que esterliza al no proponer alternativas viables"[@sabatoCambioTecnologicoNecesario1976, p. 32]
+
+
+Maximo Halty Circulos viciosos del subdesarrollo en círculos virtuosos
+
+
+"In the coming years, coinciding with the period of turbulence in the international scene, a period will occur during which the region
+will be able to embark on science and technology efforts oriented towards
+internal social and economic demands-which, in turn, will facilitate and
+require selective recovery of the traditional technological base, the promotion of ‘unincorporated’, non-integrated technological change in the production of goods and services, and the introduction of advanced technology
+components into conventional and traditional production activities."[@sagastiCrisisChallenge1989, p. 167]
+
+Tecnological base exogenous and endogenous sagasti [@sagastiEndogenousScienceTechnology1980]
+Upgrading of tradicional technologies
+Educación
+Basic human needs — Producción tecnológica como una forma de humanismo
+
+"The implanted or modem productive activities employed imported technologies that
+brought with them skill requirements, use of materials, organizational habits, and technical traditions that were alien to the local environment. Furthermore, the technological
+capabilities associated with modem production were expanded primarily through new
+technology imports, which meant that the technological traditions-developed slowly and
+cumulatively over a long time-were left aside and even eliminated. This led to a reduction in the variety of indigenous technological responses."[@sagastiEndogenousScienceTechnology1980, p. 325]
+
 
 TECNOLOGIA DENTRO DE SU MARCO SOCIAL
 

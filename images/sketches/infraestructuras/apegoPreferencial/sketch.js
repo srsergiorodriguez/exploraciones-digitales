@@ -91,7 +91,7 @@ function makeNetwork(data) {
   let nodes = g.append("g");
 
   let ringScale = d3.scaleLinear().domain([0, rings]).range([0, m.h / 2]);
-  let colorScale = d3.scaleSequential(d3.interpolateRgb(colmain, col2)).domain([0, m.h/4])
+  let colorScale = d3.scaleSequential(d3.interpolateRgb(colmain, col2)).domain([0, m.h/2])
   const ringRange = d3.range(rings);
 
   radial.selectAll("circle")
@@ -127,7 +127,7 @@ function makeNetwork(data) {
       .attr("cy", d => d.y)
       .transition()
         .attr("r", d => rScale(d.prob))    
-        .attr("fill", d => colorScale(Math.min(euclideanDistance(d, {x: m.w/2, y: m.h/2})), m.h/4))  
+        .attr("fill", d => colorScale(Math.min(euclideanDistance(d, {x: m.w/2, y: m.h/2})), m.h/2))  
 
     links.selectAll("line")
       .data(data.links)
