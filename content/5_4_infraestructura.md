@@ -194,6 +194,8 @@ the essential steps toward the fulfillment of that promise." [@priegoCanSubalter
 
 "the impossibility of accessing or running basic research infrastructures such as our own servers, and the instability of the Wi-Fi connection, led us toward the minimal, open, and agnostic technologies that in recent years have been defined as Minimal Computing" [@delrioriandeDigitalHumanitiesVisible2022, p. 253]
 
+http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html // MInimal COMPuting
+
 ## Haciendo apropiado lo apropiado
 
 El beta permanente (Jairo Melo y Carolina Zúñiga)
@@ -230,6 +232,12 @@ terra nullius
 Uprooting, desarraigo plantas y metadatos
 
 Las formas de organización y divulgación de las humanidades digitales también operan bajo una lógica similar. congresos, historias oficiales.
+
+Exploratorio de Humanidades Digitales de la Universidad de Medellín, ÚRSULA
+Procesos de digitalización
+https://www.udea.edu.co/wps/portal/udea/web/generales/interna/!ut/p/z0/fY4xTwMxDIX_Ch06RjkOVNrxdEJIVSeQUJsFvSbRYcjFaZKrEL8e98rCwmQ_2-_z00bvtYk404BKHBFEH8zqbb3p29vuvtk9PW_7plv13ePDy-uuXbd6q83_B0Kgj9PJdNpYjtV_Vb1PnCvC5DyWDcpf9c6jv_ZTJAfnyw0s3MLeLbAZyaIsG8ujLC2shPTl4prRcs-zClQqHAsilylATREKafIyVc4HNeQpsbIceDwSVM1wdGXJWokhIeCYpXK-SEcDSUT6nj_OiISaaeRI_GuRQGefyyWyTp_m8ANZtVJf/
+https://exploratoriohd.net/
+
 
 ## haciendo lo propio, Los comunes
 

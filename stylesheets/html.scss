@@ -86,20 +86,25 @@ figure.whole figcaption{
 }
 
 .side-by-side {
-  display: flex;
+  box-sizing: content-box;
+  display: grid;
+  grid-auto-flow: column;
+  grid-gap: 1em;
 }
 
 .side-by-side figure {
+  box-sizing: content-box;
   text-align: center;
   display: flex;
-  flex-flow:column;
-  float: center;
-  margin: 0.5em;
+  gap: 0.2em;
+  flex-direction: column;
+  padding: 0px;
+  margin: 0em;
 }
 
 .side-by-side img {
-  height: 100%;
   object-fit:scale-down;
+  height: 100%;
 }
 
 /* Sketches */

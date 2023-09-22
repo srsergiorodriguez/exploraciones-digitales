@@ -1,17 +1,16 @@
-const { w, elt } = getGeneral();
+const { w, h, elt } = getGeneral();
 const m = getStandardMargins();
 
 const a = new Aventura('es', {
   contenedorAventura: "general",
   velocidadMaquina: 0,
   CSSporDefecto: false,
-  deslizarAImagen: false,
-
+  deslizarAImagen: false
 });
 
 const escenas = {
   inicio: {
-    texto: "TEST"
+    texto: "Una muestra de cinco proyectos de archivo digital en América Latina, haz clic en las imágenes para tener más información de cada proyecto."
   }
 }
 
@@ -86,6 +85,7 @@ async function setup() {
       titulo: d.nombre,
       texto: d.texto,
       imagen: dataUrl,
+      url: d.url,
       opciones: [ { btn: "<<<", escena: "inicio" } ]
     }
   }
