@@ -77,6 +77,7 @@ Trying different methaphors (demonio, torre de babel....)
 
 https://www.dukeupress.edu/how-to-make-art-at-the-end-of-the-world#:~:text=In%20How%20to%20Make%20Art,scholarship%20and%20a%20way%20to
 
+Sobre investigación creación
 http://www.researchcreation.ca/bibliography1
 
 -----
