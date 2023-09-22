@@ -75,6 +75,9 @@ Cristalization: drawing from many genres, methods, case studies. Not only triang
 Writting stories ': dituatiing writing in one's bigger experience
 Trying different methaphors (demonio, torre de babel....)
 
+https://www.dukeupress.edu/how-to-make-art-at-the-end-of-the-world#:~:text=In%20How%20to%20Make%20Art,scholarship%20and%20a%20way%20to
+
+http://www.researchcreation.ca/bibliography1
 
 -----
 Sampieri Metodología de la invetigación
