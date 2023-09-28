@@ -96,20 +96,26 @@ figure.whole figcaption{
   box-sizing: content-box;
   text-align: center;
   display: flex;
-  gap: 0.2em;
   flex-direction: column;
+  gap: 0.2em;
   padding: 0px;
   margin: 0em;
+  
 }
 
 .side-by-side img {
-  object-fit:scale-down;
+  object-fit: contain;
   height: 100%;
 }
 
 /* Sketches */
 
 .sketch-wrapper {
+  text-align: center;
+  margin: 0 0 30px;
+}
+
+.video-wrapper {
   text-align: center;
   margin: 0 0 30px;
 }

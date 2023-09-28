@@ -91,6 +91,62 @@ button:active {
   background: var(--colbg);
 }
 
+/* Panel */
+
+.panel {
+  box-sizing: border-box;
+  border: solid 1px var(--colblack);
+  border-radius: 5px;
+  border: solid 1px black;
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  height: 100%;
+}
+
+.panel-section {
+  padding: 1em;
+}
+
+.panel-right {
+  overflow: scroll;
+  border-left: solid 1px var(--colblack);
+  background: var(--colbg);
+}
+
+.panel-datasheet {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1em;
+}
+
+.panel-datasheet a{
+  text-align: center;
+  color: var(--colmain);
+}
+
+.panel-img-container {
+  height: 150px;
+  text-align: center;
+}
+
+.panel-img-container img {
+  height: 100%;
+  border: solid 1px var(--colblack);
+}
+
+.panel-list-element {
+  padding: 0.5em;
+}
+
+.active {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.highlight {
+  color: var(--colmain);
+}
+
 
 /* Aventura */
 

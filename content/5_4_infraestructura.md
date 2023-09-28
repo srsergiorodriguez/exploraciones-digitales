@@ -63,13 +63,15 @@ En el caso particular de las humanidades digitales en América Latina, existe un
 
 Si lo pensamos así, esta pregunta guarda cercanas analogías con las nociones de la autenticidad latinoamericana planteadas en la sección 5_1
 
+Especialmente entre los años sesenta y noventa, varios pensadores, vinculados como asesores en instituciones gubernamentales y  organizaciones internacionales (OEA, ONU, CEPAL, entre otras). Teoría de la dependencia, discusiones acerca de la transferencia tecnológica, atraso en el desarrollo, relaciones entre la industria, la sociedad civil y la infraestructura científico-tecnolócia, la producción endógena vs. la exógena, y la relación con las tecnologías y los saberes autóctonos. Análisis desde lógicas globales. Posteriormente, se asentarion posturas neoliberales en los países latinoamericanos y estas discusiones pasaron a segundo plano o tomaron direccciones distintas, tanto por la aceptación de la subalternidad en la producción tecnológica como en la puesta en cuestión del concepto de desarrollo.
+
 <sketch
-  height="500px"
-  src="./assets/sketches/infraestructuras/panelCts"
-  caption="Varias posturas con respecto a los estudios de Ciencia y Tecnología en América Latina. Cliquea en las imágenes de los autores"
+  height="410px"
+  src="./assets/sketches/infraestructuras/listaCts"
+  caption="Varias posturas con respecto a los estudios de Ciencia y Tecnología en América Latina"
 />
 
-Lasgas políticas de transferencia tecnológica 
+Largas políticas de transferencia tecnológica 
 
 "Uno de sus principales logros fue la crítica al modelo lineal de innovación, al mismo tiempo que refutaba en sus fundamentos el desarrollismo rostoviano, al enfatizar los aspectos históricos y políticos que explicaban la génesis dialéctica de la situación entonces existente. Se proponían instrumentos analíticos como "proyecto nacional", "demanda social por CyT", "política implícita y explícita", "estilos tecnológicos", "paquetes tecnológicos". Es particularmente interesante que estos instrumentos hayan sido formulados como herramientas que permitían comprender el cambio en términos globales, y no solamente explicar la situación local.
 Conformaron esta corriente de pensamiento autores como Amílcar Herrera, Jorge Sábato y Oscar Varsavsky, en la Argentina; José Leite Lopes en Brasil; Miguel Wionczek en México; Francisco Sagasti en Perú; Máximo Halty Carrere en Uruguay; Marcel Roche en Venezuela, entre otros." [@dagninoPensamientoCienciaTecnologia1996, p. 20]
@@ -87,9 +89,7 @@ El pensador argentino Amilcar Herrera:
 
 Maximo Halty Circulos viciosos del subdesarrollo en círculos virtuosos
 
-
-"In the coming years, coinciding with the period of turbulence in the international scene, a period will occur during which the region
-will be able to embark on science and technology efforts oriented towards
+"In the coming years, coinciding with the period of turbulence in the international scene, a period will occur during which the region will be able to embark on science and technology efforts oriented towards
 internal social and economic demands-which, in turn, will facilitate and
 require selective recovery of the traditional technological base, the promotion of ‘unincorporated’, non-integrated technological change in the production of goods and services, and the introduction of advanced technology
 components into conventional and traditional production activities."[@sagastiCrisisChallenge1989, p. 167]
@@ -100,11 +100,10 @@ Educación
 Basic human needs — Producción tecnológica como una forma de humanismo
 
 "The implanted or modem productive activities employed imported technologies that
-brought with them skill requirements, use of materials, organizational habits, and technical traditions that were alien to the local environment. Furthermore, the technological
-capabilities associated with modem production were expanded primarily through new
-technology imports, which meant that the technological traditions-developed slowly and
-cumulatively over a long time-were left aside and even eliminated. This led to a reduction in the variety of indigenous technological responses."[@sagastiEndogenousScienceTechnology1980, p. 325]
+brought with them skill requirements, use of materials, organizational habits, and technical traditions that were alien to the local environment. Furthermore, the technological capabilities associated with modem production were expanded primarily through new
+technology imports, which meant that the technological traditions-developed slowly and cumulatively over a long time-were left aside and even eliminated. This led to a reduction in the variety of indigenous technological responses."[@sagastiEndogenousScienceTechnology1980, p. 325]
 
+Los efectos de políticas de importación tecnológica
 
 TECNOLOGIA DENTRO DE SU MARCO SOCIAL
 
@@ -139,6 +138,10 @@ UN SKETCH QUE MUESTRE EL CODIGO EN INGLES Y LAS VARIABLES EN ESPAÑOL. Generar u
 
 PELAGIO: "However, until we started our project, the idea of the past related only to classical Greek, Roman, and Byzantine history. The mini-grants offered by this community, and the infrastructure using semantic technologies such as Linked Open Geodata for the humanities, led us to work with tools designed primarily for texts in English from the classical or European past. From our different location, we had not only to recontextualize the Pelagios infrastructure but also to “transculture” (Ortiz, Contrapunteo cubano) its tools from the periphery." DEL RIO GLOBAL DEBATES 
 
+Internationalization
+Adrian Mackenzie
+Software studies \ a lexicon
+
 ## Brechas de la dependencia
 
 La idea general que define una brecha puede resumirse en una frase: quien ya tiene puede, más fácilmente, tener más. Pensemos en una metáfora para entender cómo se desenvuelve la producción de una brecha. La teoría del apego preferencial define un tipo de red denominada de "escala libre", en la que pocos nodos tienen muchas conexiones con los demas y, logarítmicamente, los demás nodos tienen muchas menos.
@@ -168,6 +171,8 @@ Brecha econónomica
 
 "Las personas y los grupos sociales tienen derecho a ser iguales cuando la diferencia los inferioriza, y el derecho a ser diferentes cuando la igualdad los descaracteriza" (De sousa Santos, 2001, P. 10)
 Globalización, cosmopolitismo, patrimonio común de la humanidad
+
+(Palgrave Macmillan Transnational History Series) Ignacio Siles - A Transnational History of the Internet in Central America, 1985-2000_ Networks, Integration, and Development-Palgrave Macmillan (2020
 
 ## Relaciones de trabajo
 

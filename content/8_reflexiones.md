@@ -8,9 +8,25 @@ subtitle: Las explicaciones explorables como productos académicos
   <h2>{{ page.subtitle }}</h2>
 </header>
 
+## Justificación del tipo de proyecto
+
+En su reflexión sobre el papel del bloging en la construcción de su aprendizaje, comunicación y construcción de comunidad en su práctica de las humandiades digitlaes Ernesto Priego comenta que "blogging and open digital scholarship could not be separated from the digital humanities (DH). A digital humanities that disseminated its research outputs through the same traditional methods as other “nondigital” fields seemed to me a contradiction" [@priegoCanSubalternDH2022, p. 28]
+
+En una línea similar, esta disertación es una investigación de las tensiones de las humanidades digitales en América Latina, pero también es, en sí misma, un trabajo que se enmarca en las humanidades digitales. Como tal, y como reflexiono en el capítulo sobre epistemología, es consciente de las particularidades del medio digital, de sus límites y posibilidades. Así, aprovecha esas posibilidades y procura construir sus argumentos no solo a través de la escritura sino también a través del uso de interfaces, imágenes, sonido y piezas interactivas. Es, en términos generales un libro compuesto de ensayos interactivos.
+
+## Marco conceptual y ejemplos
+
+La noción de ensayo interactivo está basado en el concepto de explicación explorable que ha sido desarrollado por personas como Bret Victor y Nicky Case. 
+
+Desafortunadamente, no existen muchos ejemplos de explicaciones explorables en español, y es justamente por ese motivo que es importante la documentación y reflexión que se plantea en este capítulo: que sirva como un referente para futuras formas de producción académica interactiva y que sirva como una memoria para consignar aprendizajes que puedan ser útiles para nuevas formas de investigación.
+
 Construir los ensayos interactivos implicó un descubrimiento constante de estrategias y reformulaciones del proyecto
 
-"blogging and open digital scholarship could not be separated from the digital humanities (DH). A digital humanities that disseminated its research outputs through the same tra- ditional methods as other “nondigital” fields seemed to me a contradiction" [@priegoCanSubalternDH2022, p. 28]
+<sketch
+  height="410px"
+  src="./assets/sketches/reflexiones/listaExplorables"
+  caption="Ejemplos de ensayos interactivos y explicaciones explorables"
+/>
 
 Ejemplos:
 
@@ -21,11 +37,24 @@ https://penelope.hypotheses.org/332 QUIPU
 TECNOLOGICAL ECOLOGIES DE ALEX GIL
 Entrevista a ernesto Oroza: https://dhdebates.gc.cuny.edu/read/untitled/section/f2df3413-259e-46fe-9982-f1dba0c386fb
 
-
 What is a computational essay:
 
 https://writings.stephenwolfram.com/2017/11/what-is-a-computational-essay/
 
-Este libro utiliza un sistema que se mueve entre la publicación digital y la impresa: el magicbook project. Nature of code, programming design systems
+## Sistemas de diseño
 
-Aventura js
+## Desarrollo y aspectos técnicos
+
+En cuanto a los aspectos técnicos, este proyecto utiliza un sistema que se mueve entre la publicación digital y la impresa: el magicbook project desarrollado por el programa en Telecomunicaciones Interactivas de la Universidad de Nueva York. El Magic Book project es un sistema que permite, simultáneamente, escribir un libro que puede exportarse tanto en formato HTML para la web como en formato PFD para su posterior impresión. Debido a que, al menos a la fecha, este es un projecto no convencional en términos de su formato, me pareció adecuado utilizar Magicbook para tener dos versiones del mismo, una impresa, archivable como tesis de doctorado en las colecciones de la universidad como cualquier otra, y una digital, que aprovecha las prestaciones del medio. Magicbook ha sido utilizado en algunos proyectos de una naturaleza similar y que han servido como inspiración para esta disertación: el libro/sitio web de The Nature of code por Daniel Shiffman, en el que se explican disitintos principios para la programación de simulaciones físicas a través de código, y Programming Design Systems que hace un recorrido por los fundamentos de diseño para la construcción de sistemas de diseño análogos y digitales.
+
+Luego de varios experimentos y prototipos, se fueron decantando algunas piezas interactivas que se pueden clasificar en tres tipos: interactivos analíticos, simulaciones y piezas artísticas.
+
+Las piezas metodológicas funcionan como un andamiaje que se puede aplicar a varios contextos porque están basadas en métodos y técnicas de las humanidades digitales. En los ensayos de este proyectos, destacan especialmente los mapas de vectores de palabras, los grafos, los mapas, y los listados interactivos. Visualizaciones de datos.
+
+UMBERTO ECO SOBRE LAS LISTAS
+
+Adicionalmente, produje varias piezas personalizadas para ilustrar o argumentar distintos conceptos a lo largo de los capítulos, como es el caso de las simulaciones del demonio de Maxwell y del apego preferencial en el capítulo sobre infraestructuras.
+
+Finalmente, las piezas artísticas funcionan como un elemento especulativo y con un significado más abierto, pero que guarda relación con el hilo conductor del texto del capítulo. Por ejemplo, los poemas generativos o la pieza "corromper el archivo" en el capítulo sobre epistemologías.
+
+Todos las piezas interactivas fueron realizadas con el lenguaje de programación JavaScript y con la ayuda de algunas librerías para la producción de programación creativa y visualización de datos: d3, p5 y Aventura. Notablemente, Aventura es una librería de programación que yo mismo creé para la producción de literatura electrónica y textos generativos, así que, en conexión con las reflexiones que hago en el capítulo sobre infraestructuras, esta es una pieza de software local que, de hecho, con el fin de acortar brechas idiomáticas, está pensada para ser usada en español. Aventura es entonces el software que fundamenta algunas de las piezas interactivas en los ensayos, como los generadores de textos y los paneles interactivos. En este punto también quiero mencionar la colaboración y retroalimentación del club de programación que coordino en la Red Colombiana de Humanidades Digitales, gracias a sus participantes, la librería ha recibido múltiples mejoras que se han visto reflejadas en este projecto. Mis habilidades de programación también se han pulido gracias al trabajo en el club, y eso permitió, sin duda, la producción de unas piezas interactivas más consistentes en términos de usabilidad y sólidas en el hilo argumentativo.

@@ -9,7 +9,7 @@
   "destination" : "build/:build",
   "addPlugins": [
     "./plugins/addSketch.js",
-    "./plugins/addP5.js",
+    "./plugins/addVideo.js",
     "./plugins/mdClass.js"
   ],
   "disablePlugins": [

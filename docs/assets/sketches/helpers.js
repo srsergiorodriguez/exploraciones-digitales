@@ -73,3 +73,50 @@ function euclideanDistance(a, b) {
   const dy = b.y - a.y;
   return Math.sqrt((dx * dx) + (dy * dy))
 }
+
+async function makePanel(data) {
+  const imgMemo = {}
+  for (let d of data) {
+    if (imgMemo[d.img] === undefined) {
+      const img = new Image();
+      img.src = d.img;
+      imgMemo[d.img] = await new Promise(resolve => {
+        img.addEventListener('load',() => {resolve(img)}, false)
+      });
+    }
+  }
+
+  const container = d3.select("#general").append("div").classed("panel", true);
+  
+
+  const left = container.append("div").classed("panel-left", true).classed("panel-section", true);
+  const right = container.append("div").classed("panel-right", true).classed("panel-section", true);
+
+  const datasheet = right.append("div").classed("panel-datasheet", true);
+  datasheet.text("👈 Selecciona un elemento de la lista")
+
+  const list = left.selectAll("div")
+    .data(data)
+    .join("div")
+      .classed("panel-list-element", true)
+      .text(d => d.nombre)
+
+  list.on("click", (e, d) => {
+    d3.selectAll(".highlight").classed("highlight", false);
+    d3.select(e.target).classed("highlight", true);
+    d3.selectAll(".panel-datasheet").remove();
+    const datasheet = right.append("div").classed("panel-datasheet", true);
+    const imgContainer = datasheet.append("div").classed("panel-img-container", true);
+    imgContainer.node().appendChild(imgMemo[d.img]);
+    if (d.url !== undefined) {
+      datasheet.append("a").text("visitar").attr("target", "_blank").attr("href", d.url);
+    }
+    datasheet.append("p").text(d.texto);
+  })
+  .on("mouseover", (e) => {
+    d3.select(e.target).classed("active", true);
+  })
+  .on("mouseout", (e) => {
+    d3.select(e.target).classed("active", false);
+  })
+}
