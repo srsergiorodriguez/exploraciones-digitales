@@ -33,7 +33,7 @@ function setup() {
     } else {
       noLoop();
     }
-  }, { threshold: 0.4 });
+  }, { threshold: 0.1 });
   observer.observe(cnv.elt);
 }
 

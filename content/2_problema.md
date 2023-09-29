@@ -5,8 +5,20 @@ subtitle: El mapa de tensiones de las humanidades digitales en América Latina
 
 <header class="chapter-headers">
   <h1>{{ page.title }}</h1>
-  <h2>{{ page.subtitle }}</h2>
+  <!-- <h2>{{ page.subtitle }}</h2> -->
 </header>
+
+## Contexto
+
+<sketch
+  height="440px"
+  src="./assets/sketches/contexto/trendsDH"
+  caption='Los países con más interés de búsqueda de los términos "humanidades digitales", "humanidades digitais", "digital humanities" y "humanités numériques" entre 28/09/18 y 28/09/23 de acuerdo con <a href="https://trends.google.es/trends/explore?date=today%205-y&q=humanidades%20digitales,humanidades%20digitais,digital%20humanities,humanit%C3%A9s%20num%C3%A9riques&hl=es" target="_blank">Google trends</a>.'
+/>
+
+## Problema
+
+## Objetivos
 
 Comenzar con una pregunta
 
@@ -80,11 +92,6 @@ Caracterizar estos discursos es esencial para entender la dirección en la que s
 Podemos imaginar que estos ejes configuran un espacio de cuatro dimensiones dentro del cual los agentes que participan de las humanidades digitales se ubican, se mueven y se agrupan. En otras palabras, los ejes no establecen posiciones dicotómicas sino posiciones parciales que se desenvuelven a través de la aparición y resolución de controversias discursivas. Las figuras 1 y 2 muestran visualmente esta concepción de los ejes en tensión como espacios de posición discursiva ocupados por agentes concretos.
 
 ## Segundo problema: un programa intelectual
-
-<figure class="illustration right">
-  <figcaption>Ivan Sutherland, uno de los primeros investigadores de la interacción humano-máquina junto a su interfaz <i>sketchpad</i>, que imita y extiende el medio del cuaderno de dibujos (<a href="https://commons.wikimedia.org/wiki/Category:Ivan_Sutherland#/media/File:SketchpadDissertation-Fig1-2.tif" target="_blank">Fuente</a>, CC BY-SA 3.0)</figcaption>
-  <img alt="Ivan Sutherland y Sketchpad" src="sutherland.jpg" />
-</figure>
 
 EJEMPLOS DE PROYECTOS
 

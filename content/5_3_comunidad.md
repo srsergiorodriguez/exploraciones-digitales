@@ -1,10 +1,10 @@
 ---
-title: Comunidad
+title: Formación de Comunidad
 subtitle: La dimensión comunitaria
 ---
 <header class="chapter-headers">
   <h1>{{ page.title }}</h1>
-  <h2>{{ page.subtitle }}</h2>
+  <!-- <h2>{{ page.subtitle }}</h2> -->
 </header>
 
 ## Los roles y las comunidades

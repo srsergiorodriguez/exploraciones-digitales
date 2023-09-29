@@ -6,12 +6,20 @@ body {
   margin: 0;
   background: var(--colbg);
 }
+
 p {
   font-size: 1em;
 }
+
 code {
   font-size: 1.2em;
   // background: var(--col2);
+}
+
+blockquote {
+  border-left: solid 3px var(--col1);
+  padding: 0em 0.5em;
+  margin: 0;
 }
 
 /* Header rect */

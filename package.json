@@ -21,7 +21,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "magicbook build",
-    "watch": "magicbook build --watch"
+    "watch": "magicbook build --watch",
+    "dev": "open http://localhost:5501 && magicbook build --watch"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",

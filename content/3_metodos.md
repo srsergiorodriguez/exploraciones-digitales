@@ -5,7 +5,7 @@ subtitle: Mapeos de controversias, visiones mediarqueológicas, explicaciones ex
 
 <header class="chapter-headers">
   <h1>{{ page.title }}</h1>
-  <h2>{{ page.subtitle }}</h2>
+  <!-- <h2>{{ page.subtitle }}</h2> -->
 </header>
 
 Esta investigación se fundamenta en una metodología de investigación mixta, es decir, mezcla métodos cualitativos y cuantitativos.

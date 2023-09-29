@@ -28,12 +28,6 @@ Construir los ensayos interactivos implicó un descubrimiento constante de estra
   caption="Ejemplos de ensayos interactivos y explicaciones explorables"
 />
 
-Ejemplos:
-
-https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
-
-https://penelope.hypotheses.org/332 QUIPU
-
 TECNOLOGICAL ECOLOGIES DE ALEX GIL
 Entrevista a ernesto Oroza: https://dhdebates.gc.cuny.edu/read/untitled/section/f2df3413-259e-46fe-9982-f1dba0c386fb
 
@@ -41,11 +35,25 @@ What is a computational essay:
 
 https://writings.stephenwolfram.com/2017/11/what-is-a-computational-essay/
 
+Distill
+
+https://link.springer.com/chapter/10.1007/3-540-58648-2_38
+
+Brilliant
+
+Experimentos artísticos
+
+https://penelope.hypotheses.org/332 QUIPU
+
 ## Sistemas de diseño
+
+Un sistema de diseño implica crear una serie de dependencias interrelacionadas entre componentes, basado en patrones de interacción comunes de un usuario. En otras palabras, por una parte el sistema se basa en un inventario de componentes reutilizables que responden a problemas recurrentes, y, por otra, en proporciones adaptables que cambian con respecto a un marco de referencia. En su uso más extendido se refiere al diseño de sitios web interactivos, pero también puede aplicar para el diseño gráfico, diseño de producto e incluso para obras artísticas. Pensemos en un ejemplo concreto: supongamos que debemos diseñar un sistema para la producciónd e piezas gráficas para una institución cultural, como un archivo o un museo. Es necesario producir varias piezas que tienen tamaños y especificaciones diversas: pósters, tarjetas, banners, comerciales, etc. Sin embargo, todas estas piezas se construyen a partir de elementos comunes que cumplen ciertas funciones comunicativas: títulos, que deben ser llamativos, párrafos, que deben dar información suficiente, imágenes, que deben ilustrar temas o piezas particulares de la colección. Así, se puede construir un inventario de estos componentes y diseñarlos de manera tal que se puedan reusar en todos los formatos. Para garantizar esa reusabilidad, es necesario establecer puntos de referencia con respecto a los cuales los componentes pueden transformarse. Por ejemplo, el tamaño de cada formato, la disposición espacial. Así, es posible, por ejemplo, variar el tamaño del componente título, de acuerdo a su marco de referencia contextual, sin necesidad de modificar en escencia las particularidades del componente.
+
+Este projecto también implicó construir un sistema de diseño que permitiera estructurar una serie de componentes con la final de dar lugar a una disertación de doctorado consistente y con un hilo argumentativo claro. Así, de forma claramente convencional, el projecto está dividido en capítulos de dos tipos: capítulos que enmarcan la pertinencia y los fundamentos de la investigación, y capítulos que ofrecen una lectura novedosa del problema: los capítulos centrados en las dimensiones en tensión de las humanidades digitales. Cada capítulo contiene además una serie de componentes que cumplen funciones regulares: títulos, texto, imágenes, piezas interactivas, menús de navegación, etc. Como en cualquier sistema de diseño, en la construcción de este proyecto procuré encontrar patrones comunes con el fin de dar consistencia al proyecto, facilitar el trabajo, y permitir la transformación con respecto a puntos de referencia cambiantes.
 
 ## Desarrollo y aspectos técnicos
 
-En cuanto a los aspectos técnicos, este proyecto utiliza un sistema que se mueve entre la publicación digital y la impresa: el magicbook project desarrollado por el programa en Telecomunicaciones Interactivas de la Universidad de Nueva York. El Magic Book project es un sistema que permite, simultáneamente, escribir un libro que puede exportarse tanto en formato HTML para la web como en formato PFD para su posterior impresión. Debido a que, al menos a la fecha, este es un projecto no convencional en términos de su formato, me pareció adecuado utilizar Magicbook para tener dos versiones del mismo, una impresa, archivable como tesis de doctorado en las colecciones de la universidad como cualquier otra, y una digital, que aprovecha las prestaciones del medio. Magicbook ha sido utilizado en algunos proyectos de una naturaleza similar y que han servido como inspiración para esta disertación: el libro/sitio web de The Nature of code por Daniel Shiffman, en el que se explican disitintos principios para la programación de simulaciones físicas a través de código, y Programming Design Systems que hace un recorrido por los fundamentos de diseño para la construcción de sistemas de diseño análogos y digitales.
+En cuanto a los aspectos técnicos, este proyecto utiliza un software que se mueve entre la publicación digital y la impresa: el magicbook project desarrollado por el programa en Telecomunicaciones Interactivas de la Universidad de Nueva York. El Magic Book project es un software que permite, simultáneamente, escribir un libro que puede exportarse tanto en formato HTML para la web como en formato PDF para su posterior impresión. Debido a que, al menos a la fecha, este es un projecto no convencional en términos de su formato, me pareció adecuado utilizar Magicbook para tener dos versiones del mismo, una impresa, archivable como tesis de doctorado en las colecciones de la universidad como cualquier otra, y una digital, que aprovecha las prestaciones del medio. Magicbook ha sido utilizado en algunos proyectos de una naturaleza similar y que han servido como inspiración para esta disertación: el libro/sitio web de The Nature of code por Daniel Shiffman, en el que se explican disitintos principios para la programación de simulaciones físicas a través de código, y Programming Design Systems que hace un recorrido por los fundamentos de diseño para la construcción de sistemas de diseño análogos y digitales.
 
 Luego de varios experimentos y prototipos, se fueron decantando algunas piezas interactivas que se pueden clasificar en tres tipos: interactivos analíticos, simulaciones y piezas artísticas.
 

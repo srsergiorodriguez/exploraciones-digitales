@@ -65,12 +65,18 @@ button {
   user-select: none;
 }
 
-button:hover {
+button:hover:not(:disabled) {
   background: var(--col2);
 }
 
-button:active {
+button:active:not(:disabled) {
   background: var(--col1);
+}
+
+button:disabled {
+  color: lightgray;
+  border: lightgray;
+  cursor: auto;
 }
 
 .slider:focus {
