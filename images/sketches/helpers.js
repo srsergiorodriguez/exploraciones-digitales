@@ -87,8 +87,6 @@ async function makePanel(data) {
   }
 
   const container = d3.select("#general").append("div").classed("panel", true);
-  
-
   const left = container.append("div").classed("panel-left", true).classed("panel-section", true);
   const right = container.append("div").classed("panel-right", true).classed("panel-section", true);
 
@@ -105,6 +103,7 @@ async function makePanel(data) {
     d3.selectAll(".highlight").classed("highlight", false);
     d3.select(e.target).classed("highlight", true);
     d3.selectAll(".panel-datasheet").remove();
+    right.node().scrollTo(0,0); 
     const datasheet = right.append("div").classed("panel-datasheet", true);
     const imgContainer = datasheet.append("div").classed("panel-img-container", true);
     imgContainer.node().appendChild(imgMemo[d.img]);
@@ -112,6 +111,10 @@ async function makePanel(data) {
       datasheet.append("a").text("visitar").attr("target", "_blank").attr("href", d.url);
     }
     datasheet.append("p").text(d.texto);
+
+    if (d.ref !== undefined) {
+      datasheet.append("p").text(d.ref);
+    }
   })
   .on("mouseover", (e) => {
     d3.select(e.target).classed("active", true);

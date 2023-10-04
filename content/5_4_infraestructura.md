@@ -66,7 +66,7 @@ Si lo pensamos así, esta pregunta guarda cercanas analogías con las nociones d
 Especialmente entre los años sesenta y noventa, varios pensadores, vinculados como asesores en instituciones gubernamentales y  organizaciones internacionales (OEA, ONU, CEPAL, entre otras). Teoría de la dependencia, discusiones acerca de la transferencia tecnológica, atraso en el desarrollo, relaciones entre la industria, la sociedad civil y la infraestructura científico-tecnolócia, la producción endógena vs. la exógena, y la relación con las tecnologías y los saberes autóctonos. Análisis desde lógicas globales. Posteriormente, se asentarion posturas neoliberales en los países latinoamericanos y estas discusiones pasaron a segundo plano o tomaron direccciones distintas, tanto por la aceptación de la subalternidad en la producción tecnológica como en la puesta en cuestión del concepto de desarrollo.
 
 <sketch
-  height="410px"
+  height="350px"
   src="./assets/sketches/infraestructuras/listaCts"
   caption="Varias posturas con respecto a los estudios de Ciencia y Tecnología en América Latina"
 />
@@ -167,7 +167,10 @@ Brecha epistemológica
 Brecha técnica
 Brecha educativa
 Brecha econónomica
+
 "financial considerations are also new with these computational disciplines, as they require more money and organization thatn the old individual scholar of lore did" (Berry, 2012, 12)
+
+falta de diversidad, reconocimiento, winner countries [@sanderman21o3SeparationJournal]
 
 "Las personas y los grupos sociales tienen derecho a ser iguales cuando la diferencia los inferioriza, y el derecho a ser diferentes cuando la igualdad los descaracteriza" (De sousa Santos, 2001, P. 10)
 Globalización, cosmopolitismo, patrimonio común de la humanidad

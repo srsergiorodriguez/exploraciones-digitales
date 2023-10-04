@@ -22,6 +22,10 @@ blockquote {
   margin: 0;
 }
 
+video {
+  border-radius: var(--bradius);
+}
+
 /* Header rect */
 
 .topheader {

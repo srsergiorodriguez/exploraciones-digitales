@@ -20,7 +20,7 @@
   "homepage": "https://github.com/srsergiorodriguez/exploraciones-digitales#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "magicbook build",
+    "build": "rm -r docs && magicbook build && mkdir docs && cp -r build/build1/* docs",
     "watch": "magicbook build --watch",
     "dev": "open http://localhost:5501 && magicbook build --watch"
   },

@@ -17,6 +17,7 @@
   --mainhfont: "Libre Baskerville", serif;
   --headfont: "Libre Baskerville", serif;
   --contentfont: "Noto Serif", serif;
+  --bradius: 5px;
   --ttime: 0.5s;
 }
 
@@ -50,6 +51,16 @@ p {
 
 code {
   font-size: 1.2em;
+}
+
+blockquote {
+  border-left: solid 3px var(--col1);
+  padding: 0em 0.5em;
+  margin: 0;
+}
+
+video {
+  border-radius: var(--bradius);
 }
 
 /* Header rect */
