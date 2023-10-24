@@ -1,3 +1,5 @@
+<pre>{{item | json}}</pre>
+
 Contra ellos, cuarenta mil moros, enemigos de raza, de religión, de
 tradiciones, de costumbres, acaban de ser introducidos en territorio español a
 fin de reforzar los millares de los suyos diseminados ya por el suelo ibérico,

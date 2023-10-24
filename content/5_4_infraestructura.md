@@ -55,6 +55,8 @@ Por ejemplo, como lo muestra un estudio de Colbert, Li, Schwartz y Satten-Lopez,
 
 ## ¿Modelos importados que no son la solución?
 
+"Que el proceso de maduración de una comunidad científica, como la de las HD en Latinoamérica, consista en la adopción de unos estándares ya dados, puede describirse como parte de un proceso de colonización del conocimiento. En la medida en que los estándares no son resultado de los propios procesos de producción de conocimiento regional, son una forma de normalizar ese conocimiento a partir de modelos creados por la comunidad que domina las HD."[@prianisaisoCodificacionBuenasPracticas2019, p. 134]
+
 SITUADOS, MÚLTIPLES ACTORES, APROVECHAN LOS CONOCIMIENTOS AUTÓCTONOS, SON RESPONSABLES CON EL MEDIO AMBIENTE
 
 "The critical situation of the region must be recognized as a reality and not as a restriction, and as Simon Rodriguez, the mentor of Bolivar, said, ‘Either we invent, or we fail’." [@sagastiCrisisChallenge1989, p. 168]
@@ -177,6 +179,10 @@ Globalización, cosmopolitismo, patrimonio común de la humanidad
 
 (Palgrave Macmillan Transnational History Series) Ignacio Siles - A Transnational History of the Internet in Central America, 1985-2000_ Networks, Integration, and Development-Palgrave Macmillan (2020
 
+"Como  era  de  esperar,  por  un  lado,  la mayoría de las referencias bibliográficas recogidas pertenecen a alguno de los idiomas europeos mayoritarios, como el inglés o el español. En menor medida, son referencias de trabajos en francés o  portugués,  aunque  hemos  encontrado  citas  en  algunas  lenguas  minoritarias  de  la  Península Ibérica, como el catalán o el gallego. Por el contrario, no se identificó ninguna lengua originaria de América Latina."[@isasivelascoQueLenguaCitamos2023, p. 133]133
+
+Pero las personas que escriben en ingl'es no suelen citar en espa;ol
+
 ## Relaciones de trabajo
 
 ACPO Accion con Daño
@@ -205,6 +211,8 @@ the essential steps toward the fulfillment of that promise." [@priegoCanSubalter
 http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html // MInimal COMPuting
 
 ## Haciendo apropiado lo apropiado
+
+Bochica dejando la memoria del telar en piedras
 
 El beta permanente (Jairo Melo y Carolina Zúñiga)
 

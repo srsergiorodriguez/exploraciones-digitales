@@ -68,6 +68,9 @@ Creación de grupos para lograr propósitos comunes que conectan a las humanidad
 
 ## Una simbiosis necesaria
 
+"este  estudio  mostró  cómo,  tanto  en  el  ámbito latinoamericano  como  en  el  anglosajón,  la  forma  de  contacto  más  común  ha  sido  a  partir  de  sus actividades laborales. Si se considera además que varias participaciones apuntaron a la importan-cia que han tenido los cursos, los recursos en línea y los congresos, se podrían crear estrategias pa-ra fomentar la profesionalización en el espacio de trabajo y fortaleciendo iniciativas de formación
+gratuitas como The Programming Historian en español23o incluso en pensar en más iniciativas diri-gidas a bibliotecarios y archivistas como el proyecto WikiBibliotecas que mencioné antes"[@gutierrezdelatorreBibliotecasHumanidadesDigitales2020, p. 127]
+
 Como en otros campos del conocimiento, las humanidades digitales se desenvuelven tanto en comunidades formales como informales, y la conjunción de ellas conforma una simbiosis necesaria pero que no está libre de problemas.
 
 Formas excluyentes de participación, especialmente debido a que se construyen de manera jerárquica y dependen de políticas más amplias que son difíciles de reencausar, sea el estado, la política local, las posturas ideológicas de gobernantes de turno, o los intereses institucionales de universidades, archivos y museos. Alianzas formales.
