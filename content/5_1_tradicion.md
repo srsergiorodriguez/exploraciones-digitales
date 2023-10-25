@@ -229,6 +229,9 @@ En el primer movimiento, ante la crisis de las humanidades, es decir, su lugar c
 
 Para David Golumbia: "Dentro de nuestras instituciones de poder, la computarización tiende a estar alineada con fuerzas ansiosas de autoridad, jerárquicas, y políticamente conservadoras -las fuerzas que justifican formas existentes de poder"[@golumbiaCulturalLogicComputation2009, p. 4]
 
+En su versión más radical, las visiones más críticas de las humanidades digitales relacionan este tipo de procesos con una postura reaccionaria de los grupos elitistas que controlan el canon cultural porque, a través del discurso del rigor, también son guardapuertas de visiones más incómodas, como el feminismo, la decolonialidad, o los estudios críticos del software, o los cuestionamientos a la tradición humanística. 
+
+
 Quienes están en contra ven una instrumentalización
 Mantenimiento del poder elitista dentro de la universidad
 
