@@ -227,6 +227,8 @@ Este doble movimiento pone a las humanidades digitales en una doble tensión int
 
 En el primer movimiento, ante la crisis de las humanidades, es decir, su lugar cada vez más incómodo dentro de las instituciones que ella misma creó, las tecnologías digitales crean una promesa de rigor, velocidad y volumen que podría poner a las humanidades en un lugar de ciencia.
 
+Para David Golumbia: "Dentro de nuestras instituciones de poder, la computarización tiende a estar alineada con fuerzas ansiosas de autoridad, jerárquicas, y políticamente conservadoras -las fuerzas que justifican formas existentes de poder"[@golumbiaCulturalLogicComputation2009, p. 4]
+
 Quienes están en contra ven una instrumentalización
 Mantenimiento del poder elitista dentro de la universidad
 
