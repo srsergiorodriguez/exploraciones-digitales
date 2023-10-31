@@ -1,10 +1,8 @@
 ---
 title: Aproximación teórica
-subtitle: El mapa de las tensiones
 ---
 <header class="chapter-headers">
   <h1>{{ page.title }}</h1>
-  <!-- <h2>{{ page.subtitle }}</h2> -->
 </header>
 
 ## Un mapa de tensiones

@@ -1,11 +1,9 @@
 ---
 title: Contexto, Problema y objetivos
-subtitle: El mapa de tensiones de las humanidades digitales en América Latina
 ---
 
 <header class="chapter-headers">
   <h1>{{ page.title }}</h1>
-  <!-- <h2>{{ page.subtitle }}</h2> -->
 </header>
 
 ## Contexto

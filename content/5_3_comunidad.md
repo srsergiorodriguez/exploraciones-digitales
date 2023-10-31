@@ -1,6 +1,5 @@
 ---
 title: Formación de Comunidad
-subtitle: La dimensión comunitaria
 ---
 <header class="chapter-headers">
   <h1>{{ page.title }}</h1>

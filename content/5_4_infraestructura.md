@@ -1,15 +1,13 @@
 ---
 title: Infraestructura
-subtitle: La dimensión insfrastructural
 ---
 <header class="chapter-headers">
   <h1>{{ page.title }}</h1>
-  <h2>{{ page.subtitle }}</h2>
 </header>
 
 ## El demonio invisible
 
-El Demonio de Maxwell, propuesto por James Clark Maxwell, es un experimento mental clásico en el campo de la termodinámica. El experimento consiste en imaginar una caja en la que circulan moleculas de algún gas. En la mitad de la caja hay un separador que divide la caja en dos lados iguales, y un demonio controla una compuerta en el separador que permite o no el paso de las moléculas. En el experimento, el demonio abre y cierra la compuerta de una manera en la que las moléculas que se mueven más rápido quedan en un lado de la caja, mientras que las que se mueven más lento quedan en el otro. En términos efectivos, el movimiento de las moléculas es equivalente a la temperatura del gas, así que como resultado un lado estaría caliente y el otro frío. Aunque en el siglo XIX este experimento mental se planteó como una refutación de la segunda ley de la termodinámica, una demostración de que sería posible reducir la entropía sin necesidad de ejercer ningún trabajo, pronto críticos señalaron un falla importante: es justamente el demonio el que realiza el trabajo necesario para separar las moléculas, así que la ley sigue respetándose. En pocas palabras, **se necesita trabajo para producir organización, aunque ese trabajo sea invisible**. Justamente, en el origen griego de la palabra demonio, *daimon*, encontramos dos sentidos importantes: una entidad benigna o maligna que trabaja en el fondo, oculta, o una entidad que divide, y así lleva a cabo algún tipo de orden. Derivado de esta noción, en software también se denomina daemon a un programa que ejecuta tareas en segundo plano, oculto para el usuario.
+El Demonio de Maxwell, de James Clark Maxwell, es un experimento mental clásico en el campo de la termodinámica. El experimento consiste en imaginar una caja en la que circulan moleculas de algún gas. En la mitad de la caja hay un separador que divide la caja en dos lados iguales, y un demonio controla una compuerta en el separador que permite o no el paso de las moléculas. En el experimento, el demonio abre y cierra la compuerta de una manera en la que las moléculas que se mueven más rápido quedan en un lado de la caja, mientras que las que se mueven más lento quedan en el otro. En términos efectivos, el movimiento de las moléculas es equivalente a la temperatura del gas, así que como resultado un lado estaría caliente y el otro frío. Aunque en el siglo XIX este experimento mental se planteó como una refutación de la segunda ley de la termodinámica, una demostración de que sería posible reducir la entropía sin necesidad de ejercer ningún trabajo, pronto críticos señalaron un falla importante: es justamente el demonio el que realiza el trabajo necesario para separar las moléculas, así que la ley sigue respetándose. En pocas palabras, **se necesita trabajo para producir organización, aunque ese trabajo sea invisible**. Justamente, en el origen griego de la palabra demonio, *daimon*, encontramos dos sentidos importantes: una entidad benigna o maligna que trabaja en el fondo, oculta, o una entidad que divide, y así lleva a cabo algún tipo de orden. Derivado de esta noción, en software también se denomina daemon a un programa que ejecuta tareas en segundo plano, oculto para el usuario.
 
 <sketch
   height="407px"
@@ -17,7 +15,9 @@ El Demonio de Maxwell, propuesto por James Clark Maxwell, es un experimento ment
   caption="El experimento mental del Demonio de Maxwell. El demonio hace lo que puede para clasificar y separar las moléculas"
 />
 
-El concepto de infraestructura puede ser entendido de varias maneras: como forma de organización y estandarización [@bowkerSortingThingsOut2000], como movimiento de bienes, materias o ideas [@larkinPoliticsPoeticsInfrastructure2013], o como ampliación de la agencia de los seres humanos (scaffolding) [@mcluhanUnderstandingMediaExtensions1994]. Sin embargo, todas estas concepciones implican dos conceptos fundamentales ejemplificados en el experimento mental de Maxwell, el trabajo y la energía como forma de reducción de la entropía. Cuando una comunidad establece roles y procedimientos, está reduciendo la incertidumbre para que las mismas actividades puedan ser resueltas por distintas personas o para resolver patrones comunes de una forma que tengan efectos esperables y similares. Cuando un grupo de expertos define un sistema de estándares está reduciendo la entropía a partir de definir categorías que, esperan, sean lo suficientemente expresivas para representar necesidades, pero que a la vez sean lo suficientementemente pequeñas para que sean controlables. Transportar materia prima o mensajes requiere formas mecanismos que, con energía, muevan algo de un inicio a un destino. Por otra parte, estas concepciones de infraestructura también implican la idea que la infraestructura, a pesar del esfuerzo que requiere su construcción y su mantenimiento, trae más beneficios que existir sin ella. Así, podemos pensar que **las infraestructuras son, en su sentido más abstracto, formas de ejercer trabajo para, en el futuro, hacer algo con menos trabajo**. De hecho, como lo afirman personas como Paul Edwards [@edwardsInfrastructureModernityForce2003] en el campo de los estudios de ciencia, tecnología y sociedad, así como el demonio de Maxwell, las infraestructuras suelen ser invisibles, al menos hasta que fallan y nos damos cuenta del nuevo esfuerzo que hay que realizar y las facilidades que estábamos dando por sentado. Normalmente no necesitamos pensar en cómo llega el agua al grifo, o cómo se transmiten los bits de información a través de internet. Las humildes infraestructuras buscan tener un bajo perfil.
+El concepto de infraestructura puede ser entendido de varias maneras: como forma de organización y estandarización [@bowkerSortingThingsOut2000], como movimiento de bienes, materias o ideas [@larkinPoliticsPoeticsInfrastructure2013], o como ampliación de la agencia de los seres humanos (scaffolding) [@mcluhanUnderstandingMediaExtensions1994]. Sin embargo, todas estas concepciones implican dos conceptos fundamentales ejemplificados en el experimento mental de Maxwell, el trabajo y la energía como forma de reducción de la entropía. Cuando una comunidad establece roles y procedimientos, está reduciendo la incertidumbre para que las mismas actividades puedan ser resueltas por distintas personas o para resolver patrones comunes de una forma que tengan efectos esperables y similares. Cuando un grupo de expertos define un sistema de estándares está reduciendo la entropía a partir de definir categorías que, eso esperan, sean lo suficientemente expresivas para representar necesidades, pero que a la vez sean lo suficientementemente pequeñas para que sean controlables. Transportar materia prima o mensajes requiere mecanismos que, con energía, muevan algo de un inicio a un destino.
+
+Por otra parte, estas concepciones también traen consigo la idea que la infraestructura, a pesar del esfuerzo que requiere su construcción y su mantenimiento, trae más beneficios que los que implicaría existir sin ella. Así, podemos pensar que **las infraestructuras son, en su sentido más abstracto, formas de ejercer trabajo para, en el futuro, hacer algo con menos trabajo**. De hecho, como lo afirman personas como Paul Edwards [@edwardsInfrastructureModernityForce2003] en el campo de los estudios de ciencia, tecnología y sociedad, así como el demonio de Maxwell, las infraestructuras suelen ser invisibles, al menos hasta que fallan y nos damos cuenta del nuevo esfuerzo que hay que realizar y las facilidades que estábamos dando por sentado. Normalmente no necesitamos pensar en cómo llega el agua al grifo, o cómo se transmiten los bits de información a través de internet. Las humildes infraestructuras buscan tener un bajo perfil.
 
 "in the context of the digital humanities (DH), an infrastructure can refer to physical objects such as servers, to knowledge infrastructures—laboratories, centers, or learned societies —and even to abstract representations such as code, software, or standards" [@delrioriandeDigitalHumanitiesVisible2022, p. 247]
 SET OF TECHNOLOGIES FOR MEDIATION
@@ -155,7 +155,7 @@ La idea general que define una brecha puede resumirse en una frase: quien ya tie
 />
 
 Acknowledge the gaps
-Ken Keniston, human development scholar from the Mas- sachusetts Institute of Technology, and colleagues argue for the importance of recognizing four distinct digital divides between:54
+Ken Keniston, human development scholar from the Massachusetts Institute of Technology, and colleagues argue for the importance of recognizing four distinct digital divides between:54
 (1) the rich and poor in every country;
 (2) those who speak English or that nation’s lingua franca and those
 who do not, including the importance of sharing and creating digi-
@@ -183,7 +183,15 @@ Globalización, cosmopolitismo, patrimonio común de la humanidad
 
 Pero las personas que escriben en ingl'es no suelen citar en espa;ol
 
+ACCESO AL ARCHIVO RESISTENCIA EN LA LÍNEA NEGRA
+
+En mi propia experiencia, y en la de personas cercanas que también han trabajado en educación, la brecha de primer nivel se ha hecho innegable: algún porcentaje de estudiantes, mayor o menor dependiendo de la institución (y de otros varios factores de desigualdad), no cuenta con los medios para conectarse a internet y recibir clases, o no cuenta con el tiempo y el espacio para atender y estudiar adecuadamente. Incluso, debido a esto, la solución en muchos casos ha pasado por recurrir a medios offline más accesibles y eficaces, a pesar de que son en apariencia menos actuales o avanzados tecnológicamente. Por ejemplo, la radio y las cartillas impresas.
+La preparación con respecto al segundo nivel de la brecha digital, es decir, las habilidades, la participación y la eficacia tanto de profesores como alumnos, es también muy crítica.
+
+
 ## Relaciones de trabajo
+
+Noción de RUNAWAY de Bateson
 
 ACPO Accion con Daño
 ACCION CON DAÑO
@@ -213,6 +221,7 @@ http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html // MInimal COMP
 ## Haciendo apropiado lo apropiado
 
 Bochica dejando la memoria del telar en piedras
+
 
 El beta permanente (Jairo Melo y Carolina Zúñiga)
 

@@ -1,11 +1,9 @@
 ---
 title: Métodos y datos
-subtitle: Mapeos de controversias, visiones mediarqueológicas, explicaciones explorables
 ---
 
 <header class="chapter-headers">
   <h1>{{ page.title }}</h1>
-  <!-- <h2>{{ page.subtitle }}</h2> -->
 </header>
 
 Esta investigación se fundamenta en una metodología de investigación mixta, es decir, mezcla métodos cualitativos y cuantitativos.
@@ -89,3 +87,5 @@ Across multiple case studies
 
 "Researchers who conduct exploratory research must be creative, open minded, and flexible; adopt an invetigative stance; and explore al sources of information" Sampieri 38
 "They ask creative questions and take advantage of serendipity (i.e., unexpected or chance factors that have large implications)" (Sampieri 38)
+
+ADICIONALMENTE; ADEMAS DE UNA DISERTACION, ESTE TRABAJO EN SU EXISTENCIA COMO SITIO WEB PUEDE SERIR A PERSONAS INTERESADAS EN LAS HUMANIDADES DIGITALES A INVOLUCRARSE EN EL TEMA, POR ESO TIENE PARTES EXTENSAS DEDICADAS A UBICAR A LAS HD DENTRO DE LA TRADICION HUMANISTICA Y A LA CONSTRUCCION DE MODOS DE RELACIONAMIENTO DE LAS HUMANIDADES CON LO DIGITAL
