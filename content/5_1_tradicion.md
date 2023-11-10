@@ -74,9 +74,14 @@ Está marcada por “formidables intenciones” de participación cívica, dentr
 (La noción de ciudadanía se cuestiona y se hacen evidentes sus tematizaciones. Así, tienen lugar discusiones acerca de formas de participación ciudadana alternativas al Estado, rupturas posmodernas de la gran narrativa de la democracia, el problema de la negación de la diferencia, las migraciones, se atrinchera el neoconservadurismo (esas no son las maneras)…
 ).
 
+Work of purification, work of translation Latour We have never been modern
+
 Junto al trívium sofista está el otro programa de estudios derivado de la Grecia clásica, el *quadrivium*, de influencia platónica y pitagórica. De la influencia platónica surge la Academia, el centro de estudios donde, además del cultivo del cuerpo, se pensaba en las formas de construir la “buena vida”, la República, las políticas adecuadas para mejorar a la sociedad, lo humanístico como filantropía. Por otra parte, de la influencia pitagórica surge un misticismo matemático a través del cual se busca conocer el orden natural en la organización del universo y, a través de ese conocimiento, ganar poder político[@h.florisMusicScienceArt2010]. Pitágoras, como gurú de su secta más que como científico, pensaba las matemáticas como un lenguaje secreto que debía mantenerse como una herramienta de poder para su grupo. En otros términos, el conocimiento como una forma de diferenciación social y de poder[@hoyrupHumanSciencesReappraising2000]. Así, el quadrivium se encargaba de estudiar la aritmética, la geometría, la astronomía y la música (como fenómeno quasimatemático). El conocimiento del orden del mundo como una forma de construir poder. Pedantería
 
 fijar las leyes a través de la escritura.
+
+THE WHITE MANS BURDEN
+https://library.osu.edu/dc/concern/generic_works/g732tk384?locale=en
 
 LA CONSERVACIÓN DE LA MEMORIA, LA INTERPRETACIÓN DE LA CULTURA
 
@@ -131,6 +136,8 @@ Uso profesionalizado de la tradición cultural
 
 Arqueología de los medios, la mezcla de la ciencia con la imaginación humana, ruptura del disciplinamiento.
 
+Peter Hamilton. The enlightenment and the birth of social science. No era una cosa disciplinada, sino una curiosidad por distintos fenómenos estudiables. Hombre de letras, librepensante, cosmopilitismo, ciudadano del mundo.
+
 ## Crisis de las humanidades
 
 Misión pastoral de cuidar el ser, la escencia del hombre, que lo diferencia de los animales
@@ -171,6 +178,8 @@ Martín Barbero: Redescubriendo al pueblo: la cultura como espacio de hegemonía
 ## Bárbaros en el ateneo o las humanidades en Latino/América
 
 >"Tupy or not tupy" —Oswald de Andrade[@deandradeManifiestoAntropofago1928, p. 3]
+
+lo que hicieron por lo menos los fundadores de la universidad en México fue comprar todo el ideal neoclásico alemán y decir: “claro, si el modelo del arte es Grecia y Roma, entonces el modelo cívico es Grecia y Roma”, más Grecia que Roma, “el modelo cívico es Grecia”. Entonces los que estudian a Grecia son los que transmiten este modelo moral al presente, y ya. Con eso convirtieron literalmente al humanista en una especie de activista de la refundación de la cultura clásica en el mundo
 
 La propia designación de Latino/América muestra una dicotomía que se ha convertido en un bucle inescapable para las reflexiones sobre el humanismo y las humanidades en nuestro contexto. De alguna forma somos latinos, es decir, occidentales, por las fuerzas colonizadoras y la historia republicana de las naciones del continente, y por otra somos parte americanos, que representa ambivalentemente un origen, una autenticidad y también una relación con un primitivismo.
 

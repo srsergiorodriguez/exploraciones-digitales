@@ -65,6 +65,8 @@ Su escala: la relación global-local / hegemonías y diásporas
 
 Creación de grupos para lograr propósitos comunes que conectan a las humanidades con las tecnologías digitales.
 
+"la práctica como la he estado llevando ha puesto la colaboración en el centro de la manera como estoy asumiendo los proyectos y la forma en la que me estoy parando en el campo. Colaboraciones intergeneracionales, interdisciplinarias y trasnacionales, de diferentes índoles en diferentes capacidades. No solamente mi propio proyecto de investigación, sino también parte de mi proyecto es esta gestión de comunidades de colaboración más amplias". MARIA JOSE AFANADOR
+
 ## Una simbiosis necesaria
 
 "este  estudio  mostró  cómo,  tanto  en  el  ámbito latinoamericano  como  en  el  anglosajón,  la  forma  de  contacto  más  común  ha  sido  a  partir  de  sus actividades laborales. Si se considera además que varias participaciones apuntaron a la importan-cia que han tenido los cursos, los recursos en línea y los congresos, se podrían crear estrategias pa-ra fomentar la profesionalización en el espacio de trabajo y fortaleciendo iniciativas de formación
@@ -127,6 +129,9 @@ Incongruence between motves and incentives
 "The intent is to sustain the learning and build the capacity for future collective learning rather than simply seek a solution to a problem. Although a desire to solve problems certainly motivates a group to engage in learning, this case shows how a community group voluntarily engages in a long-term process of reflecting on commu- nity issues from historical, cultural, and social perspectives." p.38 Creating Local Knowledge Through Learning in Community: A Case Study
 David S. Stein
 NEW DIRECTIONS FOR ADULT AND CONTINUING EDUCATION, no. 95, Fall 2002
+
+
+"Por otra parte puedo ser profesora ambulante, participar en los proyectos en la medida en que yo quiera, y proyectos en los que se cruzan estas cosas que a mí me interesan, pero obviamente eso tiene un lado negativo y es la no estabilidad laboral. Cuando no es semestre académico, o sea, vacaciones, es no tener trabajo. No son vacaciones en el sentido de que a uno le paguen las vacaciones. Entonces me parece que eso es un dilema, porque todavía no existe la posibilidad, al menos en Chile, no hay un programa de humanidades digitales y lo que están saliendo son diplomados. En los diplomados hacen clase los profesores ambulantes. No hay un curso de humanidades digitales en una carrera de pregrado. Ni siquiera que se llame humanidades digitales, pero se podría llamar, no sé, “métodos digitales de investigación”, donde puedan participar estudiantes de historia y literatura; eso no existe. No existe ese espacio y creo que eventualmente a toda la gente que me pregunta qué voy a hacer después del doctorado: “la verdad es que no sé”. Veo un poco ese dilema, trato de apuntar a tener una carrera estable y una posición en un departamento de lingüística que me aleje de esas otras cosas o asumo la incertidumbre y sigo mi vida de profe ambulante, que lo he hecho toda mi vida. Creo que ese es el dilema." RIVA QUIROGA
 
 
 Seva: india, servicio
