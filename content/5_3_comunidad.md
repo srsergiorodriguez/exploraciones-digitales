@@ -15,7 +15,12 @@ New Humanities Project Universitá di Roma Tre Bergonzi: interdisciplinarity and
 
 https://arounddh.elotroalex.com/journey/
 
+Propósitos particulares que se alinean y se incrustan en propósitos conjuntos.
+"la práctica como la he estado llevando ha puesto la colaboración en el centro de la manera como estoy asumiendo los proyectos y la forma en la que me estoy parando en el campo. Colaboraciones intergeneracionales, interdisciplinarias y trasnacionales, de diferentes índoles en diferentes capacidades. No solamente mi propio proyecto de investigación, sino también parte de mi proyecto es esta gestión de comunidades de colaboración más amplias". MARIA JOSE AFANADOR
+
 De cualquier modo, estos roles de las humanidades digitales cumplen ciertas funciones y operan dentro de ciertas comunidades particulares, que pueden ser tanto formales como informales, una colaboración entre los dos formatos, o un híbrido: podemos pensar las bibliotecas, universidades, mundos editoriales, grupos activistas, grupos de interés, asociaciones, centros educativos, espacios creativos, laboratorios, hackerspaces, como espacios comunitarios con diferentes niveles de instucionalización y formalización: en el sentido de un establecimiento de reglas, disciplinamiento. El tipo de comunidad en buena medida define los intereses, límites y posibilidades del tipo de actividades y proyectos que pueden realizar, pero también tiene una serie de necesidades que deben ser resueltas por las personas que hacen parte de la comunidad. Así, en ocasiones, la misma persona puede enactuar varios roles al tiempo o cambiar de uno a otro de acuerdo con los problemas y oportunidades que se presentan. Una filóloga puede suspender su trabajo erudito para construir un escaner que le permita, y debe tejer redes con otras comunidades para adquirir los conocimientos que . "when we talk online resources, in digital humanities or any other discipline, your resource will not be used just because it is there. One needs to build the thing and also build the community (increasingly, “the thing” and “the community” are one and the same)" [@priegoCanSubalternDH2022, p. 31]
+
+## Comunidad
 
 En el campo de la sociología se ha problematizado el concepto de comunidad desde hace décadas: su ambigüedad como categoría académica, su valor intrínsecamente positivo — normalmente se asume que formar comunidad es siempre algo bueno—, su relación con la nostalgia de un pasado arcaico idealizado, las connotaciones implícitas con la exclusión, su mención instrumental como herramienta retórica del poder. Sin embargo, en este capítulo no entraremos en las discusiones acerca del concepto de comunidad, sino que usaremos comunidad como un concepto organizativo que puede ser útil para pensar algunos problemas que encuentran los agentes que actúan, en roles cambiantes, las prácticas de las humanidades digitales. 
 
@@ -37,7 +42,7 @@ PROCESOS SIGNIFICATIVOS
 AGENCIA COLECTIVA - LOS COMUNES
 ACCIONES DURADERAS Y SOSTENIDAS
 
-## Comunidad
+Este capítulo se centra en las comunidades que soportan las distintas actividades de los humanistas digitales y sus roles, especialmente, la relación entre comunidades formales y comunidades informales.
 
 "The essential meaning of community might seem obvious enough. It refers to those things which people have in common, which bind them together, and give them a sense of belonging with one another." [@dayCommunityEverydayLife2006, p. 1]  Graham Day p.1 "The idea of community captures these elements of inclusion and exclusion, pointing towards those who belong together, and those who are held apart" p.2 DISTINTAS VISIONES SOCIOLÓGICAS DE QUE ES Y QUE IMPORTA EN UNA COMUNIDAD
 Durkheim "makes connections between evolving forms of social solidarity and the changing ‘moral density’ of society, as measured by patterns of population concentration, migration and geographical mobility. These are seen as exerting a pressure on the social division of labour, which in turn conditions the kinds of communal relations that are likely to develop. Thus the changing nature of community is influenced, or even determined, by a wide range of material and institutional forces" p.3
@@ -61,16 +66,13 @@ Un sentido infraestructural: La Relaciones duraderas o su condición fragmentari
 Su agencia: Capacidad para Lograr propósitos comunes
 Y su sostenimiento: Motivaciones y recursos que cohesionan a la comunidad
 Su escala: la relación global-local / hegemonías y diásporas
+
+
 "From the point of view of community, three main aspects of these changes would appear to be particularly relevant: the dissolution of place; vastly increased mobility; and the destabilization of identities." graham Day 182
 
 Creación de grupos para lograr propósitos comunes que conectan a las humanidades con las tecnologías digitales.
 
-"la práctica como la he estado llevando ha puesto la colaboración en el centro de la manera como estoy asumiendo los proyectos y la forma en la que me estoy parando en el campo. Colaboraciones intergeneracionales, interdisciplinarias y trasnacionales, de diferentes índoles en diferentes capacidades. No solamente mi propio proyecto de investigación, sino también parte de mi proyecto es esta gestión de comunidades de colaboración más amplias". MARIA JOSE AFANADOR
-
 ## Una simbiosis necesaria
-
-"este  estudio  mostró  cómo,  tanto  en  el  ámbito latinoamericano  como  en  el  anglosajón,  la  forma  de  contacto  más  común  ha  sido  a  partir  de  sus actividades laborales. Si se considera además que varias participaciones apuntaron a la importan-cia que han tenido los cursos, los recursos en línea y los congresos, se podrían crear estrategias pa-ra fomentar la profesionalización en el espacio de trabajo y fortaleciendo iniciativas de formación
-gratuitas como The Programming Historian en español23o incluso en pensar en más iniciativas diri-gidas a bibliotecarios y archivistas como el proyecto WikiBibliotecas que mencioné antes"[@gutierrezdelatorreBibliotecasHumanidadesDigitales2020, p. 127]
 
 Como en otros campos del conocimiento, las humanidades digitales se desenvuelven tanto en comunidades formales como informales, y la conjunción de ellas conforma una simbiosis necesaria pero que no está libre de problemas.
 
@@ -92,6 +94,9 @@ Informal:
 - grupos de la sociedad civil
 - hacker spaces, laboratorios
 
+
+"creo que fue en marzo de 2019, nos reunimos cuatro personas con la idea de hacer una red de humanidades digitales en Chile. De hecho creamos la cuenta en Twitter, pusimos nombre, creamos el logo, y veníamos de lugares bien distintos los cuatro. Una de las personas es periodista, es comunicadora, trabaja mucho el tema de ciberfeminismo; la otra persona venía del área de diseño, de hecho él era el director del diplomado en visualización de datos que yo hice y por ahí nos conocimos; y la tercera persona es una especialista en literatura digital, que es Carolina Gainza de la Universidad Diego Portales. Entonces veníamos los cuatro de lugares bien distintos, confluímos por intereses comunes y armamos lo que íbamos a hacer." RIva Quirga
+
 "The key element which distinguishes learning communities as a pedagogic model (and relates them to the sister concept of ‘communities of practice’) is the idea that learning isn’t the acquisition of knowledge but is about participation in a social process." Stuart Billingham en Clay, Madden and Potts Towards Understanding Community 2007 p.36
 
 Community of practice como duradera, efectiva, informal y más abierta a la representación de comunidades marginadas. Stuart Billingham en Clay etal
@@ -107,6 +112,8 @@ Over time, this collective learning results in practices that reflect both the p
 Un ejemplo de ello es el club de programación de la REd COlombiana de Humanidades Digitales que, hasta el momento, coordino. El club se ha construido como un espacio informal para el aprendizaje y en él se han fraguado proyectos comunes y amistades.
 
 UN JUEGUITO TIPO NICKY CASE DE ELEMENTOS CON FEEDBACK QUE SE REALIMENTAN
+
+"este  estudio  mostró  cómo,  tanto  en  el  ámbito latinoamericano  como  en  el  anglosajón,  la  forma  de  contacto  más  común  ha  sido  a  partir  de  sus actividades laborales. Si se considera además que varias participaciones apuntaron a la importancia que han tenido los cursos, los recursos en línea y los congresos, se podrían crear estrategias para fomentar la profesionalización en el espacio de trabajo y fortaleciendo iniciativas de formación gratuitas como The Programming Historian en español23o incluso en pensar en más iniciativas dirigidas a bibliotecarios y archivistas como el proyecto WikiBibliotecas que mencioné antes"[@gutierrezdelatorreBibliotecasHumanidadesDigitales2020, p. 127]
 
 ## Acciones duraderas y sostenidas
 
@@ -132,6 +139,8 @@ NEW DIRECTIONS FOR ADULT AND CONTINUING EDUCATION, no. 95, Fall 2002
 
 
 "Por otra parte puedo ser profesora ambulante, participar en los proyectos en la medida en que yo quiera, y proyectos en los que se cruzan estas cosas que a mí me interesan, pero obviamente eso tiene un lado negativo y es la no estabilidad laboral. Cuando no es semestre académico, o sea, vacaciones, es no tener trabajo. No son vacaciones en el sentido de que a uno le paguen las vacaciones. Entonces me parece que eso es un dilema, porque todavía no existe la posibilidad, al menos en Chile, no hay un programa de humanidades digitales y lo que están saliendo son diplomados. En los diplomados hacen clase los profesores ambulantes. No hay un curso de humanidades digitales en una carrera de pregrado. Ni siquiera que se llame humanidades digitales, pero se podría llamar, no sé, “métodos digitales de investigación”, donde puedan participar estudiantes de historia y literatura; eso no existe. No existe ese espacio y creo que eventualmente a toda la gente que me pregunta qué voy a hacer después del doctorado: “la verdad es que no sé”. Veo un poco ese dilema, trato de apuntar a tener una carrera estable y una posición en un departamento de lingüística que me aleje de esas otras cosas o asumo la incertidumbre y sigo mi vida de profe ambulante, que lo he hecho toda mi vida. Creo que ese es el dilema." RIVA QUIROGA
+
+"es extraño porque lo que se encuentra es mucho eso. Estás dentro de tu disciplina a la hora de hacer academia, o que te metes mucho dentro de tu universo, pero a la hora de hacer práctica sí se vuelve muy colaborativo. Pues sí, la biblioteca es un espacio neutral, no es ni de los historiadores ni de los artistas, ahí estamos todos, y por eso creo que ha sido el espacio por excelencia de las humanidades digitales." JAIRO MELO
 
 
 Seva: india, servicio

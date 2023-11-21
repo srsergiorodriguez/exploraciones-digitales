@@ -89,21 +89,21 @@ El pensador argentino Amilcar Herrera:
 "Se llega así a una de dos posiciones igualmente nefastas: a la peor de las tecnolatrías, la del mimetismo o la copia o a la denuncia furibunda que esterliza al no proponer alternativas viables"[@sabatoCambioTecnologicoNecesario1976, p. 32]
 
 
-Maximo Halty Circulos viciosos del subdesarrollo en círculos virtuosos
+Maximo Halty Circulos viciosos del subdesarrollo en círculos virtuosos[@haltycarrereHaciaNuevoOrden1975]
+
+Tecnologización vs. industrialización
+Actualizarse sin producir o entender los fundamentos tecnológicos de la industria
 
 "In the coming years, coinciding with the period of turbulence in the international scene, a period will occur during which the region will be able to embark on science and technology efforts oriented towards
-internal social and economic demands-which, in turn, will facilitate and
-require selective recovery of the traditional technological base, the promotion of ‘unincorporated’, non-integrated technological change in the production of goods and services, and the introduction of advanced technology
-components into conventional and traditional production activities."[@sagastiCrisisChallenge1989, p. 167]
+internal social and economic demands-which, in turn, will facilitate and require selective recovery of the traditional technological base, the promotion of ‘unincorporated’, non-integrated technological change in the production of goods and services, and the introduction of advanced technology components into conventional and traditional production activities."[@sagastiCrisisChallenge1989, p. 167]
 
 Tecnological base exogenous and endogenous sagasti [@sagastiEndogenousScienceTechnology1980]
 Upgrading of tradicional technologies
 Educación
-Basic human needs — Producción tecnológica como una forma de humanismo
+Basic human needs — Producción tecnológica como una forma de humanismo (tal vez de la manera menos pura, la que critica Heidegger, más por el lado marxista)
 
-"The implanted or modem productive activities employed imported technologies that
-brought with them skill requirements, use of materials, organizational habits, and technical traditions that were alien to the local environment. Furthermore, the technological capabilities associated with modem production were expanded primarily through new
-technology imports, which meant that the technological traditions-developed slowly and cumulatively over a long time-were left aside and even eliminated. This led to a reduction in the variety of indigenous technological responses."[@sagastiEndogenousScienceTechnology1980, p. 325]
+"The implanted or modern productive activities employed imported technologies that brought with them skill requirements, use of materials, organizational habits, and technical traditions that were alien to the local environment. Furthermore, the technological capabilities associated with modem production were expanded primarily through new technology imports, which meant that the technological traditions-developed slowly and cumulatively over a long time-were left aside and even eliminated. This led to a reduction in the variety of indigenous technological responses."[@sagastiEndogenousScienceTechnology1980, p. 325]
+
 
 Los efectos de políticas de importación tecnológica
 
@@ -223,6 +223,13 @@ http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html // MInimal COMP
 Bochica dejando la memoria del telar en piedras
 
 
+Decolonizar las humanidades digitales:
+cómo diseñar un repositorio digital de sur a
+norte
+Aurelio Meza
+
+https://intervencioneseecc.files.wordpress.com/2017/07/n4_art07_meza.pdf
+
 El beta permanente (Jairo Melo y Carolina Zúñiga)
 
 Este problema no es menor, pues construir infraestructuras requiere unos andamiajes y capacidades importantes: Un entendimiento científico, en el sentido de tener sistemas de explicación del comportamiento regular de un fenómeno; un entendimiento de las pretaciones materiales de los objetos, es decir, saber cómo se comportan los objetos y qué acciones se pueden realizar con ellos; y habilidades para el desarrollo tecnológico, es decir, formas de aplicar en dispositivos y estándares el conocimiento científico y las prestaciones de la materia.
@@ -263,6 +270,7 @@ Procesos de digitalización
 https://www.udea.edu.co/wps/portal/udea/web/generales/interna/!ut/p/z0/fY4xTwMxDIX_Ch06RjkOVNrxdEJIVSeQUJsFvSbRYcjFaZKrEL8e98rCwmQ_2-_z00bvtYk404BKHBFEH8zqbb3p29vuvtk9PW_7plv13ePDy-uuXbd6q83_B0Kgj9PJdNpYjtV_Vb1PnCvC5DyWDcpf9c6jv_ZTJAfnyw0s3MLeLbAZyaIsG8ujLC2shPTl4prRcs-zClQqHAsilylATREKafIyVc4HNeQpsbIceDwSVM1wdGXJWokhIeCYpXK-SEcDSUT6nj_OiISaaeRI_GuRQGefyyWyTp_m8ANZtVJf/
 https://exploratoriohd.net/
 
+La tecnología insurgente también contribuye a los desarrollos actuales relacionados con la computación mínima en humanidadades digitales, así como a las discusiones alrededor de las humanidades digitales públicas, al proveer ejemplos prácticos acerca de cómo pensar los requerimientos de redes para la producción de conocimiento  puede aplicarse en ambientes no académicos"[@steynSiteSpecificCulturalInfrastructure2022, p. 262]
 
 ## haciendo lo propio, Los comunes
 
@@ -290,3 +298,8 @@ Neogranadina fue un proyecto que me ayudó mucho para atender las oportunidades 
 Qué sucede, nos hemos chocado con una realidad muy fuerte que es la brecha digital en todos sus componentes. Nosotros siempre que hablamos de brecha digital decimos que en Colombia, y en América Latina en general, la brecha se está desplazando del acceso al uso significativo. En muchas partes de Colombia hay una buena dotación de computadores, de tabletas, hay salas públicas, en algunas hay internet, pero el internet no es estable. Pero poder llegar a hacer uso significativo de las TIC quiere decir un montón de cosas: tener acceso a los computadores, tener acceso a internet que sea estable, accesible y permanente, y quiere decir también tener las competencias, la sensibilización y el acompañamiento para hacer un uso de las TIC que sea significativo para la persona. No es un uso por el uso y no es el mismo uso que le pueda dar el habitante urbano, sino es un uso que le permita al campesino aprovechar, mejorar su calidad de vida, conectarse con otros, saber qué está pasando en otros territorios, aprender con otros, construir sobre todo esas redes de acción. Entonces nosotros trabajamos por reducir esa brecha digital.MARIANA CORDOBA
 
 "compartir infraestructuras, laboratorios, hacer esas cosas, veo que es mucho más complejo, es mucho más difícil. Y en ese sentido veo que las comunidades son todavía muy localistas. Y en buena medida sucede también en lo infraestructural, y las lógicas propias de la idiosincrasia de cada comunidad académica. Las comunidades académicas tienen su idiosincrasia y también hay comunidades académicas que quieren mandar y no gobernar colaborativamente"JAIRO MELO
+
+
+Tecnologías digitales, creative commons y nuevos modos de producción cultural en Chile
+
+https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0719-367X2021000100105

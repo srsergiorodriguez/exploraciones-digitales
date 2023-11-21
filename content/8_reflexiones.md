@@ -12,6 +12,8 @@ En su reflexión sobre el papel del blogging en la construcción de su aprendiza
 
 En una línea similar, esta disertación es una investigación de las tensiones de las humanidades digitales en América Latina, pero también es, en sí misma, un trabajo que se enmarca en las humanidades digitales. Como tal, y como reflexiono en el capítulo sobre epistemología, es consciente de las particularidades del medio digital, de sus límites y posibilidades. Así, aprovecha esas posibilidades y procura construir sus argumentos no solo a través de la escritura sino también a través del uso de interfaces, imágenes, sonido y piezas interactivas. Es, en términos generales un libro compuesto de ensayos interactivos.
 
+Exploratory programming Nick Montfort tanto el libro como el texto en el segundo companion
+
 ## Marco conceptual y ejemplos
 
 La noción de ensayo interactivo está basado en el concepto de explicación explorable que ha sido desarrollado por personas como Bret Victor y Nicky Case. 

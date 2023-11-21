@@ -12,6 +12,24 @@ TEORIA FUNDAMENTADA
 VARIAS ITERACIONES DE CODIFICACION
 ADECUAR LOS CODIGOS A LOS EJES
 
+Lawrence Newman Social Research Methods
+
+Uso y audiencia
+Basica y aplicada
+
+Proposito
+Explorar, Describir, Explicar
+
+Exploratory: learn by making, discover, understand the question, develop technics
+
+"Researchers who conduct exploratory research must be creative, open minded, and flexible: adopt investigative stances, and explore all sources of information"[@neumanSocialResearchMethods2014, p. 38]
+
+"They ask creative questions and take advantage of serendipity (i.e., unexpected or chance factors that have large implications)"[@neumanSocialResearchMethods2014, p. 38]
+
+A través de varios caos
+
+
+
 ## Investigación cualitativa
 
 Por una parte, se basa en una serie de entrevistas semiestructuradas a distintas personas cuyas prácticas pueden encerrarse dentro del concepto de las humanidades digitales.
@@ -63,6 +81,8 @@ Ensayos interactivos
 Johana Drucker Humanities Approaches to Graphical Display:
 "we need to takeon the challenge of developing graphical expressions rooted in and appropiate to interpretative activity"
 
+Exploratory programming Nick Montfort tanto el libro como el texto en el segundo companion
+
 Escritura como investigación:
 Laurel richardson: Writing: a method of inquiry:
 Nurturing writing voices
@@ -78,6 +98,9 @@ https://www.dukeupress.edu/how-to-make-art-at-the-end-of-the-world#:~:text=In%20
 Sobre investigación creación
 http://www.researchcreation.ca/bibliography1
 
+LAS COSSAS QUE SE DICEN VUELVE A COBRAR RELEVANCIA DE FORMA ITERATIVA,
+COMO UN TEJIDO MÁS QUE COMO UN ARGUMENTO COMPLETAMENTE UNIFICADO Y LINEAL
+
 -----
 Sampieri Metodología de la invetigación
 Uso y audiencia: básico y aplicado a la acción
@@ -89,3 +112,9 @@ Across multiple case studies
 "They ask creative questions and take advantage of serendipity (i.e., unexpected or chance factors that have large implications)" (Sampieri 38)
 
 ADICIONALMENTE; ADEMAS DE UNA DISERTACION, ESTE TRABAJO EN SU EXISTENCIA COMO SITIO WEB PUEDE SERIR A PERSONAS INTERESADAS EN LAS HUMANIDADES DIGITALES A INVOLUCRARSE EN EL TEMA, POR ESO TIENE PARTES EXTENSAS DEDICADAS A UBICAR A LAS HD DENTRO DE LA TRADICION HUMANISTICA Y A LA CONSTRUCCION DE MODOS DE RELACIONAMIENTO DE LAS HUMANIDADES CON LO DIGITAL
+
+## Algunas aclaraciones
+
+Todas las fuentes en inglés citadas son traducciones libres mías.
+
+Por petición de algunas personas entrevistadas, las transcripciones de las entrevistas no se divulgan en toda su extensión en este proyecto. Sin embargo, se citan extractos directos seleccionados de ellas dentro de la disertación o se hacen parafraseos de las ideas conversadas.
