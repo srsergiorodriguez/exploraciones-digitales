@@ -18,8 +18,12 @@
       </ul>
     </header>
     <section class="mainset">
-      <aside class="sidebar">
+      <aside class="sidebar ">
+        <!-- <div class="sticky"> -->
+          
+        <!-- </div> -->
         {{ toc }}
+        <a href="#" class="upscroller">↑ Subir</a>
       </aside>
       <article class="chapter">
         {{ content }}
@@ -27,7 +31,7 @@
         {{ footnotes }}
       </article>
       <aside class=sidebar>
-        <!-- <a href="#chapter-header" style="position: sticky; top: 40px">↑</a> -->
+        {% include toctoc.html %}
       </aside>
     </section>
   </body>

@@ -30,6 +30,9 @@ A través de varios caos
 
 
 
+
+
+
 ## Investigación cualitativa
 
 Por una parte, se basa en una serie de entrevistas semiestructuradas a distintas personas cuyas prácticas pueden encerrarse dentro del concepto de las humanidades digitales.

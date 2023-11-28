@@ -10,7 +10,7 @@ title: Contexto, Problema y objetivos
 
 Humanidades digitales es un término que involucra varias prácticas de las humanidades que involucran uso o reflexión con respecto a las tecnologías digitales.
 
-EN principio, las humanidades digitales provienenen de un concepto importado de estados unidos y europa que ha sido adaptado a contextos latinoamericanos en intituciones humanísticas y grupos de interés. El mapa tal muestra los lugares con mayor interés de búsqueda de los términos humanidades digitales, humaniades digitais, y digital humanities. Como se observa allí, el interés de búsqueda, eha estado repartido más que todo en Argentina, México y Colombi. Esto es consistente conla existecnai de las teres primeras redes de humanidades digitales en el América Latina en estos tres países, aunque hoy en día otros lugares también cuentan con sus redes, programas institucionales, laboratorios, o programas eductavivmos.
+En principio, las humanidades digitales provienenen de un concepto importado de estados unidos y europa que ha sido adaptado a contextos latinoamericanos en intituciones humanísticas y grupos de interés. El mapa tal muestra los lugares con mayor interés de búsqueda de los términos humanidades digitales, humaniades digitais, y digital humanities. Como se observa allí, el interés de búsqueda, eha estado repartido más que todo en Argentina, México y Colombi. Esto es consistente conla existecnai de las teres primeras redes de humanidades digitales en el América Latina en estos tres países, aunque hoy en día otros lugares también cuentan con sus redes, programas institucionales, laboratorios, o programas eductavivmos.
 
 <sketch
   height="440px"

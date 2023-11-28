@@ -1,5 +1,6 @@
 import re
 import argparse
+import os
 
 def parse_arguments():
     parser = argparse.ArgumentParser(description="Convert a flag -t to a boolean value and open a file.")
@@ -11,13 +12,15 @@ def parse_arguments():
 def main():
   maketooltips, filename = parse_arguments()
 
+  print(maketooltips)
+
   with open(filename, 'r') as f:
     text = f.read()
 
   text = adjust_html(text)
   text = to_inline(text, maketooltips)
   text = remove_bibliography(text)
-  text = replace_after(text, "---", "-", 2)
+  text = replace_after(text, '---', "-", 2)
 
   with open(filename, 'w') as f:
     f.write(text)
@@ -34,6 +37,9 @@ def to_inline(text, maketooltips):
   counter = 0
   while True:
     try:
+      os.system('cls')
+      print(f"CITE {counter}")
+      
       counter = counter + 1
 
       ref = "[^" + str(counter) + "]:"
@@ -71,8 +77,9 @@ def to_inline(text, maketooltips):
   return text
 
 def replace_after(text, search, replace, n):
-  parts = text.split(search)
-  return search.join(parts[: n + 1]) + search.join(parts[n - 1:]).replace(search, replace)
+  marker = re.compile('---', re.IGNORECASE)
+  parts = re.split(marker, text, n)
+  return search.join(parts[: n]) + search + search.join(parts[n :]).replace(search, replace)
     
 def remove_bibliography(text):
   marker = re.compile('# Referencias', re.IGNORECASE)

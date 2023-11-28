@@ -12,7 +12,7 @@
 :root {
   --colbg: white;
   --colmain: #ed6a5a;
-  --colblack: #313030;
+  --colblack: #0f0f0f;
   --col1: #5ca4a9;
   --col2: #ffc0b5;
 
@@ -38,5 +38,5 @@ h1, h2, h3, h4, h5 {
 
 strong {
   background: var(--col2);
-  font-weight: 300;
+  font-weight: 500;
 }

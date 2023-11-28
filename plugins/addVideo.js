@@ -7,12 +7,12 @@ let cheerio = require('cheerio');
 // to register plugin functions in the pipeline.
 
 let Plugin = function(registry){
-  registry.after('markdown:convert', 'addSketch:insert', this.addSketch);
+  registry.after('markdown:convert', 'addVideo:insert', this.addVideo);
 };
 
 Plugin.prototype = {
 
-  addSketch: function(config, stream, extras, cb) {
+  addVideo: function(config, stream, extras, cb) {
     
     stream = stream.pipe(through.obj(function(file, enc, cb) {
       if(!file.$el) file.$el = cheerio.load(file.contents.toString());
@@ -31,7 +31,7 @@ Plugin.prototype = {
             newel = `<div class="video-wrapper"><figcaption>${caption}</figcaption>${content}</div>`;        
           } else {
             content =  `<img src="${source}.png" alt="${caption}" />`;
-            newel = `<div class="video-wrapper"><figcaption>${captionprint || caption}</figcaption>${content}</div>`;
+            newel = `<figure class="video-wrapper"><figcaption>${captionprint || caption}</figcaption>${content}</figure>`;
           }
 
           jel.replaceWith(newel);

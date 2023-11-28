@@ -11,7 +11,7 @@
 :root {
   --colbg: white;
   --colmain: #ed6a5a;
-  --colblack: #313030;
+  --colblack: #0f0f0f;
   --col1: #5ca4a9;
   --col2: #ffc0b5;
   --mainhfont: "Libre Baskerville", serif;
@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5 {
 
 strong {
   background: var(--col2);
-  font-weight: 300;
+  font-weight: 500;
 }
 
 body {
@@ -47,6 +47,10 @@ body {
 
 p {
   font-size: 1em;
+}
+
+a {
+  color: var(--colmain);
 }
 
 code {
@@ -127,8 +131,13 @@ figcaption {
   margin: 0.5em 0px;
 }
 
-figure.whole figcaption {
+figure figcaption {
   text-align: center;
+}
+
+.border img {
+  border: solid 1px black;
+  border-radius: 5px;
 }
 
 .side-by-side {
@@ -202,7 +211,7 @@ iframe {
 .sidebar {
   font-family: var(--mainhfont);
   font-weight: 400;
-  padding: 2em 2em;
+  padding: 2em;
 }
 
 .sidebar ol {
@@ -218,7 +227,7 @@ iframe {
 }
 
 .sidebar li a {
-  font-size: 13px;
+  font-size: 0.8em;
   padding: 0 10px 1px 0;
   display: block;
   color: var(--colblack);
@@ -226,6 +235,15 @@ iframe {
   text-decoration: none;
   text-decoration-color: var(--colbg);
   user-select: none;
+}
+
+.sidebar ul.subcontent a[data-toc=chapter] {
+  font-size: 0.85em;
+  font-weight: bold;
+}
+
+.sidebar ul.subcontent a[data-toc=sect1] {
+  font-size: 0.7em;
 }
 
 .sidebar span {
@@ -249,7 +267,6 @@ iframe {
 }
 
 .chapter-headers {
-  color: var(--colblack);
   font-family: var(--mainhfont);
 }
 
@@ -272,13 +289,6 @@ iframe {
   text-decoration-color: var(--colmain);
 }
 
-.chapter-headers h2 {
-  font-weight: 400;
-  font-size: 1em;
-  padding: 0;
-  margin: 0;
-}
-
 section[data-type=sect1] h1:before {
   color: var(--col1);
   content: "▧ ";
@@ -291,7 +301,7 @@ section[data-type=sect1] h1:after {
 
 section[data-type=sect1] h1 {
   font-weight: 700;
-  font-size: 1.3em;
+  font-size: 1.4em;
   padding: 30px 0 0 0;
   margin: 0;
 }
@@ -307,6 +317,23 @@ section[data-type=sect1] h2:after {
 }
 
 section[data-type=sect1] h2 {
+  font-weight: 700;
+  font-size: 1.2em;
+  padding: 30px 0 0 0;
+  margin: 0;
+}
+
+section[data-type=sect1] h3:before {
+  color: var(--colblack);
+  content: "▧ ";
+}
+
+section[data-type=sect1] h3:after {
+  color: var(--colblack);
+  content: " ▨";
+}
+
+section[data-type=sect1] h3 {
   font-weight: 700;
   font-size: 1em;
   padding: 30px 0 0 0;
@@ -378,4 +405,18 @@ ol[data-type=footnotes] li {
 
 .tooltip:hover .tooltiptext {
   visibility: visible;
+}
+
+.sticky {
+  position: sticky;
+  top: 0px;
+  overflow: scroll;
+  height: 100vh;
+}
+
+.upscroller {
+  position: sticky;
+  top: 20px;
+  text-decoration: none;
+  font-size: 1em;
 }

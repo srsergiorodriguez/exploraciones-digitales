@@ -1,5 +1,6 @@
 ---
 title: Tradición humanística
+dimension: true
 ---
 
 <header class="chapter-headers">
@@ -46,7 +47,7 @@ These shared commitments, essential for research, are what make disciplines disc
 Tomemos como ejemplo la filología: como lo afirma Ahmed Siraj, la filología como humanidades tiene una constitución paradójica, es a la vez una rama de estudios progresista, porque estudia las las lemnguas y la producción literaria de las culturas humanas en sus historias particulares, no desde un enfoque universalizante, pero esa misma catalogación ha sido un instrumento de conocimiento para la dominación cultural de los otros. [@ahmedArchaeologyBabelColonial2018]
 
 
-EL ARTE DE LA DISCUSIÓN PÚBLICA Y LA PARTICIPACIÓN DEMOCRÁTICA
+EL ARTE DE LA DISCUSIÓN PÚBLICA Y LA PARTICIPACIÓN DEMOCRÁTICAh
 
 https://gallica.bnf.fr/ark:/12148/bpt6k1510254w/f21.item CLASIFICACIón DE LAS ARTES LIBERALES
 
@@ -146,7 +147,7 @@ Arqueología de los medios, la mezcla de la ciencia con la imaginación humana, 
 
 Peter Hamilton. The enlightenment and the birth of social science. No era una cosa disciplinada, sino una curiosidad por distintos fenómenos estudiables. Hombre de letras, librepensante, cosmopilitismo, ciudadano del mundo.
 
-## Crisis de las humanidades
+## La crisis de las humanidades
 
 Misión pastoral de cuidar el ser, la escencia del hombre, que lo diferencia de los animales
 
@@ -184,7 +185,7 @@ Eliminación de cursos, profesores, etc, y como consecuencia, pérdida de los va
 
 Martín Barbero: Redescubriendo al pueblo: la cultura como espacio de hegemonía: de las amasas a la masa... .incorporación de las clases populares a la cultura hegemónica a través del folletín. Es parecido a los blogs, las redes y el mundo de internet. Cuál es la relación de internet con el humanismo?
 
-## Bárbaros en el ateneo o las humanidades en Latino/América
+## Bárbaros en el ateneo
 
 >"Tupy or not tupy" —Oswald de Andrade[@deandradeManifiestoAntropofago1928, p. 3]
 
@@ -268,7 +269,7 @@ Ser iguales o participación democrática entre los iguales
 
 "el segundo republicanismo no se propuso metas organizativas de manera deliberada. \[...\] buscaba echar las bases culturales y educativas para que las élites políticas llevaran a cabo el proyecto de un “humanismo cívico”. La búsqueda de los modelos clásicos pretendía crear las condiciones necesarias dentro del ambiente espiritual a fin de que aconteciera." [@maizHUMANISMOCIVICOEPISODIO2016, p. 121]
 
-## las humanidades digitales en la crisis
+## Las humanidades digitales en la crisis
 
 > "un automóvil rugiente, que parece correr como la metralla, es más bello que la Victoria de Samotracia" - Filippo Tommaso Marinetti[@marinettiManifisteFuturisme1909]
 
@@ -291,6 +292,9 @@ Formas de cooperación
 En el segundo movimiento. Entender los medios, los fenómenos sociales y la democracia en medio de la velocidad y el volumen de la comunicación digital. Las formas de creación artística en pixels, ondas de sonido, redes de internet, videojuegos, realidades aumentadas.
 
 Es necesario conocer el funcionamiento interno de las tecnologías digitales para poder hacer una crítica cultural de ellas.
+
+Por ejemplo, formas de participación cívica en redes que no corresponden con las formas tradicionales de participación democrática. Política con p pequeña(Mirra & Garcia, 2017)
+Patriotismo, valores cadúcos, visiones idealizadas de la democracia envenenadas (cargadas con un discurso de dominación)
 
 "Where, then, lies the value of the adjective “digital”? Isn’t this label somewhat redundant, and therefore dispensable, in our contemporary world?" [@rodriguez-ortegaDigitalSocialSciences2022, p. 101]
 

@@ -1,5 +1,6 @@
 ---
 title: Infraestructura
+dimension: true
 ---
 <header class="chapter-headers">
   <h1>{{ page.title }}</h1>
@@ -31,14 +32,14 @@ Transparency
 Reach or scope
 Learned as part of membership
 links with conventions or practice
-embodimentof standars
+embodiment of standards
 build on an installed base
 becomes visible upon breakdown
-is fixed in moduler increments
+is fixed in modular increments
 
 Star: look to standarizing, tinkering, tailoring
 Master narratives
-herteropraxial - diff practicas
+herteropraxial - diff practices
 heteroglossial - diff voices
 
 Esto es evidente en las muchas infraestructuras que involucran las prácticas de las humanidades digitales. Una gran fracción del interés por lo digital en las humanidades radica en pensar y usar la computación como una infraestructura que facilita el trabajo tedioso por medio de la automatización. En sus orígenes, las computadoras eran personas que trabajaban haciendo cálculos tediosos, hoy hablar de computadora es hablar de una máquina capaz de hacer esas mismas operaciones en escalas y velocidades humanamente imposibles. Procesar millones de palabras para encontrar patrones comunes en obras literarias, crear ediciones en línea que facilitan la comunicación de algún tema a través del acceso simplificado a documentos y formatos multimedia,. Sin embargo, en ocasiones esta aparente automatización oculta el trabajo que seres humanos han realizado para construir y mantener la operación de las infraestructuras, así como las condiciones de trabajo y financiación que sustentan estas prácticas.
@@ -55,23 +56,28 @@ Por ejemplo, como lo muestra un estudio de Colbert, Li, Schwartz y Satten-Lopez,
 
 ## ¿Modelos importados que no son la solución?
 
-"Que el proceso de maduración de una comunidad científica, como la de las HD en Latinoamérica, consista en la adopción de unos estándares ya dados, puede describirse como parte de un proceso de colonización del conocimiento. En la medida en que los estándares no son resultado de los propios procesos de producción de conocimiento regional, son una forma de normalizar ese conocimiento a partir de modelos creados por la comunidad que domina las HD."[@prianisaisoCodificacionBuenasPracticas2019, p. 134]
-
-SITUADOS, MÚLTIPLES ACTORES, APROVECHAN LOS CONOCIMIENTOS AUTÓCTONOS, SON RESPONSABLES CON EL MEDIO AMBIENTE
-
 "The critical situation of the region must be recognized as a reality and not as a restriction, and as Simon Rodriguez, the mentor of Bolivar, said, ‘Either we invent, or we fail’." [@sagastiCrisisChallenge1989, p. 168]
 
-En el caso particular de las humanidades digitales en América Latina, existe una tensión que se mueve entre crear infraestructuras propias para resolver problemas locales o aprovechar infraestructuras ajenas que ya han sido diseñadas, construidas y estandarizadas. O dicho desde otra manera, **una tensión entre dedicar energía y trabajo en hacer infraestructuras o en dedicarlo a realizar proyectos concretos**. Esta noción puede resultar un poco abstracta al hablar de infraestructuras digitales, pues no son directamente tangibles como sí lo pueden ser otro tipo de infraestructuras, como el acueducto o las carreteras. Sin embargo,
+Si recordamos lo discutido en el capítulo 5.1. sobre la tradición humanística aparecerá de nuevo la noción de la autenticidad latinoamerica, pero, en términos de infraestructuras, el problema se plantea en términos de la creación de infraestructuras propias o la adopción de las ajenas.
 
-Si lo pensamos así, esta pregunta guarda cercanas analogías con las nociones de la autenticidad latinoamericana planteadas en la sección 5_1
+Si desde los procesos independentistas se establecieron fuertes discusiones acerca de la identidad latinoamericana, desde losaños 50 con las políticuas neoliberales de apertura económica se plantearon múltiples discusiones acerca de la ciencia, tecnología y sociedad en América Latina. Especialmente entre los años sesenta y noventa, varios pensadores, vinculados como asesores en instituciones gubernamentales y  organizaciones internacionales (OEA, ONU, CEPAL, entre otras). Teoría de la dependencia, discusiones acerca de la transferencia tecnológica, atraso en el desarrollo, relaciones entre la industria, la sociedad civil y la infraestructura científico-tecnolócia, la producción endógena vs. la exógena, y la relación con las tecnologías y los saberes autóctonos. Análisis desde lógicas globales. Posteriormente, se asentarion posturas neoliberales en los países latinoamericanos y estas discusiones pasaron a segundo plano o tomaron direccciones distintas, tanto por la aceptación de la subalternidad en la producción tecnológica como en la puesta en cuestión del concepto de desarrollo.
 
-Especialmente entre los años sesenta y noventa, varios pensadores, vinculados como asesores en instituciones gubernamentales y  organizaciones internacionales (OEA, ONU, CEPAL, entre otras). Teoría de la dependencia, discusiones acerca de la transferencia tecnológica, atraso en el desarrollo, relaciones entre la industria, la sociedad civil y la infraestructura científico-tecnolócia, la producción endógena vs. la exógena, y la relación con las tecnologías y los saberes autóctonos. Análisis desde lógicas globales. Posteriormente, se asentarion posturas neoliberales en los países latinoamericanos y estas discusiones pasaron a segundo plano o tomaron direccciones distintas, tanto por la aceptación de la subalternidad en la producción tecnológica como en la puesta en cuestión del concepto de desarrollo.
+Ya se planteaban problemas que siguen siendo vigentes:SITUADOS, MÚLTIPLES ACTORES, APROVECHAN LOS CONOCIMIENTOS AUTÓCTONOS, SON RESPONSABLES CON EL MEDIO AMBIENTE
 
 <sketch
   height="350px"
   src="./assets/sketches/infraestructuras/listaCts"
   caption="Varias posturas con respecto a los estudios de Ciencia y Tecnología en América Latina"
 />
+
+En el presente esas discusiones han tomado otros rumbos, no porque se hayan resuelto, sino porque la dependencia ya se ha asumido, y se han añadido nuevos problemas o se han exacerbado los anteriores: la decolonización, la situación, el pluralismo, la aparente globalización que disuelve las diferencias.
+
+
+En el caso particular de las humanidades digitales en América Latina, existe una tensión que se mueve entre crear infraestructuras propias para resolver problemas locales o aprovechar infraestructuras ajenas que ya han sido diseñadas, construidas y estandarizadas. O dicho desde otra manera, **una tensión entre dedicar energía y trabajo en hacer infraestructuras o en dedicarlo a realizar proyectos concretos**. Esta noción puede resultar un poco abstracta al hablar de infraestructuras digitales, pues no son directamente tangibles como sí lo pueden ser otro tipo de infraestructuras, como el acueducto o las carreteras. Sin embargo,
+
+
+"Que el proceso de maduración de una comunidad científica, como la de las HD en Latinoamérica, consista en la adopción de unos estándares ya dados, puede describirse como parte de un proceso de colonización del conocimiento. En la medida en que los estándares no son resultado de los propios procesos de producción de conocimiento regional, son una forma de normalizar ese conocimiento a partir de modelos creados por la comunidad que domina las HD."[@prianisaisoCodificacionBuenasPracticas2019, p. 134]
+
 
 Largas políticas de transferencia tecnológica 
 
@@ -127,12 +133,7 @@ No obstante, hay una particularidad que salta a la vista con estándares como TE
 
 Esta paradoja de la brecha idiómatica, una de tantas brechas, como veremos, se ve en otros ejemplos de la construcción de infraestructuras digitales. En el libro Coding Places, Yuri Takhteyev [@takhteyevCodingPlacesSoftware2012] describe su investigación sociológica acerca de los desarrolladores de Software en Rio de Janeiro, Brasil. Lua es un lenguaje de programación desarrollado en Brasil, Lua quiere decir luna en Portugués, pero, para tener una audiencia amplia y un uso competitivo globalmente Lua está escrito en inglés. como lo describe Takhteyev, los desarrolladores brasileros viven en un estado de diglosia cultural, o vivir en dos lenguajes al mismo tiempo, en este caso, el lenguaje cotidiano, local, el portugués, 
 
-"En Brasil, como lo ha mostrado el historiador da Costa Marques, un
-grupo de ingenieros construyó una versión local del computador Apple ii.
-Conocido en su momento como el Mac de la periferia, el diseño del proto-
-tipo Unitron se hizo a partir de procesos de ingeniería inversa, en los que,
-a través del análisis del funcionamiento de las partes, se podía generar
-una versión que simuló el funcionamiento del original" [@prietonanezInteraccionesComputacionVida2019, p. 145]
+"En Brasil, como lo ha mostrado el historiador da Costa Marques, un grupo de ingenieros construyó una versión local del computador Apple ii. Conocido en su momento como el Mac de la periferia, el diseño del prototipo Unitron se hizo a partir de procesos de ingeniería inversa, en los que, a través del análisis del funcionamiento de las partes, se podía generar una versión que simuló el funcionamiento del original" [@prietonanezInteraccionesComputacionVida2019, p. 145] CONEXION CON EL ARTE DIGITAL BRASILERO, MOVIO TODO UN MOVIMIENTO CULTURAL
 
 De este modo, la tensión infraestructural de las humanidades digitales en América Latina por en juego un movimiento entre lo global con lo local. Una idea importante para este tipo de estándares es que puedan ser escalables. Es decir, que no requiera mayor esfuerzo. Usando el mismo estándar, es posible codificar documentos. 
 
@@ -274,6 +275,8 @@ La tecnología insurgente también contribuye a los desarrollos actuales relacio
 
 ## haciendo lo propio, Los comunes
 
+"The same communicative macro-infrastructure could offer the means for the development of an artistic culture that has national and international reach. In the past, culture faced physical limits resulting from the settlement of national territory by different-sized communities located thousands of kilometers apart."[@cordeiroArteonicaElectronicArt1997, p. 34]
+
 Los comunes
 
 Proyectos duraderos que no se disuelven cuando no hay manera de sostener los incentivos (o cuando los incentivos no son claros)
@@ -298,6 +301,17 @@ Neogranadina fue un proyecto que me ayudó mucho para atender las oportunidades 
 Qué sucede, nos hemos chocado con una realidad muy fuerte que es la brecha digital en todos sus componentes. Nosotros siempre que hablamos de brecha digital decimos que en Colombia, y en América Latina en general, la brecha se está desplazando del acceso al uso significativo. En muchas partes de Colombia hay una buena dotación de computadores, de tabletas, hay salas públicas, en algunas hay internet, pero el internet no es estable. Pero poder llegar a hacer uso significativo de las TIC quiere decir un montón de cosas: tener acceso a los computadores, tener acceso a internet que sea estable, accesible y permanente, y quiere decir también tener las competencias, la sensibilización y el acompañamiento para hacer un uso de las TIC que sea significativo para la persona. No es un uso por el uso y no es el mismo uso que le pueda dar el habitante urbano, sino es un uso que le permita al campesino aprovechar, mejorar su calidad de vida, conectarse con otros, saber qué está pasando en otros territorios, aprender con otros, construir sobre todo esas redes de acción. Entonces nosotros trabajamos por reducir esa brecha digital.MARIANA CORDOBA
 
 "compartir infraestructuras, laboratorios, hacer esas cosas, veo que es mucho más complejo, es mucho más difícil. Y en ese sentido veo que las comunidades son todavía muy localistas. Y en buena medida sucede también en lo infraestructural, y las lógicas propias de la idiosincrasia de cada comunidad académica. Las comunidades académicas tienen su idiosincrasia y también hay comunidades académicas que quieren mandar y no gobernar colaborativamente"JAIRO MELO
+
+. Conectado con el punto anterior, debemos expandir
+nuestro repertorio, desde el diseño de proyectos de investigación a la recolección
+de datos, o la presentación de hallazgos de investigación. Hay dos elementos que
+problematizar en este punto. Por un lado, que las disciplinas –y sus teorías y
+metodologías– han sido tradicionalmente construidas alrededor de visiones que
+“son antagonistas a otros sistemas de creencias, o no tienen una metodología para
+lidiar con otras formas de conocimiento” (Tuhiwai Smith, 2012, p. 74). Por otro,
+que la consolidación de formas académicas específicas (el artículo científico, la
+monografía) responde también a un sistema de poder/saber que debería ser, cuanto
+menos, cuestionado.[@gomez-cruzDescolonizandoMetodosPara2023, p. 173]
 
 
 Tecnologías digitales, creative commons y nuevos modos de producción cultural en Chile

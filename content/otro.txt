@@ -1,4 +1,5 @@
 <pre>{{item | json}}</pre>
+sh format_citation.sh 5_2_epistemologia
 
 Contra ellos, cuarenta mil moros, enemigos de raza, de religión, de
 tradiciones, de costumbres, acaban de ser introducidos en territorio español a
@@ -7,6 +8,14 @@ enganchados por los jefes facciosos en las tierras de Marruecos, empapadas
 por sangre hispana, para que vayan a hollar con sus plantas brutales, para que
 vayan a violar con sus manos crueles los fundamentos democráticos de las
 instituciones humanistas de la Gran República de Abril.(92)
-Bajo el signo de MArte Paulina Luisi
+Bajo el signo de Marte Paulina Luisi
 
 http://bibliotecadigital.bibna.gub.uy:8080/jspui/bitstream/123456789/74742/1/Bajo%20el%20signo%20de%20Marte%20-%20Paulina%20Luisi%20-%20Biblioteca%20Nacional%20de%20Uruguay.pdf
+
+IMAGEN DE OBRAS DE OMAR GANCEDO CON TARJETAS PERFORADAS POSEIA EXPERIMENTAL
+https://ludion.org/radar.php?artista_id=56
+
+http://sedici.unlp.edu.ar/handle/10915/45890 ESTA ES LA FUENTE QUE DEBO CITAR
+CC BY NC ND 4.0
+
+https://caevediciones.blogspot.com/p/diagonal-cero.html

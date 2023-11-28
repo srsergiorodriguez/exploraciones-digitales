@@ -1,5 +1,6 @@
 ---
 title: Formación de Comunidad
+dimension: true
 ---
 <header class="chapter-headers">
   <h1>{{ page.title }}</h1>

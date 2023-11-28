@@ -75,8 +75,9 @@ function euclideanDistance(a, b) {
 }
 
 async function makePanel(data) {
-  const imgMemo = {}
+  const imgMemo = {};
   for (let d of data) {
+    if (d.img === undefined) continue
     if (imgMemo[d.img] === undefined) {
       const img = new Image();
       img.src = d.img;
@@ -105,8 +106,11 @@ async function makePanel(data) {
     d3.selectAll(".panel-datasheet").remove();
     right.node().scrollTo(0,0); 
     const datasheet = right.append("div").classed("panel-datasheet", true);
-    const imgContainer = datasheet.append("div").classed("panel-img-container", true);
-    imgContainer.node().appendChild(imgMemo[d.img]);
+    
+    if (d.img !== undefined) {
+      const imgContainer = datasheet.append("div").classed("panel-img-container", true);
+      imgContainer.node().appendChild(imgMemo[d.img]);
+    }
     if (d.url !== undefined) {
       datasheet.append("a").text("visitar").attr("target", "_blank").attr("href", d.url);
     }

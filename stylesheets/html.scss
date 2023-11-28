@@ -11,6 +11,10 @@ p {
   font-size: 1em;
 }
 
+a {
+  color: var(--colmain);
+}
+
 code {
   font-size: 1.2em;
   // background: var(--col2);
@@ -117,7 +121,6 @@ figure figcaption{
   gap: 0.2em;
   padding: 0px;
   margin: 0em;
-  
 }
 
 .side-by-side img {
@@ -176,11 +179,10 @@ iframe {
 /* Left sidebar section */
 
 .sidebar {
-  // list-style-type: circle;
   font-family: var(--mainhfont);
   font-weight: 400;
   // border: solid 1px;
-  padding: 2em 2em;
+  padding: 2em;
 }
 
 .sidebar ol {
@@ -191,16 +193,12 @@ iframe {
   user-select: none;
 }
 
-// .sidebar li::marker {
-//   content: "- ";
-// }
-
 .sidebar ol ul {
   padding: 0 0 0 10px;
 }
 
 .sidebar li a {
-  font-size: 13px;
+  font-size: .8em;
   padding: 0 10px 1px 0;
   display: block;
   color: var(--colblack);
@@ -208,6 +206,15 @@ iframe {
   text-decoration: none;
   text-decoration-color: var(--colbg);
   user-select: none;
+}
+
+.sidebar ul.subcontent a[data-toc="chapter"] {
+  font-size: 0.85em;
+  font-weight: bold;
+}
+
+.sidebar ul.subcontent a[data-toc="sect1"] {
+  font-size: 0.7em;
 }
 
 .sidebar span {
@@ -227,7 +234,6 @@ iframe {
 }
 
 .chapter p {
-  
   line-height: 34px;
   text-align:justify;
 }
@@ -255,13 +261,6 @@ iframe {
   text-decoration-color: var(--colmain);
 }
 
-.chapter-headers h2 {
-  font-weight: 400;
-  font-size: 1em;
-  padding: 0;
-  margin: 0;
-}
-
 section[data-type="sect1"] h1:before {
   color:var(--col1);
   content: "\25A7 \0020";
@@ -274,7 +273,7 @@ section[data-type="sect1"] h1:after {
 
 section[data-type="sect1"] h1 {
   font-weight: 700;
-  font-size: 1.3em;
+  font-size: 1.4em;
   padding: 30px 0 0 0;
   margin: 0;
 }
@@ -291,10 +290,29 @@ section[data-type="sect1"] h2:after {
 
 section[data-type="sect1"] h2 {
   font-weight: 700;
+  font-size: 1.2em;
+  padding: 30px 0 0 0;
+  margin: 0;
+}
+
+section[data-type="sect1"] h3:before {
+  color:var(--colblack);
+  content: "\25A7 \0020";
+}
+
+section[data-type="sect1"] h3:after {
+  color: var(--colblack);
+  content: "\0020\25A8";
+}
+
+section[data-type="sect1"] h3 {
+  font-weight: 700;
   font-size: 1em;
   padding: 30px 0 0 0;
   margin: 0;
 }
+
+
 
 /* Footnotes */
 span[data-type="footnote"] a {
@@ -336,7 +354,6 @@ ol[data-type="footnotes"] li {
   text-decoration: none;
 }
 
-
 /* Tooltip */
 
 .tooltip {
@@ -365,4 +382,18 @@ ol[data-type="footnotes"] li {
 
 .tooltip:hover .tooltiptext {
   visibility: visible;
+}
+
+.sticky {
+  position: sticky;
+  top: 0px;
+  overflow: scroll;
+  height: 100vh;
+}
+
+.upscroller {
+  position: sticky;
+  top: 20px;
+  text-decoration: none;
+  font-size: 1em;
 }
