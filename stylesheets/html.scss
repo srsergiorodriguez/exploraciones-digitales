@@ -172,7 +172,7 @@ iframe {
 
 .mainset {
   display: grid;
-  grid-template-columns: 1.5fr minmax(100px, 900px) 1fr;
+  grid-template-columns: 1.5fr minmax(850px, 950px) 1fr;
   grid-gap: 10px;
 }
 
@@ -366,7 +366,7 @@ ol[data-type="footnotes"] li {
   visibility: hidden;
   background-color: var(--colbg);
   color: var(--colblack);
-  width: 300px;
+  width: 400px;
   border: solid 1px var(--colblack);
   text-align: center;
   padding: 0.5em;
@@ -378,6 +378,7 @@ ol[data-type="footnotes"] li {
   top: 2em;
   z-index: 1;
   cursor: text;
+  word-break: break-word;
 }
 
 .tooltip:hover .tooltiptext {
@@ -396,4 +397,12 @@ ol[data-type="footnotes"] li {
   top: 20px;
   text-decoration: none;
   font-size: 1em;
+}
+
+
+@media all and (max-device-width: 1150px) {
+  .mainset {
+    grid-auto-flow: row;
+    grid-template-columns: auto;
+  }
 }

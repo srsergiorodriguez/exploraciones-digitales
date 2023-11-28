@@ -36,7 +36,33 @@
           "label": "Dimensiones",
           "files": [
             "content/5_1_tradicion.md",
-            "content/5_2_epistemologia_citation.md",
+            "content/5_2_epistemologia.md",
+            "content/5_3_comunidad.md",
+            "content/5_4_infraestructura.md"
+          ]
+        },
+        "content/8_reflexiones.md",
+        "content/9_conclusiones.md"
+      ]
+    },
+    {
+      "format" : "pdf",
+      "layout" : "layouts/pdf.html",
+      "stylesheets" : {
+        "files" : ["stylesheets/pdf.scss"]
+      },
+      "files" : [
+        "content/0_cover.md",
+        "content/0_toc.md",
+        "content/1_introduccion.md",
+        "content/2_problema.md",
+        "content/3_metodos.md",
+        "content/4_mapa.md",
+        {
+          "label": "Dimensiones",
+          "files": [
+            "content/5_1_tradicion.md",
+            "content/5_2_epistemologia.md",
             "content/5_3_comunidad.md",
             "content/5_4_infraestructura.md"
           ]

@@ -12,8 +12,6 @@ def parse_arguments():
 def main():
   maketooltips, filename = parse_arguments()
 
-  print(maketooltips)
-
   with open(filename, 'r') as f:
     text = f.read()
 
@@ -21,9 +19,51 @@ def main():
   text = to_inline(text, maketooltips)
   text = remove_bibliography(text)
   text = replace_after(text, '---', "-", 2)
+  text = adjust_escapes(text)
+  text = adjust_months(text)
 
   with open(filename, 'w') as f:
     f.write(text)
+
+def adjust_months(text):
+  translations = {
+    "january ": "Enero ",
+    "february ": "Febrero ",
+    "march ": "Marzo ",
+    "april ": "Abril ",
+    "may ": "Mayo ",
+    "june ": "Junio ",
+    "july ": "Julio ",
+    "august ": "Agosto ",
+    "september ": "Septiembre ",
+    "october ": "Octubre ",
+    "november ": "Noviembre ",
+    "december ": "Diciembre "
+  }
+
+  for t in translations:
+    month = re.compile(t, re.IGNORECASE)
+    text = re.sub(month, translations[t], text)
+
+  return text
+
+def adjust_escapes(text):
+  opening = re.compile(r'\\\[', re.IGNORECASE)
+  text = re.sub(opening, "[", text)
+
+  closing = re.compile(r'\\\]', re.IGNORECASE)
+  text = re.sub(closing, "]", text)
+
+  lodash = re.compile(r'\\_', re.IGNORECASE)
+  text = re.sub(lodash, "_", text)
+
+  quote = re.compile(r'\\"', re.IGNORECASE)
+  text = re.sub(quote, '"', text)
+
+  accessed = re.compile('accessed', re.IGNORECASE)
+  text = re.sub(accessed, 'accedido en', text)
+
+  return text
 
 def adjust_html(text):
   opening = re.compile('\\\<', re.IGNORECASE)
@@ -33,13 +73,62 @@ def adjust_html(text):
   text = re.sub(closing, ">", text)
   return text
 
+# def to_inline(text, maketooltips):
+#   counter = 0
+#   fractionplace = 0
+
+#   textfraction = text[fractionplace : ]
+#   while True:
+#     try:
+#       os.system('clear')
+#       print(f"CITE {counter}")
+
+#       counter = counter + 1
+
+#       ref = "[^" + str(counter) + "]:"
+#       nextRef = "[^" + str(counter + 1) + "]:"
+#       cite = "[^" + str(counter) + "]"
+
+#       refStart = textfraction.index(ref)
+#       refEnd = textfraction.index(nextRef) - 2
+
+#       offset = len(str(counter)) + 5
+
+#       cleannote = textfraction[refStart + offset : refEnd]
+#       note = "^[" + cleannote + "]"
+
+#       if maketooltips:
+#         note = f"<span class='tooltip'>{note}<span class='tooltiptext'>{cleannote}</span></span>"
+
+#       text = text.replace(cite, note, 1)
+
+#       textfraction = text[refEnd: ]
+#       fractionplace = refEnd
+
+#     except ValueError:
+#       break
+
+#   if counter > 1:
+#     cleannote = text[refStart+offset:len(text)-1]
+#     note = "^[" + cleannote  + "]"
+
+#     if maketooltips:
+#         note = f"<span class='tooltip'>{note}<span class='tooltiptext'>{cleannote}</span></span>"
+
+#     text = text.replace(cite, note)
+#     text = text.replace("\n    ", " ")
+#     # cutPoint = text.index("\n^")
+#     # text = text[0:cutPoint]
+  
+#   return text
+
 def to_inline(text, maketooltips):
   counter = 0
+
   while True:
     try:
-      os.system('cls')
-      print(f"CITE {counter}")
-      
+      print(f"CITE {counter}", end='\r')
+
       counter = counter + 1
 
       ref = "[^" + str(counter) + "]:"
@@ -57,7 +146,7 @@ def to_inline(text, maketooltips):
       if maketooltips:
         note = f"<span class='tooltip'>{note}<span class='tooltiptext'>{cleannote}</span></span>"
 
-      text = text.replace(cite, note)
+      text = text.replace(cite, note, 1)
 
     except ValueError:
       break
@@ -73,7 +162,8 @@ def to_inline(text, maketooltips):
     text = text.replace("\n    ", " ")
     # cutPoint = text.index("\n^")
     # text = text[0:cutPoint]
-  
+
+  print(f"CITE {counter}")
   return text
 
 def replace_after(text, search, replace, n):

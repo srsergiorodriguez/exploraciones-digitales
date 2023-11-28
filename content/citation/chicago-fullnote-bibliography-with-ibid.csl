@@ -42,8 +42,8 @@
       <term name="editor" form="verb-short">ed.</term>
       <term name="translator" form="verb-short">trans.</term>
       <term name="translator" form="short">trans.</term>
-      <term name="editortranslator" form="verb-short">ed. and trans.</term>
-      <term name="editortranslator" form="verb">Edited and translated by</term>
+      <term name="editortranslator" form="verb-short">ed. y trans.</term>
+      <term name="editortranslator" form="verb">Editado y tranducido por</term>
       <term name="translator" form="short">trans.</term>
     </terms>
   </locale>
@@ -394,7 +394,7 @@
     <group delimiter=" ">
       <choose>
         <if type="chapter entry-dictionary entry-encyclopedia paper-conference" match="any">
-          <text term="in"/>
+          <text term="en"/>
         </if>
       </choose>
       <choose>
@@ -414,7 +414,7 @@
     <group delimiter=" ">
       <choose>
         <if type="chapter entry-dictionary entry-encyclopedia paper-conference" match="any">
-          <text term="in" text-case="capitalize-first"/>
+          <text term="en" text-case="capitalize-first"/>
         </if>
       </choose>
       <choose>
@@ -832,7 +832,7 @@
               <group delimiter=" ">
                 <choose>
                   <if variable="issued submitted" match="all">
-                    <text term="and"/>
+                    <text term="y"/>
                   </if>
                 </choose>
                 <!--Needs Localization-->
