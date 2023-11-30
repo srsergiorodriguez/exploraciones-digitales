@@ -3,6 +3,6 @@
 {% endif %}
 <ol data-type="footnotes">
   {% for footnote in footnotes %}
-    <li id="{{ footnote.id }}">{{ footnote.label }}</li>
+    <li id="{{ footnote.id }}">{{ footnote.label }}<a href="#quote-{{ footnote.id }}">↑</a></li>
   {% endfor %}
 </ol>

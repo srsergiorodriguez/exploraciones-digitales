@@ -68,6 +68,13 @@ Ya se planteaban problemas que siguen siendo vigentes:SITUADOS, MÚLTIPLES ACTOR
   height="350px"
   src="./assets/sketches/infraestructuras/listaCts"
   caption="Varias posturas con respecto a los estudios de Ciencia y Tecnología en América Latina"
+  list-data='| Nombre | Cita | Referencia |
+|---|---|---|
+| Amilcar Herrera | "El objetivo primordial debe ser revertir la situación actual, haciendo que los sistemas de ciencia y tecnología dejen de ser casi exclusivamente receptores y transmisores de tecnologías generadas en el exterior, para convertirse en la manifestación legítima y dinámica de las aspiraciones y la capacidad creativa de la sociedad." | Herrera, A. O. (1973, diciembre). La creación de tecnología como expresiónn cultural. Nueva Sociedad, 8–9, 58–70. P. 78 |
+| Jorge Sábato | "Somos fundamentalmente consumidores de tecnología, pero no productores; por lo tanto, espectadores y no autores, recipientes pasivos de lo que otros realizan en función de sus intereses y no de los nuestros." | Sabato, J. A. (1976). El cambio tecnológico necesario y posible. Estudios Internacionales, 9(36), 24–41. P. 32 |
+| Jesús Martín-Barbero | "La dependencia trabaja en la interiorización de la división social del trabajo a nivel internacional según la cual estos países no pueden permitirse el lujo de hacer ciencia, con aplicar la que hacen otros están cumpliendo su papel en la historia." | Martín-Barbero, J. (1989). Procesos de comunicación y matrices de cultura: Itinerario para salir de la razón dualista. Gili. P. 20 |
+| Francisco Sagasti | "La situación critica de la región debe reconocerse como una realidad y no una restricción, y como Simón Rodríguez, mentor de Bolívar, dijo "o inventamos, o fallamos."" | Sagasti, F. R. (1989). Crisis and challenge. Science and technology in the future of Latin America. Futures, 21(2), 161–168. https://doi.org/10.1016/0016-3287(89)90004-9 |
+| Máximo Halty Carrere | "Si muchos países en desarrollo se hallan preparados para asumir un nuevo orden industrial, a largo plazo será aún más conveniente para ellos asumir un nuevo orden tecnológico." | Halty Carrere, M. (1975). ¿Hacia un nuevo orden tecnológico? Estudios Internacionales, 8(32), 33–50. P. 48 |'
 />
 
 En el presente esas discusiones han tomado otros rumbos, no porque se hayan resuelto, sino porque la dependencia ya se ha asumido, y se han añadido nuevos problemas o se han exacerbado los anteriores: la decolonización, la situación, el pluralismo, la aparente globalización que disuelve las diferencias.

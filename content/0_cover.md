@@ -1,4 +1,4 @@
-<section class="single-page">
+<section class="single-page flex-cover">
   {{ config.title }}
 
   {{ config.subtitle }}
@@ -6,7 +6,7 @@
   {{ config.author }}
 </section>
 
-<section class="single-page">
+<section class="single-page flex-cover">
   {{ config.title }}
 
   {{ config.subtitle }}

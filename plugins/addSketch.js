@@ -24,15 +24,22 @@ Plugin.prototype = {
           let source = jel.attr('src');
           let caption = jel.attr('caption');
           let captionprint = jel.attr('captionprint');
-          let newel;
+          let newel = "";
+
+          const printmsg = ". Esta es una captura de pantalla del interactivo que se encuentra en la versión web de esta disertación";
           
           if(config.format == "html") {
             let height = jel.attr('height');
             content = `<iframe src=${source} width="100%" height="${height}"frameborder="0" allowfullscreen></iframe>`;
             newel = `<div class="sketch-wrapper"><figcaption>${caption}</figcaption>${content}</div>`;        
           } else {
-            content =  `<img src=${source + "/img.png"} alt="" />`;
-            newel = `<div class="sketch-wrapper"><figcaption>${captionprint || caption}</figcaption>${content}</div>`;
+            let listdata = jel.attr('list-data');
+            if (listdata) {
+              newel = `<figcaption>${captionprint || caption}</figcaption>` + getTable(listdata);
+            } else {
+              content = `<img src=${source + "/img.png"} alt="" />`;
+              newel = `<figure class="illustration sketch-wrapper"><figcaption>${captionprint || caption}${caption ? printmsg : ""}</figcaption>${content}</figure>`;
+            }
           }
 
           jel.replaceWith(newel);
@@ -45,6 +52,34 @@ Plugin.prototype = {
     cb(null, config, stream, extras);
   }
 
+}
+
+function getTable(listdata) {
+  let newel = "";
+  const [header, content] = listdata.split(/\|[-]+\|[-]+\|/);
+
+  let hs = header.split("|")
+  hs = hs.slice(1, hs.length - 1);
+  for (let h of hs) {
+    newel += `<th>${h}</th>`
+  }
+  newel = `<tr>${newel}</tr>`
+
+  for (let rowcontent of content.split("\n")) {
+    if (rowcontent === "") continue
+
+    let row = ""
+    let cs = rowcontent.split("|")
+    cs = cs.slice(1, cs.length - 1);
+    for (let c of cs) {
+      row += `<td>${c}</td>`
+    }
+    newel += `<tr>${row}</tr>`
+  }
+
+  newel = `<table>${newel}</table>`
+
+  return newel;
 }
 
 module.exports = Plugin;

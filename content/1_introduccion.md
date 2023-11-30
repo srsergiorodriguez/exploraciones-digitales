@@ -1,5 +1,6 @@
 ---
 title: Introducción
+layout: layouts/intro.html
 ---
 
 <header class="chapter-headers">

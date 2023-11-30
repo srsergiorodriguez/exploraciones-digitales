@@ -60,6 +60,9 @@ def adjust_escapes(text):
   quote = re.compile(r'\\"', re.IGNORECASE)
   text = re.sub(quote, '"', text)
 
+  orline = re.compile(r'\\\|', re.IGNORECASE)
+  text = re.sub(orline, '|', text)
+
   accessed = re.compile('accessed', re.IGNORECASE)
   text = re.sub(accessed, 'accedido en', text)
 
@@ -72,55 +75,6 @@ def adjust_html(text):
   closing = re.compile('\\\>', re.IGNORECASE)
   text = re.sub(closing, ">", text)
   return text
-
-# def to_inline(text, maketooltips):
-#   counter = 0
-#   fractionplace = 0
-
-#   textfraction = text[fractionplace : ]
-#   while True:
-#     try:
-#       os.system('clear')
-#       print(f"CITE {counter}")
-
-#       counter = counter + 1
-
-#       ref = "[^" + str(counter) + "]:"
-#       nextRef = "[^" + str(counter + 1) + "]:"
-#       cite = "[^" + str(counter) + "]"
-
-#       refStart = textfraction.index(ref)
-#       refEnd = textfraction.index(nextRef) - 2
-
-#       offset = len(str(counter)) + 5
-
-#       cleannote = textfraction[refStart + offset : refEnd]
-#       note = "^[" + cleannote + "]"
-
-#       if maketooltips:
-#         note = f"<span class='tooltip'>{note}<span class='tooltiptext'>{cleannote}</span></span>"
-
-#       text = text.replace(cite, note, 1)
-
-#       textfraction = text[refEnd: ]
-#       fractionplace = refEnd
-
-#     except ValueError:
-#       break
-
-#   if counter > 1:
-#     cleannote = text[refStart+offset:len(text)-1]
-#     note = "^[" + cleannote  + "]"
-
-#     if maketooltips:
-#         note = f"<span class='tooltip'>{note}<span class='tooltiptext'>{cleannote}</span></span>"
-
-#     text = text.replace(cite, note)
-#     text = text.replace("\n    ", " ")
-#     # cutPoint = text.index("\n^")
-#     # text = text[0:cutPoint]
-  
-#   return text
 
 def to_inline(text, maketooltips):
   counter = 0
@@ -144,7 +98,7 @@ def to_inline(text, maketooltips):
       note = "^[" + cleannote + "]"
 
       if maketooltips:
-        note = f"<span class='tooltip'>{note}<span class='tooltiptext'>{cleannote}</span></span>"
+        note = f"<span class='tooltip'>{note}<span id='quote-fn{str(counter)}' class='tooltiptext'>{cleannote}</span></span>"
 
       text = text.replace(cite, note, 1)
 

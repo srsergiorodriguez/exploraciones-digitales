@@ -19,6 +19,12 @@ shift $((OPTIND - 1))
 
 echo "${YELLOW}Formating: $1 / tooltips?: $maketooltips${RESET}"
 
+tooltipsfilename='_nott'
+if [ $maketooltips == true ]
+then
+  tooltipsfilename=''
+fi
+
 pandoc $1.md \
  --bibliography biblioteca.bib \
  --csl citation/chicago-fullnote-bibliography-with-ibid.csl \
@@ -27,7 +33,7 @@ pandoc $1.md \
  -t markdown-citations-fenced_divs-raw_html \
  -s --verbose --citeproc \
  --wrap=preserve \
- -o $1_citation.md
+ -o $1_citation$tooltipsfilename.md
 
 #  pandoc $1.md \
 #   --bibliography biblioteca.bib \
@@ -39,9 +45,9 @@ pandoc $1.md \
 #   --wrap=preserve \
 #   -o $1_citation.md
 
-if [ $maketooltips ]
+if [ $maketooltips == true ]
 then
-  python3 format_citation_adjust.py -t -f $1_citation.md
+  python3 format_citation_adjust.py -t -f $1_citation$tooltipsfilename.md
 else
-  python3 format_citation_adjust.py -f $1_citation.md
+  python3 format_citation_adjust.py -f $1_citation$tooltipsfilename.md
 fi

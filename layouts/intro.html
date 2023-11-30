@@ -19,29 +19,17 @@
     </header>
     <section class="mainset">
       <aside class="sidebar ">
-        {{ toc }}
-
-        <a href="#" class="upscroller">↑ Subir</a>
       </aside>
       <article class="chapter">
         {{ content }}
-        {% include navigation.html %}
         {{ footnotes }}
-      </article>
-      <aside class=sidebar>   
+
+        <div class="sidebar">
+          {{ toc }}
+        </div>
         
-
-        {% if page.dimension %}
-          <div class="sticky">
-            <dimension class="sticky"><h1 class="toc-title">Subsecciones del capítulo</h1></dimension>
-          </div>
-        {% endif %}
-
-        <!-- {% if page.dimension %}
-          <div class="sticky">
-            <dimension class="sticky"><h1 class="toc-title">Subsecciones del capítulo</h1></dimension>
-          </div>
-        {% endif %} -->
+      </article>
+      <aside class=sidebar>
       </aside>
     </section>
   </body>

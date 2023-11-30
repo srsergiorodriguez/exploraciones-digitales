@@ -40,3 +40,12 @@ strong {
   background: var(--col2);
   font-weight: 500;
 }
+
+table {
+  border-collapse: collapse;
+  border: solid 1px black
+}
+table td {
+  padding: 3px;
+  border: solid 1px black
+}

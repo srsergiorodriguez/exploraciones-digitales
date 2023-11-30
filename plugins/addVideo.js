@@ -25,13 +25,15 @@ Plugin.prototype = {
           let caption = jel.attr('caption');
           let captionprint = jel.attr('captionprint');
           let newel;
+
+          const printmsg = ". Esta es una captura de pantalla de un video que se encuentra en la versión web de esta disertación";
           
           if(config.format == "html") {
             content = `<video src="${source}.mp4" poster="${source}.png" width="100%" controls controlsList="nodownload nofullscreen noremoteplayback">Tu buscador no soporta reprodución de video</video>`;
             newel = `<div class="video-wrapper"><figcaption>${caption}</figcaption>${content}</div>`;        
           } else {
             content =  `<img src="${source}.png" alt="${caption}" />`;
-            newel = `<figure class="video-wrapper"><figcaption>${captionprint || caption}</figcaption>${content}</figure>`;
+            newel = `<figure class="video-wrapper"><figcaption>${captionprint || caption}${caption ? printmsg : ""}</figcaption>${content}</figure>`;
           }
 
           jel.replaceWith(newel);

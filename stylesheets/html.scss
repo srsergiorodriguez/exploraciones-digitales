@@ -30,6 +30,10 @@ video {
   border-radius: var(--bradius);
 }
 
+.current-section {
+  color: var(--colmain);
+}
+
 /* Header rect */
 
 .topheader {
@@ -172,7 +176,7 @@ iframe {
 
 .mainset {
   display: grid;
-  grid-template-columns: 1.5fr minmax(850px, 950px) 1fr;
+  grid-template-columns: 1fr minmax(850px, 950px) 1fr;
   grid-gap: 10px;
 }
 
@@ -185,16 +189,17 @@ iframe {
   padding: 2em;
 }
 
-.sidebar ol {
+.sidebar ol, ul {
   padding: 0 0 0 20px;
-}
-
-.sidebar h1 {
-  user-select: none;
 }
 
 .sidebar ol ul {
   padding: 0 0 0 10px;
+}
+
+.sidebar h1 {
+  user-select: none;
+  font-size: 1em;
 }
 
 .sidebar li a {
