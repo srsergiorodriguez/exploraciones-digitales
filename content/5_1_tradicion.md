@@ -60,11 +60,7 @@ Un uso público de la razón,  "el ejercicio de la deliberación y el acuerdo  e
 Aquí podríamos parafrasear a Sloterdijk (2008), quien a su vez sigue a Nietzsche: el que sabe leer sabe querer, y eso le da la potestad para decidir cómo cuidar a quien no sabe leer y por lo tanto solo es querido. La filosofa postcolonial Gayatri Spivak afirma que, bajo este discurso, no saber leer es equivalente a no poder hablar, en el sentido de no ser escuchado y no ser reconocido como sujeto con agencia propia. 1988 287 The subaltern cannot speak (in the sense that it is not heard, taken sriously) Esta distinción selectiva de la ciudadanía todavía aplica en nuestros días tanto en las luchas de grupos sociales por el reconocimiento legal de su estatus como ciudadanos, como las luchas feministas por el derecho al voto, como la construcción en la opinión pública de ciudadanías de facto, como ha sucedido en los recientes estallidos sociales en múltiples lugares de América Latina.
 
 
-https://thesuffragepostcardproject.omeka.net/items/show/333
-
 ESTALLIDOS SOCIALES CIUDADANIAS NO RECONOCIDAS (UNA OBRA ARTÍSTICA?)
-
-[Cheonhado mapa de Corea como el centro del mundo](https://es.wikipedia.org/wiki/Cheonhado)
 
 Amparo Menéndez-Carrión, un desencaje entre distintos desplazamientos del concepto de ciudadanía: como dato legal (Estatus idealizado de la igualdad en derechos y deberes que no tiene en cuenta las consideraciones de clase, las condiciones materiales, las injusticias estructurales, la historia de las comunidades), como proyecto
 
@@ -81,8 +77,11 @@ Junto al trívium sofista está el otro programa de estudios derivado de la Grec
 
 fijar las leyes a través de la escritura.
 
-THE WHITE MANS BURDEN
-https://library.osu.edu/dc/concern/generic_works/g732tk384?locale=en
+
+<figure class="illustration border">
+  <figcaption>La carga del hombre blanco — Victor Gillam — 1899. Una representación racista y xenofóbica de la supuesta misión de países hegemónicos llevando hacia la civilización a representaciones caricaturizadas de países bajo control colonial. (<a href="https://library.osu.edu/dc/concern/generic_works/g732tk384?locale=en" target="_blank">Fuente</a>, Ohio State University. Museo y biblioteca de la caricatura Billy Ireland)</figcaption>
+  <img alt="Dos personajes representando al Reino Unido a los Estados Unidos cargando sobre canastas a personajes estereotípicos de otras nacionalizadas: chinos, árabes, africanos, latinoamericanos." src="images/tradicion/whitemansburden.jpg" />
+</figure>
 
 LA CONSERVACIÓN DE LA MEMORIA, LA INTERPRETACIÓN DE LA CULTURA
 
@@ -224,8 +223,8 @@ Antagonista y agonística: concebirse por fuera de lo humano y entonces luchar e
 | Augusto Salazar Bondy | Al lado de las filosofías vinculadas con los grandes bloques actuales o del futuro inmediato es preciso, pues, forjar un pensamiento que, a la vez que arraigue en la realidad histórico-social de nuestras comunidades y traduzca sus necesidades y metas, sirva como medio para cancelar el subdesarrollo y la dominación que tipifican nuestra condición histórica. | Salazar Bondy, Augusto. ¿Existe una filosofía de nuestra América? México: Siglo Veintiuno, 2006. |
 | José Manuel Rivas Sacconi | [El conquistador] Quesada no fue un historiador, ni un poeta, ni un autor religioso, precisamente porque pasó por todas esas modalidades, sin circunscribirse a ninguna en particular. Fue humanista porque supo combinar tal universalidad de conocimientos con ciertas cualidades humanas, fundadas éstas y aquélla en una sólida y bien asimilada formación latino-clásica. | Rivas Sacconi, José Manuel. “Exordios del humanismo en Colombia.” Thesavrvs 2, núm. 1 (1946): 55–84. P. 55. |
 | Manuel Quintín Lame | Mis intenciones son de todo corazón proteger al futuro que duerme todavía en la ignorancia y que mañana le sirva esta obra de microscopio para hacerle frente al enemigo de nosotros los indígenas y que conozcamos la pradera de nuestros grandes destinos y no corramos como mujeres enamoradas abandonando el cariño de sus padres; y que busquemos la gran sociedad del estado de la civilización, porque nosotros los indios tenemos más memoria, y se nos presenta la inspiración más ligera que el relámpago que rompe el negro manto de la oscuridad de la noche. El indio se pasea mejor y más rápido que la abeja en todas las flores del jardín de las ciencias. | Quintín Lame, Manuel. En defensa de mi raza y otros textos. Bogotá: Biblioteca Básica de Cultura Colombiana, 2017. |
-| Domingo Faustino Sarmiento | Puede ser muy injusto exterminar salvajes, sofocar civilizaciones nacientes, conquistar pueblos que están en posesión de un terreno privilegiado; pero gracias a esta injusticia, la América, en lugar de permanecer abandonada a los salvajes, incapaces de progreso, está ocupada hoy por la raza caucásica, la más parfecta, la más inteligente, la más bella y la más progresiva de las que pueblan la tierra.[...]No hay amalgama posible entre un pueblo salvaje y uno civilizado. Donde este ponga su pie, deliberada o indeliberadamente, el otro tiene que abandonar el trreno y la existencia | Sarmiento, Domingo Faustino. Obras de D. F. Sarmiento. Tomo II. Artículos Críticos y Literarios 1842-1853. Buenos Aires: Felix Lajouane, Editor, 1885. P.214-215 |
-| Oswald de Andrade | Solo me interesa lo que no es mio.Ley del hombre. Ley del antropófago.[...]Fue porque nunca tuvimos gramáticas, ni colecciones de viejos vegetales. Y nunca supimos lo que era urbano, suburbano, fronterizo y continental.Perzosos en el mapamundi del Brasil.[...]Nunca fuimos catequizados. Lo que hicimos fue Carnaval. El indio vestido como senador del Imperio. Fingiendo ser Pitt. O apareciendo en las óperas de Alencar lleno de buenos sentimientos portugueses. | Andrade, Oswald de. Manifiesto Antropofago. Revista de Antropofagia, mayo de 1928. P. 3 |"
+| Domingo Faustino Sarmiento | Puede ser muy injusto exterminar salvajes, sofocar civilizaciones nacientes, conquistar pueblos que están en posesión de un terreno privilegiado; pero gracias a esta injusticia, la América, en lugar de permanecer abandonada a los salvajes, incapaces de progreso, está ocupada hoy por la raza caucásica, la más parfecta, la más inteligente, la más bella y la más progresiva de las que pueblan la tierra. [...] No hay amalgama posible entre un pueblo salvaje y uno civilizado. Donde este ponga su pie, deliberada o indeliberadamente, el otro tiene que abandonar el terreno y la existencia | Sarmiento, Domingo Faustino. Obras de D. F. Sarmiento. Tomo II. Artículos Críticos y Literarios 1842-1853. Buenos Aires: Felix Lajouane, Editor, 1885. P.214-215 |
+| Oswald de Andrade | Solo me interesa lo que no es mio. Ley del hombre. Ley del antropófago. [...] Fue porque nunca tuvimos gramáticas, ni colecciones de viejos vegetales. Y nunca supimos lo que era urbano, suburbano, fronterizo y continental. Perezosos en el mapamundi del Brasil. [...] Nunca fuimos catequizados. Lo que hicimos fue Carnaval. El indio vestido como senador del Imperio. Fingiendo ser Pitt. O apareciendo en las óperas de Alencar lleno de buenos sentimientos portugueses. | Andrade, Oswald de. Manifiesto Antropofago. Revista de Antropofagia, mayo de 1928. P. 3 |"
 />
 
 PANAMERICANO, PANAFRICANO, PANARABE, PANNORDICO

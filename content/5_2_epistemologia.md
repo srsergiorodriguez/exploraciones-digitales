@@ -53,7 +53,7 @@ Comúnmente, dentro de esta narrativa, se reconoce al sacerdote Roberto Busa com
 
   <figure class="illustration">
     <figcaption>El padre Roberto Busa en la Universidad de Yale en 1956. (<a href="https://dhlab.yale.edu/about.html" target="_blank">Fuente</a>, CIRCSE Research Centre, Università Cattolica del Sacro Cuore, Milan, Italy, Licencia CC-BY-NC)</figcaption>
-    <img alt="Un sacerdote revisando un libro antiguo y copiando su contenido en un computador de los años 50" src="images/epistemologia/busa.jpeg" />
+    <img alt="Un sacerdote revisando un libro antiguo y copiando su contenido en un computador de los años 50" src="images/epistemologia/busa.jpg" />
   </figure>
 </div>
 
@@ -64,7 +64,7 @@ Para entender esto, tomemos una perspectiva mediarqueológica. Fuertemente influ
 <div class="side-by-side">
   <figure class="illustration">
     <figcaption>Un medio de comunicación a distancia. Caricatura del telégrafo de Chappe — Rodolphe Töpffer — 1831. (<a href="https://en.m.wikipedia.org/wiki/File:T%C3%A9l%C3%A9graphe_Chappe_par_T%C3%B6pffer.jpg" target="_blank">Fuente</a>, Wikimedia, Dominio Público)</figcaption>
-    <img alt="Una caricatura que representa a unas personas trepadas encima de un telégrafo de Cappe. Es decir, un aparato de comunicación a distancia compuesto de un poste vertical y varios travesaños" src="images/epistemologia/telegrafotopffer.png" />
+    <img alt="Una caricatura que representa a unas personas trepadas encima de un telégrafo de Cappe. Es decir, un aparato de comunicación a distancia compuesto de un poste vertical y varios travesaños" src="images/epistemologia/telegrafotopffer.jpg" />
   </figure>
 
   <figure class="illustration">
@@ -74,7 +74,7 @@ Para entender esto, tomemos una perspectiva mediarqueológica. Fuertemente influ
 
   <figure class="illustration">
     <figcaption>Un medio de conservación de la memoria. Ilustración de un contador inca sosteniendo un Quipú en Nueva Corónica y Buen Gobierno — Felipe Guamán Poma de Ayala — 1616. (<a href="https://www.clacso.org.ar/biblioteca_ayacucho/detalle.php?id_libro=1778" target="_blank">Fuente</a>, Biblioteca Ayacucho, CLACSO, Acceso Abierto)</figcaption>
-    <img alt="Un dibujo de una persona del antigüo imperio inca sosteniendo un Quipú. Es decir, una cuerda con otras cuerdas anundadas" src="images/epistemologia/quipu.png" />
+    <img alt="Un dibujo de una persona del antigüo imperio inca sosteniendo un Quipú. Es decir, una cuerda con otras cuerdas anundadas" src="images/epistemologia/quipu.jpg" />
   </figure>
 </div>
 
@@ -106,7 +106,7 @@ Pensemos en un ejemplo que conjugue todo: existen sistemas para la construcción
 
 <figure class="illustration border">
   <figcaption>Representación digital en versión transcrita y fascimilar del Discurso de la gran cometa del astrónomo y astrólogo Gabriel López de Bonilla. (<a href="https://bdpn.unam.mx/es/GranCometa" target="_blank">Fuente</a>, Biblioteca Digital del Pensamiento Novohispano)</figcaption>
-  <img alt="Una captura de un sitio web que representa una página escrita a mano y, al lado, una transcripción del manuscrito." src="images/epistemologia/grancometa.png" />
+  <img alt="Una captura de un sitio web que representa una página escrita a mano y, al lado, una transcripción del manuscrito." src="images/epistemologia/grancometa.jpg" />
 </figure>
 
 Así, la práctica de las humanidades digitales en América Latina se ha beneficiado en dos sentidos de este tipo de infraestructuras, métodos y prácticas de la conservación de la memoria: por una parte, se ha facilitado el acceso a colecciones físicamente lejanas desde nuestro contexto a través de internet, y, por otra, se ha facilitado la posibilidad de crear colecciones y documentos digitales desde América Latina de una manera interoperable que las conecta con otras colecciones alrededor del mundo. Por otro lado, las dificultades infraestructurales para este tipo de proyectos también han sido evidentes, y configuran un factor crítico para el desarrollo de las humanidades digitales en nuestro contexto. Tanto es así, que una elaboración más amplia de este tema se presenta en el capítulo 5.4., dedicado a las infraestructuras. Por lo pronto, la Gráfica 3 muestra un panel interactivo con distintos proyectos en humanidades digitales en América Latina que hacen uso de este tipo de tecnologías:
@@ -193,12 +193,12 @@ Pensemos en un ejemplo: empezando en 1924, el historiador del arte Aby Warburg e
 <div class="side-by-side">
   <figure class="illustration">
     <figcaption>Panel 45 del Atlas Mnemosyne, proyecto investigativo de la iconografía del renacimiento del historiador del arte Aby Warburg — Ca. 1924. (<a href="https://live-warburglibrarycornelledu.pantheonsite.io/panel/45" target="_blank">Fuente</a>, Instituto Warburg - Biblioteca de la Universidad de Cornell)</figcaption>
-    <img alt="Un panel de tela con varias fotocopias de pinturas renacentistas dispuestas en él" src="images/epistemologia/WarburgPanel45.jpeg" />
+    <img alt="Un panel de tela con varias fotocopias de pinturas renacentistas dispuestas en él" src="images/epistemologia/WarburgPanel45.jpg" />
   </figure>
 
   <figure class="illustration">
     <figcaption>Un gráfico de dispersion hecho por Stefka Hristova con el software ImagePlot en el que se representan las imágenes del Panel 45 del Atlas Menmosyne en términos de su brillo (eje X) y saturación (eje Y) — 2016. (<a href="https://journals.ub.uni-heidelberg.de/index.php/dah/article/view/23489" target="_blank">Fuente</a>, International Journal for Digital Art History, Stefka Hristova)</figcaption>
-    <img alt="Una visualización que muestra pequeños recuadros con obras de arte dispuestas en el espacio de acuerdo a su brillo y saturación de color" src="images/epistemologia/HristovaImagePlot.png" />
+    <img alt="Una visualización que muestra pequeños recuadros con obras de arte dispuestas en el espacio de acuerdo a su brillo y saturación de color" src="images/epistemologia/HristovaImagePlot.jpg" />
   </figure>
 </div>
 
@@ -318,7 +318,7 @@ Adicionalmente, el pixel art se relaciona, arqueológicamente, con otras formas 
 
   <figure class="illustration">
     <figcaption>Retrato "pixelado" de Joseph-Marie Jaquard tejido con un telar de Jacquard — C. 1840. (<a href="https://library.artstor.org/#/asset/24739208;prevRouteTS=1700167861224" target="_blank">Fuente</a>, Artstor, Licencia CC-BY)</figcaption>
-    <img alt="Un telar tejido que representa el retrato de un hombre" src="images/epistemologia/jacquardFramento.png" />
+    <img alt="Un telar tejido que representa el retrato de un hombre" src="images/epistemologia/jacquardFragmento.jpg" />
   </figure>
 </div>
 

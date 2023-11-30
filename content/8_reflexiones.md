@@ -8,7 +8,7 @@ title: Sobre los ensayos interactivos
 
 ## Justificación del tipo de proyecto
 
-En su reflexión sobre el papel del blogging en la construcción de su aprendizaje, comunicación y construcción de comunidad en su práctica de las humandiades digitlaes Ernesto Priego comenta que "blogging and open digital scholarship could not be separated from the digital humanities (DH). A digital humanities that disseminated its research outputs through the same traditional methods as other “nondigital” fields seemed to me a contradiction" [@priegoCanSubalternDH2022, p. 28]
+En su reflexión sobre el papel del blogging en la construcción de su aprendizaje, comunicación y construcción de comunidad en su práctica de las humandiades digitlaes, Ernesto Priego comenta que "blogging and open digital scholarship could not be separated from the digital humanities (DH). A digital humanities that disseminated its research outputs through the same traditional methods as other “nondigital” fields seemed to me a contradiction" [@priegoCanSubalternDH2022, p. 28]
 
 En una línea similar, esta disertación es una investigación de las tensiones de las humanidades digitales en América Latina, pero también es, en sí misma, un trabajo que se enmarca en las humanidades digitales. Como tal, y como reflexiono en el capítulo sobre epistemología, es consciente de las particularidades del medio digital, de sus límites y posibilidades. Así, aprovecha esas posibilidades y procura construir sus argumentos no solo a través de la escritura sino también a través del uso de interfaces, imágenes, sonido y piezas interactivas. Es, en términos generales un libro compuesto de ensayos interactivos.
 

@@ -48,6 +48,10 @@ table td {
   border: solid 1px black;
 }
 
+.backreference-link {
+  scroll-padding-top: -600px;
+}
+
 body {
   box-sizing: border-box;
   padding: 0;
@@ -417,6 +421,7 @@ ol[data-type=footnotes] li {
   z-index: 1;
   cursor: text;
   word-break: break-word;
+  scroll-padding-top: 100px;
 }
 
 .tooltip:hover .tooltiptext {

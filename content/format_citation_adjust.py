@@ -98,7 +98,7 @@ def to_inline(text, maketooltips):
       note = "^[" + cleannote + "]"
 
       if maketooltips:
-        note = f"<span class='tooltip'>{note}<span id='quote-fn{str(counter)}' class='tooltiptext'>{cleannote}</span></span>"
+        note = f"<span id='quote-fn{str(counter)}' class='tooltip'>{note}<span class='tooltiptext'>{cleannote}</span></span>"
 
       text = text.replace(cite, note, 1)
 

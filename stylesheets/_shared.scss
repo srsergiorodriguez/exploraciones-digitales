@@ -45,7 +45,12 @@ table {
   border-collapse: collapse;
   border: solid 1px black
 }
+
 table td {
   padding: 3px;
   border: solid 1px black
+}
+
+.backreference-link {
+  scroll-padding-top: -600px;
 }

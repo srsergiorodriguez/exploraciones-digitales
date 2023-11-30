@@ -317,8 +317,6 @@ section[data-type="sect1"] h3 {
   margin: 0;
 }
 
-
-
 /* Footnotes */
 span[data-type="footnote"] a {
   vertical-align: super;
@@ -384,6 +382,7 @@ ol[data-type="footnotes"] li {
   z-index: 1;
   cursor: text;
   word-break: break-word;
+  scroll-padding-top: 100px;
 }
 
 .tooltip:hover .tooltiptext {
