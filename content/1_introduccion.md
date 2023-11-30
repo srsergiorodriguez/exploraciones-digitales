@@ -13,3 +13,7 @@ El doble movimiento de las humanidades digitales nos permite pensar en dos mundo
 En cierta medida, este trabajo puede ser leído como un diagnóstico del lugar de las humanidades contemporáneas tanto en las comunidades académicas como en las comunidades informales en nuestro contexto.
 
 Este es el resultado de la investigación realizada por Sergio Rodríguez Gómez en el doctorado en Comunicación, Lenguajes e Información de la Pontificia Universidad Javeriana en Bogotá, Colombia.
+
+<a href="./problema.html">Siguiente sección (Contexto, Problema y Objetivos)</a>
+
+A continuación se encuentra el índice de capítulos de este libro digital:

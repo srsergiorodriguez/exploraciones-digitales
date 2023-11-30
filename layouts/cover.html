@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ config.title }}</title>
+    {{ javascripts }}
+    {{ stylesheets }}
+  </head>
+  <body data-type="book">
+    <header class="topheader">
+      <hgroup class="mainh">
+        <h1>{{ config.title }}</h1>
+        <h2>{{ config.subtitle }}</h2>
+      </hgroup>
+      <ul class="titlebar1">
+        <li><a>*</a></li>
+        <li><a>**</a></li>
+      </ul>
+    </header>
+    <section class="mainset">
+      <aside class="sidebar ">
+      </aside>
+      <article class="chapter">
+        {{ content }}
+      </article>
+      <aside class=sidebar>
+      </aside>
+    </section>
+  </body>
+</html>
