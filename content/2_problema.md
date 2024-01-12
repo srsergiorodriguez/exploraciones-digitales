@@ -8,9 +8,9 @@ title: Contexto, Problema y objetivos
 
 ## Contexto
 
-Humanidades digitales es un término que involucra varias prácticas de las humanidades que involucran uso o reflexión con respecto a las tecnologías digitales.
+Humanidades digitales es un término que involucra varias prácticas de las humanidades relacionados con el uso o la reflexión con respecto a las tecnologías digitales.
 
-En principio, las humanidades digitales provienenen de un concepto importado de estados unidos y europa que ha sido adaptado a contextos latinoamericanos en intituciones humanísticas y grupos de interés. El mapa tal muestra los lugares con mayor interés de búsqueda de los términos humanidades digitales, humaniades digitais, y digital humanities. Como se observa allí, el interés de búsqueda, eha estado repartido más que todo en Argentina, México y Colombi. Esto es consistente conla existecnai de las teres primeras redes de humanidades digitales en el América Latina en estos tres países, aunque hoy en día otros lugares también cuentan con sus redes, programas institucionales, laboratorios, o programas eductavivmos.
+En principio, las humanidades digitales provienenen de un concepto importado de Estados Unidos y Europa -el humanities computing, las humanités numeriqués, las culturonomics, la cultural analytics- que ha sido adaptado a contextos latinoamericanos en intituciones humanísticas y grupos de interés. El mapa XXX muestra los lugares con mayor interés de búsqueda de los términos humanidades digitales, humaniades digitais, y digital humanities. Como se observa allí, el interés de búsqueda, eha estado repartido más que todo en Argentina, México y Colombi. Esto es consistente con la existecnai de las teres primeras redes de humanidades digitales en el América Latina en estos tres países, aunque hoy en día otros lugares también cuentan con sus redes, programas institucionales, laboratorios, o programas eductavivmos.
 
 <sketch
   height="440px"
@@ -24,12 +24,17 @@ Este caracter importado de las humanidades digitales situa las prácticas en Am�
 
 esta invetigación parte del problema de caracterizar el desarrollo de las humanidades digitales en América LAtina, sus discurso, y posturas. Este desarrollo, se ha construido entonces como una serie de tensiones, no necesariamente entendidas como conflicto sino como horizontes posibles que, debido a que implican maneras distintas de hacer las cosas, pueden encontrarse en un estado tirante que se mueve y se transforma.
 
+Estas tensiones han ocurrido en la práctica y se han intentado poner de manifiesto, aunque sigue siendo necesaria una lectura que conjugue.
+
+Esta disertación busca abordar esos dos problemas como se describe a continuación:
 
 ### Primer problema: las tensiones
 
 El primer problema que se configura en este proyecto de investigación es el conjunto de discursos alrededor las humanidades digitales en América Latina, y cómo tales discursos manifiestan múltiples tensiones y generan controversias que fluctúan en la medida en la que la comunidad se construye, establece sus intereses y sus identidades.
 
 Caracterizar estos discursos es esencial para entender la dirección en la que se mueven las humanidades digitales en nuestro contexto, y para determinar qué necesidades aparecen y qué discursos prevalecerán en la formación del campo en los próximos años. En medio de la diversidad, es importante poder dar cuenta de las transformaciones a las que se enfrentan las humanidades digitales, es decir, basado en la propuesta (Latour, 2005), observar sus fluctuaciones, controversias y cristalizaciones. De este modo, informado por las exploraciones que he realizado a lo largo del doctorado como preparación para mi propuesta, especialmente las entrevistas a personas que encabezan las redes de humanidades digitales en América Latina, las tensiones más salientes y de mayor interés para este proyecto pueden organizarse en cuatro ejes entre los que se mueven los discursos del campo. Tales ejes son los siguientes:
+
+No describir los problemas acá, solo nombrarlos
 
 - **Dimensión de la tradición humanística**:  La tensión entre la identidad latinoamericana como humanismo auténtico. el movimiento en tensión acerca de si las humanidades deben continuar por una línea clásica (el enfoque grecolatino y eurocéntrico del humanismo) o si debe aproximarse a una visión extendida, e incluso posthumanística (no centrada en el excepcionalismo humano). La tensión que posiciona a las humanidades digitales en la crisis de las humanidades.
 

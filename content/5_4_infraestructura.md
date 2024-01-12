@@ -42,9 +42,9 @@ Master narratives
 herteropraxial - diff practices
 heteroglossial - diff voices
 
-Esto es evidente en las muchas infraestructuras que involucran las prácticas de las humanidades digitales. Una gran fracción del interés por lo digital en las humanidades radica en pensar y usar la computación como una infraestructura que facilita el trabajo tedioso por medio de la automatización. En sus orígenes, las computadoras eran personas que trabajaban haciendo cálculos tediosos, hoy hablar de computadora es hablar de una máquina capaz de hacer esas mismas operaciones en escalas y velocidades humanamente imposibles. Procesar millones de palabras para encontrar patrones comunes en obras literarias, crear ediciones en línea que facilitan la comunicación de algún tema a través del acceso simplificado a documentos y formatos multimedia,. Sin embargo, en ocasiones esta aparente automatización oculta el trabajo que seres humanos han realizado para construir y mantener la operación de las infraestructuras, así como las condiciones de trabajo y financiación que sustentan estas prácticas.
+Esto es evidente en las muchas infraestructuras que involucran las prácticas de las humanidades digitales. Una gran fracción del interés por lo digital en las humanidades radica en pensar y usar la computación como una infraestructura que facilita el trabajo tedioso por medio de la automatización. En sus orígenes, las computadoras eran personas que trabajaban haciendo cálculos tediosos, hoy hablar de computadora es hablar de una máquina capaz de hacer esas mismas operaciones en escalas y velocidades humanamente imposibles. Procesar millones de palabras para encontrar patrones comunes en obras literarias, crear ediciones y colecciones en línea que facilitan la comunicación de algún tema a través del acceso simplificado a documentos y formatos multimedia, crear representaciones artísticas por medio de algoritmos e interfaces. Sin embargo, en ocasiones esta aparente automatización oculta el trabajo que seres humanos han realizado para construir y mantener la operación de las infraestructuras, así como las condiciones de trabajo y financiación que sustentan estas prácticas.
 
-Por ejemplo, como lo muestra un estudio de Colbert, Li, Schwartz y Satten-Lopez, la mayoría de páginas escaneadas en la colección del Internet Archive, que alberga un número enorme de libros, fueron realizadas en China y Filipinas, en unas condiciones muy inferiores a las de otros centros de escaneo. De acuerdo con personas entrevistadas por estos investigadores, los problemas de espalda y las largas horas de trabajo implicaban una rotación y cambio de empleados más recurrente en estos países que, digamos, en Estados Unidos o Europa. En un sentido similar, en geology of media, Jussi Parikka muestra cómo los grandes centros de processamiento de datos usados en inteligencia artificial o que alojan los datos masivos de lo que eufemísticamente llamamos "la nube", aprovechan los antiguos molinos de agua en lugares como Alaska para enfríar los servidores que están día y noche haciendo computaciones. (para bajarle la velocidad a las moléculas). Es decir, son infraestructuras reutilizadas para trabajos diferentes.
+Por ejemplo, como lo muestra un estudio de Colbert, Li, Schwartz y Satten-Lopez, la mayoría de páginas escaneadas en la colección del Internet Archive, que alberga un número enorme de libros, fueron realizadas en China y Filipinas, en unas condiciones laborales muy inferiores a las de otros centros de escaneo. De acuerdo con personas entrevistadas por estos investigadores, los problemas de espalda y las largas horas de trabajo implicaban una rotación y cambio de empleados más recurrente en estos países que, digamos, en Estados Unidos o Europa. En un sentido similar, en geology of media, Jussi Parikka muestra cómo los grandes centros de procesamiento de datos usados en modelos de inteligencia artificial o que alojan los datos masivos de lo que eufemísticamente llamamos "la nube", aprovechan los antiguos molinos de agua en lugares como Alaska para enfríar los servidores que están día y noche haciendo computaciones. Es decir, este demonio de Maxwell, literal y metafóricamente, está haciendo trabajo para para bajarle la velocidad a las moléculas. Estas son infraestructuras reutilizadas para trabajos diferentes.
 
 <sketch
   height="457px"
@@ -52,15 +52,15 @@ Por ejemplo, como lo muestra un estudio de Colbert, Li, Schwartz y Satten-Lopez,
   caption='Cantidad de páginas escaneadas por mes en centros de digitalización para colecciones del Internet Archive. Los <a href="https://github.com/scanninglabor/IAScanningLabor/tree/main/code/map_json_files" target="_blank">datos</a> fueron recogidos por Eleanor Colbert, Lucian Li, Elizabeth Schwartz y David Satten-Lopez, esta visualización se hace con su autorización.'
 />
 
-"The “digital” in digital humanities could not be disconnected from the methods and infrastructures by which such scholarship was produced and disseminated, and this included thinking of those who were being left outside by those mechanisms." [@priegoCanSubalternDH2022, p. 28]
+Como afirma Ernesto Priego, lo "digital" en las humanidades digitales no puede desconectarse de los métodos e infraestructuras a través de los cuales tal investigación fue producida y diseminada, y esto incluye pensar en aquellos que están siendo dejados por fuera de esos mecanismos"[@priegoCanSubalternDH2022, p. 28]. En otras palabras, es necesario que desde las humanidades digitales se visibilicen y cuestionen las propias infraestructuras que las soportan, y, añadiría, también las infraestructuras que soportan a las culturas digitales en general.
 
 ## ¿Modelos importados que no son la solución?
 
-"The critical situation of the region must be recognized as a reality and not as a restriction, and as Simon Rodriguez, the mentor of Bolivar, said, ‘Either we invent, or we fail’." [@sagastiCrisisChallenge1989, p. 168]
+>La situación crítica de la región debe reconocerse como una realidad y no como una restricción, como Simón Rodríguez, el mentor de Bolívar, dijo, 'o inventamos, o fallamos'—Francisco Sagasti[@sagastiCrisisChallenge1989, p. 168]
 
-Si recordamos lo discutido en el capítulo 5.1. sobre la tradición humanística aparecerá de nuevo la noción de la autenticidad latinoamerica, pero, en términos de infraestructuras, el problema se plantea en términos de la creación de infraestructuras propias o la adopción de las ajenas.
+Si recordamos lo discutido en el capítulo 5.1. sobre la tradición humanística aparecerá de nuevo la noción de la autenticidad latinoamericana, pero ahora el problema se plantea en términos de la creación de infraestructuras propias o la adopción de las ajenas.
 
-Si desde los procesos independentistas se establecieron fuertes discusiones acerca de la identidad latinoamericana, desde losaños 50 con las políticuas neoliberales de apertura económica se plantearon múltiples discusiones acerca de la ciencia, tecnología y sociedad en América Latina. Especialmente entre los años sesenta y noventa, varios pensadores, vinculados como asesores en instituciones gubernamentales y  organizaciones internacionales (OEA, ONU, CEPAL, entre otras). Teoría de la dependencia, discusiones acerca de la transferencia tecnológica, atraso en el desarrollo, relaciones entre la industria, la sociedad civil y la infraestructura científico-tecnolócia, la producción endógena vs. la exógena, y la relación con las tecnologías y los saberes autóctonos. Análisis desde lógicas globales. Posteriormente, se asentarion posturas neoliberales en los países latinoamericanos y estas discusiones pasaron a segundo plano o tomaron direccciones distintas, tanto por la aceptación de la subalternidad en la producción tecnológica como en la puesta en cuestión del concepto de desarrollo.
+Si desde los procesos independentistas se establecieron fuertes discusiones acerca de la identidad latinoamericana, desde los años 50, con el auge de las políticas neoliberales de apertura económica, se plantearon múltiples discusiones acerca de la ciencia, tecnología y sociedad en nuestro contexto. Especialmente entre los años sesenta y noventa, varios pensadores, vinculados como asesores en instituciones gubernamentales y  organizaciones internacionales (OEA, ONU, CEPAL, entre otras). Teoría de la dependencia, discusiones acerca de la transferencia tecnológica, atraso en el desarrollo, relaciones entre la industria, la sociedad civil y la infraestructura científico-tecnolócia, la producción endógena vs. la exógena, y la relación con las tecnologías y los saberes autóctonos. Análisis desde lógicas globales. Posteriormente, se asentarion posturas neoliberales en los países latinoamericanos y estas discusiones pasaron a segundo plano o tomaron direccciones distintas, tanto por la aceptación de la subalternidad en la producción tecnológica como en la puesta en cuestión del concepto de desarrollo.
 
 Ya se planteaban problemas que siguen siendo vigentes:SITUADOS, MÚLTIPLES ACTORES, APROVECHAN LOS CONOCIMIENTOS AUTÓCTONOS, SON RESPONSABLES CON EL MEDIO AMBIENTE
 
@@ -85,6 +85,7 @@ En el caso particular de las humanidades digitales en América Latina, existe un
 
 "Que el proceso de maduración de una comunidad científica, como la de las HD en Latinoamérica, consista en la adopción de unos estándares ya dados, puede describirse como parte de un proceso de colonización del conocimiento. En la medida en que los estándares no son resultado de los propios procesos de producción de conocimiento regional, son una forma de normalizar ese conocimiento a partir de modelos creados por la comunidad que domina las HD."[@prianisaisoCodificacionBuenasPracticas2019, p. 134]
 
+Conectado con el punto anterior, debemos expandir nuestro repertorio, desde el diseño de proyectos de investigación a la recolección de datos, o la presentación de hallazgos de investigación. Hay dos elementos que problematizar en este punto. Por un lado, que las disciplinas –y sus teorías y metodologías– han sido tradicionalmente construidas alrededor de visiones que “son antagonistas a otros sistemas de creencias, o no tienen una metodología para lidiar con otras formas de conocimiento” (Tuhiwai Smith, 2012, p. 74). Por otro, que la consolidación de formas académicas específicas (el artículo científico, la monografía) responde también a un sistema de poder/saber que debería ser, cuanto menos, cuestionado.[@gomez-cruzDescolonizandoMetodosPara2023, p. 173] PARAFRASEAR
 
 Largas políticas de transferencia tecnológica 
 
@@ -152,6 +153,8 @@ Internationalization
 Adrian Mackenzie
 Software studies \ a lexicon
 
+Ahora han perdido algo de fuerza, aunque no de relevancia, el tono y el enfoque de las discusiones de la segunda mitad del siglo pasado sobre la ciencia, tecnología y sociedad en América Latina, especialmente por una resignación a la dependencia y a la importación tecnológica. Las preocupaciones ahora se centran en procesos comunitarios y en proyectos más localizados y subalternos, en vez de la idea de un proyecto de nación y de región construido a través de políticas públicas y la injerencia en organismos internacionales.
+
 ## Brechas de la dependencia
 
 La idea general que define una brecha puede resumirse en una frase: quien ya tiene puede, más fácilmente, tener más. Pensemos en una metáfora para entender cómo se desenvuelve la producción de una brecha. La teoría del apego preferencial define un tipo de red denominada de "escala libre", en la que pocos nodos tienen muchas conexiones con los demas y, logarítmicamente, los demás nodos tienen muchas menos.
@@ -196,6 +199,8 @@ ACCESO AL ARCHIVO RESISTENCIA EN LA LÍNEA NEGRA
 En mi propia experiencia, y en la de personas cercanas que también han trabajado en educación, la brecha de primer nivel se ha hecho innegable: algún porcentaje de estudiantes, mayor o menor dependiendo de la institución (y de otros varios factores de desigualdad), no cuenta con los medios para conectarse a internet y recibir clases, o no cuenta con el tiempo y el espacio para atender y estudiar adecuadamente. Incluso, debido a esto, la solución en muchos casos ha pasado por recurrir a medios offline más accesibles y eficaces, a pesar de que son en apariencia menos actuales o avanzados tecnológicamente. Por ejemplo, la radio y las cartillas impresas.
 La preparación con respecto al segundo nivel de la brecha digital, es decir, las habilidades, la participación y la eficacia tanto de profesores como alumnos, es también muy crítica.
 
+https://www.colnodo.apc.org/es/experiencias/se-inauguro-la-red-comuntaria-jxa-h-wejxia-casil-red-del-viento-de-silva-y-caldono
+https://redescomunitarias.co/es/que-son-las-redes-comunitarias
 
 ## Relaciones de trabajo
 
@@ -309,16 +314,7 @@ Qué sucede, nos hemos chocado con una realidad muy fuerte que es la brecha digi
 
 "compartir infraestructuras, laboratorios, hacer esas cosas, veo que es mucho más complejo, es mucho más difícil. Y en ese sentido veo que las comunidades son todavía muy localistas. Y en buena medida sucede también en lo infraestructural, y las lógicas propias de la idiosincrasia de cada comunidad académica. Las comunidades académicas tienen su idiosincrasia y también hay comunidades académicas que quieren mandar y no gobernar colaborativamente"JAIRO MELO
 
-. Conectado con el punto anterior, debemos expandir
-nuestro repertorio, desde el diseño de proyectos de investigación a la recolección
-de datos, o la presentación de hallazgos de investigación. Hay dos elementos que
-problematizar en este punto. Por un lado, que las disciplinas –y sus teorías y
-metodologías– han sido tradicionalmente construidas alrededor de visiones que
-“son antagonistas a otros sistemas de creencias, o no tienen una metodología para
-lidiar con otras formas de conocimiento” (Tuhiwai Smith, 2012, p. 74). Por otro,
-que la consolidación de formas académicas específicas (el artículo científico, la
-monografía) responde también a un sistema de poder/saber que debería ser, cuanto
-menos, cuestionado.[@gomez-cruzDescolonizandoMetodosPara2023, p. 173]
+Conectado con el punto anterior, debemos expandir nuestro repertorio, desde el diseño de proyectos de investigación a la recolección de datos, o la presentación de hallazgos de investigación. Hay dos elementos que problematizar en este punto. Por un lado, que las disciplinas –y sus teorías y metodologías– han sido tradicionalmente construidas alrededor de visiones que “son antagonistas a otros sistemas de creencias, o no tienen una metodología para lidiar con otras formas de conocimiento” (Tuhiwai Smith, 2012, p. 74). Por otro, que la consolidación de formas académicas específicas (el artículo científico, la monografía) responde también a un sistema de poder/saber que debería ser, cuanto menos, cuestionado.[@gomez-cruzDescolonizandoMetodosPara2023, p. 173]
 
 
 Tecnologías digitales, creative commons y nuevos modos de producción cultural en Chile

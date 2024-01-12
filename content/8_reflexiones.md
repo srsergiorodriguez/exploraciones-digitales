@@ -8,25 +8,29 @@ title: Sobre los ensayos interactivos
 
 ## Justificación del tipo de proyecto
 
-En su reflexión sobre el papel del blogging en la construcción de su aprendizaje, comunicación y construcción de comunidad en su práctica de las humandiades digitlaes, Ernesto Priego comenta que "blogging and open digital scholarship could not be separated from the digital humanities (DH). A digital humanities that disseminated its research outputs through the same traditional methods as other “nondigital” fields seemed to me a contradiction" [@priegoCanSubalternDH2022, p. 28]
+En su reflexión sobre el papel del blogging en la construcción de su aprendizaje, comunicación y construcción de comunidad en su práctica de las humandiades digitales, Ernesto Priego comenta que "el blogueo y la investigación digital abierta do pueden separarse de las humanidades digitales (DH). Unas humanidades digitales que diseminan los resultados de su investigación a través de los mismos métodos tradicionales que otros campos "digitales" me parece una contradicción"[@priegoCanSubalternDH2022, p. 28]
 
-En una línea similar, esta disertación es una investigación de las tensiones de las humanidades digitales en América Latina, pero también es, en sí misma, un trabajo que se enmarca en las humanidades digitales. Como tal, y como reflexiono en el capítulo sobre epistemología, es consciente de las particularidades del medio digital, de sus límites y posibilidades. Así, aprovecha esas posibilidades y procura construir sus argumentos no solo a través de la escritura sino también a través del uso de interfaces, imágenes, sonido y piezas interactivas. Es, en términos generales un libro compuesto de ensayos interactivos.
+En una línea similar, esta disertación es una investigación de las tensiones de las humanidades digitales en América Latina, pero también es, en sí misma, un trabajo que se enmarca en las metodologías y formas de divulgación propias de las humanidades digitales humanidades digitales. Como reflexiono en el capítulo sobre epistemología, este proxecto es consciente de las particularidades del medio digital, de sus límites y posibilidades. Así, aprovecha esas posibilidades y procura construir sus argumentos no solo a través de la escritura sino también a través del uso de interfaces, imágenes, sonido y piezas interactivas. Es, en términos generales un libro compuesto de ensayos interactivos. Además, utiliza métodos mixtos que incluyen tanto lecturas cercanas y parsimoniosas como ejercicios de análisis asistidos por datos.
 
 Exploratory programming Nick Montfort tanto el libro como el texto en el segundo companion
 
 ## Marco conceptual y ejemplos
 
-La noción de ensayo interactivo está basado en el concepto de explicación explorable que ha sido desarrollado por personas como Bret Victor y Nicky Case. 
+La noción de ensayo interactivo está basado en el concepto de explicación explorable que ha sido desarrollado por personas como Bret Victor y Nicky Case. Curiosamente, sin embargo, estes autores no han trabajado en la academia, sino, similar a la cita de Priego en el apartado anterior, en la comunicación pública, el blogueo, la divulgación científica. Estos mundos, profundamente digitales, 
 
-Desafortunadamente, no existen muchos ejemplos de explicaciones explorables en español, y es justamente por ese motivo que es importante la documentación y reflexión que se plantea en este capítulo: que sirva como un referente para futuras formas de producción académica interactiva y que sirva como una memoria para consignar aprendizajes que puedan ser útiles para nuevas formas de investigación.
-
-Construir los ensayos interactivos implicó un descubrimiento constante de estrategias y reformulaciones del proyecto
+Desafortunadamente, no existen muchos ejemplos de explicaciones explorables sobre temas de ciencias sociales y humanidades, en comparación con temas como las matemáticas o la fística, y mucho menos en español, y es justamente por ese motivo que es importante la documentación y reflexión que se plantea en este capítulo: que sirva como un referente para futuras formas de producción académica interactiva y que sirva como una memoria para consignar aprendizajes que puedan ser útiles para nuevas formas de investigación. Sin embargo, en la lista a continuación presento algunos que ejemplos que sirvieron como guia e inspiración de esta disertación.
 
 <sketch
   height="410px"
   src="./assets/sketches/reflexiones/listaExplorables"
   caption="Ejemplos de ensayos interactivos y explicaciones explorables"
 />
+
+Construir los ensayos interactivos implicó un descubrimiento constante de estrategias y reformulaciones del proyecto
+
+Además del contenido argumentativo, fue necesario la
+-Creación de un sistema de diseño
+-La resolución de problemas técnicos del medio tecnológico
 
 TECNOLOGICAL ECOLOGIES DE ALEX GIL
 Entrevista a ernesto Oroza: https://dhdebates.gc.cuny.edu/read/untitled/section/f2df3413-259e-46fe-9982-f1dba0c386fb
