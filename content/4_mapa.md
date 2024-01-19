@@ -30,6 +30,14 @@ MArtín BArbero habla de incluir espesor en la descripción de los medios y las 
 
 Dicho esto, esta disertación se propone mapear 4 dimensiones de estas tensiones. Cuatro canales con énvelopes.
 
+"this method seeks to retrace the steps taken by human and non-human agents using the information recorded in several different formats to ensure that all parties involved in the controversy are present in the analisis"[@lourencoActornetworkTheoryCartography2018, p. 122]
+
+"the movement of actants is the key to understand the social dynamics and thus the focus should now be given on the analysis of how they act in the network"[@lourencoActornetworkTheoryCartography2018, p. 125]
+
+"Constructing detailed and comprehensive maps that explain the dynamics of the controversies based on the actants voices does not mean to pretend to be impartial towards the object being investigated but to ensure that several voices are present in the description of the controversy"[@lourencoActornetworkTheoryCartography2018, p. 128]
+
+Este proyecto no se ciñe estrictamente a las prácticas comunes del mapeo de controversias, pero sigue sus principios generales.
+
 ## Dimensión de la tradición humanística
 
 Crisis de las humanidades (pérdida de su lugar en la sociedad, no reconocimiento de su valor)
@@ -63,3 +71,7 @@ Figura 3. Representación prototípica de las posiciones discursivas con respect
 
 Arqueología de medios
 Decolonial?
+
+# Una recomendación de navegación
+
+Como esta disertación funciona en formato digital, lo que implica un posible infinito deslizamiento de la página web, pero se trata un tema extenso. En las secciones sobre las dimensiones en tensión se incluye un submenú que permite saltar a los apartados de forma más fácil. Este menú está pensado para poder retomar la lectura sin tener de deslizar la página por largo rato.

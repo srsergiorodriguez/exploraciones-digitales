@@ -8,7 +8,7 @@ dimension: true
 
 ## El demonio invisible
 
-El Demonio de Maxwell, de James Clark Maxwell, es un experimento mental clásico en el campo de la termodinámica. El experimento consiste en imaginar una caja en la que circulan moleculas de algún gas. En la mitad de la caja hay un separador que divide la caja en dos lados iguales, y un demonio controla una compuerta en el separador que permite o no el paso de las moléculas. En el experimento, el demonio abre y cierra la compuerta de una manera en la que las moléculas que se mueven más rápido quedan en un lado de la caja, mientras que las que se mueven más lento quedan en el otro. En términos efectivos, el movimiento de las moléculas es equivalente a la temperatura del gas, así que como resultado un lado estaría caliente y el otro frío. Aunque en el siglo XIX este experimento mental se planteó como una refutación de la segunda ley de la termodinámica, una demostración de que sería posible reducir la entropía sin necesidad de ejercer ningún trabajo, pronto críticos señalaron un falla importante: es justamente el demonio el que realiza el trabajo necesario para separar las moléculas, así que la ley sigue respetándose. En pocas palabras, **se necesita trabajo para producir organización, aunque ese trabajo sea invisible**. Justamente, en el origen griego de la palabra demonio, *daimon*, encontramos dos sentidos importantes: una entidad benigna o maligna que trabaja en el fondo, oculta, o una entidad que divide, y así lleva a cabo algún tipo de orden. Derivado de esta noción, en software también se denomina daemon a un programa que ejecuta tareas en segundo plano, oculto para el usuario.
+El, así llamado, Demonio de Maxwell, por James Clark Maxwell, es un experimento mental clásico en el campo de la termodinámica. El experimento consiste en imaginar una caja en la que circulan moleculas de algún gas. En la mitad de la caja hay un separador que divide la caja en dos lados iguales, y un demonio controla una compuerta en el separador que permite o no el paso de las moléculas. En el experimento, el demonio abre y cierra la compuerta de una manera en la que las moléculas que se mueven más rápido quedan en un lado de la caja, mientras que las que se mueven más lento quedan en el otro. En términos efectivos, el movimiento de las moléculas es equivalente a la temperatura del gas, así que como resultado un lado estaría caliente y el otro frío. Aunque en el siglo XIX este experimento mental se planteó como una refutación de la segunda ley de la termodinámica, una demostración de que sería posible reducir la entropía sin necesidad de ejercer ningún trabajo, pronto críticos señalaron un falla importante: es justamente el demonio el que realiza el trabajo necesario para separar las moléculas, así que la ley sigue respetándose. En pocas palabras, **se necesita trabajo para producir organización, aunque ese trabajo sea invisible**. Justamente, en el origen griego de la palabra demonio, *daimon*, encontramos dos sentidos importantes: una entidad benigna o maligna que trabaja en el fondo, oculta, o una entidad que divide, y así lleva a cabo algún tipo de orden. Derivado de esta noción, en software también se denomina daemon a un programa que ejecuta tareas en segundo plano, oculto para el usuario.
 
 <sketch
   height="407px"
@@ -52,7 +52,7 @@ Por ejemplo, como lo muestra un estudio de Colbert, Li, Schwartz y Satten-Lopez,
   caption='Cantidad de páginas escaneadas por mes en centros de digitalización para colecciones del Internet Archive. Los <a href="https://github.com/scanninglabor/IAScanningLabor/tree/main/code/map_json_files" target="_blank">datos</a> fueron recogidos por Eleanor Colbert, Lucian Li, Elizabeth Schwartz y David Satten-Lopez, esta visualización se hace con su autorización.'
 />
 
-Como afirma Ernesto Priego, lo "digital" en las humanidades digitales no puede desconectarse de los métodos e infraestructuras a través de los cuales tal investigación fue producida y diseminada, y esto incluye pensar en aquellos que están siendo dejados por fuera de esos mecanismos"[@priegoCanSubalternDH2022, p. 28]. En otras palabras, es necesario que desde las humanidades digitales se visibilicen y cuestionen las propias infraestructuras que las soportan, y, añadiría, también las infraestructuras que soportan a las culturas digitales en general.
+Como afirma Ernesto Priego, "lo "digital" en las humanidades digitales no puede desconectarse de los métodos e infraestructuras a través de los cuales tal investigación fue producida y diseminada, y esto incluye pensar en aquellos que están siendo dejados por fuera de esos mecanismos"[@priegoCanSubalternDH2022, p. 28]. En otras palabras, es necesario que desde las humanidades digitales se visibilicen y cuestionen las propias infraestructuras que las soportan, y, añadiría, también las infraestructuras que soportan a las culturas digitales en general. Este capítulo se centra en las tensiones particulares alrededor de las infraestructuras usadas para las prácticas de las humanidades digitales en América Latina, y se centra, especialmente, en las nociones de dependencia y autonomía.
 
 ## ¿Modelos importados que no son la solución?
 
@@ -61,6 +61,8 @@ Como afirma Ernesto Priego, lo "digital" en las humanidades digitales no puede d
 Si recordamos lo discutido en el capítulo 5.1. sobre la tradición humanística aparecerá de nuevo la noción de la autenticidad latinoamericana, pero ahora el problema se plantea en términos de la creación de infraestructuras propias o la adopción de las ajenas.
 
 Si desde los procesos independentistas se establecieron fuertes discusiones acerca de la identidad latinoamericana, desde los años 50, con el auge de las políticas neoliberales de apertura económica, se plantearon múltiples discusiones acerca de la ciencia, tecnología y sociedad en nuestro contexto. Especialmente entre los años sesenta y noventa, varios pensadores, vinculados como asesores en instituciones gubernamentales y  organizaciones internacionales (OEA, ONU, CEPAL, entre otras). Teoría de la dependencia, discusiones acerca de la transferencia tecnológica, atraso en el desarrollo, relaciones entre la industria, la sociedad civil y la infraestructura científico-tecnolócia, la producción endógena vs. la exógena, y la relación con las tecnologías y los saberes autóctonos. Análisis desde lógicas globales. Posteriormente, se asentarion posturas neoliberales en los países latinoamericanos y estas discusiones pasaron a segundo plano o tomaron direccciones distintas, tanto por la aceptación de la subalternidad en la producción tecnológica como en la puesta en cuestión del concepto de desarrollo.
+
+Martín Barbero: Procesos de comunicación y matrices de cultura. Años 70: "Atadas por sus privilegios y encandiladas por la mitología de lo científico las élites de poder latinoamericanas no han tenido el menor inconveniente en renunciar a producir la ciencia y la tecnología que sus países necesitaban favoreciendo incluso el éxodo de los científicos hacia las verdaderas "patrias de la ciencia"" (20). Como se verá en el capítulo sobre infraestructuras.
 
 Ya se planteaban problemas que siguen siendo vigentes:SITUADOS, MÚLTIPLES ACTORES, APROVECHAN LOS CONOCIMIENTOS AUTÓCTONOS, SON RESPONSABLES CON EL MEDIO AMBIENTE
 
@@ -133,6 +135,49 @@ Traducción de lo externo ECTS es una visión cosmopolita de la ciencia
 Partamos, por ejemplo, del propio término humanidades digitales. Como reconocen una buena parte de las personas entrevistadas para este proyecto,  
 Conocer ADHO sistema de estándares y de prácicas comúnes.
 
+"without well-developed R&D capabilities, backward regions find it difficult to gain from advanced technology developed elsewhere"[@arocenaTechnologyInequalityUnderdevelopment2003, p. 18]
+
+"In the 1900, the roles of Scandinavia and Latin America in the world economy were somewhat similar —based on primary exports to the industrialized countries. But income distribution in scandinavian countries was more equal, and cultural traditions were relatively favorable toward tehnology"[@arocenaTechnologyInequalityUnderdevelopment2003, p. 27]
+80s fueron una lost decade[@arocenaTechnologyInequalityUnderdevelopment2003]
+
+"A setting may bear the basic technological know-how and even the level of education necessary for its operation, but, without the appropiate economic means or infrastructure, little remains feasible"[@fernandezlhoesteIntroductionOutDigital2020, p. 2]
+
+Ahora han perdido algo de fuerza, aunque no de relevancia, el tono y el enfoque de las discusiones de la segunda mitad del siglo pasado sobre la ciencia, tecnología y sociedad en América Latina, especialmente por una resignación a la dependencia y a la importación tecnológica. Las preocupaciones ahora se centran en procesos comunitarios y en proyectos más localizados y subalternos, en vez de la idea de un proyecto de nación y de región construido a través de políticas públicas y la injerencia en organismos internacionales.
+
+## Brechas de la dependencia
+
+>Es claro que el inglés es un idioma propietario y que su capital genera plusvalía -Domenico Fiormonte, Taxation against Overrepresentation[@fiormonteTaxationOverrepresentationConsequences2021, p. 343]
+
+La idea general que define una brecha puede resumirse en una frase: quien ya tiene puede, más fácilmente, tener más. Pensemos en una metáfora para entender cómo se desenvuelve la producción de una brecha. La teoría del apego preferencial define un tipo de red denominada de "escala libre", en la que pocos nodos tienen muchas conexiones con los demas y, logarítmicamente, los demás nodos tienen muchas menos.
+
+<sketch
+  height="434px"
+  src="./assets/sketches/infraestructuras/apegoPreferencial"
+  caption='Una simulación del fenómeno del apego preferencial. El tamaño de los nodos representa la probabilidad de que un nuevo nodo se conecte con ellos, y el color del nodo representa la distancia con el centro. Esta visualización puede pensarse como una metáfora del surgimiento de brechas y de la marginalización (es decir, el alejamiento del centro hacia las márgenes)'
+/>
+
+Acknowledge the gaps
+Ken Keniston, human development scholar from the Massachusetts Institute of Technology, and colleagues argue for the importance of recognizing four distinct digital divides between:54
+(1) the rich and poor in every country;
+(2) those who speak English or that nation’s lingua franca and those
+who do not, including the importance of sharing and creating digi-
+tal content in languages other than those dominant in a country;
+(3) rich and poor nations, recognizing the power of wealthier nations
+to disproportionately profit from technology’s global diffusion; and
+(4) elites and ordinary citizens, within and between nations. SRNISAVAN p.62
+
+Existen múltiples brechas que se relacionan entre sí:
+
+Brecha idiomática
+Brecha epistemológica
+Brecha técnica
+Brecha educativa
+Brecha econónomica
+
+Pensemos aquí en dos brechas en particular, la idiomática y la técnica
+
+"the Anglophone dominance of DH produces a series of specific negative effects: (1) prevents the construction of da genuinely democratic, supportive, and multilingual community (one of the hallmarks of the human and social sciences); (2) links institutional representation (mostly governed by anglophones) with the selection and management of tools and resources, hidering methodological and epistemological pluralism; (3) [...] changes the representation of research in tehf ield of DH and tends to proyect its own monolingual nature on the entire discipline"[@fiormonteTaxationOverrepresentationConsequences2021, p. 348]
+
 Pensemos esta tensión con un ejemplo concreto. La Text Encoding Initative (TEI), o iniciativa de codificación de texto, es una serie de estándares que definen cómo codificar y anotar textos de una manera que sea legible por computador (machine readable), es decir, codificado en datos computacionales, e interoperable, es decir, que los datos estén codificados de una forma en la que pueda ser fácilmente intercambiados, interpretados, procesados y analizados. El sistema de TEI funciona a partir de señalar distintas partes del texto con etiquetas y atributos, así: `<etiqueta atributo="valor">contenido</etiqueta>`. De esta manera, TEI permite que personas en distintas instituciones a nivel global que trabajan en el campo de las humanidades digitales hablen un lenguaje común cuando están realizando proyectos con documentos de archivo, como libros, cartas, documentos oficiales, etc. Un documento anotado con TEI permite convertir la estructura de los elementos que componen su texto en información en un formato con el que posteriormente pueden conservarse digitalmente, realizar búsquedas, o hacer computaciones y procesamientos posteriores. Por ejemplo, tal estudio hace tal cosa con TEI. Desde latinoamérica se ha impulsado un fuerte trabajo de promoción y uso de TEI para proyectos de humanidades digitales, por ejemplo, Gimena del Rio, Ernesto Priani, Nicolás Vaughn en Colombia. Existen otros estándares similares que facilitan el trabajo con otros medios, como el estandar IIIF para la transmisión interoperable de imágenes en internet, o el MEI, Musical Encoding Iniative, para la codificación de piezas musicales.
 
 UN SKETCH SOBRE CÓMO FUNCIONA TEI
@@ -153,34 +198,6 @@ Internationalization
 Adrian Mackenzie
 Software studies \ a lexicon
 
-Ahora han perdido algo de fuerza, aunque no de relevancia, el tono y el enfoque de las discusiones de la segunda mitad del siglo pasado sobre la ciencia, tecnología y sociedad en América Latina, especialmente por una resignación a la dependencia y a la importación tecnológica. Las preocupaciones ahora se centran en procesos comunitarios y en proyectos más localizados y subalternos, en vez de la idea de un proyecto de nación y de región construido a través de políticas públicas y la injerencia en organismos internacionales.
-
-## Brechas de la dependencia
-
-La idea general que define una brecha puede resumirse en una frase: quien ya tiene puede, más fácilmente, tener más. Pensemos en una metáfora para entender cómo se desenvuelve la producción de una brecha. La teoría del apego preferencial define un tipo de red denominada de "escala libre", en la que pocos nodos tienen muchas conexiones con los demas y, logarítmicamente, los demás nodos tienen muchas menos.
-
-<sketch
-  height="434px"
-  src="./assets/sketches/infraestructuras/apegoPreferencial"
-  caption='Una simulación del fenómeno del apego preferencial. El tamaño de los nodos representa la probabilidad de que un nuevo nodo se conecte con ellos, y el color del nodo representa la distancia con el centro. Esta visualización puede pensarse como una metáfora del surgimiento de brechas y de la marginalización (es decir, el alejamiento del centro hacia las márgenes)'
-/>
-
-Acknowledge the gaps
-Ken Keniston, human development scholar from the Massachusetts Institute of Technology, and colleagues argue for the importance of recognizing four distinct digital divides between:54
-(1) the rich and poor in every country;
-(2) those who speak English or that nation’s lingua franca and those
-who do not, including the importance of sharing and creating digi-
-tal content in languages other than those dominant in a country;
-(3) rich and poor nations, recognizing the power of wealthier nations
-to disproportionately profit from technology’s global diffusion; and
-(4) elites and ordinary citizens, within and between nations. SRNISAVAN p.62
-
-Brecha idiomática
-Brecha epistemológica
-Brecha técnica
-Brecha educativa
-Brecha econónomica
-
 "financial considerations are also new with these computational disciplines, as they require more money and organization thatn the old individual scholar of lore did" (Berry, 2012, 12)
 
 falta de diversidad, reconocimiento, winner countries [@sanderman21o3SeparationJournal]
@@ -196,6 +213,7 @@ Pero las personas que escriben en ingl'es no suelen citar en espa;ol
 
 ACCESO AL ARCHIVO RESISTENCIA EN LA LÍNEA NEGRA
 
+esto creo que está basado en Lombana:
 En mi propia experiencia, y en la de personas cercanas que también han trabajado en educación, la brecha de primer nivel se ha hecho innegable: algún porcentaje de estudiantes, mayor o menor dependiendo de la institución (y de otros varios factores de desigualdad), no cuenta con los medios para conectarse a internet y recibir clases, o no cuenta con el tiempo y el espacio para atender y estudiar adecuadamente. Incluso, debido a esto, la solución en muchos casos ha pasado por recurrir a medios offline más accesibles y eficaces, a pesar de que son en apariencia menos actuales o avanzados tecnológicamente. Por ejemplo, la radio y las cartillas impresas.
 La preparación con respecto al segundo nivel de la brecha digital, es decir, las habilidades, la participación y la eficacia tanto de profesores como alumnos, es también muy crítica.
 
@@ -232,6 +250,8 @@ the essential steps toward the fulfillment of that promise." [@priegoCanSubalter
 http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html // MInimal COMPuting
 
 ## Haciendo apropiado lo apropiado
+
+Hacer a pesar de las limitaciones
 
 Bochica dejando la memoria del telar en piedras
 
@@ -287,6 +307,8 @@ La tecnología insurgente también contribuye a los desarrollos actuales relacio
 
 ## haciendo lo propio, Los comunes
 
+USo significativo
+
 "The same communicative macro-infrastructure could offer the means for the development of an artistic culture that has national and international reach. In the past, culture faced physical limits resulting from the settlement of national territory by different-sized communities located thousands of kilometers apart."[@cordeiroArteonicaElectronicArt1997, p. 34]
 
 Los comunes
@@ -320,3 +342,7 @@ Conectado con el punto anterior, debemos expandir nuestro repertorio, desde el d
 Tecnologías digitales, creative commons y nuevos modos de producción cultural en Chile
 
 https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0719-367X2021000100105
+
+Fabricating (Other) Computations:
+Digital Fabrication and Technological
+Appropriation in Latin America

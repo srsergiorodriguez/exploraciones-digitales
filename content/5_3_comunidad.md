@@ -207,5 +207,7 @@ UNA TABLA CON EJEMPLOS DE COMUNIDADES
 
 ## Aumentar la agencia colectiva
 
+Bricolers que construyen no solo infraestructuras físicas sino también infraestructuras sociales para la especificidad
+
 Para 
 infraestructura, lo formal y lo informal
