@@ -9,3 +9,8 @@ Por ejemplo, en su libro, Zea añade: "el latinoamericano no, éste, tratando de
 como Hume, Rousseau y Smith,
 
 Como otro ejemplo, es diciente que el Inca Garcilaso de la Vega, considerado como un humanista renacentista americano, como el primer “Latino-Americano”, como afirma Hampe Martínez[@hampemartinezRenacentismoIncaGarcilaso1994], fuera validado en la academia por haber interiorizado los valores de la cultura occidental basada en la tradición grecolatina: Cuzco es como el gran Imperio Romano, y eso demuestra que en América también somos civilizados, que no somos bárbaros. Un esfuerzo de Garcilaso consiste en mostrarse como un indio ilustrado al equiparar al Imperio Inca con las ideas europeas del progreso y la civilización, al validarse como ser Humano.
+
+
+En primer lugar, estas humanidades no pueden seguir la idea de una gran cultura auténtica, sino, más bien, como lo propone Stuart Hall: Son también necesarias unas humanidades digitales auténticas o estas barreras se borran (Non originary but conscious of intermixing Stuart Hall).
+
+Evitar ser monumental, porque lo monumental evita el diálogo[@santosEndCognitiveEmpire2018]
