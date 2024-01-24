@@ -72,6 +72,6 @@ Figura 3. Representación prototípica de las posiciones discursivas con respect
 Arqueología de medios
 Decolonial?
 
-# Una recomendación de navegación
+## Una recomendación de navegación
 
 Como esta disertación funciona en formato digital, lo que implica un posible infinito deslizamiento de la página web, pero se trata un tema extenso. En las secciones sobre las dimensiones en tensión se incluye un submenú que permite saltar a los apartados de forma más fácil. Este menú está pensado para poder retomar la lectura sin tener de deslizar la página por largo rato.
