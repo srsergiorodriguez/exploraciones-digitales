@@ -14,3 +14,5 @@ Como otro ejemplo, es diciente que el Inca Garcilaso de la Vega, considerado com
 En primer lugar, estas humanidades no pueden seguir la idea de una gran cultura auténtica, sino, más bien, como lo propone Stuart Hall: Son también necesarias unas humanidades digitales auténticas o estas barreras se borran (Non originary but conscious of intermixing Stuart Hall).
 
 Evitar ser monumental, porque lo monumental evita el diálogo[@santosEndCognitiveEmpire2018]
+
+"Latin American digital studies have emerged at the intersection of critical debates in fields such as cultural and media studies, which take as point of departure the hybrid and uneven nature of Latin American modernity"[@fernandezlhoesteIntroductionOutDigital2020, p. 5]

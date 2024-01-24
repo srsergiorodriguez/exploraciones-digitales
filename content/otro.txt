@@ -1,5 +1,5 @@
 <pre>{{item | json}}</pre>
-sh format_citation.sh 5_2_epistemologia
+sh format_citation.sh -t 5_2_epistemologia
 
 Contra ellos, cuarenta mil moros, enemigos de raza, de religión, de
 tradiciones, de costumbres, acaban de ser introducidos en territorio español a
