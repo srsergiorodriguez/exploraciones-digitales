@@ -6,11 +6,23 @@ title: Métodos y datos
   <h1>{{ page.title }}</h1>
 </header>
 
-Esta investigación se fundamenta en una metodología de investigación mixta, es decir, mezcla métodos cualitativos y cuantitativos.
+Esta investigación se fundamenta en una metodología de investigación mixta, es decir, es una mezcla de métodos cualitativos y cuantitativos.
+
+En cuanto a los aspectos cualitativos, la metodología predominante es la teoría fundamentada, que consiste en construir teorías basadas en las propias percepciones y comunicaciones de los participantes del estudio, estas teorías se construyen a partir de la codificación de las entrevistas, la iteración, y el constante refinamiento de categorías para encontrar patrones comunes que 
+
+Una revisión bibliográfica que fundamenta el contexto histórico en los capítulos (por ejemplo, la historia de la tradición y las humanidades y el humanismo en el mundo y América Latina, la historia de la gran narrativa de las humanidades digitales, o la tradición de los estudios de Ciencia, Tecnología y Sociedad en América Latina).
+
+También se realizaron revisiones de casos de proyectos particulares de humanidades digitales, algunos derivados de los proyectos de las personas entrevistadas y otros obtenidos de repositorios y colecciones de proyectos de humanidades digitales.
 
 TEORIA FUNDAMENTADA
 VARIAS ITERACIONES DE CODIFICACION
-ADECUAR LOS CODIGOS A LOS EJES
+ADECUAR LOS CODIGOS A LOS EJESpermitan un diagnóstico del fenómeno que se está estudiando.
+
+En cuanto a los aspectos cuantitativos, se usaron múltiples métodos computacionales para el análisis de conjuntos de datos. Especialmente, métodos de análisis textual basadaos en incrustaciones de palabras, análisis de redes, y visualizaciones de datos.
+
+Adicionalmente, esta disertación utilizó métodos de investigación-creación que combinan prácticas artísticas para la indagación del tema de estudio. Debido a que esta es una tesis sobre humanidades digitales, resulto pertinente hacer uso de tecnologías digitales para crear sketches interactivos y piezas multimodales: imágenes, video y sonido.
+
+En general el proyecto se enmarca dentro de tres propósitos investigativos: explorar, describir y explicar. El primero, la investigación exploratoria, implica descubir por medio del hacer, entender . Luego de estas etapas exploratorias se procede a describir y explicar las tensiones de las humanidades digitales en las cuatro dimensiones escogidas.
 
 Lawrence Newman Social Research Methods
 
@@ -26,21 +38,15 @@ Exploratory: learn by making, discover, understand the question, develop technic
 
 "They ask creative questions and take advantage of serendipity (i.e., unexpected or chance factors that have large implications)"[@neumanSocialResearchMethods2014, p. 38]
 
-A través de varios caos
-
-
-
-
-
+A continuación se describen en más detalle las características y decisiones dentro de cada categoría metodológica:
 
 ## Investigación cualitativa
 
-Por una parte, se basa en una serie de entrevistas semiestructuradas a distintas personas cuyas prácticas pueden encerrarse dentro del concepto de las humanidades digitales.
+Por una parte, se basa en una serie de entrevistas semiestructuradas a distintas personas cuyas prácticas pueden encerrarse dentro del concepto de las humanidades digitales: académicos, investigadores, activistas, miembros de organizaciones que trabajan en la intersección entre el pensamiento humanístico, las humanidades y las tecnologías digitales.
 
-La lista de personas entrevistadas es la siguiente: Ernesto Priani, profesor de filosofía de la UNAM de México y en su momento director de la RedHD mexicana; Isabel Galina, profesora de la UNAM de méxico y coordinadora de múltiples publicaciones; Riva Quiroga editora del proyecto Programming Historian en español y coordinadora del grupo R Ladies en Chile; Carolina Zúñiga, profesora de la Univeridad Diego Portales y co-coordinadora de la Cartografía de la Literatura Digital Latinoamericana; María José Afanador, profesora de la Maestría en Humanidades Digitales de la Universidad de los Andes en Colombia; Mariana Córdoba, directora de la organización Acción Cultural Popular ACPO, que coordina el proyecto de Escuelas Digitales Campesinas; Jairo Antonio Melo, coordinador del Mooc en México y profesor de la Maestría en Humanidades Digitales Antonio Rojas Castro, coordinador del proyecto Humboldt Digital entre Alemania y Chile, y profesor del Máster Universitario en Humanidades Digitales de UNIR; Domenico Fiormonte, profesor de la Universidad de Roma Tré y autor y editor de múltiples libros que proponen una visión crítica de las humanidades digitales desde el Sur Global.
+La lista de personas entrevistadas es la siguiente: Ernesto Priani, profesor de filosofía de la UNAM de México y en su momento director de la RedHD mexicana; Isabel Galina, profesora de la UNAM de méxico, miembro de la RedHD mexicana y coordinadora de múltiples publicaciones relacionadas con las humanidades digitales; Riva Quiroga editora del proyecto Programming Historian en español y coordinadora del grupo R Ladies en Chile, un grupo de mujeres y personas diversas interesadas en el uso de programación para las humanidades y ciencias sociales; Carolina Zúñiga, profesora de la Univeridad Diego Portales en Chile y co-coordinadora de la Cartografía de la Literatura Digital Latinoamericana; María José Afanador, profesora de la Maestría en Humanidades Digitales de la Universidad de los Andes en Colombia, miembro del comité de Base de la Red Colombiana de Humanidades Digitales, y editora de The Programming Historian; Mariana Córdoba, directora de la organización Acción Cultural Popular ACPO, que coordina el proyecto de Escuelas Digitales Campesinas, heredera contemporánea del proyecto de escuela radiofónicas de Radio Sutatenza; Jairo Antonio Melo, coordinador del Mooc en México, profesor del Colegio de Michoacán, y profesor de la Maestría en Humanidades Digitales en la Universidad del los Andes en Bogotá Colombia. Antonio Rojas Castro, coordinador del proyecto Humboldt Digital entre Alemania y Chile, y profesor del Máster Universitario en Humanidades Digitales de UNIR; Domenico Fiormonte, profesor de la Universidad de Roma Tré y autor y editor de múltiples libros que proponen una visión crítica de las humanidades digitales desde el Sur Global.
 
-PRIMER PROTOTIPO DE CODIFICACION A PARTIR DE LAS PRIMERAS ENTREVISTAS
-SE REFINARON LOS CODIGOS Y LA TEORIA DE LAS TENSIONES
+Cabe decir que algunas de las personas entrevistadas no se reconocen a sí mismas como humanistas digitales, sin embargo, y ese es uno de los argumentos de este trabajo, lo que hacen está conectado con las humanidades digitales en la medida en la que reflexionan acerca del impacto cultural de lo digital en América Latina, realizan activismo o prácticas comunitarias que involucran tecnologías digitales, o crean usando e indagando conceptos digitales o herramientas computacionales. Así, las entrevistas, más que una muestra representativa de todas las posibilidades de las humanidades digitales en América Latina, es un pequeño muestreo de posturas diversas, de historias de orígen disímiles, de formas diferentes de entender la cultura, pero también de múltiples entrecruzamientos e incluso posibles formas de colaboración.
 
 Aunque las entrevistas semiestructuradas se desarrollaron como charlas informales, hay un protocolo general que orientó las preguntas y el hilo conductor de la conversación. El protocolo completo se puede consultar aquí, sin embargo, a grandes rasgos, las preguntas estaban orientadas alrededor de los siguientes temas:
 
@@ -51,7 +57,7 @@ Aunque las entrevistas semiestructuradas se desarrollaron como charlas informale
   e) la reflexión acerca de la institucionalización y la construcción de comunidades de práctica en el contexto de las humanidades digitales
   f) la pregunta por el papel de las humanidades digitales en la crisis de las humanidades.
 
-Cabe decir que algunas de estas personas no se reconocen a sí mismas como humanistas digitales, sin embargo, y ese es uno de los argumentos de este trabajo, lo que hacen está conectado con las humanidades digitales en la medida en la que reflexionan acerca del impacto cultural de lo digital en América Latina, realizan activismo o prácticas comunitarias que involucran tecnologías digitales, o crean usando e indagando conceptos digitales o herramientas computacionales. Así, las entrevistas, más que una muestra representativa de todas las posibilidades de las humanidades digitales en América Latina, es un pequeño muestreo de posturas diversas, de historias de orígen disímiles, de formas diferentes de entender la cultura, pero también de múltiples entrecruzamientos e incluso posibles formas de colaboración.
+Este resumen condensa la versión final del protocolo de entrevistas, pero, siguiendo la naturaleza del método de teoría fundamentada, el protocolo sufrió una variación previa, antes de que las categorías se refinaran en entrevistas posteriores. Aquí se puede consultar ese prototipo de protocolo que sirvió como piloto para las primeras tres entrevistas del proyecto.
 
 Con el insumo de las entrevistas realicé un proceso de codificado de las entrevistas usando el software abierto Taguette. A través de este programa....
 
@@ -61,7 +67,10 @@ Adicionalmente, y debido a que la relación global - local es uno de los puntos 
 
 Estas entrevistas siguieron un protocolo centrado en las dimensiones en tensión.
 
-Observación participante en dos contextos particulares: como miembro del comité de base de la red colombiana de humanidades digitales (organización de eventos y producción de contenidos de divulgación) y como coordinador del Club de Programación de la red colombiana de humanidades digitales (voluntarismo, infrasestructuras propias, formas de colaboración, brechas idiomáticas)
+Observación participante en dos contextos particulares: como miembro del comité de base de la red colombiana de humanidades digitales (organización de eventos y producción de contenidos de divulgación) y como coordinador del Club de Programación de la red colombiana de humanidades digitales (voluntarismo, infrasestructuras propias, formas de colaboración, brechas idiomáticas).
+
+Revisión de casos y revisión bibliográfica
+Análisis del discurso
 
 ## Investigación cuantitativa
 
@@ -110,9 +119,6 @@ Uso y audiencia: básico y aplicado a la acción
 Invetigación cross sectional porque corresponde a un momento en particular en el tiempo, el presente en un rango de diez años
 Propósito: Explorar y describir
 Across multiple case studies
-
-"Researchers who conduct exploratory research must be creative, open minded, and flexible; adopt an invetigative stance; and explore al sources of information" Sampieri 38
-"They ask creative questions and take advantage of serendipity (i.e., unexpected or chance factors that have large implications)" (Sampieri 38)
 
 ADICIONALMENTE; ADEMAS DE UNA DISERTACION, ESTE TRABAJO EN SU EXISTENCIA COMO SITIO WEB PUEDE SERIR A PERSONAS INTERESADAS EN LAS HUMANIDADES DIGITALES A INVOLUCRARSE EN EL TEMA, POR ESO TIENE PARTES EXTENSAS DEDICADAS A UBICAR A LAS HD DENTRO DE LA TRADICION HUMANISTICA Y A LA CONSTRUCCION DE MODOS DE RELACIONAMIENTO DE LAS HUMANIDADES CON LO DIGITAL
 

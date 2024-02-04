@@ -436,6 +436,8 @@ Esta oportunidad para latinoamérica puede llevar a otras formas de experimentac
 
 "la cosa más divertida de este proceso es que los que estaban en los márgenes se pueden salvar, al contrario de nosotros que “estamos en el centro”. Estamos condenados a utilizar estas plataformas hegemónicas. Donde hay menos recursos, donde hay menos organización, donde los gobiernos son menos fuertes, donde el estado es menos fuerte, pues entonces el condicionamiento puede ser menor. Es una paradoja, pero es lo que yo llevo diciendo desde hace muchos años: los márgenes están más adelantados que el centro"[@fiormonteEntrevistaDomenicoFiormonte2021].
 
+AÑADIR MI PROPIA VOZ, META REFLEXION, RECURSIÓN SOBRE MI PROPIO TRABAJO. ESTE PROYECTO ES UN EJEMPLO DE ESTO QUE DICE FIORMONTE
+
 ## Lo digital como medio de expresión
 
 Para algunas personas paradas en ciertos lugares del archipiélago, la práctica artística puede ser una frontera que nos lleva a un terreno fuera de las humanidades digitales. Sin embargo, en mi propia experiencia dentro de la Red Colombiana de Humanidades Digitales, muchas de las participantes se enteran e involucran en las humanidades digitales porque están interesadas en la conjunción de sus propias prácticas creativas con tecnologías digitales: el diseño, la música, la escritura, las artes escénicas, las artes plásticas. En los <a href="https://rchd.com.co/maraton/" target="_blank">eventos de humanidades digitales en Colombia</a> suelen haber presentaciones de artistas que hacen arte generativo, literatura electrónica, música creada por medios algorítmicos, animación, producción de sitios web, etc. En una línea similar, por ejemplo, el <a href="https://www.centroculturadigital.mx/" target="_blank">Centro de Cultura Digital</a> de México mezcla en su programación y eventos indistintamente la práctica artística con sus reflexiones acerca de lo digital como fenómeno cultural.
@@ -492,3 +494,5 @@ Jurgen Habermas, de hecho, afirma que esta separación de las formas de entendim
 A modo de cierre, un entrecruzamiento productivo entre todas las formas de relacionamiento, sin el discurso salvífico de la cuantificación, pero tambien sin el ludismo tradicionalista que es, al final, ignorancia de un mundo digital que es inescapable.
 
 "Esto acarrea, primero, favorecer nociones tales como la experimentación creativa, la fertilidad cognitiva del error, la interculturalidad, la interdisciplinaridad, la hibridación de los espacios de aprendizaje, la colaboración en los bordes de las disciplinas, la diversidad como articuladora de una cosmovisión, y el pensamiento crítico. Todo esto ayudará a expandir la visión cerrada producida por una mono cultura del pensamiento en un estado de dependencia intelectual, tecnológica y cultural de mercados extranjeros."[@rodriguez-ortegaDigitalSocialSciences2022, p. 112]
+
+AÑADIR META REFLEXION AQUÍ

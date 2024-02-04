@@ -5,10 +5,14 @@
   {% else %}
     <span data-toc="{{ item.type }}">{{ item.label }}</span>
   {% endif %}
-  {% if item.children.length > 0 && item.type === 'part' or partchildren and item.type === 'chapter' %}
-  <ul class="subcontent">
-    {% include toc_item.html children=item.children partchildren=true %}
-  </ul>
+  {% if item.children.length > 0 && item.type === 'part' %}
+    <ol class="subcontent">
+      {% include toc_item.html children=item.children partchildren=true %}
+    </ol>
+  {% elsif partchildren and item.type === 'chapter' %}
+    <ul class="subcontent">
+      {% include toc_item.html children=item.children %}
+    </ul>
   {% endif %}
 </li>
 {% endfor %}

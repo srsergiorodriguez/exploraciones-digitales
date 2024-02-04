@@ -10,13 +10,18 @@ title: Contexto, Problema y objetivos
 
 Humanidades digitales es un término que involucra varias prácticas de las humanidades relacionados con el uso o la reflexión con respecto a las tecnologías digitales.
 
-En principio, las humanidades digitales provienenen de un concepto importado de Estados Unidos y Europa -el humanities computing, las humanités numeriqués, las culturonomics, la cultural analytics- que ha sido adaptado a contextos latinoamericanos en intituciones humanísticas y grupos de interés. El mapa XXX muestra los lugares con mayor interés de búsqueda de los términos humanidades digitales, humaniades digitais, y digital humanities. Como se observa allí, el interés de búsqueda, eha estado repartido más que todo en Argentina, México y Colombi. Esto es consistente con la existecnai de las teres primeras redes de humanidades digitales en el América Latina en estos tres países, aunque hoy en día otros lugares también cuentan con sus redes, programas institucionales, laboratorios, o programas eductavivmos.
+En principio, las humanidades digitales provienenen de un concepto importado de Estados Unidos y Europa -de prácticas como el humanities computing, las humanités numeriqués, las culturonomics, la cultural analytics- que ha sido adaptado a contextos latinoamericanos en intituciones humanísticas y grupos de interés. El mapa a continuación muestra los lugares con mayor interés de búsqueda de los términos humanidades digitales, humaniades digitais, y digital humanities. Como se observa allí, el interés de búsqueda, eha estado repartido más que todo en Argentina, México y Colombi. Esto es consistente con la existecnai de las teres primeras redes de humanidades digitales en el América Latina en estos tres países, aunque hoy en día otros lugares también cuentan con sus redes, programas institucionales, laboratorios, o programas eductavivmos.
 
 <sketch
   height="440px"
   src="./assets/sketches/contexto/trendsDH"
   caption='Los países con más interés de búsqueda de los términos "humanidades digitales", "humanidades digitais", "digital humanities" y "humanités numériques" entre 28/09/18 y 28/09/23 de acuerdo con <a href="https://trends.google.es/trends/explore?date=today%205-y&q=humanidades%20digitales,humanidades%20digitais,digital%20humanities,humanit%C3%A9s%20num%C3%A9riques&hl=es" target="_blank">Google trends</a>.'
 />
+
+Quiénes se han preguntado sobre las HD en América Latina. ¿Cómo lo que yo hago es parecido o diferente a lo que ya se ha hecho?
+
+Historia de las HD en general
+Historia de las HD en LA
 
 ## Problemas
 
@@ -29,6 +34,8 @@ Estas tensiones han ocurrido en la práctica y se han intentado poner de manifie
 Esta disertación busca abordar esos dos problemas como se describe a continuación:
 
 ### Primer problema: las tensiones
+
+Identificar y definir unas categorías para entender el proyecto HD en América Latina
 
 El primer problema que se configura en este proyecto de investigación es el conjunto de discursos alrededor las humanidades digitales en América Latina, y cómo tales discursos manifiestan múltiples tensiones y generan controversias que fluctúan en la medida en la que la comunidad se construye, establece sus intereses y sus identidades.
 
@@ -47,6 +54,8 @@ No describir los problemas acá, solo nombrarlos
 Podemos imaginar que estos ejes configuran un espacio de cuatro dimensiones dentro del cual los agentes que participan de las humanidades digitales se ubican, se mueven y se agrupan. En otras palabras, los ejes no establecen posiciones dicotómicas sino posiciones parciales que se desenvuelven a través de la aparición y resolución de controversias discursivas. Las figuras 1 y 2 muestran visualmente esta concepción de los ejes en tensión como espacios de posición discursiva ocupados por agentes concretos.
 
 ### Segundo problema: un programa intelectual
+
+Líneas de trabajo
 
 COMUNIDAD DE CONOCIMIENTO COMUN HORIZONTE EPISTEMICO QUE TIENE EN CUENTA LA DIFERENCIA COMO OPRTUNIDAD PARA CONSTRUIR
 

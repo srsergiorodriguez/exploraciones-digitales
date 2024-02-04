@@ -20,7 +20,6 @@
     <section class="mainset">
       <aside class="sidebar ">
         {{ toc }}
-
         <a href="#" class="upscroller">↑ Subir</a>
       </aside>
       <article class="chapter">
@@ -29,19 +28,11 @@
         {{ footnotes }}
       </article>
       <aside class=sidebar>   
-        
-
         {% if page.dimension %}
           <div class="sticky">
             <dimension class="sticky"><h1 class="toc-title">Subsecciones del capítulo</h1></dimension>
           </div>
         {% endif %}
-
-        <!-- {% if page.dimension %}
-          <div class="sticky">
-            <dimension class="sticky"><h1 class="toc-title">Subsecciones del capítulo</h1></dimension>
-          </div>
-        {% endif %} -->
       </aside>
     </section>
   </body>

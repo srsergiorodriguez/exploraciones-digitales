@@ -16,7 +16,7 @@ a {
 }
 
 code {
-  font-size: 1.2em;
+  font-size: 1em;
   // background: var(--col2);
 }
 
@@ -163,10 +163,12 @@ iframe {
   padding: 5px 10px;
   display: block;
   cursor: pointer;
+  color: var(--colblack);
 }
 
 .titlebar1 li a:hover {
-  background: grey;
+  background: black;
+  color: var(--colmain);
 }
 
 .titlebar1 li a:active {
@@ -186,16 +188,7 @@ iframe {
 .sidebar {
   font-family: var(--mainhfont);
   font-weight: 400;
-  // border: solid 1px;
-  padding: 2em;
-}
-
-.sidebar ol, ul {
-  padding: 0 0 0 20px;
-}
-
-.sidebar ol ul {
-  padding: 0 0 0 10px;
+  // padding: 2em;
 }
 
 .sidebar h1 {
@@ -203,24 +196,38 @@ iframe {
   font-size: 1em;
 }
 
+.sidebar ol, ul {
+  padding: 0 0 0 20px;
+  counter-reset: item;
+}
+
+.sidebar ol>li:before {
+  content: counters(item, ".") ".  ";
+  counter-increment: item;
+}
+
+.sidebar ol>li {
+  list-style-type: none;
+}
+
 .sidebar li a {
   font-size: .8em;
   padding: 0 10px 1px 0;
-  display: block;
   color: var(--colblack);
   cursor: pointer;
   text-decoration: none;
-  text-decoration-color: var(--colbg);
   user-select: none;
 }
 
-.sidebar ul.subcontent a[data-toc="chapter"] {
+.sidebar ul,ol.subcontent a[data-toc="chapter"] {
+  // Dimensiones
   font-size: 0.85em;
   font-weight: bold;
 }
 
-.sidebar ul.subcontent a[data-toc="sect1"] {
-  font-size: 0.7em;
+.sidebar ul,ol.subcontent a[data-toc="sect1"] {
+  // Apartados
+  font-size: 0.85em;
 }
 
 .sidebar span {
@@ -404,6 +411,10 @@ ol[data-type="footnotes"] li {
   font-size: 1em;
 }
 
+.centered {
+  display: flex;
+  justify-content: center;
+}
 
 @media all and (max-device-width: 1150px) {
   .mainset {

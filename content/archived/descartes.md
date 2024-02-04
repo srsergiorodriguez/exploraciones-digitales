@@ -16,3 +16,56 @@ En primer lugar, estas humanidades no pueden seguir la idea de una gran cultura 
 Evitar ser monumental, porque lo monumental evita el diálogo[@santosEndCognitiveEmpire2018]
 
 "Latin American digital studies have emerged at the intersection of critical debates in fields such as cultural and media studies, which take as point of departure the hybrid and uneven nature of Latin American modernity"[@fernandezlhoesteIntroductionOutDigital2020, p. 5]
+
+Como afirma Dagnino:
+
+"Uno de sus principales logros fue la crítica al modelo lineal de innovación, al mismo tiempo que refutaba en sus fundamentos el desarrollismo rostoviano, al enfatizar los aspectos históricos y políticos que explicaban la génesis dialéctica de la situación entonces existente. Se proponían instrumentos analíticos como "proyecto nacional", "demanda social por CyT", "política implícita y explícita", "estilos tecnológicos", "paquetes tecnológicos". Es particularmente interesante que estos instrumentos hayan sido formulados como herramientas que permitían comprender el cambio en términos globales, y no solamente explicar la situación local." [@dagninoPensamientoCienciaTecnologia1996, p. 20]
+
+Largas políticas de transferencia tecnológica 
+
+Star: look to standarizing, tinkering, tailoring
+Master narratives
+herteropraxial - diff practices
+heteroglossial - diff voices
+
+
+Empresa de tecnología de Sábato. Triángulo de sábato, Estado, Infraestructura Científico tecnológica, Sector productivo. Interrelaciones y Extrarrelaciones (dependencia)
+
+El pensador argentino Amilcar Herrera:
+"tecnología se puede definir como el conjunto de instrumentos o herramientas materiales, conocimientos y habilidades utilizados para proveer a todas las necesidades de la comunidad y aumentar su dominio del medio ambiente" (Amilcar Herrera, la creación de tecnología como expresión cultural, 1973, nueva sociedad, 59)
+"La única solución para los países en desarrollo, es recuperar la tecnologías como parte realmente integrante de su cultura" "modo legítimo de expresión de sus propios valores y aspiraciones" (72)
+"El objetivo primordial debe ser revertir la situación actual, haciendo que los sistemas de ciencia y tecnología dejen de ser casi exclusivamente receptores y transmisores de tecnologías generadas en el exterior, para convertirse en la manifestación legítima y dinámica de las aspiraciones y la capacidad creativa de la sociedad"(78)
+
+"somos fundamentalmente consumidores de tecnología, pero no productores; por lo tanto, espectaores y no autores, recipientes pasivos de lo que otros realizan en función de sus intereses y no de los nuestros" [@sabatoCambioTecnologicoNecesario1976, p. 32]
+
+Maximo Halty Circulos viciosos del subdesarrollo en círculos virtuosos[@haltycarrereHaciaNuevoOrden1975]
+
+Tecnologización vs. industrialización
+Actualizarse sin producir o entender los fundamentos tecnológicos de la industria
+
+"In the coming years, coinciding with the period of turbulence in the international scene, a period will occur during which the region will be able to embark on science and technology efforts oriented towards
+internal social and economic demands-which, in turn, will facilitate and require selective recovery of the traditional technological base, the promotion of ‘unincorporated’, non-integrated technological change in the production of goods and services, and the introduction of advanced technology components into conventional and traditional production activities."[@sagastiCrisisChallenge1989, p. 167]
+
+Tecnological base exogenous and endogenous sagasti [@sagastiEndogenousScienceTechnology1980]
+Upgrading of tradicional technologies
+Educación
+Basic human needs — Producción tecnológica como una forma de humanismo (tal vez de la manera menos pura, la que critica Heidegger, más por el lado marxista)
+
+"The implanted or modern productive activities employed imported technologies that brought with them skill requirements, use of materials, organizational habits, and technical traditions that were alien to the local environment. Furthermore, the technological capabilities associated with modem production were expanded primarily through new technology imports, which meant that the technological traditions-developed slowly and cumulatively over a long time-were left aside and even eliminated. This led to a reduction in the variety of indigenous technological responses."[@sagastiEndogenousScienceTechnology1980, p. 325]
+
+
+Los efectos de políticas de importación tecnológica
+
+TECNOLOGIA DENTRO DE SU MARCO SOCIAL
+
+MIX TECNOLÓGICO Jorge Sábato Soberanía a través de la integración
+
+Vinculación (publico I+D + industria privada)
+
+Transferencia de tecnologías
+Traducción de lo externo ECTS es una visión cosmopolita de la ciencia
+
+Partamos, por ejemplo, del propio término humanidades digitales. Como reconocen una buena parte de las personas entrevistadas para este proyecto,  
+Conocer ADHO sistema de estándares y de prácicas comúnes.
+
+"without well-developed R&D capabilities, backward regions find it difficult to gain from advanced technology developed elsewhere"[@arocenaTechnologyInequalityUnderdevelopment2003, p. 18]
