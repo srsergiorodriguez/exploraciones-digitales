@@ -1,5 +1,5 @@
 ---
-title: Modos de relacionamiento con/de lo digital
+title: Modos de relacionamiento con lo digital
 dimension: true
 ---
 

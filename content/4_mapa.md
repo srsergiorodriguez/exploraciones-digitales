@@ -8,6 +8,11 @@ title: Mapa de navegación
 
 ## Un mapa multidimensional de tensiones
 
+Los resultados de esta investigación, de acuerdo con los objetivos planteados en capítulos anteriores, consisten en la caracterización de una serie de dimensiones que estructuran múltiples tensiones de las humanidades digitales en América Latina.
+Los capítulos englobados en la sección 5, son entonces el desarrollo de esos resultados y proponen una muestra de las formas explorativas de la investigación, elementos descriptivos que caracterizan las dimensiones y las tensiones, y partes explicativas que dan cuenta de las causalidades pero también horizontes futuros y líneas de trabajo para las humanidades digitales en nuestro contexto.
+
+Así, los resultados pueden leerse como un mapa multidimensional de tensiones, si seguimos la noción de mapeo de controversias propuesta por Bruno Latour en su Teoría de Actor-Red.
+
 Bruno Latour, en su libro Reensamblar lo social, establece una clara diferencia entre lo que él denomina una sociología de lo Social y una sociología de las asociaciones. La primera intenta construir grandes sistemas universalizantes que tienen como fin explicar de forma absoluta todos los fenómenos sociales (por ejemplo, la noción de campo de Bourdieu (2018), que establece una constante búsqueda de la heterodoxia por ocupar el lugar de la hegemonía, o la noción de realidad social de Searle (2004), que define los hechos sociales a partir de declaraciones y actos institucionales). Este primer tipo de sociología, entonces, busca explicar el fenómeno hipostasiado de lo Social, con mayúsculas, por medio de reglas generales. Por el contrario, la Sociología de las asociaciones, instanciada en la Teoría del Actor-Red Latouriana, sigue los movimientos dinámicos que se manifiestan en la circunstancial creación y disolución de grupos, en la aparición de controversias, y en la transformación de los marcos de referencia de los actores sociales. En los términos de Latour: “para los sociólogos de lo social la regla es el orden, mientras que el decaimiento, el cambio y la creación son las excepciones. Para los sociólogos de las asociaciones la regla es performance y lo que debe ser explicado, las problemáticas excepciones, son cualquier tipo de estabilidad en el largo plazo y en amplia escala” (Latour, 2005, p. 35). Siguiendo esta línea, aquí podemos usar una analogía para acercarnos a esta visión particular del concepto de asociación: en la música electrónica existen sistemas que se usan para controlar las dinámicas del sonido llamados envoltorios (o *envelopes*, en inglés). Estos envoltorios describen, a través de voltajes cambiantes, una curva que modula alguna cualidad del sonido; su volumen, su cambio de frecuencia, sus filtros. Normalmente, un envoltorio tiene un ataque, es decir, un tiempo de crecimiento en el que alcanza su pico; un decaimiento en el que disminuye su intensidad, un sostenimiento, en el que se mantiene estable; y una disolución, en la que la energía que mantiene la modulación va desapareciendo, a menos que un nuevo envoltorio reactive la modulación. Las asociaciones sociales, podríamos decir, también tienen envoltorios, y así como en una composición musical, o mejor, en una grabación de un paisaje sonoro, las dinámicas aumentan, se sostienen, decaen o se modulan unas con otras.
 
 HACER QUE LO DE LOS ENVELOPES ENCAJE CON MI PROYECTO
@@ -26,14 +31,20 @@ https://journals.sagepub.com/doi/10.1177/0963662510387558 --- represent controve
 
 Es por este motivo que la teoría de Actor-Red resulta adecuada para hacer un análisis de las tensiones en las comunidades de humanidades digitales en América Latina, si entendemos tensión como un tipo especial de controversia que se encuentra en un estado de no-resolución. Debido a que es un campo que se está estableciendo y encontrando sus propios horizontes, vemos múltiples dinámicas de ataque, decaimiento, pero también de sostenimiento que está a la espera de un nuevo empujón. También vemos grupos que se asocian en algunos aspectos y que se distancian en otros. Adicionalmente, aquí podemos aplicar otra analogía para expandir la noción de tensión. Si imaginamos un territorio que está en definición, como lo es el campo de las humanidades digitales, podemos también suponer que existen fuerzas que intentan ampliar sus fronteras, movilizarlo a nuevos territorios, o establecerlo más firmemente en lugares centrales.
 
-Aquí, no obstante, he decidido llamarlas tensiones, no controversias, porque, en el desarrollo de la investigación se hizo evidente que hay un estado tirante, es decir, con un envelope más largo. Me da la impresión de que controversia puede referirse a un fenómeno con un ataque y decaimiento más rápido, mientras algundas de las tensiones acá se encuentran en sostenido.
+Aquí, no obstante, he decidido llamarlas tensiones, no controversias, porque, en el desarrollo de la investigación se hizo evidente que hay un estado tirante, es decir, con un envelope más largo que controversias espontáneas. En esta distinción semántica, controversia puede referirse a un fenómeno con un ataque y decaimiento más rápido, mientras algundas de las tensiones acá se encuentran en estado sostenido. La noción de línea de trabajo que se planteó en los objetivos, apunta justamente a plantear sostenidos más extensos, bifurcaciones o formas de resolución de la tensión.
 
 La nube de posibilidades de enrico coen
 
 Investigadores que siguen a Latour usan métodos digitales para estudiar controversias en masa
 Esta disertación también usa métodos que van por esta línea, pero, también usa métodos más parsimoniosos y densos y además incluye aspecto narrativo que puede ser más cercano a los propios libros de latour a otras formas de escritura etnográfica y ensayística.
 
-MArtín BArbero habla de incluir espesor en la descripción de los medios y las mediaciones, y con esto se refiere a evitar las descripciones dicotómicas y dar a cada agente su justo lugar en un sistema social, con su agencia, autonomía pero también limitaciones.[@martin-barberoMediosMediacionesComunicacion2001]
+ESPESO DENSO
+Porque no solo se basa en describir sino en una exploración previa y una explicación posterior
+
+MArtín BArbero habla de incluir espesor en la descripción de los medios y las mediaciones, y con esto se refiere a evitar las descripciones dicotómicas y dar a cada agente su justo lugar en un sistema social, con su agencia, autonomía pero también limitaciones.[@martin-barberoMediosMediacionesComunicacion2001].
+
+Thick description
+
 
 Dicho esto, esta disertación se propone mapear 4 dimensiones de estas tensiones. Cuatro canales con énvelopes. Estos son los resultados de la investigación
 
@@ -45,7 +56,7 @@ Dicho esto, esta disertación se propone mapear 4 dimensiones de estas tensiones
 
 Este proyecto no se ciñe estrictamente a las prácticas comunes del mapeo de controversias, pero sigue sus principios generales.
 
-Cada dimensión tiene así su propio andamiaje teórico
+Cada dimensión tiene así su propio andamiaje teórico, que derivado de la revisión bibliográfica exploratoria se mueve en múltiples campos: por ejemplo, algunos se basan en estudios sociohistóricos de las humanidades, otros en arqueología de medios y estudios del software y los nuevos medios, otros más en teorías de las comunidades y las organizaciones, y otros en estudios de ciencia, tecnología y sociedad, por mencionar algunos ejemplos.
 
 Esquemas de las tensiones
 Esquemas de la estructura de la disertación
@@ -56,22 +67,28 @@ Mapa
 
 Figura 3. Representación prototípica de las posiciones discursivas con respecto a un eje en tensión de las humanidades digitales en América Latina.
 
-
-
 ## Dimensión de la tradición humanística
 
-Crisis de las humanidades (pérdida de su lugar en la sociedad, no reconocimiento de su valor)
-Valor de las humanidades (reconocer el valor humanidades: conservación de la memoria, apreciación de la cultura humana, disfrute estético; humanismo: guía moral del ser humano, materializado en el mundo contemporáneo en el concepto de democracia)
-(criticar el valor de las humanidades, elitismo, exclusión (colonialidad del saber), pedantismo; guía moral como forma de opresión (colonialidad del ser))
+La primera dimensión engloba las tensiones relacionadas con la tradición de las humanidades. Especialmente, esta dimensión se enfoca en tres tensiones:
 
-¿Por qué esta tensión no tiene tantas entrevistas ni interactivos?
+La primera es la historia de las humanidades, la construcción de sus propósitos (la conservación de la memoria, la apreciación e interpretación de la cultura, y la participación en la vida pública), pero también el surgimiento de su crisis en sus instituciones (universidad, museo, biblioteca, democracia). Tanto en términos de la infravaloración de sus valores como la exacerbación de sus vicios.
+
+La segunda es la aparición de las humanidades digitales simultáneamente como salvación y aceleradora de la crisis. Primero como promesa de rigor, velocidad y volumen y segundo como crítica del humanismo en las sociedades digitalizadas.
+
+La tercera es el problema de la autencidad del humanismo latinoamericano. Es decir, su lugar dentro del concepto de lo Humano. La paradoja del bárbaro civilizado, y la oportunidad que esto abre para construir unas humanidades digitales propias, centradas en la multiculturalidad.
+
+El capítulo dedicado a esta tensión es además un fundamento para varios conceptos que tienen relevancia en los capítulos siguientes, especialmente los mencionados propósitos e instuciones humanísticas y la noción de autenticidad en el humanismo latinoamericano.
+
+Debido a que esta dimensión se basa principalmente en métodos de revisión bibliográfica, el capítulo que la desarrolla no contiene tantos datos basados en entrevistas ni piezas interactivas en comparación con los demás capítulos.
+
+Las aproximaciones teóricas
 
 Investigadores de la historia de las humanidades
 Autores humanistas latinoamericanos
 Autores decoloniales
 Marco crítico para las humanidades digitales
 
-## Dimensión de la epistemología digital
+## Dimensión de los modos de relacionamiento con lo digital
 
 El lugar de lo digital
 Lo digital como instrumento del estudio humanístico (estructura simbólica y lo especulativo)
@@ -84,7 +101,7 @@ Analítica cultural y métodos digitales
 Formas alternativas de activismo social desde el pensamiento digital o sobre el pensamiento digital
 Prácticas artísticas desde América Latina
 
-## Dimensión comunitaria
+## Dimensión de la formación de comunidad
 Las instituciones (prestigio, disciplinamiento (colonialidad del poder), presupuestos) y las comunidades de práctica (indisciplinamiento, libertad, precariedad, voluntarismo)
 
 El problema de los incentivos (ligado a la motivación de las humanidades?)

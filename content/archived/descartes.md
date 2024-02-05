@@ -69,3 +69,11 @@ Partamos, por ejemplo, del propio término humanidades digitales. Como reconocen
 Conocer ADHO sistema de estándares y de prácicas comúnes.
 
 "without well-developed R&D capabilities, backward regions find it difficult to gain from advanced technology developed elsewhere"[@arocenaTechnologyInequalityUnderdevelopment2003, p. 18]
+
+- **Dimensión de la tradición humanística**:  La tensión entre la identidad latinoamericana como humanismo auténtico. el movimiento en tensión acerca de si las humanidades deben continuar por una línea clásica (el enfoque grecolatino y eurocéntrico del humanismo) o si debe aproximarse a una visión extendida, e incluso posthumanística (no centrada en el excepcionalismo humano). La tensión que posiciona a las humanidades digitales en la crisis de las humanidades.
+
+- **Dimensión de los modos de relacionamiento con lo digital**: el movimiento en tensión acerca de si lo digital debe concebirse como un elemento simplemente instrumental en la investigación humanística (como una herramienta que potencia el procesamiento y el archivo de los objetos culturales) o si debe concebirse como un sistema de conceptos que configuran formas de cultura y son, por lo tanto, susceptibles de ser estudiados y apropiados por las humanidades digitales.
+
+- **Dimensión de la formación de comunidad**: el movimiento en tensión acerca de si las humanidades digitales configuran una comunidad de prácticas, en la que se juntan personas de proveniencias diferentes, siempre con una distinción disciplinaria, o si las humanidades digitales configuran una identidad propia y por lo tanto tienen un horizonte epistemológico particular que escapa a la noción tradicional de disciplinamiento.
+
+- **Dimensión de las infraestructuras**: el movimiento en tensión acerca de si las humanidades digitales en América Latina deben anclarse a las tradiciones institucionales del humanismo (la universidad, la biblioteca y el museo), y a las infraestructuras tecnológicas ya establecidas por el centro global, o si pueden operar desde un lugar más autónomo y así construir organización y herramientas propias.
