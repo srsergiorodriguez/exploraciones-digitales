@@ -9,7 +9,7 @@ title: Mapa de navegación
 ## Un mapa multidimensional de tensiones
 
 Los resultados de esta investigación, de acuerdo con los objetivos planteados en capítulos anteriores, consisten en la caracterización de una serie de dimensiones que estructuran múltiples tensiones de las humanidades digitales en América Latina.
-Los capítulos englobados en la sección 5, son entonces el desarrollo de esos resultados y proponen una muestra de las formas explorativas de la investigación, elementos descriptivos que caracterizan las dimensiones y las tensiones, y partes explicativas que dan cuenta de las causalidades pero también horizontes futuros y líneas de trabajo para las humanidades digitales en nuestro contexto.
+Los capítulos englobados en la sección 5, a conuación de esta, son entonces el desarrollo de esos resultados y proponen una muestra de las formas explorativas de la investigación, elementos descriptivos que caracterizan las dimensiones y las tensiones, y partes explicativas que dan cuenta de las causalidades pero también horizontes futuros y líneas de trabajo para las humanidades digitales en nuestro contexto.
 
 Así, los resultados pueden leerse como un mapa multidimensional de tensiones, si seguimos la noción de mapeo de controversias propuesta por Bruno Latour en su Teoría de Actor-Red.
 
@@ -60,6 +60,8 @@ Cada dimensión tiene así su propio andamiaje teórico, que derivado de la revi
 
 Esquemas de las tensiones
 Esquemas de la estructura de la disertación
+
+El libro de códigos resultante del proceso de codificación final se muestra a continuación. La codificación final puede leerse como una representación de árbol jerárquico en el que las ramas iniciales representan las dimensiones generales que construyen la teoría propuesta acá y la historia de origen de cada entrevistado, y las subramas representan tensiones particulares para cada dimensión. 
 
 Mapa
 ....Dimensiones
@@ -117,7 +119,3 @@ Acceso abierto
  
 Estudios de ciencia, tecnología y sociedad en América Latina
 Estudios decoloniales
-
-## Una recomendación de navegación
-
-Como esta disertación funciona en dos versiones, una imprimible y otra digital, cada una de ellas tiene sus propias lógicas de lectura, prestaciones y ventajas y desventajas. En el caso de la versión digital, que en principio es la versión "ideal" de este proyecto, pues es la que despliega mejor los elementos multimodales e interactivos, debido a la ausencia de páginas, que de alguna forma puntean y dan ritmo a la lectura, hay un efecto de infinito deslizamiento de la página web. Debido a que esta es una disertación doctoral, se trata un tema extenso. En las secciones sobre las dimensiones en tensión se incluye un submenú que permite saltar a los apartados de forma más fácil. Este menú está pensado para poder retomar la lectura sin tener de deslizar la página por largo rato y poder moverse fácilmente entre secciones.
