@@ -3,7 +3,7 @@ bibliography: biblioteca.bib
 csl: citation/chicago-fullnote-bibliography-with-ibid.csl
 dimension: true
 reference-section-title: Referencias
-title: Modos de relacionamiento con/de lo digital
+title: Modos de relacionamiento con lo digital
 ---
 
 <header class="chapter-headers" id="chapter-header">

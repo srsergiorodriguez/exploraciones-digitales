@@ -1,5 +1,5 @@
 ---
-title: Infraestructura
+title: Infraestructuras
 dimension: true
 ---
 <header class="chapter-headers">
@@ -119,6 +119,8 @@ Software studies \ a lexicon
 <figcaption>Un texto de prensa cofificado con TEI</figcaption>
 </figure>
 
+<div class="side-by-side">
+
 ```Html
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
@@ -130,7 +132,7 @@ Software studies \ a lexicon
         <p>Codificado por Sergio Rodríguez Gómez</p>
       </publicationStmt>
       <sourceDesc>
-        <p>Periódico El Tiempo. Lunes 5 de noviembre de 1934. Página 5.  Texto por Whip</p>
+        <p>Periódico El Tiempo. Lunes 5 de noviembre de 1934. Página 5. Texto por Whip</p>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
@@ -144,6 +146,14 @@ Software studies \ a lexicon
   </text>
 </TEI>
 ```
+
+  <figure class="illustration">
+    <figcaption>Aproximaciones — Whip — 1934 (<a href="https://books.google.com.co/books?id=5xQcAAAAIBAJ&pg=PA3&dq=humanidades&article_id=5870,411802&hl=es&sa=X&ved=2ahUKEwjV3tzkjpqEAxViSDABHREQAyMQ6AF6BAgHEAI" target="_blank">Fuente</a>, Archivo del periódico El Tiempo en Google News)</figcaption>
+    <img alt="Captura de pantalla de un texto tomado de prensa" src="images/infraestructura/whip.jpg" />
+  </figure>
+
+</div>
+
 
 No obstante, hay una particularidad que salta a la vista. Aunque, en teoría, TEI está construído como un lenguaje común de codificación de textos, la suposición de base es que las etiquetas que se usan para anotar la estructura de los textos deben estar en inglés. Es decir, una persona que anota un texto en TEI y encuentra, por ejemplo, la mención de un nombre, no puede usar la etiqueta `<nombre tipo="persona">Sergio</nombre>` sino que debe usar la etiqueta estándar `<name type="person">Sergio</name>`. El inglés es la lengua que se da por sentado como forma de comunicación universal en este estándar. En otras palabras, que TEI sea interoperable quiere decir que tiene la capacidad de funcionar en varios contextos, es un sistema generalizado, pero esa generalización no quiere decir que en realidad cubra las diferencias particulares de cada contexto, sino que es el contexto el que debe acomodarse a usar el inglés como lengua por defecto. Esto puede interpretarse como un ejercicio de hegemonía cultural ejercido por instituciones y estados particulares que, ayudadas por el efecto de apego preferencial, justifican su hegemonía en la base de que sus infraestructuras ya tienen un uso extendido. Como afirman Sinykyn y Roland en su artículo *Against Conglomeration*, o Contra la aglmomeración, "la Ley de Artes y Humanidades, que fundó el National Endowment for the Arts [Fondo Nacional de las Artes en Estados Unidos] en 1965, tenía como propósito el refuerzo de la hegemonía americana"[@sinykinConglomeration2021, p. 79]. Así, aquí podemos hablar de unas infraestructuras humanistas, en el sentido en el que están pensadas para facilitar el trabajo de definir una línea de base de lo humano, como elaboramos en el capítulo 5.1. sobre la tradición de las humanidades.
 

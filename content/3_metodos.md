@@ -87,7 +87,7 @@ En una línea similar, el medio digital tiene sus propias especificidades. Como 
 
 <figure class="illustration right">
   <figcaption>Ivan Sutherland, uno de los primeros investigadores de la interacción humano-máquina junto a su interfaz <i>sketchpad</i>, que imita y extiende el medio del cuaderno de dibujos (<a href="https://commons.wikimedia.org/wiki/Category:Ivan_Sutherland#/media/File:SketchpadDissertation-Fig1-2.tif" target="_blank">Fuente</a>, CC BY-SA 3.0)</figcaption>
-  <img alt="Ivan Sutherland y Sketchpad" src="sutherland.jpg" />
+  <img alt="Ivan Sutherland y Sketchpad" src="images/metodos/sutherland.jpg" />
 </figure>
 
 En este sentido, esta disertación es una producción de investigación-creación bajo la premisa de que hace uso de la especificidad del metamedio digital de formas creativas y, al hacerlo, avanza en resultados y la construcción de argumentos investigativos. En otros términos el sustrato y medio expresivo es, justamente, el medio digital, y se usa como metareflexión de las tensiones de las humanidades digitales. Como afirma Johanna Drucker, "necesitamos tomar del reto de desarrollar expresiones gráficas enraizadas en y apropiadas para la actividad interpretativa"[@druckerHumanitiesApproachesGraphical2011]. Este desarrollo apunta en esa dirección y, en la medida en la que hace uso de elementos interactivos y multimodales, busca hacer un aporte novedoso a las humanidades y los estudios de la comunicación y las posibilidades creativas como medio para el desarrollo investigativo.
