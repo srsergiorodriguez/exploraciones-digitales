@@ -1,4 +1,4 @@
-console.log("this only runs in the HTML build!");
+console.log("JavaScript Activado");
 
 const sectionListElements = [];
 
@@ -9,11 +9,11 @@ window.onload = function() {
 async function setSectionMenu() {
   const dimension = document.getElementsByTagName("dimension")[0];
 
-  console.log(dimension);
+  const aside = document.getElementsByTagName("aside")[0].getElementsByClassName("subcontent");
 
-  const aside = document.getElementsByTagName("aside")[0];
+  if (aside.length <= 0) return
 
-  const list = aside.getElementsByClassName("subcontent")[0].children;
+  const list = aside[0].children;
 
   const header = document.getElementsByClassName("chapter-headers")[0].getElementsByTagName("h1")[0].textContent;
 
@@ -46,9 +46,6 @@ async function setSectionMenu() {
       s.remove();
     }
   }  
-
-  
-  
 }
 
 document.addEventListener("scroll", () => {

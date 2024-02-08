@@ -20,7 +20,7 @@ Adicionalmente, para navegar las dimensiones y sus tensiones, este trabajo estó
 Esta disertación es el resultado de la investigación realizada por Sergio Rodríguez Gómez en el doctorado en Comunicación, Lenguajes e Información de la Pontificia Universidad Javeriana en Bogotá, Colombia.
 
 {% if format != 'pdf' %}
-<a style="text-align: right" href="./problema.html">Siguiente sección (Contexto, Problema y Objetivos)</a>
+<a style="text-align: right" href="./problema_citation.html">Siguiente sección (Contexto, Problema y Objetivos)</a>
 
 A continuación se encuentra el índice de capítulos de este libro digital:
 {% endif %}
