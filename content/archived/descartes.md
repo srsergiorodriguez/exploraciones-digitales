@@ -77,3 +77,6 @@ Conocer ADHO sistema de estándares y de prácicas comúnes.
 - **Dimensión de la formación de comunidad**: el movimiento en tensión acerca de si las humanidades digitales configuran una comunidad de prácticas, en la que se juntan personas de proveniencias diferentes, siempre con una distinción disciplinaria, o si las humanidades digitales configuran una identidad propia y por lo tanto tienen un horizonte epistemológico particular que escapa a la noción tradicional de disciplinamiento.
 
 - **Dimensión de las infraestructuras**: el movimiento en tensión acerca de si las humanidades digitales en América Latina deben anclarse a las tradiciones institucionales del humanismo (la universidad, la biblioteca y el museo), y a las infraestructuras tecnológicas ya establecidas por el centro global, o si pueden operar desde un lugar más autónomo y así construir organización y herramientas propias.
+
+
+"the movement of actants is the key to understand the social dynamics and thus the focus should now be given on the analysis of how they act in the network"[@lourencoActornetworkTheoryCartography2018, p. 125]

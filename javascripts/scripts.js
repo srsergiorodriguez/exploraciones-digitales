@@ -6,11 +6,14 @@ window.onload = function() {
   setSectionMenu();
 };
 
-
 async function setSectionMenu() {
   const dimension = document.getElementsByTagName("dimension")[0];
 
-  const list = document.getElementsByTagName("aside")[0].getElementsByClassName("subcontent")[0].children;
+  console.log(dimension);
+
+  const aside = document.getElementsByTagName("aside")[0];
+
+  const list = aside.getElementsByClassName("subcontent")[0].children;
 
   const header = document.getElementsByClassName("chapter-headers")[0].getElementsByTagName("h1")[0].textContent;
 

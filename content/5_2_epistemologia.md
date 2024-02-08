@@ -54,7 +54,7 @@ Comúnmente, dentro de esta narrativa, se reconoce al sacerdote Roberto Busa com
   </figure>
 
   <figure class="illustration">
-    <figcaption>El padre Roberto Busa en la Universidad de Yale en 1956. (<a href="https://dhlab.yale.edu/about.html" target="_blank">Fuente</a>, CIRCSE Research Centre, Università Cattolica del Sacro Cuore, Milan, Italy, Licencia CC-BY-NC)</figcaption>
+    <figcaption>El padre Roberto Busa en la Universidad de Yale — 1956. (<a href="https://dhlab.yale.edu/about.html" target="_blank">Fuente</a>, CIRCSE Research Centre, Università Cattolica del Sacro Cuore, Milan, Italy, Licencia CC-BY-NC)</figcaption>
     <img alt="Un sacerdote revisando un libro antiguo y copiando su contenido en un computador de los años 50" src="images/epistemologia/busa.jpg" />
   </figure>
 </div>

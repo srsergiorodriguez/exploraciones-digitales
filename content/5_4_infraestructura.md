@@ -13,7 +13,7 @@ El, así llamado, Demonio de Maxwell, en referencia a James Clark Maxwell, es un
 <sketch
   height="407px"
   src="./assets/sketches/infraestructuras/maxwell"
-  caption="El experimento mental del Demonio de Maxwell. El demonio hace lo que puede para clasificar y separar las moléculas"
+  caption="El experimento mental del Demonio de Maxwell. El demonio hace lo que puede para clasificar y separar las moléculas. Luego de un tiempo, las azules estarán a la izquierda y las rosadas a la derecha"
 />
 
 El concepto de infraestructura puede entenderse de varias maneras: como forma de organización y estandarización [@bowkerSortingThingsOut2000], como soporte para el movimiento de bienes, materias o ideas [@larkinPoliticsPoeticsInfrastructure2013], o como medio para la ampliación de la agencia de los seres humanos[@mcluhanUnderstandingMediaExtensions1994]. Sin embargo, a todas estas concepciones subyace una idea fundamental ejemplificada en el experimento mental de Maxwell: es necesario el gasto de energía para producir trabajo con el fin de reducir la entropía, es decir, reducir la incertidumbre o producir alguna clase de orden. Cuando una comunidad establece roles y procedimientos está reduciendo la incertidumbre para que las mismas actividades puedan ser ejecutadas por distintas personas o para resolver patrones comunes de una forma que tengan efectos esperables y similares. Cuando un grupo de expertos define un sistema de estándares está reduciendo la entropía con categorías que, eso esperan, sean lo suficientemente expresivas para representar necesidades, y que a la vez sean lo suficientementemente pequeñas para que sean controlables. Igualmente, transportar materia prima o mensajes requiere mecanismos que, con energía, muevan algún tipo de elemento físico, aunque sea invisible para nosotros, de un origen a un destino; en otras palabras, amplían la agencia o la capacidad de actuar a distancia. Susan Leigh Star resume estas distintas maneras de entender las infraestructuras afirmando que estas son los estándares, los cables y las configuraciones, y también todo lo que permiten[@starEthnographyInfrastructure1999].
@@ -37,6 +37,12 @@ Por ejemplo, como lo muestra un estudio de Colbert, Li, Schwartz y Satten-Lopez,
 En un sentido similar, en *A Geology of media* o Una geología de los medios, Jussi Parikka[@parikkaGeologyMedia2015] muestra cómo los grandes centros de procesamiento de datos, que corren modelos de inteligencia artificial o que alojan la información masiva de lo que eufemísticamente llamamos "la nube", aprovechan zonas heladas de países del norte del planeta, con capas subterráneas de permafrost, o ríos que eran usados para mover molinos en otros tiempos para enfríar los servidores que están día y noche haciendo computaciones. Es decir, el planeta, este demonio de Maxwell, literal y metafóricamente, está haciendo trabajo para bajar la velocidad de las moléculas que se agitan incansablemente por las necesidades constantes de información digitalizada de las sociedades contemporáneas. Aun así, la máscara de la interfaz digital nos oculta estos procesos, y nos presenta a la computación como un proceso transparente y fluido, a la reducción de la incertidumbre como un acontecimiento que se da sin más.
 
 Con este panorama aparece una necesidad crítica: como afirma Ernesto Priego, "lo "digital" en las humanidades digitales no puede desconectarse de los métodos e infraestructuras a través de los cuales tal investigación fue producida y diseminada, y esto incluye pensar en aquellos que están siendo dejados por fuera de esos mecanismos"[@priegoCanSubalternDH2022, p. 28]. En otras palabras, es necesario que desde las humanidades digitales se visibilicen y cuestionen las propias infraestructuras que las soportan, y, añadiría, también las infraestructuras que soportan a las culturas digitales en general, si seguimos el proyecto crítico de las humanidades que se ha elaborado en otras partes de esta disertación. Este capítulo se centra entonces en las tensiones particulares alrededor de las infraestructuras usadas para las prácticas de las humanidades digitales en América Latina. Especialmente, en los efectos que lleva consigo carecer de ciertas infraestructuras o poder acceder a ellas solo parcialmente, es decir, las brechas de todo tipo para las humanidades digitales en nuestro contexto, y en la búsqueda de autonomía en el uso de infraestructuras importadas o en la creación de infraestructuras propias para la constucción de conocimiento situado.
+
+Bruno Latour propone estudiar distintos aspectos de la relación ciencia, tecnología y sociedad en casos particulares: 
+—Estudiar las innovaciones
+—Estudiar las implementaciones extrañas, exóticas, arcaicas o misteriosas
+-Estudiar los archivos, documentos, memorias, colecciones de museos, etc
+E incluso hacer historia contrafactual y ciencia ficción[@latourReassemblingSocialIntroduction2005]
 
 ## ¿Modelos importados que no son la solución?
 
@@ -113,10 +119,10 @@ Desde latinoamérica se ha impulsado un fuerte trabajo de promoción y uso de TE
 
 Internationalization
 Adrian Mackenzie
-Software studies \ a lexicon
+Software studies \ a lexicon ads
 
 <figure class="illustration border">
-<figcaption>Un texto de prensa cofificado con TEI</figcaption>
+<figcaption>Un texto de prensa cofificado con TEI. Nótense las etiquetas usadas para la codificación</figcaption>
 </figure>
 
 <div class="side-by-side">
