@@ -9,9 +9,9 @@
 }
 /* Variables */
 :root {
-  --colbg: white;
+  --colbg: #f7f7f7;
   --colmain: #ed6a5a;
-  --colblack: #0f0f0f;
+  --colblack: #000000;
   --col1: #5ca4a9;
   --col2: #ffc0b5;
   --mainhfont: "Libre Baskerville", serif;
@@ -34,8 +34,8 @@ h1, h2, h3, h4, h5 {
 }
 
 strong {
-  background: var(--col2);
-  font-weight: 500;
+  text-decoration: underline;
+  font-weight: bold;
 }
 
 table {
@@ -50,6 +50,12 @@ table td {
 
 .backreference-link {
   scroll-padding-top: -600px;
+}
+
+pre, code {
+  width: 100%;
+  white-space: pre-wrap;
+  word-wrap: break-word;
 }
 
 body {
@@ -68,7 +74,7 @@ a {
 }
 
 code {
-  font-size: 1.2em;
+  font-size: 1em;
 }
 
 blockquote {
@@ -80,6 +86,29 @@ blockquote {
 
 video {
   border-radius: var(--bradius);
+}
+
+button {
+  background: var(--colbg);
+  border: solid 1px var(--colblack);
+  padding: 1em;
+  font-size: 1em;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: var(--col2);
+}
+
+button:active {
+  background: var(--colmain);
+}
+
+.version-buttons {
+  display: flex;
+  gap: 1em;
+  justify-content: center;
 }
 
 .current-section {
@@ -142,7 +171,8 @@ figure.whole {
 }
 
 figure img {
-  width: 100%;
+  max-width: 100%;
+  max-height: 500px;
 }
 
 figcaption {
@@ -150,7 +180,7 @@ figcaption {
   margin: 0.5em 0px;
 }
 
-figure figcaption {
+figure {
   text-align: center;
 }
 
@@ -209,10 +239,12 @@ iframe {
   padding: 5px 10px;
   display: block;
   cursor: pointer;
+  color: var(--colblack);
 }
 
 .titlebar1 li a:hover {
-  background: grey;
+  background: black;
+  color: var(--colmain);
 }
 
 .titlebar1 li a:active {
@@ -230,15 +262,6 @@ iframe {
 .sidebar {
   font-family: var(--mainhfont);
   font-weight: 400;
-  padding: 2em;
-}
-
-.sidebar ol, ul {
-  padding: 0 0 0 20px;
-}
-
-.sidebar ol ul {
-  padding: 0 0 0 10px;
 }
 
 .sidebar h1 {
@@ -246,24 +269,40 @@ iframe {
   font-size: 1em;
 }
 
+.sidebar ol, ul {
+  padding: 0 0 0 20px;
+  counter-reset: item;
+}
+
+.sidebar ol > li:before {
+  content: counters(item, ".") ".  ";
+  counter-increment: item;
+}
+
+.sidebar ol > li {
+  list-style-type: none;
+}
+
 .sidebar li a {
   font-size: 0.8em;
   padding: 0 10px 1px 0;
-  display: block;
   color: var(--colblack);
   cursor: pointer;
   text-decoration: none;
-  text-decoration-color: var(--colbg);
   user-select: none;
 }
 
-.sidebar ul.subcontent a[data-toc=chapter] {
+.sidebar ul, ol.subcontent a[data-toc=chapter] {
   font-size: 0.85em;
   font-weight: bold;
 }
 
-.sidebar ul.subcontent a[data-toc=sect1] {
-  font-size: 0.7em;
+.toc-title {
+  text-align: center;
+}
+
+.sidebar ul, ol.subcontent a[data-toc=sect1] {
+  font-size: 0.85em;
 }
 
 .sidebar span {
@@ -283,6 +322,11 @@ iframe {
 
 .chapter p {
   line-height: 34px;
+  text-align: justify;
+}
+
+.chapter li {
+  line-height: 28px;
   text-align: justify;
 }
 
@@ -441,6 +485,12 @@ ol[data-type=footnotes] li {
   top: 20px;
   text-decoration: none;
   font-size: 1em;
+  padding: 0px 10px;
+}
+
+.centered {
+  display: flex;
+  justify-content: center;
 }
 
 @media all and (max-device-width: 1150px) {

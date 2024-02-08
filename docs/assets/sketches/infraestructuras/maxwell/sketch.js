@@ -38,7 +38,7 @@ function setup() {
 }
 
 function draw() {
-  background(255);
+  background(colbg);
   let voteCount = 0;
   for (let p of particles) {
     p.getVote();
