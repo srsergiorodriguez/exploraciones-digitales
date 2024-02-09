@@ -6,6 +6,19 @@
 @font-face {
   font-family: 'Libre Baskerville';
   src: font-path('LibreBaskerville-Regular.ttf');
+  font-weight: normal;
+}
+
+// @font-face {
+//   font-family: 'Libre Baskerville';
+//   src: font-path('LibreBaskerville-Italic.ttf');
+//   font-weight: italic;
+// }
+
+@font-face {
+  font-family: 'Libre Baskerville';
+  src: font-path('LibreBaskerville-Bold.ttf');
+  font-weight: bold;
 }
 
 /* Variables */
@@ -24,7 +37,7 @@
   --ttime: 0.5s;
 }
 
-body {
+body, button {
   font-family: var(--contentfont);
 }
 
@@ -38,7 +51,7 @@ h1, h2, h3, h4, h5 {
 
 strong {
   // background: var(--col2);
-  text-decoration: underline;
+  // text-decoration: underline;
   font-weight: bold;
 }
 

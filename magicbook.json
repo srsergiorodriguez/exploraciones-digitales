@@ -29,9 +29,9 @@
       "files" : [
         "content/index.md",
         "content/1_introduccion.md",
-        "content/2_problema_citation.md",
-        "content/3_metodos_citation.md",
-        "content/4_mapa_citation.md",
+        "content/2_contexto.md",
+        "content/3_metodos.md",
+        "content/4_mapa.md",
         {
           "label": "Las dimensiones",
           "files": [
