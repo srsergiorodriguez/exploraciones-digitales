@@ -63,13 +63,21 @@ function makeTree(hierarchy) {
         g.selectAll(".info-text-sketch").remove();
       })
 
+  const dimensions = ["Tradición", "Epistemología", "Comunidad", "Infraestructura"];
+  const color = d3.scaleOrdinal().range(["#0070C0", "#FFC000", "#00B050", "#FF0000", "#7030A0"]).domain(dimensions);
+
   node.append("circle")
-      .attr("fill", colmain)
+      .attr("fill", d => {
+        if (!d.parent) return "lightgray";
+        if (dimensions.includes(d.data[0])) return color(d.data[0]);
+        if (dimensions.includes(d.parent.data[0])) return color(d.parent.data[0]);
+        return "lightgray"
+      })
       .attr("stroke",colbg)
-      .attr("r", 5)
+      .attr("r", 8)
 
   node.append("text")
-    .attr("x", 5)
+    .attr("x", 10)
     .attr("font-size", 13)
     .attr("text-anchor", "start")
     .attr("alignment-baseline", "middle")

@@ -73,3 +73,6 @@ Todos las piezas interactivas fueron realizadas con el lenguaje de programación
 
 
 Umberto Eco el vértigo de las listas
+
+Los ingenios del pincel de Jaime Borja es un antecedente
+https://losingeniosdelpincel.uniandes.edu.co/#!/intro/1
