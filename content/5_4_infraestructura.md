@@ -231,6 +231,8 @@ Es por esto que atajar las brechas digitales no solo es una tarea importante par
 
 "financial considerations are also new with these computational disciplines, as they require more money and organization thatn the old individual scholar of lore did" (Berry, 2012, 12)
 
+Universalismo digital Anita Chan
+https://henryjenkins.org/blog/2015/02/perus-digital-futures-an-interview-with-anita-say-chan-part-one.html
 
 ## Haciendo lo propio y apropiado lo apropiado
 

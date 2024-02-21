@@ -1,0 +1,49 @@
+{
+  "title" : "Humanidades digitales en América Latina",
+  "subtitle": "Un mapeo multidimensional de sus tensiones",
+  "designation": "Tesis para optar al título de Doctor en Comunicación, Lenguajes e Información",
+  "tutor": "Andrés Lombana Bermúdez",
+  "university": "Pontificia Universidad Javeriana",
+  "author": "Sergio Rodríguez Gómez",
+  "year": 2024,
+  "destination" : "build/:build",
+  "addPlugins": [
+    "./plugins/addSketch.js",
+    "./plugins/addVideo.js",
+    "./plugins/mdClass.js"
+  ],
+  "disablePlugins": [
+    "magicbook-katex",
+    "magicbook-codesplit"
+  ],
+  "builds" : [
+    {
+      "format" : "html",
+      "layout" : "layouts/html.html",
+      "stylesheets" : {
+        "files" : ["stylesheets/html.scss"]
+      },
+      "javascripts" : {
+        "files" : ["javascripts/scripts.js"]
+      },
+      "files" : [
+        "content/index.md",
+        "content/1_introduccion_citation.md",
+        "content/2_contexto_citation.md",
+        "content/3_metodos_citation.md",
+        "content/4_mapa_citation.md",
+        {
+          "label": "Las dimensiones",
+          "files": [
+            "content/5_1_tradicion_citation.md",
+            "content/5_2_relacionamiento_citation.md",
+            "content/5_3_comunidad.md",
+            "content/5_4_infraestructura.md"
+          ]
+        },
+        "content/8_reflexiones.md",
+        "content/9_conclusiones.md"
+      ]
+    }
+  ]
+}

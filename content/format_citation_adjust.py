@@ -24,6 +24,8 @@ def main():
 
   with open(filename, 'w') as f:
     f.write(text)
+  
+  print(f"Python done: {filename}")
 
 def adjust_months(text):
   translations = {

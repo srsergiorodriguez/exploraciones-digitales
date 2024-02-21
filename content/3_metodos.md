@@ -21,9 +21,9 @@ En cuanto a los aspectos cualitativos, hice uso de métodos basados en teoría f
 
 El método de la teoría fundamentada consiste en el proceso de construir teorías sobre fenómenos sociales basadas en las propias percepciones y entendimientos del mundo de los participantes del estudio, a través del registro y análisis iterado de sus comunicaciones y acciones[@mongeacunaCodificacionMetodoInvestigacion2015]. Así, usualmente, estas teorías se construyen a partir de la codificación de entrevistas transcritas y notas de campo, es decir, el etiquetado de categorías analíticas encontradas en documentos de registro derivados de la observación y la interacción, y el constante refinamiento de tales categorías, por medio de memos o notas, con el fin de encontrar patrones comunes en el entendimiento de los participantes que permitan fundamentar las teorías que se van construyendo[@charmazConstructingGroundedTheory2006].
 
-Los resultados de esta disertación se basan en parte en una serie de entrevistas semiestructuradas a distintas personas cuyas prácticas pueden encerrarse dentro del concepto amplio de las humanidades digitales: académicos, investigadores, activistas, miembros de organizaciones que trabajan en la intersección entre el pensamiento humanístico, las humanidades y las tecnologías digitales. Tales entrevistas fueron grabadas en audio, en línea o en persona, dependiendo del caso, y luego transcritas a texto plano. Con el insumo de las entrevistas transcritas realicé tres procesos de codificado sobre los mismos documentos, cada vez más sintéticos y concretos, que fueron dando lugar a la teoría general y a las categorías de las cuatro dimensiones que a su vez contienen múltiples tensiones de las humanidades digitales en América Latina.
+Los resultados de esta disertación se basan en parte en una serie de entrevistas semiestructuradas a distintas personas cuyas prácticas pueden encerrarse dentro del concepto amplio de las humanidades digitales: académicos, investigadores, activistas, miembros de organizaciones que trabajan en la intersección entre el pensamiento humanístico, las humanidades y las tecnologías digitales. Tales entrevistas fueron grabadas en audio, en línea o en persona, dependiendo del caso, y luego transcritas a texto plano. Con el insumo de las entrevistas transcritas realicé tres procesos de codificado sobre los mismos documentos, usando el software de etiquetado <a href="https://www.taguette.org/" target="_blank">*Taguette*</a>, cada vez más sintéticos y concretos, que fueron dando lugar a la teoría general y a las categorías de las cuatro dimensiones que a su vez contienen múltiples tensiones de las humanidades digitales en América Latina.
 
-Las personas entrevistadas fueron escogidas por medio de la revisión de las bases de datos y directorios de redes de humanidades digitales en América Latin y a través de la estrategia de "bola de nieve"[@hernandezsampieriMetodologiaInvestigacion2014], es decir, la recomendación recurrente por parte de las personas previamente entrevistadas de nuevas personas para contactar. La lista de personas entrevistadas es la siguiente:
+Las personas entrevistadas fueron escogidas por medio de la revisión de las bases de datos y directorios de redes de humanidades digitales en América Latin y a través de la estrategia de *bola de nieve*[@hernandezsampieriMetodologiaInvestigacion2014], es decir, la recomendación recurrente por parte de las personas previamente entrevistadas de nuevas personas para contactar. La lista de personas entrevistadas es la siguiente:
 
 - **Ernesto Priani**, profesor de filosofía de la UNAM en México y exdirector de la Red de Humanidades Digitales (RedHD) mexicana;
 - **Isabel Galina**, profesora de la UNAM en México, miembro de la RedHD y coordinadora de múltiples publicaciones relacionadas con humanidades digitales en América Latina y el mundo;
@@ -41,7 +41,7 @@ Las personas entrevistadas fueron escogidas por medio de la revisión de las bas
 
 Cabe decir que algunas de las personas entrevistadas no se reconocen a sí mismas como humanistas digitales, sin embargo, y ese es uno de los argumentos de este trabajo, lo que hacen está conectado con las humanidades digitales en la medida en la que reflexionan acerca del impacto cultural de lo digital en América Latina, realizan activismo o prácticas comunitarias que involucran tecnologías digitales, o crean usando e indagando conceptos digitales o herramientas computacionales. Adicionalmente, aunque en su mayoría los entrevistados son profesores, también realizan prácticas activistas, coordinan comunidades informales o trabajan con instituciones culturales estatales. Las entrevistas, más que un conjunto representativo de todas las posibilidades de las humanidades digitales en América Latina, es un muestreo de posturas diversas, de historias de orígen disímiles, de formas diferentes de entender la cultura, pero también de múltiples entrecruzamientos e incluso posibles formas de colaboración.
 
-Aunque las entrevistas semiestructuradas se desarrollaron como charlas informales relativamente extensas (1 hora aproximadamante), hay un protocolo general que orientó las preguntas y el hilo conductor de la conversación. El protocolo completo se pueden consultar <a href="assets/documents/metodos/protocolo3.pdf" target="_blank">aquí</a>. Sin embargo, a grandes rasgos, las preguntas estaban orientadas alrededor de los siguientes temas:
+Aunque las entrevistas semiestructuradas se desarrollaron como charlas informales relativamente extensas (1 hora aproximadamante), hay un protocolo general que orientó las preguntas y el hilo conductor de la conversación. El protocolo completo se puede consultar <a href="assets/documents/metodos/protocolo3.pdf" target="_blank">aquí</a>. Sin embargo, a grandes rasgos, las preguntas estaban orientadas alrededor de los siguientes temas:
 
   1. la historia de origen y la trayectoria de la persona entrevistada,
   2. los proyectos realizados dentro del marco de las humanidades digitales,
@@ -60,30 +60,122 @@ Estas entrevistas a profesores de UIUC siguieron un protocolo derivado, similar 
 
 El siguiente es el libro de códigos final derivado de la codificación de las entrevistas. En el método de teoría fundamentada un libro de códigos describe las teorías, categorías y etiquetas resultantes del método de codificación:
 
-|Tema                    |Código      |Descripción         |
-|------------------------|------------|--------------------|
-|Trayectoria             |Formación e intereses|Descripciones de las historias de origen de la persona entrevistada: su formación, el desarrollo de su trayectoria, intereses particulares tanto en general como en el campo de las humanidades digitales|
-|Trayectoria             |Aprendizaje |Referencias al aprendizaje individual de la persona entrevistada en las prácticas de las humanidades digitales: sus dificultades, oportunidades y recorridos particulares|
-|Infraestructura         |Financiación|Referencia a problemas u orígenes de los presupuestos de proyectos en humanidades digitales|
-|Infraestructura         |Idioma      |Referencias y reflexiones con respecto a las brechas o posibilidades de acceso en las humanidades digitales en idiomas diferentes al inglés. Especialmente, las brechas con respecto a las prácticas de las humanidades digitales en español|
-|Infraestructura         |Física, software, estándares|Referencias y reflexiones con respecto al origen, estado y desarrollo de la infraestructura física, el software y los estándares de las humanidades digitales, ya sea por menciones a proyectos concretos o por reflexiones al asunto en general. También, referencias a alternativas y soluciones a las limitaciones en estos aspectos|
-|Infraestructura         |Instituciones y comunidades|Referencias y reflexiones con respecto al estado de la creación de instituciones, asociaciones, grupos de interés y centros para el estudio, el desarrollo o la promoción de las humanidades digitales|
-|Infraestructura         |Educación   |Referencia al estado de las infraestructuras para la educación en teorías o prácticas necesarias para las humanidades digitales en el contexto de la persona entrevistada, sus problemas, alcances y oportunidades|
-|Epistemología           |El término humanidades digitales|Menciones de las personas entrevistadas a su descubrimiento del término humanidades digitales|
-|Epistemología           |Postura instrumental / cultural|Reflexiones con respecto a las dos posturas que configuran el eje de la epistemología digital: la visión instrumental de las tecnologías digitales como herramienta para el estudio de las humanidades digitales, la visión que entiende el mundo digital como expresión cultural y, por lo tanto, como objeto de estudio de las humanidades. Esta categoría también pueden incluir menciones a otras formas de epistemología digital, como el activismo|
-|Epistemología           |Disciplinas |Reflexiones con respecto a las disciplinas académicas de las humanidades: su entrecruzamiento, su necesidad o existencia real, su relación con las humanidades digitales|
-|Comunidad               |Relación formal / informal|Referencias y reflexiones con respecto a las relaciones entre las comunidades formales (institucionalizadas y académicas) e informales (grupos de interés y comunidades de práctica) en el campo de las humanidades digitales|
-|Comunidad               |Valores formas de organización|Referencias y reflexiones con respecto a los valores, problemas, ventajas y deventajas que pueden tener distintas formas de organización formal e informal en las humanidades digitales|
-|Tradición               |Postura     |Referencias y reflexiones a la relación entre centro y periferia del humanismo en general y las humanidades digitales. Puede incluir reflexiones con respecto a posturas hegemónicas y subalternas en el humanismo y las humanidades, a las nociones de norte y sur global, a grupos marginalizados y su participación en el humanismo, a posturas decoloniales frente al humanismo, etc.|
-|Tradición               |Función     |Referencias explícitas o implícitas al valor humanístico de la conservación de la memoria o la escritura de lo común, en general o en relación con las humanidades digitales|
-|Tradición               |Irrupción Digital|Menciones a caracterizaciones y valores propios de las humanidades digitales|
-|Tradición               |Irrupción Digital|Conceptos e ideas que se superponen entre las humanidades tradicionales y las humanidades digitales. Pueden ser relaciones problemáticas o coincidencias en las prácticas, posturas epistemológicas o alcances de las humanidades digitales y las humanidades tradicionales|
-|Tradición               |Función     |Referencias explícitas o implícitas al valor humanístico de la interpretación de la cultura, en general o en relación con las humanidades digitales|
-|Tradición               |Postura     |Reflexiones y menciones con respecto a otras formas de entender las humanidades de manera diferente a su tradición hegemónica (posthumanismo, feminismo, visiones indígenas, identidad latinoamericana, activismo social, etc)|
-|Tradición               |Función     |Reflexiones y menciones a lo digital como medio y su potencia expresiva a partir de la consciencia de su materialidad, en general o en relación con las humanidades digitales|
-|Tradición               |Función     |Referencias explícitas o implícitas al valor humanístico de la educación y el cultivo personal del conocimiento, en general o en relación con las humanidades digitales|
-|Tradición               |Función     |Referencias y reflexiones explícitas o implíctas con respecto al valor humanista de la construcción de los seres humanos en términos morales (como ciudadanos, como sujetos merecedores de bienestar, etc.), en general o en relación con las humanidades digitales|
-|Extra                   |Conceptos   |Conceptos propios que las personas entrevistadas mencionan y que pueden dar luces acerca de su concepción y caracterización de las humanidades digitales, sus comunidades y tensiones o que pueden plantear indicios para elaboraciones teóricas de los dominios en tensión en la investigación|
+<table>
+<thead><tr><th title="Field #1">Tema</th>
+<th title="Field #2">Código</th>
+<th title="Field #3">Descripción</th>
+</tr></thead>
+<tbody><tr>
+<td>Comunidad</td>
+<td>Relación formal / informal</td>
+<td>Referencias y reflexiones con respecto a las relaciones entre las comunidades formales (institucionalizadas y académicas) e informales (grupos de interés y comunidades de práctica) en el campo de las humanidades digitales</td>
+</tr>
+<tr>
+<td>Comunidad</td>
+<td>Valores formas de organización</td>
+<td>Referencias y reflexiones con respecto a los valores, problemas, ventajas y deventajas que pueden tener distintas formas de organización formal e informal en las humanidades digitales</td>
+</tr>
+<tr>
+<td>Epistemología</td>
+<td>El término humanidades digitales</td>
+<td>Menciones de las personas entrevistadas a su descubrimiento del término humanidades digitales</td>
+</tr>
+<tr>
+<td>Epistemología</td>
+<td>Postura instrumental / cultural</td>
+<td>Reflexiones con respecto a las dos posturas que configuran el eje de la epistemología digital: la visión instrumental de las tecnologías digitales como herramienta para el estudio de las humanidades digitales, la visión que entiende el mundo digital como expresión cultural y, por lo tanto, como objeto de estudio de las humanidades. Esta categoría también pueden incluir menciones a otras formas de epistemología digital, como el activismo</td>
+</tr>
+<tr>
+<td>Epistemología</td>
+<td>Disciplinas</td>
+<td>Reflexiones con respecto a las disciplinas académicas de las humanidades: su entrecruzamiento, su necesidad o existencia real, su relación con las humanidades digitales</td>
+</tr>
+<tr>
+<td>Extra</td>
+<td>Conceptos</td>
+<td>Conceptos propios que las personas entrevistadas mencionan y que pueden dar luces acerca de su concepción y caracterización de las humanidades digitales, sus comunidades y tensiones o que pueden plantear indicios para elaboraciones teóricas de los dominios en tensión en la investigación</td>
+</tr>
+<tr>
+<td>Infraestructura</td>
+<td>Financiación</td>
+<td>Referencia a problemas u orígenes de los presupuestos de proyectos en humanidades digitales</td>
+</tr>
+<tr>
+<td>Infraestructura</td>
+<td>Idioma</td>
+<td>Referencias y reflexiones con respecto a las brechas o posibilidades de acceso en las humanidades digitales en idiomas diferentes al inglés. Especialmente, las brechas con respecto a las prácticas de las humanidades digitales en español</td>
+</tr>
+<tr>
+<td>Infraestructura</td>
+<td>Física, software, estándares</td>
+<td>Referencias y reflexiones con respecto al origen, estado y desarrollo de la infraestructura física, el software y los estándares de las humanidades digitales, ya sea por menciones a proyectos concretos o por reflexiones al asunto en general. También, referencias a alternativas y soluciones a las limitaciones en estos aspectos</td>
+</tr>
+<tr>
+<td>Infraestructura</td>
+<td>Instituciones y comunidades</td>
+<td>Referencias y reflexiones con respecto al estado de la creación de instituciones, asociaciones, grupos de interés y centros para el estudio, el desarrollo o la promoción de las humanidades digitales</td>
+</tr>
+<tr>
+<td>Infraestructura</td>
+<td>Educación</td>
+<td>Referencia al estado de las infraestructuras para la educación en teorías o prácticas necesarias para las humanidades digitales en el contexto de la persona entrevistada, sus problemas, alcances y oportunidades</td>
+</tr>
+<tr>
+<td>Tradición</td>
+<td>Postura</td>
+<td>Referencias y reflexiones a la relación entre centro y periferia del humanismo en general y las humanidades digitales. Puede incluir reflexiones con respecto a posturas hegemónicas y subalternas en el humanismo y las humanidades, a las nociones de norte y sur global, a grupos marginalizados y su participación en el humanismo, a posturas decoloniales frente al humanismo, etc.</td>
+</tr>
+<tr>
+<td>Tradición</td>
+<td>Función</td>
+<td>Referencias explícitas o implícitas al valor humanístico de la conservación de la memoria o la escritura de lo común, en general o en relación con las humanidades digitales</td>
+</tr>
+<tr>
+<td>Tradición</td>
+<td>Irrupción Digital</td>
+<td>Menciones a caracterizaciones y valores propios de las humanidades digitales</td>
+</tr>
+<tr>
+<td>Tradición</td>
+<td>Irrupción Digital</td>
+<td>Conceptos e ideas que se superponen entre las humanidades tradicionales y las humanidades digitales. Pueden ser relaciones problemáticas o coincidencias en las prácticas, posturas epistemológicas o alcances de las humanidades digitales y las humanidades tradicionales</td>
+</tr>
+<tr>
+<td>Tradición</td>
+<td>Función</td>
+<td>Referencias explícitas o implícitas al valor humanístico de la interpretación de la cultura, en general o en relación con las humanidades digitales</td>
+</tr>
+<tr>
+<td>Tradición</td>
+<td>Postura</td>
+<td>Reflexiones y menciones con respecto a otras formas de entender las humanidades de manera diferente a su tradición hegemónica (posthumanismo, feminismo, visiones indígenas, identidad latinoamericana, activismo social, etc)</td>
+</tr>
+<tr>
+<td>Tradición</td>
+<td>Función</td>
+<td>Reflexiones y menciones a lo digital como medio y su potencia expresiva a partir de la consciencia de su materialidad, en general o en relación con las humanidades digitales</td>
+</tr>
+<tr>
+<td>Tradición</td>
+<td>Función</td>
+<td>Referencias explícitas o implícitas al valor humanístico de la educación y el cultivo personal del conocimiento, en general o en relación con las humanidades digitales</td>
+</tr>
+<tr>
+<td>Tradición</td>
+<td>Función</td>
+<td>Referencias y reflexiones explícitas o implíctas con respecto al valor humanista de la construcción de los seres humanos en términos morales (como ciudadanos, como sujetos merecedores de bienestar, etc.), en general o en relación con las humanidades digitales</td>
+</tr>
+<tr>
+<td>Trayectoria</td>
+<td>Formación e intereses</td>
+<td>Descripciones de las historias de origen de la persona entrevistada: su formación, el desarrollo de su trayectoria, intereses particulares tanto en general como en el campo de las humanidades digitales</td>
+</tr>
+<tr>
+<td>Trayectoria</td>
+<td>Aprendizaje</td>
+<td>Referencias al aprendizaje individual de la persona entrevistada en las prácticas de las humanidades digitales: sus dificultades, oportunidades y recorridos particulares</td>
+</tr>
+</tbody></table>
 
 ### Observación participante
 
@@ -113,7 +205,15 @@ La visualización de datos es un método que consiste en representar datos, que 
 
 Finalmente, el propio documento digital que conforma esta disertación, en su totalidad, es un ejercicio experimental de investigación-creación. Es decir, en este caso, no hay separación entre la disertación propiamente dicha, en términos tradicionales, y el ejercicio creativo y la producción artística. La razón principal de esto es doble: primero, los elementos creativos son parte de los argumentos que se ponen en juego y, segundo, la propia escritura de la disertación es en sí creativa, sin que esto choque con la expectativa y los estándares de una investigación académica.
 
-Todos los elementos que componen esta disertación, tanto textuales como interactivos, conforman un sistema de diseño consistente, como se explica en el capítulo 8, que contiene reflexiones y descripciones técnicas del desarrollo del libro digital. Como afirma Borgdroff: "en las prácticas artísticas, la experiencia y la experticia que se ha sedimentado en conocimiento tácito forma un suelo fértil para un proceso dinámico, creativo y constructivo que permite la emergencia de lo nuevo y no antes visto"[@borgdorffConflictFacultiesPerspectives2012, p. 149]. El sistema de diseño parte de unas decisiones estéticas que surgen de ese conocimiento tácito y formal, y que funciona como un aglutinante de la diversidad de aproximaciones presentes en la disertación.
+Esta disertación es una producción de investigación-creación bajo la premisa de que hace uso de la especificidad del metamedio digital de formas creativas y, al hacerlo, avanza en resultados y la construcción de argumentos investigativos. En otros términos el sustrato y medio expresivo es, justamente, el medio digital, y se usa como metareflexión de las tensiones de las humanidades digitales. Como afirma Johanna Drucker, "necesitamos tomar del reto de desarrollar expresiones gráficas enraizadas en y apropiadas para la actividad interpretativa"[@druckerHumanitiesApproachesGraphical2011]. Este desarrollo apunta en esa dirección y, en la medida en la que hace uso de elementos interactivos y multimodales, busca hacer un aporte novedoso a las humanidades y los estudios de la comunicación y las posibilidades creativas como medio para el desarrollo investigativo.
+
+Adicionalmente, esta disertación encaja en las lógicas de la investigación-creación por su caracter experimental. Como afirma Borgdorff, "los experimentos no son puramente vehículos metodológicos para poner a prueba (confirmar o rechazar) conocimiento que ya ha sido fundamentado teóricamente o postulado hipotéticamente, como la filosofía de la ciencia clásica lo asumiría. Los experimentos son los generadores de ese ese conocimiento —conocimiento del que no tenemos conocimiento aún"[@borgdorffConflictFacultiesPerspectives2012]. Esta disertación, con sus componentes que exploran distintos medios y formas de escritura como construcción de un argumento, experimenta en este sentido, y así toma ciertos tonos narrativos, estéticos y conceptuales sobre la marcha. En los términos de Borgdorff, se enmarca en un contexto de descubrimiento tanto académico como artístico, lo que le da el caracter híbrido que menciona Manovich.
+
+Por otra parte, en el marco de la circulación en contextos creativos, algunas de las piezas propuestas acá circulan tienen el potencial para circular en contextos artísticos convencionales, como las piezas de video y arte generativo presentes en algunos de los capítulos, pero el documento completo se enmarca en las formas de producción del netart, a través de exploradores de internet. Su existencia en internet también permite que la disertación sea leída y circule fácilmente, pues puede compartirse en múltiples dispositivos. Es decir, lo producido aquí se enmarca dentro de lo que Borgdorff llamaría un contexto de justificación[@borgdorffConflictFacultiesPerspectives2012] tanto académico como artístico, pues encaja dualmente en un formato apto para el estándar universitario y también para un público general.
+
+### Sistema de diseño y aprovechamiento del medio digital
+
+Todos los elementos que componen esta disertación, tanto textuales como interactivos, conforman un sistema de diseño consistente, como se explica en el capítulo 8, que contiene reflexiones y descripciones técnicas del desarrollo del libro digital. Como afirma Borgdroff: "en las prácticas artísticas, la experiencia y la experticia que se ha sedimentado en conocimiento tácito forma un suelo fértil para un proceso dinámico, creativo y constructivo que permite la emergencia de lo nuevo y no antes visto"[@borgdorffConflictFacultiesPerspectives2012, p. 149]. El sistema de diseño parte de unas decisiones estéticas que surgen de ese conocimiento tácito y formal, y que funciona como un aglutinante de la diversidad de aproximaciones presentes en la disertación. Así, uno de los resultados de la investigación no está consignado en el texto, sino en la estructura que lo soporta y que lo integra como un todo.
 
 Debido a que esta es una disertación sobre humanidades digitales, resultó pertinente hacer uso de tecnologías digitales para crear piezas interactivas, en las que la acción de la persona que lee modifica la pieza, y piezas multimodales que ivolucran imágenes, video y sonido. La inclusión de estas piezas parte de la idea de la especificidad del medio, introducida por Clement Greenberg como reflexión con respecto al arte neoxpresionista de mitades del siglo pasado[@greenbergHaciaNuevoLaocoonte2020]. Para Greenberg, cada medio tiene su propia especifidad, y el desarrollo artístico de un medio debe justamente ser consciente y aprovecharla. Por ejemplo, el dibujo y la pintura se diferencian en su especificidad en el sentido en el que el primero se presta mejor para hacer líneas, borrados y composiciones que muestran el sustrato que lo soportan —usualmente papel—, mientras que el segundo se presta mejor para cubrir grandes cantidades de superficie y componer con manchas, chorreados o gestos expresivos del pincel y la brocha. De ahí que el expresionismo abstracto, y estilos afines como la pintura de campos de color, hiciera uso de estrategias propias del medio pictórico de una forma que hacia evidente su especificidad.
 
@@ -124,15 +224,9 @@ En una línea similar, el medio digital tiene sus propias especificidades. Como 
   <img alt="Ivan Sutherland y Sketchpad" src="images/metodos/sutherland.jpg" />
 </figure>
 
-En este sentido, esta disertación es una producción de investigación-creación bajo la premisa de que hace uso de la especificidad del metamedio digital de formas creativas y, al hacerlo, avanza en resultados y la construcción de argumentos investigativos. En otros términos el sustrato y medio expresivo es, justamente, el medio digital, y se usa como metareflexión de las tensiones de las humanidades digitales. Como afirma Johanna Drucker, "necesitamos tomar del reto de desarrollar expresiones gráficas enraizadas en y apropiadas para la actividad interpretativa"[@druckerHumanitiesApproachesGraphical2011]. Este desarrollo apunta en esa dirección y, en la medida en la que hace uso de elementos interactivos y multimodales, busca hacer un aporte novedoso a las humanidades y los estudios de la comunicación y las posibilidades creativas como medio para el desarrollo investigativo.
-
-Adicionalmente, esta disertación encaja en las lógicas de la investigación-creación por su caracter experimental. Como afirma Borgdorff, "los experimentos no son puramente vehículos metodológicos para poner a prueba (confirmar o rechazar) conocimiento que ya ha sido fundamentado teóricamente o postulado hipotéticamente, como la filosofía de la ciencia clásica lo asumiría. Los experimentos son los generadores de ese ese conocimiento —conocimiento del que no tenemos conocimiento aún"[@borgdorffConflictFacultiesPerspectives2012]. Esta disertación, con sus componentes que exploran distintos medios y formas de escritura como construcción de un argumento, experimenta en este sentido, y así toma ciertos tonos narrativos, estéticos y conceptuales sobre la marcha. En los términos de Borgdorff, se enmarca en un contexto de descubrimiento tanto académico como artístico, lo que le da el caracter híbrido que menciona Manovich.
-
-Por otra parte, en el marco de la circulación en contextos creativos, algunas de las piezas propuestas acá circulan tienen el potencial para circular en contextos artísticos convencionales, como las piezas de video y arte generativo presentes en algunos de los capítulos, pero el documento completo se enmarca en las formas de producción del netart, a través de exploradores de internet. Su existencia en internet también permite que la disertación sea leída y circule fácilmente, pues puede compartirse en múltiples dispositivos. Es decir, lo producido aquí se enmarca dentro de lo que Borgdorff llamaría un contexto de justificación[@borgdorffConflictFacultiesPerspectives2012] tanto académico como artístico, pues encaja dualmente en un formato apto para el estándar universitario y también para un público general.
-
 ### Escritura como investigación
 
-Por un lado, me aproximo a la escritura como investigación como lo elabora Laurel Richardson, es decir, desarrollando procesos analíticos en la medida en la que se escribe y se encuentran posibles caminos de indagación[@richardsonWritingMethodInquiry2018]. Estos caminos pueden abrir encuentros fortuitos, coincidencias, ideas inesperadas que, junto a los datos, se integran a la narrativa general y la argumentación. Como afirma Richardson, la escritura como investigación toma de muchos géneros textuales y se nutre de múltiples voces para configurar un proceso de cristalización más que de triangulación. Esta cristalización implica que las cosas que se dicen en los capítulos vuelven a cobrar relevancia de forma iterativa y espontánea en otras partes del texto, y funcionan como un tejido que no es lineal sino que sufre muchos entrecruzamientos.
+Me aproximo a la escritura como investigación como lo elabora Laurel Richardson, es decir, desarrollando procesos analíticos en la medida en la que se escribe y se encuentran posibles caminos de indagación[@richardsonWritingMethodInquiry2018]. Estos caminos pueden abrir encuentros fortuitos, coincidencias, ideas inesperadas que, junto a los datos, se integran a la narrativa general y la argumentación. Como afirma Richardson, la escritura como investigación toma de muchos géneros textuales y se nutre de múltiples voces para configurar un proceso de cristalización más que de triangulación. Esta cristalización implica que las cosas que se dicen en los capítulos vuelven a cobrar relevancia de forma iterativa y espontánea en otras partes del texto, y funcionan como un tejido que no es lineal sino que sufre muchos entrecruzamientos.
 
 ### Código creativo
 
