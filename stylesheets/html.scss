@@ -450,6 +450,12 @@ ol[data-type="footnotes"] li {
   justify-content: center;
 }
 
+.overline {
+  border-top: 1px solid var(--colblack);
+  border-bottom: 1px solid var(--colblack);
+  padding: 1em 0;
+}
+
 @media all and (max-device-width: 1150px) {
   .mainset {
     grid-auto-flow: row;

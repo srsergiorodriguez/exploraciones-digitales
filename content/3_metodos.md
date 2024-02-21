@@ -9,7 +9,7 @@ title: Métodos y datos
 Esta investigación se fundamenta en una metodología de investigación mixta, es decir, es una mezcla de métodos cualitativos, métodos digitales y de investigación-creación. Los métodos cualitativos comprenden teoría fundamentada, revisión bibliográfica y de estudios de caso y observación participante; los métodos digitales comprenden análisis de textos, análisis de redes y visualización de datos; y la investigación-creación comprende escritura como investigación y piezas de programación creativa. Los métodos se llevaron a cabo en fases paralelas que se representan en el siguiente esquema:
 
 <figure class="illustration">
-  <figcaption>Esquema de las fases de la investigación diferenciada por tipo y métodos (producción propia)</figcaption>
+  <figcaption>Esquema de las fases de la investigación diferenciada por tipo y métodos</figcaption>
   <img alt="Un esquema que representa diferentes momentos en las fases de la investigación" src="images/metodos/fases.png" />
 </figure>
 
@@ -25,8 +25,8 @@ Los resultados de esta disertación se basan en parte en una serie de entrevista
 
 Las personas entrevistadas fueron escogidas por medio de la revisión de las bases de datos y directorios de redes de humanidades digitales en América Latin y a través de la estrategia de *bola de nieve*[@hernandezsampieriMetodologiaInvestigacion2014], es decir, la recomendación recurrente por parte de las personas previamente entrevistadas de nuevas personas para contactar. La lista de personas entrevistadas es la siguiente:
 
-- **Ernesto Priani**, profesor de filosofía de la UNAM en México y exdirector de la Red de Humanidades Digitales (RedHD) mexicana;
-- **Isabel Galina**, profesora de la UNAM en México, miembro de la RedHD y coordinadora de múltiples publicaciones relacionadas con humanidades digitales en América Latina y el mundo;
+- **Ernesto Priani**, profesor de filosofía de la UNAM en México y exdirector de la Red de Humanidades Digitales (RHD) mexicana;
+- **Isabel Galina**, profesora de la UNAM en México, miembro de la RHD y coordinadora de múltiples publicaciones relacionadas con humanidades digitales en América Latina y el mundo;
 - **Riva Quiroga**, profesora en varias universidades chilenas, editora del proyecto Programming Historian en español y coordinadora del grupo R Ladies en Chile, un grupo de mujeres y personas diversas interesadas en el uso de programación para las humanidades y ciencias sociales;
 - **Carolina Zúñiga**, profesora de la Facultad de Comunicación y Letras de la Univeridad Diego Portales en Chile y co-coordinadora de la Cartografía de la Literatura Digital Latinoamericana;
 - **Gimena del Rio Riande**, Investigadora Adjunta del CONICET en Argentina, presidente de la Asociación Argentina de Humanidades Digitales (AAHD);
@@ -217,12 +217,13 @@ Todos los elementos que componen esta disertación, tanto textuales como interac
 
 Debido a que esta es una disertación sobre humanidades digitales, resultó pertinente hacer uso de tecnologías digitales para crear piezas interactivas, en las que la acción de la persona que lee modifica la pieza, y piezas multimodales que ivolucran imágenes, video y sonido. La inclusión de estas piezas parte de la idea de la especificidad del medio, introducida por Clement Greenberg como reflexión con respecto al arte neoxpresionista de mitades del siglo pasado[@greenbergHaciaNuevoLaocoonte2020]. Para Greenberg, cada medio tiene su propia especifidad, y el desarrollo artístico de un medio debe justamente ser consciente y aprovecharla. Por ejemplo, el dibujo y la pintura se diferencian en su especificidad en el sentido en el que el primero se presta mejor para hacer líneas, borrados y composiciones que muestran el sustrato que lo soportan —usualmente papel—, mientras que el segundo se presta mejor para cubrir grandes cantidades de superficie y componer con manchas, chorreados o gestos expresivos del pincel y la brocha. De ahí que el expresionismo abstracto, y estilos afines como la pintura de campos de color, hiciera uso de estrategias propias del medio pictórico de una forma que hacia evidente su especificidad.
 
-En una línea similar, el medio digital tiene sus propias especificidades. Como lo afirman Kay y Goldberg, el medio digital es, de hecho, un metamedio. Es decir, un medio que imita a los demás medios[@kayPersonalDynamicMedia2003]. A través de la relación entre la codificación en información universalizada y los distintos sistemas periféricos de decodificación computacional —pantallas y parlantes, por ejemplo— se puede imitar al cine, la radio, el sonido, la fotografía, el libro, etc. A esto, Manovich[@manovichSoftwareTakesCommand2013] añade que el metamedio digital imita pero también hibridiza y extiende los medios tradicionales con prestaciones que en su forma original eran imposibiles. De allí surgen interfaces remezcladas como los *motion graphics*, los filtros digitales o las visualizaciones de datos.
-
 <figure class="illustration right">
   <figcaption>Ivan Sutherland, uno de los primeros investigadores de la interacción humano-máquina junto a su interfaz <i>sketchpad</i>, que imita y extiende el medio del cuaderno de dibujos (<a href="https://commons.wikimedia.org/wiki/Category:Ivan_Sutherland#/media/File:SketchpadDissertation-Fig1-2.tif" target="_blank">Fuente</a>, CC BY-SA 3.0)</figcaption>
   <img alt="Ivan Sutherland y Sketchpad" src="images/metodos/sutherland.jpg" />
 </figure>
+
+
+En una línea similar, el medio digital tiene sus propias especificidades. Como lo afirman Kay y Goldberg, el medio digital es, de hecho, un metamedio. Es decir, un medio que imita a los demás medios[@kayPersonalDynamicMedia2003]. A través de la relación entre la codificación en información universalizada y los distintos sistemas periféricos de decodificación computacional —pantallas y parlantes, por ejemplo— se puede imitar al cine, la radio, el sonido, la fotografía, el libro, etc. A esto, Manovich[@manovichSoftwareTakesCommand2013] añade que el metamedio digital imita pero también hibridiza y extiende los medios tradicionales con prestaciones que en su forma original eran imposibiles. De allí surgen interfaces remezcladas como los *motion graphics*, los filtros digitales o las visualizaciones de datos.
 
 ### Escritura como investigación
 
@@ -243,5 +244,7 @@ Así, en general, se puede describir a esta disertación como un libro de ensayo
 Todas las entrevistas fueron grabadas en audio. Las personas entrevistadas dieron su consentimiento antes de realizar la grabación y, una vez iniciada la grabación dieron su consentimiento verbal explícito, registrado en el audio, para la transcripción, codificación y uso de sus entrevistas. Adicionalmente, las transcripciones de las entrevistas fueron enviadas a cada uno de los entrevistados para posibles correcciones, ajustes o supresiones. Ninguno de los entrevistados manifestó objeciones a las transcripciones. No obstante, por petición de algunas personas entrevistadas, las transcripciones de las entrevistas no se divulgan en toda su extensión en este proyecto, se citan extractos directos seleccionados de ellas dentro de la disertación o se hacen parafraseos de las ideas conversadas.
 
 Todas las fuentes en inglés citadas fueron traducidas libremente por mí. Debido a que esta disertación dedica partes del análisis al problema de las brechas idiomáticas, y a que esta disertación vive en formato de libro digital abierto y circula en internet, resultó pertinente hacer las traducciones de las citas para facilitar la lectura de personas interesadas.
+
+Todos los elementos interactivos e imágenes en los que no se indica la fuente son producción propia.
 
 Como esta disertación funciona en dos versiones, una imprimible y otra digital, cada una de ellas tiene sus propias lógicas de lectura, prestaciones y ventajas y desventajas. En el caso de la versión digital, que en principio es la versión "ideal" de este proyecto, pues es la que despliega mejor los elementos multimodales e interactivos, debido a la ausencia de páginas, que de alguna forma puntean y dan ritmo a la lectura, hay un efecto de infinito deslizamiento de la página web. Debido a que esta es una disertación doctoral, se trata un tema extenso. En las secciones sobre las dimensiones en tensión se incluye un submenú que permite saltar a los apartados de forma más fácil. Este menú está pensado para poder retomar la lectura sin tener de deslizar la página por largo rato y poder moverse fácilmente entre secciones.

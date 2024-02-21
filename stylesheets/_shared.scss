@@ -1,6 +1,19 @@
 @font-face {
   font-family: 'Noto Serif';
   src: font-path('NotoSerif-Regular.ttf');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Noto Serif';
+  src: font-path('NotoSerif-Italic.ttf');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Noto Serif';
+  src: font-path('NotoSerif-Bold.ttf');
+  font-weight: bold;
 }
 
 @font-face {
@@ -9,11 +22,11 @@
   font-weight: normal;
 }
 
-// @font-face {
-//   font-family: 'Libre Baskerville';
-//   src: font-path('LibreBaskerville-Italic.ttf');
-//   font-weight: italic;
-// }
+@font-face {
+  font-family: 'Libre Baskerville';
+  src: font-path('LibreBaskerville-Italic.ttf');
+  font-style: italic;
+}
 
 @font-face {
   font-family: 'Libre Baskerville';
