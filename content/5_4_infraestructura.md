@@ -217,7 +217,12 @@ Gimena del Rio comenta, al respecto de un proyecto propuesto en el marco de la c
 
 Por ejemplo, como analiza Sanderman, aún es común una falta de diversidad en los proyectos y las directivas de las organizaciones internacionales de humanidades digitales [@sanderman21o3SeparationJournal]. No obstante, esta brecha se ha abordado en proyectos editoriales como la revista Reviews in Digital humanities, que, como se menciona en el capítulo 5.2. tiene un enfoque basado en proyectos relacionados con grupos subrepresentados.
 
-Curiosamente, en un evento en el que se reunieron varios desarrolladores de software para las humanidades, quedó claro que, incluso la producción del software más extendido sufre de muchas limitaciones infraestructurales. Por ejemplo, la inversión en desarrollo de interfaces gráficas de usuarios se suele posponer por los altos costos que implica el diseño y la puesta a prueba de ellas. Muchos proyectos de las humanidades digitales, incluso en los países hegemónicos se hacen con muy pocos recursos.
+"Typically when DH pedagogy is discussed, the real topic is how to use pre-constructed DH systems to deliver education"[@montfortExploratoryProgrammingDigital2015, p. 98]
+
+Curiosamente, en un evento en el que se reunieron varios desarrolladores de software para las humanidades, quedó claro que incluso la producción del software más extendido sufre de muchas limitaciones infraestructurales. Por ejemplo, la inversión en desarrollo de interfaces gráficas de usuarios se suele posponer por los altos costos que implica el diseño y la puesta a prueba de ellas. Muchos proyectos de las humanidades digitales, incluso en los países hegemónicos se hacen con muy pocos recursos.
+Gephi, Open Refine.
+Esto se debe en parte a la crisis de las humanidades mencionada antes y la falta de financiamiento para este tipo de proyectos
+Open Source necesita de unas disposiciones especiales, tiempo libre
 
 esto creo que está basado en Lombana:
 En mi propia experiencia, y en la de personas cercanas que también han trabajado en educación, la brecha de primer nivel se ha hecho innegable: algún porcentaje de estudiantes, mayor o menor dependiendo de la institución (y de otros varios factores de desigualdad), no cuenta con los medios para conectarse a internet y recibir clases, o no cuenta con el tiempo y el espacio para atender y estudiar adecuadamente. Incluso, debido a esto, la solución en muchos casos ha pasado por recurrir a medios offline más accesibles y eficaces, a pesar de que son en apariencia menos actuales o avanzados tecnológicamente. Por ejemplo, la radio y las cartillas impresas.

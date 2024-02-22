@@ -80,3 +80,6 @@ Conocer ADHO sistema de estándares y de prácicas comúnes.
 
 
 "the movement of actants is the key to understand the social dynamics and thus the focus should now be given on the analysis of how they act in the network"[@lourencoActornetworkTheoryCartography2018, p. 125]
+
+
+https://penelope.hypotheses.org/332 QUIPU
