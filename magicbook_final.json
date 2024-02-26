@@ -33,7 +33,7 @@
         "content/3_metodos.md",
         "content/4_mapa.md",
         {
-          "label": "Las dimensiones",
+          "label": "Dimensiones",
           "files": [
             "content/5_1_tradicion.md",
             "content/5_2_relacionamiento.md",
@@ -41,8 +41,34 @@
             "content/5_4_infraestructura.md"
           ]
         },
-        "content/8_reflexiones.md",
-        "content/9_conclusiones.md"
+        "content/6_reflexiones.md",
+        "content/7_conclusiones.md"
+      ]
+    },
+    {
+      "format" : "pdf",
+      "layout" : "layouts/pdf.html",
+      "stylesheets" : {
+        "files" : ["stylesheets/pdf.scss"]
+      },
+      "files" : [
+        "content/0_cover.md",
+        "content/0_toc.md",
+        "content/1_introduccion_nott.md",
+        "content/2_contexto_nott.md",
+        "content/3_metodos_nott.md",
+        "content/4_mapa_nott.md",
+        {
+          "label": "Dimensiones",
+          "files": [
+            "content/5_1_tradicion_nott.md",
+            "content/5_2_relacionamiento_nott.md",
+            "content/5_3_comunidad_nott.md",
+            "content/5_4_infraestructura_nott.md"
+          ]
+        },
+        "content/6_reflexiones_nott.md",
+        "content/7_conclusiones_nott.md"
       ]
     }
   ]

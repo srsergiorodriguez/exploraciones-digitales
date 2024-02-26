@@ -83,3 +83,11 @@ Conocer ADHO sistema de estándares y de prácicas comúnes.
 
 
 https://penelope.hypotheses.org/332 QUIPU
+
+"The essay does not obey the rules of the game of organized science and theory tat, following Spinoza's principle, the order of things is identical with that of ideas. Since the airthight order of concepts is not identical with existence, the essay does not strive for closed, deductive or inductive construction. It revolts above all against the doctrine —deeply rooted since Plato— that the changing and ephemeral is unworthy of philosophy; against that ancient injustice toward the transitory, by which it is once more anathematized, conceptually."158
+
+"the speculative specific, cultyrallt predetermined objects"151
+
+"Its concepts are neither deduced from any first principle nor do they come full circle and arrive at a final principle. Its interpretations are not philologically hardened and sober, rather —according to the predictable verdict of that vigitlant calculating reason that hires itself out to stupidity as a guard against intelligence —it overinterprets."152
+
+"Luck and play are essential to the essay"152[@adornoEssayForm1984]

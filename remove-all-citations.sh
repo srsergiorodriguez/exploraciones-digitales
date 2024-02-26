@@ -4,16 +4,12 @@ cd content
 
 for i in ${chapters[@]}
 do
-  echo "---------$i---------"
-  sh format_citation.sh -t $i
-  sleep 1
-  sh format_citation.sh $i
-  sleep 1
+  echo "Removing citation files from $i"
+  filename=${i//"-draft"/""}
+  rm $filename.md
+  rm ${filename}_nott.md
 done
 
 cd ..
 
 echo "Done"
-
-magicbook build --watch --config=./magicbook_citation.json
-
