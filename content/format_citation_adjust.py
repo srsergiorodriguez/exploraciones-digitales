@@ -18,7 +18,7 @@ def main():
   text = adjust_html(text)
   text = to_inline(text, maketooltips)
   text = remove_bibliography(text)
-  text = replace_after(text, '---', "-", 2)
+  text = replace_after(text, '---', "—", 2)
   text = adjust_escapes(text)
   text = adjust_months(text)
 

@@ -2,10 +2,32 @@
 @font-face {
   font-family: "Noto Serif";
   src: url('NotoSerif-Regular.ttf');
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Noto Serif";
+  src: url('NotoSerif-Italic.ttf');
+  font-style: italic;
+}
+@font-face {
+  font-family: "Noto Serif";
+  src: url('NotoSerif-Bold.ttf');
+  font-weight: bold;
 }
 @font-face {
   font-family: "Libre Baskerville";
   src: url('LibreBaskerville-Regular.ttf');
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Libre Baskerville";
+  src: url('LibreBaskerville-Italic.ttf');
+  font-style: italic;
+}
+@font-face {
+  font-family: "Libre Baskerville";
+  src: url('LibreBaskerville-Bold.ttf');
+  font-weight: bold;
 }
 /* Variables */
 :root {
@@ -21,7 +43,7 @@
   --ttime: 0.5s;
 }
 
-body {
+body, button {
   font-family: var(--contentfont);
 }
 
@@ -34,7 +56,6 @@ h1, h2, h3, h4, h5 {
 }
 
 strong {
-  text-decoration: underline;
   font-weight: bold;
 }
 
@@ -491,6 +512,12 @@ ol[data-type=footnotes] li {
 .centered {
   display: flex;
   justify-content: center;
+}
+
+.overline {
+  border-top: 1px solid var(--colblack);
+  border-bottom: 1px solid var(--colblack);
+  padding: 1em 0;
 }
 
 @media all and (max-device-width: 1150px) {

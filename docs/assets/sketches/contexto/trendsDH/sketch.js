@@ -8,7 +8,7 @@ async function setup() {
   let data = (await d3.csv("trendsDH.csv", d3.autoType));
 
   const categories = data.columns.slice(1);
-  const color = d3.scaleOrdinal().domain(["none", ...categories]).range(["lightgray", ...d3.schemeCategory10]);
+  const color = d3.scaleOrdinal().domain(["none", ...categories]).range(["lightgray", ...d3.schemeTableau10]);
 
   makeMap(geoData, data, color, categories);
 }

@@ -112,12 +112,13 @@ button:disabled {
 
 .panel-section {
   padding: 1em;
-  overflow: scroll;
+  overflow:scroll;
+  background: var(--colbg);
+  border-radius: var(--bradius);
 }
 
 .panel-right {
   border-left: solid 1px var(--colblack);
-  background: var(--colbg);
 }
 
 .panel-datasheet {
