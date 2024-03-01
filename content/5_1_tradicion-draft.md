@@ -2,7 +2,7 @@
 title: Tradición humanística
 dimension: true
 ---
-
+<a id="tradicion-chapter"></a>
 <header class="chapter-headers" id="chapter-header">
   <h1>{{ page.title }}</h1>
 </header>
@@ -116,7 +116,7 @@ Por otra parte, como afirma Small: “una defensa es, después de todo, una defe
 
 > "Un automóvil rugiente, que parece correr como la metralla, es más bello que la Victoria de Samotracia" -Filippo Tommaso Marinetti — Manifiesto Futurista[@marinettiManifisteFuturisme1909]
 
->“Hombres que habitaban en "máquinas de vivir" construidas en ciudades dominadas por los tubos electrónicos han inventado esa extraña ciencia que se llama cibernética, que rige la fisiología de los "cerebros electrónicos" y que, en días próximos, servirá para controlar los ejércitos de robots. En ese país no sólo se ha llegado a medir los colores y olores sino los sentimientos y emociones. Y esas medidas, convenientemente tabuladas, han sido puestas al servicio de las empresas mercantiles.” —Ernesto Sábato - Hombres y Engranajes [@sabatoHombresEngranajes1951, p. 54]
+>“Hombres que habitaban en  "máquinas de vivir" construidas en ciudades dominadas por los tubos electrónicos han inventado esa extraña ciencia que se llama cibernética, que rige la fisiología de los "cerebros electrónicos" y que, en días próximos, servirá para controlar los ejércitos de robots. En ese país no sólo se ha llegado a medir los colores y olores sino los sentimientos y emociones. Y esas medidas, convenientemente tabuladas, han sido puestas al servicio de las empresas mercantiles.” —Ernesto Sábato - Hombres y Engranajes [@sabatoHombresEngranajes1951, p. 54]
 
 A grandes rasgos, las humanidades digitales implican un doble movimiento: por un lado, son el estudio de los temas humanísticos tradicionales por medio de tecnologías digitales, y, por otro, son el estudio de lo digital como cultura, es decir, como producción humana y, por lo tanto, como tema humanístico. A su vez, este doble movimiento pone a las humanidades digitales en una doble condición frente a la crisis, o sea, el lugar cada vez más incómodo para las humanidades dentro de las instituciones que ella misma creó: las humanidades digitales son simultáneamente promesa de salvación y posible aceleración de la crisis.
 
@@ -148,7 +148,7 @@ Las humanidades digitales en América Latina pueden encaminarse a este horizonte
 
 >"Tupy or not tupy" —Oswald de Andrade — Manifiesto Antropofago[@deandradeManifiestoAntropofago1928, p. 3]
 
->No hay justificación para el nuevo término *Latino América* y sus derivados. Por razones históricas la justicia demanda que los nuevos términos desaparezcan. Si España merece el crédito de haber civilizado y desarrollado estos países sureños, ¿qué debemos decir de las naciones poderosas que quieren privarlas de este crédito? —Aurelio M. Espinosa — The term Latin America
+>No hay justificación para el nuevo término *Latino América* y sus derivados. Por razones históricas la justicia demanda que los nuevos términos desaparezcan. Si España merece el crédito de haber civilizado y desarrollado estos países sureños, ¿qué debemos decir de las naciones poderosas que quieren privarlas de este crédito? —Aurelio M. Espinosa — The term Latin America[@espinosaTermLatinAmerica1918, p. 139]
 
 La propia designación de Latinoamérica, desde su surgimiento en el siglo XIX[@torresmartinezSobreConceptoAmerica2016], muestra una dicotomía que se ha convertido en un bucle inescapable para las reflexiones sobre el humanismo y las humanidades en nuestro contexto. De alguna forma somos latinos, es decir, occidentales, por las fuerzas colonizadoras y la historia republicana de las naciones del continente, y por otra somos americanos, es decir, tenemos un aparente orígen que a conveniencia representamos como pasado glorioso o como condición vergonzante[@martin-barberoMediosMediacionesComunicacion2001]. Así, hemos recorrido nuestras propias formas zigzagueantes de humanidades, pero nuestro zigzageo es más ondulante, porque es una trayectoria que constantemente trata de escapar de sí misma. En otros términos, el humanismo latinoamericano ha existido en un estado contradictorio, buscando su propio lugar dentro de una historia que no le pertenece por completo y, a la vez, intentando desalienarse de esa historia prestada.
 
@@ -175,8 +175,8 @@ Si quisieramos entonces reducir la complejidad, podríamos decir que la angustia
 | Augusto Salazar Bondy | Al lado de las filosofías vinculadas con los grandes bloques actuales o del futuro inmediato es preciso, pues, forjar un pensamiento que, a la vez que arraigue en la realidad histórico-social de nuestras comunidades y traduzca sus necesidades y metas, sirva como medio para cancelar el subdesarrollo y la dominación que tipifican nuestra condición histórica. | Salazar Bondy, Augusto. ¿Existe una filosofía de nuestra América? México: Siglo Veintiuno, 2006. |
 | José Manuel Rivas Sacconi | [El conquistador] Quesada no fue un historiador, ni un poeta, ni un autor religioso, precisamente porque pasó por todas esas modalidades, sin circunscribirse a ninguna en particular. Fue humanista porque supo combinar tal universalidad de conocimientos con ciertas cualidades humanas, fundadas éstas y aquélla en una sólida y bien asimilada formación latino-clásica. | Rivas Sacconi, José Manuel. “Exordios del humanismo en Colombia.” Thesavrvs 2, núm. 1 (1946): 55–84. P. 55. |
 | Manuel Quintín Lame | Mis intenciones son de todo corazón proteger al futuro que duerme todavía en la ignorancia y que mañana le sirva esta obra de microscopio para hacerle frente al enemigo de nosotros los indígenas y que conozcamos la pradera de nuestros grandes destinos y no corramos como mujeres enamoradas abandonando el cariño de sus padres; y que busquemos la gran sociedad del estado de la civilización, porque nosotros los indios tenemos más memoria, y se nos presenta la inspiración más ligera que el relámpago que rompe el negro manto de la oscuridad de la noche. El indio se pasea mejor y más rápido que la abeja en todas las flores del jardín de las ciencias. | Quintín Lame, Manuel. En defensa de mi raza y otros textos. Bogotá: Biblioteca Básica de Cultura Colombiana, 2017. |
-| Domingo Faustino Sarmiento | Puede ser muy injusto exterminar salvajes, sofocar civilizaciones nacientes, conquistar pueblos que están en posesión de un terreno privilegiado; pero gracias a esta injusticia, la América, en lugar de permanecer abandonada a los salvajes, incapaces de progreso, está ocupada hoy por la raza caucásica, la más parfecta, la más inteligente, la más bella y la más progresiva de las que pueblan la tierra. [...] No hay amalgama posible entre un pueblo salvaje y uno civilizado. Donde este ponga su pie, deliberada o indeliberadamente, el otro tiene que abandonar el terreno y la existencia | Sarmiento, Domingo Faustino. Obras de D. F. Sarmiento. Tomo II. Artículos Críticos y Literarios 1842-1853. Buenos Aires: Felix Lajouane, Editor, 1885. P.214-215 |
-| Oswald de Andrade | Solo me interesa lo que no es mio. Ley del hombre. Ley del antropófago. [...] Fue porque nunca tuvimos gramáticas, ni colecciones de viejos vegetales. Y nunca supimos lo que era urbano, suburbano, fronterizo y continental. Perezosos en el mapamundi del Brasil. [...] Nunca fuimos catequizados. Lo que hicimos fue Carnaval. El indio vestido como senador del Imperio. Fingiendo ser Pitt. O apareciendo en las óperas de Alencar lleno de buenos sentimientos portugueses. | Andrade, Oswald de. Manifiesto Antropofago. Revista de Antropofagia, mayo de 1928. P. 3 |
+| Domingo Faustino Sarmiento | Puede ser muy injusto exterminar salvajes, sofocar civilizaciones nacientes, conquistar pueblos que están en posesión de un terreno privilegiado; pero gracias a esta injusticia, la América, en lugar de permanecer abandonada a los salvajes, incapaces de progreso, está ocupada hoy por la raza caucásica, la más perfecta, la más inteligente, la más bella y la más progresiva de las que pueblan la tierra. [...] No hay amalgama posible entre un pueblo salvaje y uno civilizado. Donde este ponga su pie, deliberada o indeliberadamente, el otro tiene que abandonar el terreno y la existencia | Sarmiento, Domingo Faustino. Obras de D. F. Sarmiento. Tomo II. Artículos Críticos y Literarios 1842-1853. Buenos Aires: Felix Lajouane, Editor, 1885. P.214-215 |
+| Oswald de Andrade | Solo me interesa lo que no es mío. Ley del hombre. Ley del antropófago. [...] Fue porque nunca tuvimos gramáticas, ni colecciones de viejos vegetales. Y nunca supimos lo que era urbano, suburbano, fronterizo y continental. Perezosos en el mapamundi del Brasil. [...] Nunca fuimos catequizados. Lo que hicimos fue Carnaval. El indio vestido como senador del Imperio. Fingiendo ser Pitt. O apareciendo en las óperas de Alencar lleno de buenos sentimientos portugueses. | de Andrade, Oswald. Manifiesto Antropofago. Revista de Antropofagia, mayo de 1928. P. 3 |
 | Julia Martínez y Martínez | En esta época de vertiginosa marcha hacia adelante, hacia soñadas perfecciones, no ha de permanecer la mujer, cual petrificada esfinge, inalterable e indiferente á los ardientes rayos del progreso que iluminan su frente, ante el desbordamiento de fecundante limo que incesantemente la circunda. No ha de presenciar el soberbio espectáculo sorda y muda: sorda al clamor de las muchedumbres que sienten, piensan, aspiran y protestan; muda, cuando en su cerebro bullen ideas, cuando pesan sobre ella grandes injusticias y se le niega su concurso, se le limita, en el concierto de la humanidad. ¡La vida lánguida y monótona tras las celosías del harén, no es posible en medio de los esplendores de la civilización! | Martínez y Martínez, Julia. El Feminismo. Conferencia pronunciada en el Ateneo y Círculo de la Habana en la veladad del 18 de enero de 1912. 1912. P. 7'
 />
 
@@ -195,7 +195,7 @@ No obstante, esta relación agonística y antagónica puede verse a distintas es
 
 <div class="side-by-side">
   <figure class="illustration">
-    <figcaption>La estatua del conquistador Sebastián de Belalcazar erigida sobre el Morro del Tulcán, un sitio arqueológico precolombino en Popayán, Colombia  (<a href="https://es.wikipedia.org/wiki/Morro_del_Tulc%C3%A1n#/media/Archivo:Morro_del_Tulcan.jpg" target="_blank">Fuente</a>, Ulises Hernandez Pino, Wikimedia CC BY 4.0)</figcaption>
+    <figcaption>¿Parados en hombros de gigantes? La estatua del conquistador Sebastián de Belalcazar erigida sobre el Morro del Tulcán, un sitio arqueológico precolombino en Popayán, Colombia  (<a href="https://es.wikipedia.org/wiki/Morro_del_Tulc%C3%A1n#/media/Archivo:Morro_del_Tulcan.jpg" target="_blank">Fuente</a>, Ulises Hernandez Pino, Wikimedia CC BY 4.0)</figcaption>
     <img alt="La fotografía de una formación piramidal cubierta de pasto y la escultura ecuestre de un conquistador en su cima" src="images/tradicion/tulcan.jpg" />
   </figure>
 
@@ -204,11 +204,6 @@ No obstante, esta relación agonística y antagónica puede verse a distintas es
     <img alt="Fotografía de una escultura de un conquistador derribada y destruida" src="images/tradicion/belalcazar.jpg" />
   </figure>
 </div>
-
----- OTRA POSIBLE IMAGEN -----
-¿Parados en hombros de gigantes?
-La catedral de cuzco construida sobre las ruinas del templo de Viracocha
----- OTRA POSIBLE IMAGEN -----
 
 <figure class="illustration right">
   <figcaption>Noticias Caracol establece la diferencia entre ciudadanos e indígenas en su cubrimiento del estallido social de 2019 en Colombia  (<a href="https://twitter.com/gsesquivel/status/1391546621704478723?lang=fa" target="_blank">Fuente</a>, Noticias Caracol)</figcaption>

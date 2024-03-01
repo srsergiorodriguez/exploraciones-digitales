@@ -2,6 +2,7 @@
 title: Formación de Comunidad
 dimension: true
 ---
+<a id="comunidad-chapter"></a>
 <header class="chapter-headers">
   <h1>{{ page.title }}</h1>
 </header>

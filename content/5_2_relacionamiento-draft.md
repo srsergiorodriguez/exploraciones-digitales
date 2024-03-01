@@ -2,7 +2,7 @@
 title: Modos de relacionamiento con lo digital
 dimension: true
 ---
-
+<a id="relacionamiento-chapter"></a>
 <header class="chapter-headers" id="chapter-header">
   <h1>{{ page.title }}</h1>
 </header>

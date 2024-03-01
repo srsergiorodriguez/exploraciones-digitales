@@ -83,7 +83,7 @@ function makeTree(hierarchy) {
     .attr("alignment-baseline", "middle")
     .attr("stroke", colblack)
     .text((d, i) => {
-      return i === 0 ? "Códigos" : d.children ? d.data[0] : "";
+      return i === 0 ? "Categorías" : d.children ? d.data[0] : "";
     });
 }
 

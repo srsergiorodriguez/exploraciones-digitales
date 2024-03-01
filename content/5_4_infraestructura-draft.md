@@ -2,6 +2,7 @@
 title: Infraestructuras
 dimension: true
 ---
+<a id="infraestructuras-chapter"></a>
 <header class="chapter-headers">
   <h1>{{ page.title }}</h1>
 </header>
@@ -95,9 +96,9 @@ En cualquiera de los casos, la necesidad que se presenta implica, de algún modo
 
 ## Múltiples brechas
 
->Es claro que el inglés es un idioma propietario y que su capital genera plusvalía -Domenico Fiormonte, Taxation against Overrepresentation[@fiormonteTaxationOverrepresentationConsequences2021, p. 343]
+>Es claro que el inglés es un idioma propietario y que su capital genera plusvalía —Domenico Fiormonte — Taxation against Overrepresentation[@fiormonteTaxationOverrepresentationConsequences2021, p. 343]
 
->Las personas y los grupos sociales tienen derecho a ser iguales cuando la diferencia los inferioriza, y el derecho a ser diferentes cuando la igualdad los descaracteriza —De Souse Santos (De sousa Santos, 2001, P. 10)
+>Las personas y los grupos sociales tienen derecho a ser iguales cuando la diferencia los inferioriza, y el derecho a ser diferentes cuando la igualdad los descaracteriza —De Sousa Santos (De sousa Santos, 2001, P. 10)
 
 En las teorías matemáticas de análisis de redes, una red de *escala libre* es aquella en la que muy pocos nodos tienen una gran cantidad de conexiones con los demás, y, siguiendo una ley de potencia, la mayoría de los nodos tienen pocas conexiones entre sí[@barabasiEmergenceScalingRandom1999]. Un fenómeno que demuestra este tipo de redes es el llamado *apego preferencial*, en el que los nodos de una red que tienen un número mayor de conexiones tiene mayor probabilidad de recibir conexiones nuevas en cada momento[@krapivskyScalefreeNetworksPreasymptotic2008]. Pensemos, por ejemplo, en la popularidad de un personaje público en internet; su fama y la cantidad de seguidores que ya tiene hace que un algoritmo de recomendación lo privilegie en términos de exposición pública y promoción y, así, gane aún más seguidores en comparación con lo que lo haría una persona menos popular. Poco a poco la distancia de popularidad se agranda y se produce la distribución en potencia característica de estas redes.
 
@@ -209,7 +210,7 @@ function draw() {
   <sketch
     height="407px"
     src="./assets/sketches/infraestructuras/generativo"
-    caption="Una animación resultante del código a la izquierda. Las funciones usan palabras en inglés mientras que los comentarios en español indican el funcionamiento."
+    caption="Una animación resultante del código a la izquierda. Las funciones usan palabras en inglés mientras que los comentarios en español indican el funcionamiento para la personas que revisen el código."
   />
 </div>
 
