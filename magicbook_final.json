@@ -16,6 +16,9 @@
     "magicbook-katex",
     "magicbook-codesplit"
   ],
+  "images": {
+    "files": "assets/**/*.*"
+  },
   "builds" : [
     {
       "format" : "html",

@@ -1,5 +1,4 @@
 const { w, h, elt } = getGeneral();
-// const m = {l: w * 0, r: w * 0, t: h * 0, b: h * 0, w, h}; 
 const m = getStandardMargins();
 
 const rings = 5;
@@ -77,14 +76,6 @@ function draw() {
 function makeNetwork(data) {
   let svg = d3.select("#general").append("svg").attr("preserveAspectRatio", "xMinYMin meet").attr("viewBox", `0 0 ${w} ${h}`)
   let g = svg.append("g").attr("transform", `translate(${m.l},${m.t})`);
-  
-  g.append("g")
-    .append("rect")
-    .attr("fill", colbg)
-    .attr("x",0)
-    .attr("y",0)
-    .attr("width", m.w)
-    .attr("height", m.h)
 
   let radial = g.append("g");
   let links = g.append("g");
