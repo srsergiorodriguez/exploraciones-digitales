@@ -1,7 +1,7 @@
 ---
 title: Mapa de navegación y aproximaciones teóricas
 ---
-
+<a id="mapa-chapter"></a>
 <header class="chapter-headers">
   <h1>{{ page.title }}</h1>
 </header>
@@ -18,7 +18,6 @@ En el libro *Reensamblar lo social*[@latourReassemblingSocialIntroduction2005], 
   <figcaption>Representación típica de un envolvente</figcaption>
   <img alt="Un dibujo esqumático que muestra una línea que sube, luego decae, se mantiene y se desvanece, como lo hace un envolvente sonoro" src="images/mapa/envolvente.png" />
 </figure>
-
 
 Estas asociaciones pueden analizarse a partir de la observación de los discursos y las acciones de los sujetos sobre los que se está investigando: para Latour, este proceso se logra a través del seguimiento o el trazado que dejan las marcas de las asociaciones entre sujetos. En este sentido, y como lo entendería el autor, el trazado es una estrategia de “escritura a mano” convencional —*longhand*—, en vez de taquigrafía —*shorthand*—, en el sentido en el que busca establecer matices que muestren que los sujetos no se constituyen por simples sistemas de oposición, sino que, por el contrario, para entenderlos hay que narrarlos, hay que contar cómo se transforman, cómo cambian de opinión y cómo son inconsistentes: hay que construir una especie de libro de viajes del discurso: "la ventaja de una aproximación de libro de viajes sobre un 'discurso del método' es que no puede ser confundida con el territorio sobre el que se superpone"[@latourReassemblingSocialIntroduction2005, p. 17]. En otras palabras, y para los fines de este proyecto, la teoría de Latour permite dar cuenta de formas de identidad contradictoria y del desplazamiento de objetivos en las acciones de los individuos. Para Latour “ANT [la Teoría de Actor-Red] afirma que es posible trazar relaciones más sólidas y descubrir patrones más reveladores si se encuentra una forma de registrar los enlaces entre marcos de referencia inestables y cambiantes, más que tratando de mantener un marco estable”[@latourReassemblingSocialIntroduction2005, p. 24]. En efecto, los marcos de referencia de fenómenos sociales como las humanidades y su relación con lo digital son sumamente cambiantes e inestables.
 

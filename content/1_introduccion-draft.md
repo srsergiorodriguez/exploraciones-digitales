@@ -2,12 +2,12 @@
 title: Introducción
 layout: layouts/intro.html
 ---
-
+<a id="introduccion-chapter"></a>
 <header class="chapter-headers">
   <h1>{{ page.title }}</h1>
 </header>
 
-*Humanidades digitales* es un término que engloba muchas prácticas investigativas, académicas y activistas diferentes, así como posturas epistemológicas diversas. Aunque por este mismo motivo el término ha escapado a definiciones precisas, para situarnos podríamos decir que las humanidades digitales tienen su núcleo en un doble movimiento: 
+***Humanidades digitales*** es un término que engloba muchas prácticas investigativas, académicas y activistas diferentes, así como posturas epistemológicas diversas. Aunque por este mismo motivo el término ha escapado a definiciones precisas, para situarnos podríamos decir que las humanidades digitales tienen su núcleo en un doble movimiento: 
 
 1. El potenciamiento de la investigación humanística por medio de tecnologías digitales.
 2. La indagación, desde un punto de vista humanístico, acerca del impacto del medio digital en las dinámicas culturales.

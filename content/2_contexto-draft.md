@@ -1,7 +1,7 @@
 ---
 title: Problema y objetivos
 ---
-
+<a id="problemas-chapter"></a>
 <header class="chapter-headers">
   <h1>{{ page.title }}</h1>
 </header>
@@ -20,7 +20,11 @@ En América Latina también se han producido piezas de investigación que reflex
 
 Cabe poner de relieve las reflexiones en artículos de investigación de personas como Gimena del Rio Riande y Romina De León[@asociacionargentinadehumanidadesdigitalesHumanidadesDigitalesConstrucciones2018; @rioriandeQueHablamosCuando2014] en Argentina; Jairo Antonio Melo[@gayolPresentePerspectivasHumanidades2017] y María José Afanador[@afanadorllachHumanidadesDigitalesColombiche2020; @afanador-llachDevelopingNewLiteracy2022] en Colombia; Ernesto Priani, Francisco Barrón, o la mencionada Isabel Galina Russell en México[@barronHumanidadesDigitalesIlustracion2016; @barrontovarHumanidadesDigitalesPensamiento2018; @galinarusellQueSonHumanidades2011; @prianisaisoHumanidadesDigitalesEspanol2014]; Carolina Gainza[@carolinagainzaLiteratureAlgorithmsAesthesis2023] en Chile; o Antonio Rojas Castro en España, Alemania y Cuba. Estos artículos han indagado acerca de las particularidades de las humanidades digitales en el contexto latinoamericano, sus oportunidades y dificultades, y en algunos casos se han propuesto fundamentos conceptuales y propósitos para el futuro. También se han hecho lecturas de las humanidades digitales en América Latina desde un punto de vista externo, como el libro *Digital Humanities in Latin America*[@fernandezlhoesteDigitalHumanitiesLatin2020] o los análisis y diagnósticos de Domenico Fiormonte[@fiormontePorQueHumanidades2018], y se han realizado proyectos en escala global, especialmente la <a href="https://dh2018.adho.org/" target="_blank">edición del 2018 del congreso de la ADHO en México</a>.
 
-HACER UN ATLAS INTERACTIVO DE LAS PUBLICACIONES SOBRE HUMANIDADES DIGITALES
+<sketch
+  height="650px"
+  src="./assets/sketches/contexto/panelEstadoDelArte"
+  caption="Un panel interactivo con un sobrevuelo del estado del arte con publicaciones relevantes para esta disertación."
+/>
 
 ## Problemas de investigación
 
