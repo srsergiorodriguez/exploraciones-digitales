@@ -15,5 +15,5 @@ cd ..
 
 echo "Done"
 
-magicbook build --watch --config=./magicbook_citation.json
+magicbook build --config=./magicbook_citation.json
 

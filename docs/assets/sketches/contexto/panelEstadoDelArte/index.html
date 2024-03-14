@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panel Estado del Arte</title>
+  </head>
+  <body>
+    <div id="general"></div>
+  </body>
+  <style>
+
+    body {
+      padding: 0;
+      margin: 0;
+    }
+
+    #general {
+      box-sizing: border-box;
+      margin: auto;
+      width: 650px;
+      font-family: 'Baskerville';
+      background: var(--colbg);
+    }
+
+    .storydiv {
+      box-sizing: border-box;
+      border: solid black 1px;
+      width: 100%;
+      height: 650px;
+      display: flex;
+      padding: 1em;
+      flex-direction: column;
+      border-radius: 5px;
+    }
+
+    .storytitle {
+      font-size: 2em;
+      margin: 0.1em 0;
+    }
+
+    .storyp {
+      font-size: 1.2em;
+    }
+
+    .storymeta-container {
+      margin: 0.5em 0;
+    }
+
+    .storymeta-key {
+      font-weight: 700;
+    }
+
+    .storybutton-container {
+      margin: auto;
+    }
+
+    .storybutton {
+      background: white;
+      box-shadow: none;
+      border: solid 1px;
+      margin: 0px 1em 0px 0px;
+      font-size: 20px;
+      font-family: 'Baskerville';
+      cursor: pointer;
+      border-radius: 5px;
+    }
+
+    .storybutton:hover {
+      color: white;
+      background: black;
+    }
+
+    .storyimage-container {
+      box-sizing: content-box;
+      position: relative;
+      width: 100%;
+      margin: auto;
+    }
+
+    .storyimage {
+      justify-content: center;
+      max-width: 100%;
+      max-height: 100%;
+      margin: auto;
+      border-radius: 5px;
+      display: block;
+      -webkit-user-drag: none;
+      -khtml-user-drag: none;
+      -moz-user-drag: none;
+      -o-user-drag: none;
+      pointer-events: none;
+      user-select: none;
+    }
+
+    .storyimage-area {
+      box-sizing: border-box;
+      position: absolute;
+      cursor: pointer;
+      text-align: center;
+      color: black;
+      background: #ffffff00;
+      border: solid 1px black;
+    }
+
+    .storyimage-area:hover {
+      background: #ffffff33;
+    }
+
+    @media screen and (max-device-width: 500px) {
+      #storygeneraldiv {
+        max-width:100%;
+      }
+      .storyp {
+        font-size: 7vw;
+      }
+      .storybutton {
+        font-size: 10vw;
+      }
+    }
+  </style>
+  <script src="../../helpers.js"></script>
+  <script src="../../p5.min.js"></script>
+  <script src="../../d3.v7.min.js"></script>
+  <script src="../../aventura.js"></script>
+  <script src="sketch.js"></script>
+</html>

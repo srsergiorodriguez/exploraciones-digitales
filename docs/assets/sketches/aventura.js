@@ -217,7 +217,7 @@ class Aventura {
         text: `${d.CONT || ''}`,
         meta: d.ID,
         dataScene: true,
-        options: [{btn: "<<<", scene: `ind_${d.ID}`}]
+        options: [{btn: "👈👈👈", scene: `ind_${d.ID}`}]
       }
       if (d.IMGURL !== undefined) {
         scenes[`ind_${d.ID}`].image = d.IMGURL;
@@ -1262,7 +1262,7 @@ async function packViz(instance, data, h1, h2, imgLoadCallback = () => {}) {
   }
   
   d3.forceSimulation(imgs)
-    .force("collide", d3.forceCollide(20))
+    .force("collide", d3.forceCollide(45))
     .tick(200)
   
   const canvas = document.createElement("canvas");
@@ -1273,7 +1273,7 @@ async function packViz(instance, data, h1, h2, imgLoadCallback = () => {}) {
   ctx.fillStyle = instance.options.vizBg;
   ctx.fillRect(0, 0, width, height);
   
-  ctx.font = "12px serif";
+  ctx.font = "42px serif";
   ctx.textBaseline = "middle";
   ctx.textAlign = "center";
 
@@ -1290,13 +1290,13 @@ async function packViz(instance, data, h1, h2, imgLoadCallback = () => {}) {
       ctx.stroke();
 
       ctx.fillStyle = instance.options.vizCol;
-      ctx.fillText(d.depth === 1 || d.depth === 2 ? d.data[0] : "", 0, -d.r - 5);
+      ctx.fillText(d.depth === 1 || d.depth === 2 ? d.data[0] : "", 0, -d.r -40 + (d.depth * 20));
     ctx.restore();
   }
 
   const areas = [];
   for (let i of imgs) {
-    const w = parseInt(50);
+    const w = parseInt(instance.options.visImageSize);
     const h = parseInt(w * i.img.height / i.img.width);
     const x = i.x;
     const y = i.y;

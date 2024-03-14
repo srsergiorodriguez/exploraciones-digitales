@@ -26,7 +26,7 @@
     <a data-toc="chapter" href="introduccion.html#introduccion-Q6w3FZ6">Introducción</a>
   </li>
 <li>
-    <a data-toc="chapter" href="contexto.html#problema-y-objetivos-oGRrhxG">Problema y objetivos</a>
+    <a data-toc="chapter" href="contexto.html#problemas-y-estado-del-arte-oGRrhxG">Problemas y estado del arte</a>
   </li>
 <li>
     <a data-toc="chapter" href="metodos.html#metodos-y-datos-g6z2uK6">Métodos y datos</a>
@@ -113,13 +113,16 @@
     <a data-toc="sect1" href="infraestructura.html#modelos-importados-que-no-son-la-solucion-Deo7Tne">¿Modelos importados que no son la solución?</a>
   </li>
 <li>
-    <a data-toc="sect1" href="infraestructura.html#multiples-brechas-DwpqTaz">Múltiples brechas</a>
+    <a data-toc="sect1" href="infraestructura.html#asomandose-a-las-brechas-DwpqTaz">Asomándose a las brechas</a>
   </li>
 <li>
-    <a data-toc="sect1" href="infraestructura.html#haciendo-lo-propio-y-apropiado-lo-apropiado-qzLWT9w">Haciendo lo propio y apropiado lo apropiado</a>
+    <a data-toc="sect1" href="infraestructura.html#paradojas-de-la-escalabilidad-Jw6lTxe">Paradojas de la escalabilidad</a>
   </li>
 <li>
-    <a data-toc="sect1" href="infraestructura.html#los-comunes-Jw6lTxe">Los comunes</a>
+    <a data-toc="sect1" href="infraestructura.html#haciendo-lo-propio-y-apropiado-lo-apropiado-7e7oTYe">Haciendo lo propio y apropiado lo apropiado</a>
+  </li>
+<li>
+    <a data-toc="sect1" href="infraestructura.html#infraestructuras-generosas-los-comunes-EwX2TLe">Infraestructuras generosas, los comunes</a>
   </li>
     </ul>
 </li>
@@ -193,6 +196,7 @@
 </section></section></section><section data-type="sect1" id="desarrollo-y-aspectos-tecnicos-Po0psQo"><h1>Desarrollo y aspectos técnicos</h1>
 <p>En cuanto a los aspectos técnicos, este proyecto utiliza un software de código abierto que se mueve entre la publicación digital y la impresa: el <a href="https://github.com/magicbookproject/magicbook" target="_blank">Magicbook Project</a> desarrollado por el programa en Telecomunicaciones Interactivas de la Universidad de Nueva York. Magicbook es un software que permite, simultáneamente, escribir un libro que puede exportarse tanto en formato HTML, para la web, como en formato PDF, para su posterior impresión. Debido a que, al menos a la fecha, esta es una disertación no convencional en términos de su formato, me pareció adecuado utilizar Magicbook para tener dos versiones, una impresa, archivable como tesis de doctorado en repositorios académicos como cualquier otra, y una digital, que aprovecha las prestaciones del medio y que permite todas las funcionalidades interactivas que elaboré antes. Magicbook ha sido utilizado en algunos proyectos de una naturaleza similar que han servido como inspiración para esta disertación, especialmente, el libro/sitio web de <a href="https://natureofcode.com/" target="_blank">The Nature of code</a> por Daniel Shiffman, en el que se explican disitintos principios para creación de simulaciones físicas a través de código, y <a href="https://programmingdesignsystems.com/" target="_blank">Programming Design Systems</a> de Rune Madsen que hace un recorrido por los fundamentos del diseño gráfico y web y explica cómo pueden crearse sistemas de diseño que den cuenta de tales principios.</p>
 <p>Adicionalmente, tuve que crear plugins y personalizaciones del código para adaptar Magicbook a las necesidades de este proyecto en particular. Por ejemplo, los formatos de citación, la integración de los componentes y el funcionamiento del sistema de diseño en general. Todos los elementos que componen esta versión particular y sus adaptaciones, así como el contenido de la disertación, se encuentran en un repositorio de la plataforma GitHub, en código abierto, y pueden usarse libremente para desarrollar otros libros de naturaleza similar. Una de las intenciones de este desarrollo, y esto podría pensarse dentro del objetivo de la disertación de proponer líneas de trabajo para las humanidades digitales, es brindar un fundamento tecnológico o una infraestructura para nuevas investigaciones en y sobre el medio digital. Estas infraestructuras están, además, construidas con las dimensiones, y sus tensiones, que se desarrollaron a lo largo de la disertación.</p>
+<p>No obstante, este proyecto sufre de la diglosia cultural descrita en el capítulo <a href="infraestructura.html#infraestructuras-chapter" data-type="xref">5.4</a> sobre infraestructuras, pues, en su código fuente contiene una mezcolanza de términos y textos en inglés y español, la inevitable existencia en dos lenguas paralelamente común en el mundo de las tecnologías digitales. Esta diglosia en ocasiones ha sido difícil de navegar, especialmente en términos de llegar a una forma consistente de negociar con las formas preestablecidas de los lenguajes de programación y las librerías digitales, principalmente en inglés, y un posible usuario de este proyecto que quiera tomar las infraestructuras desarrolladas acá para sus propios proyectos en español. Así, como un monstruo de frankenstein de código de programación, este libro digital hace un esfuerzo por hacer accesibles sus procesos, pero, a la vez, está cargado con contradicciones y hackeos en su construcción.</p>
 <p>Todos las piezas interactivas fueron realizadas con el lenguaje de programación JavaScript y con la ayuda de algunas librerías para la producción de programación creativa y visualización de datos: especialmente, d3, p5 y Aventura. Como mencioné, Aventura es una librería de programación que yo mismo creé para la producción de literatura electrónica y textos generativos, así que, en conexión con las reflexiones que hago en el capítulo sobre infraestructuras, esta es una pieza de software local que, de hecho, con el fin de acortar brechas idiomáticas, está pensada para ser usada en español. En este punto también quiero mencionar la colaboración y retroalimentación del club de programación que coordino en la Red Colombiana de Humanidades Digitales, gracias a sus participantes, la librería ha recibido múltiples mejoras que se han visto reflejadas en este projecto. Mis habilidades de programación también se han pulido gracias al trabajo en el club, y eso permitió, sin duda, la producción de unas piezas interactivas más consistentes en términos de usabilidad y sólidas en el hilo argumentativo.</p>
 <p>En términos de sostenibilidad, este libro digital se aloja en el servicio gratuito GitHub Pages. Aunque esto no garantiza que permanezca en línea de forma indefinida, la ausencia de costos de mantenimiento y la estabilidad del servicio de GitHub servicio permite, por lo menos, suponer que estará en línea por un periodo considerable de tiempo. A su vez, la existencia abierta del repositorio permite hacer copias de seguiridad para, eventualmente, alojar en sitio en nuevas plataformas, si así se requiere.</p>
 </section></section>
