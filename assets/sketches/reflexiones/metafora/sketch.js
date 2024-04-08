@@ -25,7 +25,7 @@ const metaphors = [
   },
   {
     target: "Fenómeno social",
-    source: "Envoltorio sonoro",
+    source: "Envolvente sonoro",
     targetConcepts: ["Asociaciones", "Controversias", "Formación de grupos"],
     sourceConcepts: ["Ataque", "Decaimiento", "Sostenimiento", "Desvanecimiento", "Sonido"],
     projections: [true, true, true, true, false]

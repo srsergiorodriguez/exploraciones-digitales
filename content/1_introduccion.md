@@ -1,10 +1,14 @@
 ---
-title: Introducción
+bibliography: biblioteca.bib
+csl: citation/chicago-fullnote-bibliography-with-ibid.csl
 layout: layouts/intro.html
+reference-section-title: Referencias
+title: Introducción
 ---
+
 <a id="introduccion-chapter"></a>
 <header class="chapter-headers">
-  <h1>{{ page.title }}</h1>
+<h1>{{ page.title }}</h1>
 </header>
 
 Esta disertación en forma de libro digital busca mapear, en cuatro dimensiones generales, las tensiones en la construcción de las comunidades y prácticas de las humanidades digitales en América Latina: con respecto a la tradición humanística, los modos de relacionamiento con lo digital, la formación de comunidad y las infraestructuras. Como contexto e introducción, quiero narrar en este capítulo los caminos que me llevaron a este tema y problema, y a tomar la perspectiva particular que defenderé en los capítulos que siguen.
@@ -31,9 +35,9 @@ A partir de ese contexto surge la motivación de esta disertación doctoral. Es 
 
 Dentro de este panorama, esta disertación explora, describe y explica las tensiones que surgen en el desarrollo de la búsqueda de un lugar en las humanidades digitales desde América Latina. Es decir, los movimientos en el archipiélago diverso de las humanidades digitales que revelan horizontes epistemólógicos que jalan hacia distintos lados. Especialmente, la disertación se enfoca en cuatro dimensiones particulares, cuatro ejes de movimiento posible, y sus tensiones subyacentes: la tradición humanística, o la inserción de las tecnologías y culturas digitales en las humanidades y la autenticidad del humanismo latinoamericano; los modos de relacionamiento con lo digital, o las formas en las que se entiende, usa y estudia lo digital desde las humanidades; la construcción de comunidad, o las formas de organización formales e informales que configuran a las humanidades digitales; y las infraestructuras, o las formas de facilitación del trabajo humano y computacional, sus limitaciones y posibilidades. Estas dimensiones fundamentan además posibles líneas de trabajo para las humanidades en América Latina, de una forma que pueden asumirse las tensiones, no necesariamente resolverse, de formas productivas y significativas.
 
-Basado en la clasificación de Lawrence Neuman[@neumanSocialResearchMethods2014] de distintos tipos de objetivos de investigación, esta disertación se enfoca en tres de ellos: explorar, describir y explicar las tensiones de las humanidades digitales en América Latina.
+Basado en la clasificación de Lawrence Neuman<span id='quote-fn1' class='tooltip'>^[William Lawrence Neuman, *Social Research Methods: Qualitative and Quantitative Approaches*, 7. ed., Pearson new internat. ed, Pearson Custom Library (Harlow: Pearson, 2014).]<span class='tooltiptext'>William Lawrence Neuman, *Social Research Methods: Qualitative and Quantitative Approaches*, 7. ed., Pearson new internat. ed, Pearson Custom Library (Harlow: Pearson, 2014).</span></span> de distintos tipos de objetivos de investigación, esta disertación se enfoca en tres de ellos: explorar, describir y explicar las tensiones de las humanidades digitales en América Latina.
 
-**Explorar** porque busca hacer uso de diversos métodos, tanto cualitativos como cuantitativos, para sondear las tensiones alrededor de las humanidades digitales en el contexto latinoamericano —tanto en relación con su desarrollo interno como en relación con el desarrollo global—. La investigación exploratoria se basa en aprender por medio del hacer y el desarrollo de técnicas propias que surgen del proceso iterativo de la indagación. Como afirma Neuman, "los investigadores que llevan a cabo invetigación exploratoria deben ser creativos, de mente abierta y flexibles: adotar posturas investigativas y explorar todas las fuentes de información [...] Ellos hacen preguntas creativas y toman ventaja de la serendipia (es decir, factores inesperados y fortuitos que tienen implicaciones amplias)"[@neumanSocialResearchMethods2014, p. 38]. Así, esta investigación se propuso hacer uso de múltiples métodos, y de estructurar formas de cristalización entre ellos, para explorar y formar un panorama diverso de las múltiples posibilidades de las humanidades digitales en América Latina.
+**Explorar** porque busca hacer uso de diversos métodos, tanto cualitativos como cuantitativos, para sondear las tensiones alrededor de las humanidades digitales en el contexto latinoamericano —tanto en relación con su desarrollo interno como en relación con el desarrollo global—. La investigación exploratoria se basa en aprender por medio del hacer y el desarrollo de técnicas propias que surgen del proceso iterativo de la indagación. Como afirma Neuman, "los investigadores que llevan a cabo invetigación exploratoria deben ser creativos, de mente abierta y flexibles: adotar posturas investigativas y explorar todas las fuentes de información [...] Ellos hacen preguntas creativas y toman ventaja de la serendipia (es decir, factores inesperados y fortuitos que tienen implicaciones amplias)"<span class='tooltip'>^[Ibid., 38.]<span class='tooltiptext'>Ibid., 38.</span></span>. Así, esta investigación se propuso hacer uso de múltiples métodos, y de estructurar formas de cristalización entre ellos, para explorar y formar un panorama diverso de las múltiples posibilidades de las humanidades digitales en América Latina.
 
 **Describir** porque busca establecer una serie de categorías conceptuales para dar orden y facilitar el entendimiento de tales tensiones, a través de la formulación de cuatro dimensiones analíticas, interconectadas entre sí: la dimensión de la tradición humanística, la dimensión de los modos de relacionamiento con lo digital, la dimensión de la formación de comunidades y la dimensión de las infraestructuras. Todas ellas configuran una teoría que permite dar un panorama de las humanidades digitales y ubicar a sus actores en espacios de posibilidad, como se describirá en secciones posteriores, un mapa de navegación o una guía de viaje para las humanidades digitales en América Latina.
 
@@ -46,3 +50,4 @@ Adicionalmente, para navegar las dimensiones y sus tensiones, este trabajo está
 
 A continuación se encuentra el índice de capítulos de este libro digital:
 {% endif %}
+

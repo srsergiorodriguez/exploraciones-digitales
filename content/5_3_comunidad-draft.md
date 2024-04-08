@@ -119,6 +119,8 @@ UN JUEGUITO TIPO NICKY CASE DE ELEMENTOS CON FEEDBACK QUE SE REALIMENTAN
 
 "este  estudio  mostró  cómo,  tanto  en  el  ámbito latinoamericano  como  en  el  anglosajón,  la  forma  de  contacto  más  común  ha  sido  a  partir  de  sus actividades laborales. Si se considera además que varias participaciones apuntaron a la importancia que han tenido los cursos, los recursos en línea y los congresos, se podrían crear estrategias para fomentar la profesionalización en el espacio de trabajo y fortaleciendo iniciativas de formación gratuitas como The Programming Historian en español23o incluso en pensar en más iniciativas dirigidas a bibliotecarios y archivistas como el proyecto WikiBibliotecas que mencioné antes"[@gutierrezdelatorreBibliotecasHumanidadesDigitales2020, p. 127]
 
+SALTO DE FE
+
 ## Acciones duraderas y sostenidas
 
 problemas de motivación, problemas de sostenibilidad

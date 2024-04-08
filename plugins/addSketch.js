@@ -56,7 +56,12 @@ Plugin.prototype = {
 
 function getTable(listdata) {
   let newel = "";
-  const [header, content] = listdata.split(/\|[-]+\|[-]+\|/);
+  // const [header, content] = listdata.split(/\|(-\|)+\n/);
+
+  const spl = listdata.split("\n");
+  const header = spl[0];
+  const content = spl.slice(2).join("\n");
+
 
   let hs = header.split("|")
   hs = hs.slice(1, hs.length - 1);
@@ -64,6 +69,8 @@ function getTable(listdata) {
     newel += `<th>${h}</th>`
   }
   newel = `<tr>${newel}</tr>`
+
+  // console.log(content);
 
   for (let rowcontent of content.split("\n")) {
     if (rowcontent === "") continue

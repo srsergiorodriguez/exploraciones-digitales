@@ -7,12 +7,11 @@
   --h2-size-sect: 9pt;
   --p-size: 8pt;
   --caption-size: 7pt;
-  color: var(--colblack);
+  color: black;
 }
 
 @page {
   size: 15cm 22.5cm;
-  
   @bottom-center {
     content: counter(page);
     font-size: 7pt;
