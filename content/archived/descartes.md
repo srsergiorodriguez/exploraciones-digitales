@@ -91,3 +91,9 @@ https://penelope.hypotheses.org/332 QUIPU
 "Its concepts are neither deduced from any first principle nor do they come full circle and arrive at a final principle. Its interpretations are not philologically hardened and sober, rather —according to the predictable verdict of that vigitlant calculating reason that hires itself out to stupidity as a guard against intelligence —it overinterprets."152
 
 "Luck and play are essential to the essay"152[@adornoEssayForm1984]
+
+Optimizing solutions to other's problems
+"Similarly, Shorish and Chan (“Co-creating Open Infrastructure”) affirm that any infrastructure should include social systems and practices that reflect the values of its creators and, ideally, of those who interact with it: an infrastructure is never neutral but implies struggles for power, legitimizing voices and determining who can access the information and in what manner." [@delrioriandeDigitalHumanitiesVisible2022, p. 251]
+
+https://www.colnodo.apc.org/es/experiencias/se-inauguro-la-red-comuntaria-jxa-h-wejxia-casil-red-del-viento-de-silva-y-caldono
+https://redescomunitarias.co/es/que-son-las-redes-comunitarias
