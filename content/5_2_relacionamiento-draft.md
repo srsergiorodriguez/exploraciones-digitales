@@ -242,6 +242,8 @@ En América Latina, aunque su uso no es tan extendido como en el contexto europe
 
 "Dicho en simple, cuando se dispone de todas las palabras de un texto en formato digital, es posible aplicar sobre lo textos rutinas de análisis automático que son capaces de detectar patrones que de manera manual sería imposible de determinar u observar. Esta posibilidad abre el campo de los estudios de la literatura hacia un horizonte que tan solo hace unas pocas décadas resultaba insospechado, porque permite establecer regularidades no solo en los textos individuales, sino que en cohortes de escritos literarios de mucho mayor volumen de los que puede revisar un analista particular" [@martinez-gamboaBigDataHumanidades2016, p. 40].
 
+"Ya no tener la imagen sino el texto en formato digital para hacer búsquedas o para analizarlo, hacer algún tratamiento de análisis mediante herramientas o lenguajes de programación en esa área me parece que la resistencia es un poco mayor porque ya implica otra aproximación. Ya no es el acceso sino el procesamiento y el análisis. Me da la sensación que hay un salto cualitativo en ese paso, en el que aún cuesta más entrar y que se acepte porque muchas veces supone otra aproximaciones, y muchas veces supone no entender del todo, al cien por cien, qué es lo que estás haciendo, ni cómo interpretar los resultados."[@rojascastroEntrevistaAntonioRojas2022]
+
 SKETCH CON EJEMPLOS DE SAMPLEOS
 
 #### Limitaciones de la hermenéutica computacional

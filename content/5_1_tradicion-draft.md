@@ -112,6 +112,11 @@ El entramado de las instituciones humanísticas también se basa y se apoya en e
 
 Por otra parte, como afirma Small: “una defensa es, después de todo, una defensa contra una amenaza percibida, que puede definirse como un conjunto de necesidades y valores alternativos (la utilidad económica, por ejemplo; o un empirismo excluyente; o una estimación estrechamente cuantitativa de la felicidad humana), o puede ser una amenaza más impersonal representada por un ambiente económico inhabitable en el que todos los bienes públicos están sujetos a demandas de justificación mucho más duras”[@smallValueHumanities2016, p. 3]. Las humanidades se encuentran a la defensiva, buscando algún culpable de su decaímiento, sin un autoexamen suficiente acerca de sus propias prácticas y limitaciones.
 
+
+I guess for me, I would say the crisis of the humanities is manufactured. If we look at it from a public funding standpoint, we can track the reduction in enrollment in humanities programs. It correlates pretty clearly to the lack of public funding for education. And also, more recently, we've seen an expansion of who is going to college, which is great. But as someone myself who grew up in a less socioeconomically advantaged household, I had an English major, but I also had a business major. I think a lot of students feel the need to major in things that they feel like will guarantee them a job and a steady income after they graduate. But when we look at surveys of what courses students like, it's generally their humanities courses that rank the highest. So I don't think that the interest in the humanities is gone, but I do think that the structures that we use to support the humanities have been waning and they haven't been invested in.[@boylesEntrevistaChristinaBoyles2023]
+
+
+
 ## Las humanidades digitales en la crisis
 
 > "Un automóvil rugiente, que parece correr como la metralla, es más bello que la Victoria de Samotracia" -Filippo Tommaso Marinetti — Manifiesto Futurista[@marinettiManifisteFuturisme1909]
