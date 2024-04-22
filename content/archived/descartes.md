@@ -97,3 +97,35 @@ Optimizing solutions to other's problems
 
 https://www.colnodo.apc.org/es/experiencias/se-inauguro-la-red-comuntaria-jxa-h-wejxia-casil-red-del-viento-de-silva-y-caldono
 https://redescomunitarias.co/es/que-son-las-redes-comunitarias
+
+
+----- COMUNIDAD
+
+Graham Day p.1 "The idea of community captures these elements of inclusion and exclusion, pointing towards those who belong together, and those who are held apart" p.2 DISTINTAS VISIONES SOCIOLÓGICAS DE QUE ES Y QUE IMPORTA EN UNA COMUNIDAD
+Durkheim "makes connections between evolving forms of social solidarity and the changing ‘moral density’ of society, as measured by patterns of population concentration, migration and geographical mobility. These are seen as exerting a pressure on the social division of labour, which in turn conditions the kinds of communal relations that are likely to develop. Thus the changing nature of community is influenced, or even determined, by a wide range of material and institutional forces" p.3
+
+"Tonnies in setting out a specific contrast between ‘community’ (Gemeinschaft) and ‘association’ (Gesellschaft). Unlike Weber, who saw these as intermingled and continuous aspects of social relations, Tonnies is often regarded as setting the precedent for treating them as opposing, mutually exclusive, sides of a dichotomy. Certainly they represent different principles of social organization. For Tonnies, Gemeinschaft involves ‘a lasting and genuine form of living together’ which is oriented towards the achievement of ends, through ‘coordinated action for a common good’. Gesellschaft implies instead an orientation to means, calculated action on the part of individuals who engage in ‘artificial’ relations for what they can get from one another."p.5
+Clay Madden and Potts también hablan de la slippiness del término comunidad
+NO BUSCO LA DICOTOMIA ENTRE Tonnies
+Emotion (solidarity, empathy, belonging -community) and convenience (interested, pramatic, instrumetal -association)
+Moral dimension
+Community as a relationship of the past (blood, race, geography, etc.)
+Is community inherently a good thing?
+"Consequently, community has become one of the most abused terms in the rhetoric of politics and policy making, employed promiscuously to harness the positive feelings and support that accompany motives of altruism and solidarity." p.14
+Bauman: community as exclusion
+disorganization, fragmentation, and individiualization
+
+ME INTERESA MAS:
+Grupos de personas que se unen para lograr propósitos comunes, e idealmente construir relaciones duraderas que faciliten esos propósitos. Entonces cabe resaltar que la visión de comunidad que me interesa analizar aquí no es una visión hacia el pasado (la recuperación de alguna identidad común) sino hacia el futuro (en donde el pasado puede servir para construir ese futuro).
+Parafraseando a Williams 1975 "community becomes a political project, a function of the mobilization of collective powers, and therefore is compatible with the conscious pursuit and real- ization of shared values and goals"Graham Day p.20 "his own position is that community can be conceived of as an active process through which individuals and groups strive to realize their potential" p.20
+
+Un sentido infraestructural: La Relaciones duraderas o su condición fragmentaria
+Su agencia: Capacidad para Lograr propósitos comunes
+Y su sostenimiento: Motivaciones y recursos que cohesionan a la comunidad
+Su escala: la relación global-local / hegemonías y diásporas
+
+"From the point of view of community, three main aspects of these changes would appear to be particularly relevant: the dissolution of place; vastly increased mobility; and the destabilization of identities." graham Day 182
+
+Creación de grupos para lograr propósitos comunes que conectan a las humanidades con las tecnologías digitales.
+
+---------

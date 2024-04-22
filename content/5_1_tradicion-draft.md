@@ -119,7 +119,7 @@ I guess for me, I would say the crisis of the humanities is manufactured. If we 
 
 ## Las humanidades digitales en la crisis
 
-> "Un automóvil rugiente, que parece correr como la metralla, es más bello que la Victoria de Samotracia" -Filippo Tommaso Marinetti — Manifiesto Futurista[@marinettiManifisteFuturisme1909]
+>"Un automóvil rugiente, que parece correr como la metralla, es más bello que la Victoria de Samotracia" -Filippo Tommaso Marinetti — Manifiesto Futurista[@marinettiManifisteFuturisme1909]
 
 >“Hombres que habitaban en  "máquinas de vivir" construidas en ciudades dominadas por los tubos electrónicos han inventado esa extraña ciencia que se llama cibernética, que rige la fisiología de los "cerebros electrónicos" y que, en días próximos, servirá para controlar los ejércitos de robots. En ese país no sólo se ha llegado a medir los colores y olores sino los sentimientos y emociones. Y esas medidas, convenientemente tabuladas, han sido puestas al servicio de las empresas mercantiles.” —Ernesto Sábato - Hombres y Engranajes [@sabatoHombresEngranajes1951, p. 54]
 
