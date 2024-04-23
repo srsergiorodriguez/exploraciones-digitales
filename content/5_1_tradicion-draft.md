@@ -116,7 +116,6 @@ Por otra parte, como afirma Small: “una defensa es, después de todo, una defe
 I guess for me, I would say the crisis of the humanities is manufactured. If we look at it from a public funding standpoint, we can track the reduction in enrollment in humanities programs. It correlates pretty clearly to the lack of public funding for education. And also, more recently, we've seen an expansion of who is going to college, which is great. But as someone myself who grew up in a less socioeconomically advantaged household, I had an English major, but I also had a business major. I think a lot of students feel the need to major in things that they feel like will guarantee them a job and a steady income after they graduate. But when we look at surveys of what courses students like, it's generally their humanities courses that rank the highest. So I don't think that the interest in the humanities is gone, but I do think that the structures that we use to support the humanities have been waning and they haven't been invested in.[@boylesEntrevistaChristinaBoyles2023]
 
 
-
 ## Las humanidades digitales en la crisis
 
 >"Un automóvil rugiente, que parece correr como la metralla, es más bello que la Victoria de Samotracia" -Filippo Tommaso Marinetti — Manifiesto Futurista[@marinettiManifisteFuturisme1909]
