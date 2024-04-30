@@ -129,3 +129,28 @@ Su escala: la relación global-local / hegemonías y diásporas
 Creación de grupos para lograr propósitos comunes que conectan a las humanidades con las tecnologías digitales.
 
 ---------
+
+Tomando como base los estudios de Arthur W. Chickering[@chickeringCreatingCommunityIndividual2000] sobre la formuación de comunidades educativas, podemos decir que esta formación de comunidades se mueve entre varios tipos de propósitos.
+
+Creating Community Within Individual Courses
+Arthur W. Chickering 2000
+NEW DIRECTIONS FOR HIGHER EDUCATION:
+Esto lo usa para hablar de cursos pero aplica para comunidades en general
+
+Entrenamiento:
+Hacer a los individuos más parecidos entre sí: adquirir conceptos, percepciones, formas de conocer, propósitos y valores
+VS.
+Educación:
+Clarificar valores y metas propias. Complejizar conceptos, competencias y perspectivas
+
+Propóstisos instrumentales
+Fines particulares
+VS.
+desarrollistas:
+Adquirir habilidades
+
+Diferenciación
+Ver las partes
+VS.
+Integración
+Configurar un todo
