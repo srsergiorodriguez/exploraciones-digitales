@@ -75,7 +75,6 @@ Derivado de esto, entonces, toman lugar espacios de organización y participaci�
 
 Este entramado ha decantado finalmente en congresos, proceedings, publicaciones, proyectos, carreras y programas de posgrado, conexiones personales, piezas de software, metadiscusiones, etc.
 
-
 Aquí podríamos decir que cada una gana una institucionalidad, la versión de agente institucional de la personalidad. HD a lo colombiche
 
 Entre más conexiones, más resultados
