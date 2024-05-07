@@ -71,42 +71,25 @@ Así, aunque existen infinitos matices y derivaciones, y por supuesto muchas per
 
 Todo lo anterior nos indica que existe significatividad en la participación de los agentes de la comunidad de Humanidades Digitales, es decir, es importante para su desarrollo como humanos y para las inquietudes que los mueven. John Dewey, en su teoría del valor, afirma que el término significativo hace referencia a lo que es valioso para la experiencia propia. El propio propósito intrínseco de una comunidad es el desarrollo de esa significatividad, como vimos con la estructura cooperativa de los mundos del arte de Becker.
 
-Derivado de esto, entonces, toman lugar espacios de organización y participación diversos. Asociaciones, Redes, Revistas, Medios de difusión y discusión, Programas educativos, Proyectos en instituciones humanísticas: museos, universidad, bibliotecas. Todos ellos son efectos de la comunidad organizándose para extender su propia agencia. Como afirma John Searle, un hecho institucional es la fundación de una realidad social, es decir, la creación de hechos a partir de su uso y reconocimiento. En un estudio semiótico previo[@rodriguezRecurrencesHumanAgential2016] relacionado con la teoría de Searle, muestro cómo la creación institucional es un proceso recurrente que da sentido a partir de lo previamente hecho y cómo la constitución de instituciones es un hecho significativo en sí mismo, de forma recurrente.
-
-Aquí podríamos decir que cada una gana una institucionalidad, la versión de agente institucional de la personalidad. HD a lo colombiche
-
-Entre más conexiones, más resultados
-Procesos colaborativos, múltiples, interconectados, que se comunican entre sí en toda latinoamérica
-
-UNA TABLA CON EJEMPLOS DE COMUNIDADES
-
-fragmentación
-Disciplinamiento, varias entrevistadas se refieren a las separaciones institucionales, pero también físicas, de las facultades en las universidades.
-
 ## Acciones duraderas y sostenidas
 
-La conjunción de procesos significativos y de instituciones derivadas nos lleva a una distinción importante, como en otros campos del conocimiento y la creación, las humanidades digitales se desenvuelven tanto en comunidades formales como informales, en un gradiente que no está claramente definido.
+Derivado de los procesos significativos buscados por los agentes de la comunidad, toman lugar espacios de organización y participación diversos y prácticas que se vuelven convencionales dentro de esos espacios. La convencionalidad es, entonces, una forma de fundamentar y solidificar la práctica comunitaria. En América Latina hoy existen múltiples asociaciones, redes, medios de divulgación y discusión, programas educativos, proyectos gubernamentales y no gubernamentales, etc. con diversos grados de relación con las temáticas de las humanidades digitales. Todos ellos son efectos de la comunidad organizándose para extender su propia agencia, por medio de distintas formas de institucionalización. Entendido de forma amplia, y desde la visión del filósofo John Searle, un hecho institucional es la fundación de una realidad social, es decir, la creación de hechos a partir de su uso y reconocimiento. Una realidad social es, justamente, real y efectiva en la medida en la que un grupo de personas cree en ellas y la enactua como real. Subsecuentemente, estas realidades sociales formas compromisos, formas de actuar y convenciones sociales. En un estudio semiótico previo[@rodriguezRecurrencesHumanAgential2016] relacionado con la teoría de Searle, muestro cómo la creación institucional es un proceso recurrente que da sentido a partir de lo previamente hecho y cómo la constitución de instituciones es un hecho significativo en sí mismo, de forma recurrente. La propia fuerza de la institución existe en tal recurrencia, pues su función está en permitir acciones duraderas y sostenidas.
 
-Las organizaciones informales permiten la experimentación, las organizaciones.
+La institucionalización tiene distintas maneras de organización, reglamiento y formalidad. Si las personas tienen personalidad, las instituciones tienen institucionalidad, una especie de ADN que define su estilo, funcionamiento y alcances. Como parte de esa institucionalidad podemos pensar en un gradiente de formalidad e informalidad; es decir, con disintos grados de independencia, regulaciones y obligaciones. Por ejemplo, un hackerspace puede organizarse informalmente sin jerarquías y de manera horizontal, y puede operar a partir de acciones voluntarias de su comunidad, sujetos que ocupan roles provisionales y que se transforman rápidamente, mientras que una institución estatal como un museo. Un espacio educativo informal puede estar pensado para alfabetizar en herramientas digitales a un grupo de interés, mientras que un programa educativo formal (o reglado por el estado), tiene la finalidad de instruir y educar, pero también proporcionar certificados de competencia y profesionalizar un campo bajo regulaciones estatales. RENDICION DE CUENTAS Tanto la formalidad como la informalidad tiene sus propias ventajas y limitaciones, como distintos grados de experimeintación.
 
-Por un lado, en América Latina, por una parte, algunas de las actividades de las humanidades digitales han estado movidas por sub comunidades autoorganizadas en asociaciones o redes. Los países precursores han sido México, Argentina y Colombia, pero, en años recientes, otros lugares, como Brasil, Cuba, Chile, o Perú han hecho lo propio.
+### Las redes y asociaciones y su organización
 
-Estas organizaciones, que son instituciones en el sentido amplio definido antes, han trabajado en conjunto para realizar disintos tipos de actividades autoorganizativas.
+En América Latina, por una parte, algunas de las actividades de las humanidades digitales han estado movidas por sub comunidades autoorganizadas en asociaciones o redes. Los países precursores han sido México, Argentina y Colombia, pero, en años recientes, otros lugares, como Brasil, Cuba, Chile, o Perú han hecho lo propio. Podríamos decir que estas redes han sido las semillas que posteriormente han irradiado los conceptos y prácticas de las humanidades digitales a otras partes. De las redes ha brotado la influencia que luego ha permeado a las instituciones oficiales como los museos.
 
-Por ejemplo, la comunicación en blogs y redes sociales es representativa del tipo de propósitos descritos antes, como afirma ernesto Priego: "el tipo de conocimiento que se puede construir a través del debate, incluyendo el blogging y las redes sociales, talleres y editatones/hackatones, es un tipo de conocimiento que continua sin el reconocimiento suficiente y muy poco citado en "la literatura"".[@priegoCanSubalternDH2022, p. 33].
+Estas redes y asociaciones, que son instituciones en el sentido amplio definido antes, han trabajado para realizar disintos tipos de actividades autoorganizativas, y tienen un fuerte relacionamiento entre sí. Por ejemplo, el evento de la semana HD que se organiza entre las redes Mexicana, Argentina y Colombiana, es un ejercicio autogestionado en el que cada participante ofrece las infraestructuras para su evento. Sin embargo, el poder institucional de las redes sirve como aglutinante para que la autogestión tenga un foco de atención centralizado 
 
-Sin embargo, estas subcomunidades se han debatido entre distintas formas de organización, cada una con sus propias ventajas y desventajas.
+Así queda claro el papel fundamental de las redes en la constitución de las humanidades digitales en América Latina. Sin embargo, estas subcomunidades se han debatido entre distintas formas de organización, cada una con sus propias ventajas y desventajas.
 
 Por un lado, existe el modelo de *comunidad de prácticas*, es decir, la asociación libre de agentes con propósitos comunes para la realización de una práctica de interés. Especialmente, llevar a cabo proyectos conjuntos como investigaciones, eventos, así como aprendizaje en conjunto.
 
 Al menos desde mi experiencia en R Ladies, que funciona un poco así, me parece que es flexible, y un beneficio que yo le veo es que muchas veces quienes pueden participar de forma activa en este tipo de instancias más institucionalizadas son personas que tienen más resueltos temas socioeconómicos, o que no tienen labores de cuidado, o que no tienen responsabilidades que les permiten presidir una organización. Entonces viendo el contexto yo creo que probablemente nos interesa más el tipo comunidad de prácticas. O sea, que la gente pueda participar en la medida en que tenga el tiempo para hacerlo. Obviamente eso lo hace más inestable y limita un poco la posibilidad de tener financiamiento autónomo, pero el riesgo de hacerlo de la otra manera, que al menos yo he percibido en algunas instituciones, es que finalmente terminan siendo lideradas por personas que no tienen labores de cuidado, que vienen de contextos socioeconómicos más privilegiados, entonces terminan siendo organizaciones al final muy masculinizadas por eso mismo. Entonces creo que la idea de comunidad de prácticas probablemente sea algo que vamos a pensar en la red.[@quirogaEntrevistaRivaQuiroga2022]
 
 Un tipo importante de comunidad de práctica es la llamada *comunidad de aprendizaje*.
-
-Informal:
-- redes
-- grupos de la sociedad civil
-- hacker spaces, laboratorios
 
 "The key element which distinguishes learning communities as a pedagogic model (and relates them to the sister concept of ‘communities of practice’) is the idea that learning isn’t the acquisition of knowledge but is about participation in a social process."[@billinghamLearningCommunitiesTertiary2007, p. 36]
 
@@ -139,6 +122,16 @@ Formas excluyentes de participación, especialmente debido a que se construyen d
 "este  estudio  mostró  cómo,  tanto  en  el  ámbito latinoamericano  como  en  el  anglosajón,  la  forma  de  contacto  más  común  ha  sido  a  partir  de  sus actividades laborales. Si se considera además que varias participaciones apuntaron a la importancia que han tenido los cursos, los recursos en línea y los congresos, se podrían crear estrategias para fomentar la profesionalización en el espacio de trabajo y fortaleciendo iniciativas de formación gratuitas como The Programming Historian en español23o incluso en pensar en más iniciativas dirigidas a bibliotecarios y archivistas como el proyecto WikiBibliotecas que mencioné antes"[@gutierrezdelatorreBibliotecasHumanidadesDigitales2020, p. 127]
 
 ### Una simbiosis necesaria
+
+Por ejemplo, la comunicación en blogs y redes sociales es representativa del tipo de propósitos descritos antes, como afirma ernesto Priego: "el tipo de conocimiento que se puede construir a través del debate, incluyendo el blogging y las redes sociales, talleres y editatones/hackatones, es un tipo de conocimiento que continua sin el reconocimiento suficiente y muy poco citado en "la literatura"".[@priegoCanSubalternDH2022, p. 33].
+
+Entre más conexiones, más resultados
+Procesos colaborativos, múltiples, interconectados, que se comunican entre sí en toda latinoamérica
+
+UNA TABLA CON EJEMPLOS DE COMUNIDADES
+
+fragmentación
+Disciplinamiento, varias entrevistadas se refieren a las separaciones institucionales, pero también físicas, de las facultades en las universidades.
 
 La doble necesidad de las comunidades informales (No regladas) y las comunidades formales 
 
