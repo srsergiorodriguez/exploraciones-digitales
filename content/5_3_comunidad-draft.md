@@ -85,6 +85,14 @@ Horizonte epistemológico proyectos.
 
 Así, aunque existen infinitos matices y derivaciones, y por supuesto muchas personas excluidas de la muestra de entrevistas que realicé, podríamos decir que para las personas que participan en las humanidades digitales en América Latina son propósitos importantes satisfacer una curiosidad por el mundo digital, aprovechar esa curiosidad para la indagación de temas humanísticos o para hacer una crítica a las culturas digitalizadas, avanzar sus carreras profesionales, y organizarse en conjunto para poder llevar a cabo esas prácticas, así como encontrar proyectos similares que son afines a sus inquietudes. Adicionalmente, aunque existen propósitos como la profundización de una carrera académica o laboral, o la obtención de recursos económicos, que también son intenciones válidas y significativas, podemos afirmar que el aspecto intelectual en conjunción con la técnica digital es importante para esta comunidad. Si no lo fuera, los agentes simplemente buscarían otros lugares con retribuciones más estables, con desarrollos más definidos y probados, y con mayores aspiraciones económicas, como veremos.
 
+Si vemos las cosas en detalle, podemos ver que estas motivaciones e incentivos se replican en 
+
+Fundación Histórica Neogranadina
+
+Al momento de iniciar, participantes en el proyecto de catalogado colaborativo FHN manifestarion un rango diverso de motivos, como adquirir habilidades, construir redes, y aprender de historia y humanidades digitales. Algunos querían perfeccionar sus habilidades en paleografía e investigación histórica o expandir su red profesional. On participante dijo: "Quisiera ponter en práctica el pequeño conocimiento que tengo sobre paleografía, así como pertenecer a una red de paleógrafos". También había intereses altruistas como ayudar a preservar el patrimonio cultural  nacional, y contribuir al desarrollo de las humanidades digitales".[@afanador-llachDevelopingNewLiteracy2022, p. 233]
+
+"Sin embargo, mientras el proyecto avanzaba, fue un reto mantener el nivel inicial de compromiso, dadas las demandas de tiempo, la complejidad de las tareas, y otros compromisos de los participantes. Luego de un año, más de la mitad de los participantes de dejó de contruibuir activamente: incluso los líderes del proyecto redujeron el tiempo dedicado a emails y publicaciones en Facebook"[@afanador-llachDevelopingNewLiteracy2022, p. 233]
+
 ## Acciones duraderas y sostenidas
 
 Entendido de forma amplia, y desde la visión del filósofo John Searle[@searleConstruccionRealidadSocial2004], un hecho institucional es la fundación de una realidad social, es decir, la creación de hechos —*facts*— a partir de su uso y reconocimiento por parte un grupo de personas. Una realidad social es, justamente, real y efectiva en la medida en la que un grupo de personas cree en ella y la enactúa como real. Estas realidades sociales delimitan compromisos, formas de actuar y convenciones sociales que tienen efectos concretos en las vidas de las personas. Tal vez los ejemplos más comunes de institucionalización en el sentido de Searle son la policía como asignación social del uso legítimo de la fuerza, y la iglesia como validadora del matrimonio a través un rito. En ambos casos, tanto la policía como la iglesia existen porque un grupo de personas reconocen su existencia, voluntariamente o no, y responden a las realidades sociales que se instituyen con ellas. De forma similar, en el caso de las humanidades digitales, derivado de los procesos significativos buscados por los agentes de la comunidad, se han conformado espacios de organización y participación diversos y prácticas que se vuelven convencionales dentro de esos espacios y conforman realidades sociales propias. Así, en América Latina hoy existen múltiples asociaciones, redes, medios de divulgación y discusión, proyectos educativos, programas gubernamentales y no gubernamentales, etc. con diversos grados de relación con las temáticas de las humanidades digitales. Todos ellos son efectos de la comunidad organizándose para extender su propia agencia por medio de distintas formas de institucionalización. 
@@ -118,6 +126,8 @@ Por ejemplo, con respecto al grupo de interés R Ladies Chile, un grupo de parti
 
 "Al menos desde mi experiencia en R Ladies, que funciona un poco así, me parece que es flexible, y un beneficio que yo le veo es que muchas veces quienes pueden participar de forma activa en este tipo de instancias más institucionalizadas son personas que tienen más resueltos temas socioeconómicos, o que no tienen labores de cuidado, o que no tienen responsabilidades que les permiten presidir una organización. Entonces viendo el contexto yo creo que probablemente nos interesa más el tipo comunidad de prácticas. O sea, que la gente pueda participar en la medida en que tenga el tiempo para hacerlo. Obviamente eso lo hace más inestable y limita un poco la posibilidad de tener financiamiento autónomo, pero el riesgo de hacerlo de la otra manera, que al menos yo he percibido en algunas instituciones, es que finalmente terminan siendo lideradas por personas que no tienen labores de cuidado, que vienen de contextos socioeconómicos más privilegiados, entonces terminan siendo organizaciones al final muy masculinizadas por eso mismo. Entonces creo que la idea de comunidad de prácticas probablemente sea algo que vamos a pensar en la red.[@quirogaEntrevistaRivaQuiroga2022]"
 
+En nuestra entrevista, Gimena del Rio manifiesta explícitamente que la Asociación Argentina de Humanidades Digitales sigue el modelo de comunidad de prácticas:
+
 Un tipo importante de comunidad de práctica es la llamada *comunidad de aprendizaje*, o una comunidad que tiene como propósito construir conocimento a partir de la participación colectiva. Como afirma Billingham: "el elemento clave que diferencia a las comunidades de aprendizaje como modelo pedagógico (y lo relaciona con el concepto hermano de 'comunidad de práctica') es la idea de que el aprendizaje no es la adquicisión de conocimineto sino la participación en un proceso social"[@billinghamLearningCommunitiesTertiary2007, p. 36]. En efecto, como se hace evidente con muchos de los ejemplos mencionados antes, las humanidades digitales en América Latina se han movilizado y dinamizado en una parte importante gracias al interés por el aprendizaje en conjunto y la necesidad de formación en herramientas digitales para su aplicación en proyectos de conservación de la memoria e interpretación y apreciación de la cultura. Al respecto, Afanador-Llach y Lombana-Bermúdez afirman que "al tiempo que adaptan el ethos de las culturas participativas y experimentan con nuevas formas de colaboración y producción de conocimiento entre pares, los proyectos de humanidades digitales pueden abrir espacios para que comunidades de aprendizaje prosperen"[@afanador-llachDevelopingNewLiteracy2022, p. 234]. Siguiendo la lógica de la comunidad de prácticas, la comunidad de aprendizaje no se ciñe a los compromisos de la educación reglada como realidad social institucional. Por el contrario,  Es decir, los roles de docente y estudiante mutan fácilmente.
 
 En la conversación que mantuvimos, Antonio Rojas Castro, quien fue editor de Programming Historian, reflexiona sobre el surgimiento del proyecto y la lógica subyacente a su organicación: 
@@ -130,29 +140,34 @@ JUEGO DEL SALTO DE FE
 
 LUEGO DE ESCOGER UNA PUERTA SE LANZA UN DADO, CADA PUERTA TIENE UN MULTIPLICADOR O DIVISOR CONECTADO CON UNOS ODDS DE GANAR O PERDER, TIPO RISK
 
-Como afirma Afanador Llach 
+Como afirman Afanador-Llach y Lombana-Bermúdez "La escasez de recursos humanos y financieros hicieron que el proyecto se soportara completamente en trabajo voluntario. Pero solo unos cuantos voluntarios que ya eran paleógrafos experimentados pudieron el ritmo sin perder el ímpetu. Incluso los líderes del proyecto batallaron con mantener su compromiso, dado que tenían otras responsabilidades profesionales"[@afanador-llachDevelopingNewLiteracy2022, p. 233]
+
 
 Riva Quiroga en nuestra conversación es clara en la dicotomía que plantea el trabajo de las comunidades de prácticas o de la organización semi formal:
 
 "puedo ser profesora ambulante, participar en los proyectos en la medida en que yo quiera, y proyectos en los que se cruzan estas cosas que a mí me interesan, pero obviamente eso tiene un lado negativo y es la no estabilidad laboral. Cuando no es semestre académico, o sea, vacaciones, es no tener trabajo. No son vacaciones en el sentido de que a uno le paguen las vacaciones. Entonces me parece que eso es un dilema, porque todavía no existe la posibilidad, al menos en Chile, no hay un programa de humanidades digitales y lo que están saliendo son diplomados. En los diplomados hacen clase los profesores ambulantes. No hay un curso de humanidades digitales en una carrera de pregrado. Ni siquiera que se llame humanidades digitales, pero se podría llamar, no sé, “métodos digitales de investigación”, donde puedan participar estudiantes de historia y literatura; eso no existe. No existe ese espacio y creo que eventualmente a toda la gente que me pregunta qué voy a hacer después del doctorado: “la verdad es que no sé”. Veo un poco ese dilema, trato de apuntar a tener una carrera estable y una posición en un departamento de lingüística que me aleje de esas otras cosas o asumo la incertidumbre y sigo mi vida de profe ambulante, que lo he hecho toda mi vida. Creo que ese es el dilema." RIVA QUIROGA
 
-### Instituciones formales regladas
+### Instituciones formales
+
+Por otra parte, existe el modelo de **instituciones formales**, es decir, instituciones que adquieren compromisos y obligan con más vehemencia a sus participantes a ceñirce a ellos con más vehemencia. Esa condición reglada les permite beneficios como financiación de instituciones estatales u organizaciones filantrópicas privadas. Son una realidad social más estricta que la comunidad de prácticas.
+
+Sin duda, las grandes instituciones humanísticas de la universidad, el museo y la biblioteca, suelen ser formales, aunque también existen versiones informales mantenidades por 
+
+Por ejemplo, a diferencia de la comunidad de prácticas Argentina, la RedHD de México apunta a ser una institución formal, y se organiza usando una estructura de asociación académica convencional. Esto le ha permitido relacionarse de manera distinta con otras instituciones.
 
 Un hito importante fue la realización del congreso de la ADHO en México en 2018. Instituciones.
 
-Un disciplinamiento, si se quiere.
-
-----
-Institución formal: conservación, apreciación, educación / defensa del humanismo como tradición
-Presupuestos estatales y privados
-
-- universidad -> Disciplinamiento y especialización
-- museo
-- biblioteca - archivo
-
-EL PROBLEMA DEL SISTEMA DEL PRESTIGIO. Competencia en instituciones informales para el ascenso social
+Una institución formal puede más fácilmente establecer una línea de trabajo, debido a que no tiene la dispersión de objetivos de la comunidad de prácticas. Horizonte epistemológico.
 
 Formas excluyentes de participación, especialmente debido a que se construyen de manera jerárquica y dependen de políticas más amplias que son difíciles de reencausar, sea el estado, la política local, las posturas ideológicas de gobernantes de turno, o los intereses institucionales de universidades, archivos y museos. Alianzas formales.
+
+EL PROBLEMA DEL SISTEMA DEL PRESTIGIO. Competencia en instituciones informales para el ascenso social Motivaciones
+
+No obstante, ese horizonte también puede implicar formas de encerramiento que llevan a cristalizar el disciplinamiento humanístico. Como se discutió en más detalle en el capítulo [5.1](#tradicion-chapter) sobre la tradición humanística, el disciplinamiento puede resultar en.
+
+Varias de las personas entrevistadas para esta investigación manifestaron, por ejemplo, un distanciamiento artificial de otras perspectivas debido a la subdivisión de las universidades en facultades y carreras claramente definidas. Incluso manifestaron que la separación en edificios era un factor que dificultaba el relacionamiento,  a pesar de que trataran temas que podían hibridarse y dar lugar a proyectos fructíferos.
+
+Profesionalización
 
 "este  estudio  mostró  cómo,  tanto  en  el  ámbito latinoamericano  como  en  el  anglosajón,  la  forma  de  contacto  más  común  ha  sido  a  partir  de  sus actividades laborales. Si se considera además que varias participaciones apuntaron a la importancia que han tenido los cursos, los recursos en línea y los congresos, se podrían crear estrategias para fomentar la profesionalización en el espacio de trabajo y fortaleciendo iniciativas de formación gratuitas como The Programming Historian en español23o incluso en pensar en más iniciativas dirigidas a bibliotecarios y archivistas como el proyecto WikiBibliotecas que mencioné antes"[@gutierrezdelatorreBibliotecasHumanidadesDigitales2020, p. 127]
 
@@ -172,8 +187,6 @@ Disciplinamiento, varias entrevistadas se refieren a las separaciones institucio
 
 La doble necesidad de las comunidades informales (No regladas) y las comunidades formales 
 
-Simbiosis necesaria
-
 Community of practice como duradera, efectiva, informal y más abierta a la representación de comunidades marginadas. Stuart Billingham en Clay etal
 
 Un ejemplo de ello es el club de programación de la REd COlombiana de Humanidades Digitales que fundé y, al menos en el momento en el que escribo esto, coordino. El club se ha construido como un espacio informal para el aprendizaje de rudimentos de programación para las artes y humanidades, y en él se han fraguado proyectos comunes y amistades.
@@ -181,11 +194,6 @@ Un ejemplo de ello es el club de programación de la REd COlombiana de Humanidad
 Tipos de comunidades
 
 problemas de motivación, problemas de sostenibilidad
-
-"The scarcity of human and financial resources made the project rely completely on voluntary work. But only a few volunteers who were already experienced paleographers could cope with the pace without losing their impetus. Even project leaders struggled to maintain their commitment, given their other professional responsibilities." [@afanador-llachDevelopingNewLiteracy2022, p. 233]
-
-"Sustaining the members’ engagement in collaborative DH projects is a challenge that should be addressed by understanding the motivations of online volunteers (Causer and Wallace, “Building a Volunteer Community”). At the time of joining, participants in the FHN collaborative cataloging project declared a diverse range of motives, like acquiring skills, building networks, and learning about history and digital humanities. Some wished to hone their skills in paleography and historical research or expand their professional network. One participant said: “I would like to put into practice the little knowledge that I have about paleography, as well as belong to a network of paleographers.” There were also altruistic interests such as helping to preserve the national cultural heritage, and contributing to the develop- ment of digital humanities in Colombia.
-However, as the project evolved, it proved a challenge to maintain the initial level of engagement, given the demands on people’s time, the complexity of the tasks, and the other commitments of the participants. A year into the project, more than half the participants had stopped contributing actively: even the project leaders reduced the time they spent on emails and Facebook posts." [@afanador-llachDevelopingNewLiteracy2022, p. 233]
 
 SoSTENIBILIDAD, EL PROBLEMA DEL VOLUNTARISMO (modelo organizacional) (Isabel Galina refelxiona sobre esto) ES UNA GIFT ECONOMY (modelo de economia digital, ligado a las donaciones)? EL TRABAJO GRATUITO SE CONVIERTE EN UNA SUPOSICIÓN POR DEFECTO
 PROYECTOS DE LARGA ESCALA
