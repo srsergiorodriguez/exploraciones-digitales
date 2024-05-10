@@ -220,3 +220,6 @@ infraestructura, lo formal y lo informal
 No uso instrumental de la comunidad de prácticas ni viceversa
 
 Reconocimiento del trabajo de las personas que ocupan roles
+
+Dissuation of free riding
+Collective action
