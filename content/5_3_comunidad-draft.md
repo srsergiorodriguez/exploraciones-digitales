@@ -223,6 +223,8 @@ Dar el prestigio suficiente a las comunidades de práctica
 
 Por ejemplo, la comunicación en blogs y redes sociales es representativa del tipo de propósitos descritos antes, como afirma ernesto Priego: "el tipo de conocimiento que se puede construir a través del debate, incluyendo el blogging y las redes sociales, talleres y editatones/hackatones, es un tipo de conocimiento que continua sin el reconocimiento suficiente y muy poco citado en "la literatura"".[@priegoCanSubalternDH2022, p. 33].
 
+"en España, para que me den una acreditación de una agencia nacional de evaluación tengo que estar dando clases a nivel universitario, es decir, todo lo que yo haga en Programming Historian, que es informal, no es relevante, o muy poco relevante"[@rojascastroEntrevistaAntonioRojas2022].
+
 Alfabetismo digital para la aceptación profunda en las facultades
 
 No uso instrumental de la comunidad de prácticas ni viceversa
