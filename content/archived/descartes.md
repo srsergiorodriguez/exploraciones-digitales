@@ -154,3 +154,42 @@ Ver las partes
 VS.
 Integración
 Configurar un todo
+
+----- 
+Motivaciones 1
+
+"En aquella época mi sueño era construir una biblioteca digital de la literatura caribeña. Eso era yo sin saber nada de computadores ni nada. Pero dije, bueno, pero hace falta y lo vamos a hacer. Y me choqué con muchas paredes al principio, una de ellas, siendo que yo no sabía cómo hacer las cosas."[...]"Con el pasar de los años fui aprendiendo a construir cosas, aprendí lenguajes de programación, aprendí tecnologías web. Empecé a hacer mis propios proyectos".[@gilEntrevistaAlexGil2023]
+
+"yo comencé a trabajar en el Archivo Nacional de Cuba en 1990, en un momento en el que empezaban las primeras experiencias de digitalización del acervo documental en el país. Por tanto, desde esos momentos, y con aquellas tecnologías, comenzó una relación con, no solo el procesamiento de la información, sino también con la digitalización y otros métodos de preservación de la información y la documentación"[@hernandezquintanaEntrevistaAniaHernandez2021]
+
+"en mi vida personal siempre tuve una afinidad por los descubrimientos tecnológicos, sobre todo los que tienen que ver no sólo con la computadora sino con los videojuegos. O sea, obviamente jugando videojuegos como adolescente, pero en realidad a lo largo de toda mi vida jugando videojuegos. Siempre con esta conciencia que te da la filosofía de que no sólo estás jugando sino de que eso es algo importante. Luego, cuando llegan las computadoras, porque a mi vida llegan por supuesto primero los videojuegos que las computadoras, me pasó un poco lo mismo, o sea, quedo absolutamente fascinado por las posibilidades que la digitalización y la transmisión de datos tiene para todo"[@prianisaisoEntrevistaErnestoPriani2021]
+
+"While I was applying for graduate programs in history, I wanted to continue and get the PhD. So, I worked at this computer repair store for about eight months. Got a deep dive into things that don't really matter for using computers, but got really fascinated with building them with all the kinds of architectures possible, and at the same time got into a few history programs and ended up going to Vanderbilt University in Nashville, Tennessee. So, essentially, when I entered grad school, computers were my hobby at night. I spent a lot of time on Reddit, way too much time. But was, during the day, doing kind of classic history graduate school. Like, very traditional, as much as anything can be traditional. But had a great kind of program there, working with a lot of both intellectual historians and historians of knowledge, along with historians of American foreign relations."[@leblancEntrevistaZoeLeBlanc2023]
+
+
+-----
+
+Motivaciones 2
+
+"Todo el mundo empezó a tratar de aggiornarse, con intereses evidentemente en la investigación, pero era más una cosa de decir: “uy, estuvimos haciendo esto todo este tiempo y se llamó humanidades digitales”. De ahí surgen las asociaciones. Yo estuve en la fundación de la asociación española; nos enteramos por Paul Spence que en México se estaba haciendo algo parecido… Bueno, fue como un signo de los tiempos interesante. Ya en ese tiempo estaba decidiendo si me quedaba en España o me devolvía a la Argentina. Yo había aplicado aquí a investigación en el CONICET, regresé a Argentina y traté de replicar un poco lo que había escuchado por allá, y lo que estaba haciendo"[@delrioriandeEntrevistaGimenaRio2021]
+
+
+"en Brown conocí a Julia Flanders y a Elli mylonas, que son dos de las personas que han trabajado en las humanidades digitales desde hace mucho tiempo, que son sumamente reconocidas en el campo. Y ellas fueron las que me dijeron: “oye, pero es que tú pareces ser un humanista digital”. Y entonces el concepto empezó a correr, regresó Isabel de Inglaterra, donde a ella le había pasado algo parecido, y entonces nos vimos un día ella y yo y dijimos: “bueno, a lo mejor somos humanistas digitales, vamos a organizar un seminario para ver si es cierto”, y empezamos a buscar gente que tuviera un perfil parecido al nuestro"[@prianisaisoEntrevistaErnestoPriani2021]
+
+"justamente hacia 2010 – 2011 en España, donde yo residía entonces, en Barcelona, se fundó esta asociación de humanidades digitales. Entonces fue en realidad una coincidencia muy afortunada, porque por un lado, en 2011, yo empezaba a querer saber y a leer sobre estos temas, y a poner en práctica lo que era el proyecto de doctorado que empecé en 2011 y acabé en 2015. Es decir que por estos años ya estábamos trabajando en esto. Pero hubo una serie de accidentes o hechos que pasaron: se fundaron varias asociaciones o redes de humanidades digitales en el ámbito hispánico, en Latinoamérica pero también en España"[@rojascastroEntrevistaAntonioRojas2022]
+
+"Ahí surge también la Red Colombiana de Humanidades Digitales, la Fundación Neogranadina, entonces empiezo a tocar puertas por otros lados para empezar a conocer gente. Ahí empezamos a conocer gente y a partir de ahí empieza uno a involucrarse con una bolita de gente que conoce, está más o menos involucrada en el tema. Con la Red Mexicana de Humanidades Digitales también de una u otra manera llegamos a través de ese medio. Y ahorita estoy involucrado con las dos: con la Red Colombiana como socio, sin mayores aportes pero estando pendiente, y con la Red Mexicana estamos en el mismo punto. Y con unas asociaciones de historia y datos, una de Alemania y otra, a la que me acabo de incorporar, que es una red de historia de la ciencia, que tiene un área de historia digital que estamos explorando. Esas son las áreas que he estado mirando. Ah, y Programming Historian, que también es una red gigantesca. El proyecto se ha convertido en una red. Ahí mal que bien en algunas otras cositas hemos podido tener participaciones, especialmente de la mano de Riva Quiroga que es la que me ha invitado para participar con ellos."[@meloflorezEntrevistaJairoMelo2022]
+
+"cuando estábamos trabajando en el taller [de Recursos Digitales para las Humanidades], una de las cuestiones de ese taller era: "hay otras personas como yo". Hay otras personas que están tratando de usar cómputo, había como un sentimiento de, pues, que estaban como aislados, que nadie entendía lo que estaban haciendo, que un poco el trabajo que hacían lo hacían como contra viento y marea, etcétera. Entonces, aunque, algunos eran de historia y otros de lingüística y otros de filosofía, o sea, venían de distintas áreas de humanidades, las problemáticas y los intereses eran muy similares o las necesidades"[@galinarusellEntrevistaIsabelGalina2023]
+
+---
+
+SoSTENIBILIDAD, EL PROBLEMA DEL VOLUNTARISMO (modelo organizacional) (Isabel Galina refelxiona sobre esto) ES UNA GIFT ECONOMY (modelo de economia digital, ligado a las donaciones)? EL TRABAJO GRATUITO SE CONVIERTE EN UNA SUPOSICIÓN POR DEFECTO
+PROYECTOS DE LARGA ESCALA
+AUTONOMÍA
+FAcilitamiento por medio de redes en internet: Jenkins participatory Culture
+
+Seva: india, servicio
+Borantia kasudo: japan voluntary service
+Minga: quechua, voluntary communitary labor
+Juntanza:

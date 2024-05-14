@@ -91,6 +91,7 @@ Las aproximaciones teóricas y de caso que fundamentaron esta dimensión son las
 
 La tercera dimensión engloba las complejidades que comprende la formación de comunidades para desarrollar las prácticas de las humanidades digitales en América Latina. Esta dimensión se enfoca las siguientes tensiones:
 
+- Los roles implicados en las prácticas de las humanidades digitales y su interrelación.
 - La relación simbiótica pero no siempre reconocida entre comunidades formales, es decir, instituciones humanísticas, y comunidades informales, como asociaciones y grupos de interés.
 - La construcción de acciones significativas, duraderas y que amplien la agencia, y las múltiples dificultades para lograr a estos objetivos.
 
