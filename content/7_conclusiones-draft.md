@@ -22,7 +22,9 @@ Modos de relacionamiento
 
 Comunidad
 —Colaborativo, para el uso significativo y las acciones duraderas
+-Reconoce la simbiosis necesari
 —Que construye su propio horizonte epistémico
+-Deriva estructural
 
 Infraestructura
 —Generoso y situado
