@@ -52,7 +52,7 @@ Dicho lo anterior, aquí vale la pena introducir otro concepto que proviene orig
 Hablando en términos más concretos, hay en efecto una serie de agentes en las humanidades digitales en América Latina que han enactuado distintos roles y que le han dado forma a la comunidad. La red de menciones de X (antes Twitter) que presento a continuación es un buen indicio de la organización de esa comunidad y de redes de comunicación que dan pistas de su cohesión. La red muestra qué perfiles mencionan a otros en un corpus de *tuits* que usaron los términos "humanidades digitales" y "humanidades digitais" entre 2015 y 2022. Como se observa en la visita guiada del interactivo de la red, la comunidad está conformada por nodos de múltiples países conectados entre sí, tiene algunos nodos que cumplen roles organizativos o de influencia importantes, y hay una amalgama entre instituciones e individos. De esta forma, la red da cuenta de un mundo del arte rico y complejo que merece ser estudiado.
 
 <sketch
-  height="617px"
+  height="751"
   src="./assets/sketches/comunidad/redesHD"
   caption='Una red de menciones de usuarios de Twitter que publicaron en tuits los términos "humanidades digitales" y "humanidades digitais" entre el 2015 y el 2022. La red permite hacerse una idea de las conexiones nacionales y transnacionales entre distintas comunidades.'
 />

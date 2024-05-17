@@ -129,7 +129,7 @@ async function makePanel(data) {
 }
 
 function makeWordVectorMap(data) {
-  const baseVectorMapDescription = "Usa los botones para moverte en el recorrido o explora libremente. Cliquea y arrastra para mover el mapa, usa la rueda o el gesto con dos dedos para alejarlo o acercarlo."
+  const baseVectorMapDescription = "Use los botones para moverse en el recorrido o explora libremente. Cliquee y arrastre para mover el mapa, use la rueda o el gesto con dos dedos para alejarlo o acercarlo.";
 
   const map = wordVectorMap(data);
 
