@@ -361,6 +361,7 @@ section[data-type="sect1"] h3 {
 /* Footnotes */
 span[data-type="footnote"] a {
   vertical-align: super;
+  line-height: 0;
   font-size: smaller;
   color: var(--colmain);
   cursor: pointer;
@@ -456,7 +457,7 @@ ol[data-type="footnotes"] li {
   padding: 1em 0;
 }
 
-@media all and (max-device-width: 1150px) {
+@media all and (max-width: 1150px) {
   .mainset {
     grid-auto-flow: row;
     grid-template-columns: auto;
