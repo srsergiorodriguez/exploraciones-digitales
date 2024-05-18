@@ -193,3 +193,9 @@ Seva: india, servicio
 Borantia kasudo: japan voluntary service
 Minga: quechua, voluntary communitary labor
 Juntanza:
+
+// Paisaje de atractores
+
+Podemos pensar en la metáfora cibernética de un *paisaje de atractores*, una representación de un sistema dinámico que tiende a distintas configuraciones dependiendo del estado inicial del sistema y a su comportamiento interno. Si en el mapa de navegación de esta disertación propusimos la idea de un envoltorio como representación de la dinámica de las tensiones, el paisaje de atractores muestra estabilidades contingentes que pueden mutar cuando las tensiones se dinamizan. El siguiente sketch muestra una simulación de un paisaje de atractores, distintas tendencias organizativas y la desaparición de la comunidad.
+
+PAISAJE DE ATRACTORES

@@ -1,339 +1,206 @@
 const { w, h, elt } = getGeneral();
 const m = {l: w * 0, r: w * 0, t: h * 0, b: h * 0, w, h}; //getStandardMargins();
-let tourstep = -1;
 
-const tour = [
-  {text: "Una lectura cercana de esta red de menciones puede ayudarnos a formar una idea de los múltiples participantes involucrados en la comunidad de humanidades digitales además de sus alcances, relaciones y diversos tipos: personas, asociaciones, instituciones educativas y culturales, publicaciones, etc. Aquí veremos solo algunos ejemplos.", username: "CLARINERIC", k: 10, highlights: []},
-  {text: "Los colores de la red corresponden vagamente a agrupaciones nacionales. Por ejemplo, este sector de color cyan contiene múltiples perfiles colombianos, como la Red Colombiana de Humanidades Digitales (ReHDi_Co), las profesoras Maria José Afanador y Stefania Gallini, la facultad de Artes y Humanidades de la Universidad de los Andes (ArtesUniandes), o el laboratorio de Cartografía Histórica e Historia digital de la Universidad Nacional (LabCaHID).", username: "MCBouju", k: 35, highlights: ["ReHDi_Co", "mariajoafana", "stefaniagallini","ArtesUniandes","LabCaHID"]},
-  {text: "Sin embargo, la red no muestra solo relaciones locales. Por ejemplo, un poco más a la izquierda, en este sector se evidencian que la red Colombiana (ReHDi_Co) es también cercana a la red Mexicana (Red_HD) y a proyectos transnacionales, como Programming Historian (ProgHist).", username: "mrcosan_ramir", k: 30, highlights: ["ReHDi_Co", "Red_HD", "ProgHist"]},
-  {text: "Este fenómeno glocal se repite en múltiples partes de la red. Por ejemplo, aquí encontramos un sector de individuos e instituciones españolas y europeas, cercanas a la sociedad de Humanidades Digitales Hispánicas (HDHispanicas).", username: "HDHispanicas", k: 30, highlights: ["HDHispanicas", "CLARIN_ES_LAB", "DARIAHeu", "iArtHislab"]},
-  {text: "Pero también vemos que las instituciones españolas y de otras partes de europa guardan comunicación cercana con personas e insticiones en Argentina, como la Asociación Argentina de Humanidades Digitales (aahdArg), o las profesoras Gimena del Rio y Virginia Brussa. Vemos que ellas, de hecho, son un puente en la red que conecta a varias subcomunidades.", username: "taiarrano", k: 22, highlights: ["gimenadelr","aahdArg","UNIRuniversidad","PosgradosUCES","eadh_org","virbrussa","EdiComplutense"]},
-  {text: "Las publicaciones también juegan papeles mediadores, pues conectan a comunidades diferentes a través de sus ediciones. Un ejemplo es la Revista Telos, que editó un número especial sobre humanidades digitales en 2019.", username: "revistatelos", k: 40, highlights: ["revistatelos"]},
-  {text: "O la revista de humanidades digitales, que publica artículos de autores de toda la comunidad, en español, inglés y portugués, y que en la red es cercana a proyectos como Humboldt Digital (humboldtdigital) o los premios informales de humanidades diigtales DH Awards (dhawards)", username: "revista_hd", k: 40, highlights: ["revista_hd","humboldtdigital","dhawards"]},
-  {text: "Algunos eventos también tienen papeles importantes, como el congreso de la ADHO realizado en México en 2018 (dh2018cdmx), que en esta red tiene conexión con instituciones educativas mexicanas y con otras intituciones internacionales, como Wikimedia; aquí vemos una conexión cercana con una persona que trabaja para la esta organización, Silvia Gutiérrez (espejolento)", username: "dh2018cdmx", k: 35, highlights: ["dh2018cdmx", "Wikimedia_mx", "espejolento"]},
-  {text: "Así, este es un entramado vivo de relacionamiento social. Las humanidades digitales, como campo, se deben al trabajo entre personas e instituciones que conforman una comunidad.", username: "jpinod02", k: 1, highlights: []},
+let nodes = [
+  {id: "Universidad", type: "Formal"},
+  {id: "Comunidades\nde\naprendizaje", type: "Formal"},
+  {id: "Financiadores", type: "Formal"},
+  {id: "Opinión\npública", type: "Formal"},
+  {id: "Académicos", type: "Formal"},
+  {id: "Intelectuales", type: "Formal"},
+  {id: "Estudiantes", type: "Formal"},
+  {id: "Bricolérs", type: "Formal"},
+  {id: "Gestores", type: "Formal"},
+  {id: "Voluntarios", type: "Formal"},
 ];
+
+nodes = nodes.map(d => ({...d, x: m.w/2, y: m.h/2, state: 10}));
+
+let links = [
+  {source: "Universidad", target: "Estudiantes", v: 1},
+  {source: "Académicos", target: "Universidad", v: 1},
+  {source: "Intelectuales", target: "Universidad", v: 1},
+  {source: "Bricolérs", target: "Universidad", v: 1},
+  {source: "Gestores", target: "Comunidades\nde\naprendizaje", v: 1},
+  {source: "Comunidades\nde\naprendizaje", target: "Gestores", v: 1},
+  {source: "Voluntarios", target: "Comunidades\nde\naprendizaje", v: 1},
+  {source: "Comunidades\nde\naprendizaje", target: "Académicos", v: 1},
+  {source: "Comunidades\nde\naprendizaje", target: "Intelectuales", v: 1},
+  {source: "Financiadores", target: "Comunidades\nde\naprendizaje", v: 1},
+  {source: "Comunidades\nde\naprendizaje", target: "Bricolérs", v: 1},
+  {source: "Estudiantes", target: "Voluntarios", v: 1},
+  {source: "Universidad", target: "Comunidades\nde\naprendizaje", v: 1},
+  {source: "Intelectuales", target: "Opinión\npública", v: 1},
+  {source: "Opinión\npública", target: "Financiadores", v: 1},
+  {source: "Universidad", target: "Intelectuales", v: 1},
+]
+
+links = links.map(d => ({...d, v: 1}));
+
+let ticks = 0
+let tickLimit = 300
+
+const r = 35;
+const full = 10;
+const flowSpeed = 11;
+
+let system;
+
+const colorScale = d3.scaleSequential(["Tomato", "GreenYellow"]).domain([0, 10]);
+const lineGen = (d) => d3.line()([[d.source.x, d.source.y], [d.target.x, d.target.y]]);
 
 async function setup() {
   noCanvas();
-  const nodeData = await d3.csv("./ReducidaGrado4GiantComponent/NodesNetworkHD.csv", d3.autoType);
-  const edgeData = await d3.json("./ReducidaGrado4GiantComponent/edgesHD.json", d3.autoType);
-
-  const baseDescription = "Use los botones para moverse en el recorrido o explora libremente. Cliquee y arrastre para mover el mapa, use la rueda o el gesto con dos dedos para alejarlo o acercarlo.";
-  const network = getNetwork(nodeData, edgeData);
-  network.setDescription(baseDescription);
-  // network.zoomTo({x: 0.5, y: 0.5}, 1);
+  frameRate(18);
 
   const observer = new IntersectionObserver(event => {
     if (!event[0].isIntersecting) {
-      reset();
+      noLoop();
+    } else {
+      loop();
     }
-  }, { threshold: 0.01 });
+  }, { threshold: 0.3 });
   observer.observe(d3.select(".box").node());
 
-  let next, prev;
-  createButton("Reiniciar").parent("#gui").mouseClicked(() => {
-    reset();
-  });
-
-  function reset() {
-    tourstep = -1;
-    network.setDescription(baseDescription);
-    network.zoomTo({x: 0.5, y: 0.5}, 1);
-    next.removeAttribute("disabled");
-    prev.attribute("disabled", true);
-  }
-
-  prev = createButton("Anterior").parent("#gui").mouseClicked(() => {
-    tourstep -= tourstep > 0 ? 1 : 0;
-    network.goToStep(tour[tourstep]);
-    if (tourstep <= tour.length - 1) next.removeAttribute("disabled");
-    if (tourstep <= 0) prev.attribute("disabled", true);
-  });
-
-  next = createButton("Siguiente").parent("#gui").mouseClicked(() => {
-    tourstep += tourstep < tour.length - 1 ? 1 : 0;
-    network.goToStep(tour[tourstep]);
-    if (tourstep > 0) prev.removeAttribute("disabled");
-    if (tourstep >= tour.length - 1) next.attribute("disabled", true);
-  });
-  prev.attribute("disabled", true);
+  system = getSystem(nodes, links);
 }
 
-function getNetwork(nodeData, edgeData) {
-  const description = d3.select("#description").text("");
+function draw() {
+  system.update(true);
+  if (ticks % flowSpeed === 0) {
+    for (let l of links) {
+      if (l.source.state > 0 && l.target.state > 0) {
+        l.target.state += l.v;
+      }
+      l.source.state -= l.v;
+    }
+  }
+  ticks++;
+}
 
-  const zoom = d3.zoom()
-    .scaleExtent([1, 45])
-    .on("zoom", zoomed);
-
-  const x = d3.scaleLinear().domain(d3.extent(nodeData, d => d.X).map(d => d * 1.1)).range([0, m.w]);
-  const y = d3.scaleLinear().domain(d3.extent(nodeData, d => d.Y).map(d => d * 1.1)).range([m.h, 0]);
-
+function getSystem(nodes, links) {
   const svg = d3.select("#general").append("svg")
     .attr("preserveAspectRatio", "xMinYMin meet")
     .attr("viewBox", [0, 0, w, h])
-    .style("cursor", "grab")
 
   const g = svg.append("g").attr("transform", `translate(${m.l},${m.t})`);
 
-  const line = (d) => d3.line()([[x(d.source.x), y(d.source.y)], [x(d.target.x), y(d.target.y)]]);
+  const gLine = g.append("g");
+  const gNode = g.append("g");
+  const gFlow = gNode.append("g");
+  const gCircle = gNode.append("g");
+  const gName = gNode.append("g");
+  const gState = gNode.append("g");
 
-  const gLine = g.append("g")
-    .attr("stroke-linecap", "round")
-
-  gLine.selectAll("path")
-    .data(edgeData)
-    .join("path")
-      .attr("d", d => line(d))
-      .attr("stroke", d => d.color);
-
-  const gDot = g.append("g")
-      .attr("fill", "none")
-      .attr("stroke-linecap", "round");
-
-  gDot.selectAll("path")
-    .data(nodeData)
-    .join("path")
-      .attr("d", d => `M${x(d.X)},${y(d.Y)}h0`)
-      .attr("stroke", d => d.Color);
-
-  gDot.selectAll("text")
-    .data(nodeData)
-    .join("text")
-      .attr("x", d => x(d.X))
-      .attr("y", d => y(d.Y))
-      .style("fill", "black")
-      .style("font-size", 0.4)
-      .style("font-family", "var(--content-font)")
-      .text(d => d.Label)
-      .style("paint-order", "stroke")
-  
-  svg.call(zoom).call(zoom.transform, d3.zoomIdentity);
-
-  function zoomed({transform}) {    
-    gDot.attr("transform", transform).attr("stroke-width", 5 / transform.k);
-    gLine.attr("transform", transform).attr("stroke-width", 0.5 / transform.k);
+  for (let i = 0; i < 200; i++) {
+    updateSimulation();
+    update();
   }
 
-  function zoomTo(coord, k, highlights) {
-    d3.selectAll(".highlights-network").remove();
-
-    if (coord === undefined) return;
-    const { x: xv, y: yv } = coord;
-    const xpos = (m.w/2) + x(k * x.domain()[0]) - x(k * xv);
-    const ypos = (m.h/2) + y(k * y.domain()[1]) - y(k * yv);
-
-    const transform = d3.zoomIdentity.translate(xpos, ypos).scale(k); 
-    
-    svg.transition()
-        .ease(d3.easeQuadOut)
-        .duration(1500)
-        .call(zoom.transform, transform);
-    
-    return d3.zoomTransform(svg.node())
+  function updateSimulation() {
+    let simulation = d3.forceSimulation(nodes)
+      // .force('repulsion', d3.forceManyBody().strength(!repel ? 0 : -70).distanceMax(2.5 * r))
+      .force('atraction', d3.forceManyBody().strength(60).distanceMin(100 * r))
+      .force('collide', d3.forceCollide(r * 1.8))
+      .force('center', d3.forceCenter(m.w/2, m.h*0.5))
+      .force('link', d3.forceLink(links).id((d) => d.id).distance(r * 4.2))
+      .stop()
+      .tick();
   }
 
-  return Object.assign(svg.node(), {
-    zoomTo,
-    goToStep(step) {
-      description.text(step.text);
-      const node = nodeData.find(d => d.Label === step.username);
-      const coord = {x: node.X, y: node.Y}
+  function update() {
+    gLine.selectAll("path")
+      .data(links)
+      .join("path")
+        .attr("d", d => lineGen(d))
+        .attr("stroke", "black")
+        .attr("visibility", d => d.target.state <= 0 || d.source.state <= 0 ? "hidden" : "visible")
+
+    const circle = gCircle.selectAll("circle")
+      .data(nodes)
+      .join("circle")
+        .attr("cx", d => d.x)
+        .attr("cy", d => d.y)
+        .attr("r", r)
+        .style("fill", d => colorScale(d.state))
+        .style("stroke-width", 3)
+        .style("cursor", "pointer")
       
-      zoomTo(coord, step.k);
+      circle.transition(200)
+          .attr("opacity", d => d.state <= 0 ? 0 : 1)
 
-      if (step.highlights !== undefined) {
-        gDot.selectAll("text")
-          .style("font-size", d => step.highlights.includes(d.Label) ? 18 / step.k : 0.4)
-          .style("fill", d => step.highlights.includes(d.Label) ? "black" : "black")
-          .style("stroke", d => step.highlights.includes(d.Label) ? "white" : "none")
-          .style("stroke-width", d => step.highlights.includes(d.Label) ? 5 / step.k : 0.4)
-          .each(function(d) {
-            if (step.highlights.includes(d.Label)) {
-              d3.select(this).raise()
-            }
-          })
-      } else {
-        gDot.selectAll("text")
-          .style("fill", "black")
-          .style("font-size", 0.4)
-          .style("stroke", "none")
-      }
-    },
-    setDescription(text) {
-      description.text(text);
-    }
-  });
-}
+      circle.on("click", function(e, d) {
+        d.state = 0
+      })
 
-function getLinks(nodeData, edgeData) {
-  const links = edgeData.map(d => {
-    const src = nodeData.find(n => n.Id === d.Source);
-    const tgt = nodeData.find(n => n.Id === d.Target);
-    return {source: {x: src.X, y: src.Y}, target: {x: tgt.X, y: tgt.Y}, color: src.Color}
-  });
-
-  saveJSON(links);
-}
-
-function makeWordVectorMap(data) {
-  const baseVectorMapDescription = "Usa los botones para moverte en el recorrido o explora libremente. Cliquea y arrastra para mover el mapa, usa la rueda o el gesto con dos dedos para alejarlo o acercarlo."
-
-  const map = wordVectorMap(data);
-
-  const observer = new IntersectionObserver(event => {
-    if (!event[0].isIntersecting) {
-      reset();
-    }
-  }, { threshold: 0.01 });
-  observer.observe(d3.select(".box").node());
-
-  let next, prev;
-  createButton("Reiniciar").parent("#gui").mouseClicked(() => {
-    reset();
-  });
-
-  function reset() {
-    tourstep = -1;
-    map.setDescription(baseVectorMapDescription);
-    map.zoomTo({x: 0, y: 0}, 1);
-    next.removeAttribute("disabled");
-    prev.attribute("disabled", true);
-  }
-
-  prev = createButton("Anterior").parent("#gui").mouseClicked(() => {
-    tourstep -= tourstep > 0 ? 1 : 0;
-    map.goToStep(tour[tourstep]);
-    if (tourstep <= tour.length - 1) next.removeAttribute("disabled");
-    if (tourstep <= 0) prev.attribute("disabled", true);
-  });
-
-  next = createButton("Siguiente").parent("#gui").mouseClicked(() => {
-    tourstep += tourstep < tour.length - 1 ? 1 : 0;
-    map.goToStep(tour[tourstep]);
-    if (tourstep > 0) prev.removeAttribute("disabled");
-    if (tourstep >= tour.length - 1) next.attribute("disabled", true);
-  });
-  prev.attribute("disabled", true);
-
-  ///
-
-  function wordVectorMap(data) {
-    const description = d3.select("#description").text(baseVectorMapDescription);
-  
-    const zoom = d3.zoom()
-      .scaleExtent([1, 32])
-      .on("zoom", zoomed);
-  
-    const x = d3.scaleLinear().domain(d3.extent(data, d => d.x).map(d => d * 1.1)).range([0, m.w]);
-    const y = d3.scaleLinear().domain(d3.extent(data, d => d.y).map(d => d * 1.1)).range([m.h, 0]);
-    const z = scale20();
-  
-    const xAxis = (g, x) => g
-      .attr("transform", `translate(0,${m.h})`)
-      .call(d3.axisTop(x).ticks(12))
-      .call(g => g.select(".domain").attr("display", "none"));
-  
-    const yAxis = (g, y) => g
-      .call(d3.axisRight(y).ticks(12))
-      .call(g => g.select(".domain").attr("display", "none"))
-  
-    const svg = d3.select("#general").append("svg")
-      .attr("preserveAspectRatio", "xMinYMin meet")
-      .attr("viewBox", [0, 0, w, h])
-      .style("cursor", "grab")
-  
-    const g = svg.append("g").attr("transform", `translate(${m.l},${m.t})`);
-  
-    const clusters = d3.rollups(data, v => v.length, d => d.cluster);
-  
-    const wraps = [];
-    for (let [cluster, count] of clusters) {
-      const points = data.filter(d => d.cluster === cluster);
-      if (points.length <= 3) continue
-      wraps.push(wrap(points));
-    }
-  
-    /// Wraps
-  
-    const lineGenerator = d3.line()
-      .x((d) => x(d.x))
-      .y((d) => y(d.y))
-      .curve(d3.curveNatural)
-  
-    const gWrap = g.append("g");
-    gWrap.selectAll("path")
-      .data(wraps)
-      .join("path")
-        .attr("d", d => lineGenerator(d))
-        .attr("stroke", "none")
-        .attr("fill", d => z(d[0].cluster))
-        .style("fill-opacity", .1)
-  
-    // Dots
-  
-    const gDot = g.append("g")
-        .attr("fill", "none")
-        .attr("stroke-linecap", "round");
-  
-    gDot.selectAll("path")
-      .data(data)
-      .join("path")
-        .attr("d", d => `M${x(d.x)},${y(d.y)}h0`)
-        .attr("stroke", d => z(d.cluster));
-  
-    gDot.selectAll("text")
-      .data(data)
+    gName.selectAll("text")
+      .data(nodes)
       .join("text")
-        .attr("x", d => x(d.x))
-        .attr("y", d => y(d.y))
-        .style("fill", "black")
-        .style("font-size", 1)
-        .style("font-size", 0.4)
-        .text(d => d.word)
-  
-    const gx = g.append("g");
-    const gy = g.append("g");
-  
-    svg.call(zoom).call(zoom.transform, d3.zoomIdentity);
-  
-    function zoomed({transform}) {
-      const zx = transform.rescaleX(x).interpolate(d3.interpolateRound);
-      const zy = transform.rescaleY(y).interpolate(d3.interpolateRound);
-      
-      gDot.attr("transform", transform).attr("stroke-width", 5 / transform.k);
-      gWrap.attr("transform", transform).attr("stroke-width", 5 / transform.k);
-      
-      gx.call(xAxis, zx);
-      gy.call(yAxis, zy);
-    }
-  
-    function zoomTo(coord, k) {
-      if (coord === undefined) return;
-      const { x: xv, y: yv } = coord;
-      const xpos = (m.w/2) + x(k * x.domain()[0]) - x(k * xv);
-      const ypos = (m.h/2) + y(k * y.domain()[1]) - y(k * yv);
-  
-      const transform = d3.zoomIdentity.translate(xpos, ypos).scale(k); 
-      
-      svg.transition()
-          .ease(d3.easeQuadOut)
-          .duration(1500)
-          .call(zoom.transform, transform);
-      return d3.zoomTransform(svg.node())
-    }
-  
-    return Object.assign(svg.node(), {
-      zoomTo,
-      goToStep(step) {
-        description.text(step.text)
-        const coord = data.find(d => d.word === step.word);
-        zoomTo(coord, step.k);
-      },
-      setDescription(text) {
-        description.text(text);
-      }
-    });
+        .attr("x", d => d.x)
+        .attr("text-anchor", "middle")
+        .attr("y", d => d.y)
+        .style("font-size", 10)
+        .style("fill", "var(--colblack)")
+        .style("font-family", "var(--content-font)")
+        .attr("visibility", d => d.state <= 0 ? "hidden" : "visible")
+        .call(multilineText, {
+          lineHeight: 1,
+          dominantBaseline: "middle"
+        });
+
+
+    gState.selectAll("text")
+      .data(nodes)
+      .join("text")
+        .attr("x", d => d.x)
+        .attr("text-anchor", "middle")
+        .attr("y", d => d.y + r*0.7)
+        .style("font-size", 9)
+        .style("font-family", "var(--content-font)")
+        .text(d => d.state)
+        .attr("visibility", d => d.state <= 0 ? "hidden" : "visible")
+
+    gFlow.selectAll("circle")
+      .data(links)
+      .join("circle")
+        .attr("cx", d => lerp(d.source.x, d.target.x, (ticks % flowSpeed) / flowSpeed))
+        .attr("cy", d => lerp(d.source.y, d.target.y, (ticks % flowSpeed) / flowSpeed))
+        .attr("r", r/8)
+        .style("fill", "var(--col1)")
+        .style("stroke", "none")
+        .style("stroke-width", 3)
+        .attr("visibility", d => d.target.state <= 0 || d.source.state <= 0 ? "hidden" : "visible")
   }
+  
+  return Object.assign(svg.node(), {update});
+}
+
+function multilineText(el,{fontSize = 10, lineHeight = 1.45, dominantBaseline = "auto"}) {
+  el.each(function({id}) {
+    const text = id;
+    const lines = text.split("\n");
+    const textContentHeight = (lines.length - 1) * lineHeight * fontSize;
+
+    const el = d3.select(this);
+    const anchor = {
+      x: +el.attr("x"),
+      y: +el.attr("y")
+    };
+
+    const dy =
+      dominantBaseline === "middle"
+        ? -textContentHeight / 2
+        : dominantBaseline === "hanging"
+        ? -textContentHeight
+        : 0;
+
+    el.attr("font-size", fontSize)
+      .attr("dominant-baseline", dominantBaseline)
+      .selectAll("tspan")
+      .data(lines)
+      .join("tspan")
+      .text((d) => d)
+      .attr("x", anchor.x)
+      .attr("y", (d, i) => anchor.y + i * lineHeight * fontSize + dy);
+  });
 }
