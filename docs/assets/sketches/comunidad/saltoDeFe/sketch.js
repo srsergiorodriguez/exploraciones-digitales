@@ -82,7 +82,7 @@ async function setup() {
     clouds.push({x: random(w/2), y: random(h), r: random(ux*2, ux*4)});
   }
 
-  changeScene(scenes.selection);
+  changeScene(scenes.position);
 
   const observer = new IntersectionObserver(event => {
     if (!event[0].isIntersecting) {
