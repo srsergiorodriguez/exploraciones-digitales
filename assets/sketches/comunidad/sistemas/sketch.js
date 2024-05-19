@@ -124,7 +124,7 @@ function getSystem(nodes, links) {
         .attr("r", r)
         .style("fill", d => colorScale(d.state))
         .style("stroke-width", 3)
-        .style("cursor", "pointer")
+        .style("cursor", d=>  d.state > 0 ? "pointer" : "default")
       
       circle.transition(200)
           .attr("opacity", d => d.state <= 0 ? 0 : 1)
