@@ -131,7 +131,7 @@ Para ver más claramente los efectos de esta brecha, pensemos en un ejemplo conc
 Desde latinoamérica se ha impulsado un fuerte trabajo de promoción y uso de TEI para proyectos de humanidades digitales. Aquí cabe destacar las investigaciones, tutoriales, y construcción de comunidad alrededor de TEI producidas por personas como Gimena del Rio en Argentina, Antonio Rojas-Castro en Alemania y Cuba, o Nicolás Vaughan en Colombia[@calarcoIntroduccionPublicacionWeb2021; @delrioriandeQuienConformaComunidad2023; @rojas-castroComoCrearEdiciones2023; @vaughanIntroduccionCodificacionTextos2021]. Esto demuestra que, al menos en el modo de relacionamiento con lo digital para la conservación de la memoria y la interpretación de la cultura, son pertinentes prácticas de codificado e infraestructuras como TEI.
 
 <figure class="illustration border">
-<figcaption>Un texto de prensa cofificado con TEI. Nótense las etiquetas usadas para la codificación</figcaption>
+<figcaption>Un texto de prensa codificado con TEI. Nótense las etiquetas usadas para la codificación</figcaption>
 </figure>
 
 <div class="side-by-side">
