@@ -107,6 +107,8 @@ Por otra parte, existen proyectos hacktivistas o de participación colectiva que
 
 Así queda claro el papel fundamental de las redes y proyectos organizativos en la constitución de las humanidades digitales en América Latina, pues son los medios que movilizan los diversos modos de relacionamiento con lo digital descritos [antes](#relacionamiento-chapter). Por su importancia, sin embargo, no debemos dar por sentado la estabilidad de su funcionamiento, pues muchas estas instituciones se han debatido entre distintas formas de organización y se han originado tensiones dentro de ellas acerca de las formas de garantizar la realización de acciones duraderas y sostenidas, o en otras palabras, de mantenerlas como insticuines. Aunque puede tomar muchos matices, en esa tensión podemos reconocer un movimiento ambivalente entre dos modelos: la comunidad de prácticas y la institución formal.
 
+Una perspectiva de los medios a las mediaciones
+
 ### Comunidades de prácticas
 
 Por un lado, existe el modelo de *comunidad de prácticas*, es decir, la asociación libre de agentes con propósitos comunes para la realización de una práctica de interés para ellos. Especialmente, llevar a cabo proyectos conjuntos como investigaciones, eventos, así como aprendizaje en conjunto. Como afirma Wenger-Trayber, "con el tiempo, el aprendizaje colectivo resulta en prácticas que reflejan tanto la búsqueda de nuestros propósitos como atender relaciones sociales. Esas relaciones son por lo tanto la propiedad de una comunidad creada con el tiempo por la búsqueda sostenidad de un propósito común. Tiene sentido, entonces, llamar a esas comunidades, comunidades de práctica"
@@ -205,3 +207,5 @@ Por otra parte, es necesario superar el uso instrumental de la comunidad de prá
 Un ejemplo de ello es el club de programación de la Red Colombiana de Humanidades Digitales que fundé y, al menos en el momento en el que escribo esto, coordino. El club se ha construido como un espacio informal para el aprendizaje de rudimentos de programación para las artes y humanidades, y en él se han fraguado proyectos comunes y amistades duraderas. No obstante, también se ha convertido en un espacio frustrante por el fenómeno del freeriding, pues las personas que participan aprovechan momentáneamente los espacios y conocimientos del club, pero no sienten compromisos mínimos con él, como un respeto por el tiempo de quiénes lo organizan o la necesidad de informar sobre su eventual falta de participación.
 
 Deriva estructural no disciplinar.
+
+El aspecto democrático de las humanidades
