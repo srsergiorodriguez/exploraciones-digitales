@@ -244,3 +244,8 @@ No obstante, debemos también ser capaces de superar las "epistemologías de la 
 Aquí, entonces, juegan un papel fundamental las prácticas de la conservación de la memoria y la interpretación y apreciación de la cultura que, como se dijo antes, son propósitos esenciales de las humanidades. Se hace necesaria, desde América Latina, la tarea de construir colecciones y memorias específicas de la multiplicidad de grupos que habitan nuestro contexto, especialmente los menos representados; construir interpretaciones de esas memorias, pero, especialmente a partir de las oportunidades de autorrepresentación; y abogar por los medios participación democrática en el mundo hiperconectado. Con respecto al segundo movimiento, se hace necesario ver los espacios de oportunidad para la interculturalidad en el mundo digital, las formas de creación de remezcla y amasijo, y la apropiación tecnológica recursiva para propiciar nuevas elaboraciones generativas.
 
 Finalmente, unas humanidades digitales en Latino/America pueden, existir como unas humanidades para el futuro, apoyadas por el pasado. Es decir, cosncientes de las ambivalencias de la propia historia humanística, pueden ubicarse como un punto de vista privilegiado para ver las integraciones tecnológicas como problemas matizados.
+
+-Historia sigzageante
+-hd en la crisis y dos movimientos
+-america latina
+-hd en america latina
