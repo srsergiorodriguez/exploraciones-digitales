@@ -203,3 +203,5 @@ Juntanza:
 Podemos pensar en la metáfora cibernética de un *paisaje de atractores*, una representación de un sistema dinámico que tiende a distintas configuraciones dependiendo del estado inicial del sistema y a su comportamiento interno. Si en el mapa de navegación de esta disertación propusimos la idea de un envoltorio como representación de la dinámica de las tensiones, el paisaje de atractores muestra estabilidades contingentes que pueden mutar cuando las tensiones se dinamizan. El siguiente sketch muestra una simulación de un paisaje de atractores, distintas tendencias organizativas y la desaparición de la comunidad.
 
 PAISAJE DE ATRACTORES
+
+>"¿Por qué continuamos ocultando esta obviedad?, ¿por qué insistimos en hablar de disciplinas claramente definidas, tal vez indirectamente (cuando en realidad anhelamos prácticas interdisciplinarias)?  —Mauro Bergonzi et al. - The New Humanities Project — Reports from Interdisciplinarity[@bergonziNewHumanitiesProject2014]
