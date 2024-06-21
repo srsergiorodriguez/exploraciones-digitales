@@ -457,6 +457,11 @@ ol[data-type="footnotes"] li {
   padding: 1em 0;
 }
 
+.silent-link {
+  color: inherit;
+  text-decoration: inherit;
+}
+
 @media all and (max-width: 1150px) {
   .mainset {
     grid-auto-flow: row;

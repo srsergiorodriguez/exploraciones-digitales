@@ -66,7 +66,7 @@ Como lo ha estudiado Høyrup[@hoyrupHumanSciencesReappraising2000], el Renacimie
 
 <figure class="illustration right">
   <figcaption>Página del libro China Illustrata — Athanasius Kircher — 1667. (<a href="https://digital.library.cornell.edu/catalog/ss:550032" target="_blank">Fuente</a>, Colecciones digitales de la Universidad de Cornell, Dominio Público)</figcaption>
-  <img alt="Un grabado que muestra una visión occidentalizada de prácticas religiosas en China" src="images/tradicion/artsliberaux.jpg" />
+  <img alt="Un grabado que muestra una visión occidentalizada de prácticas religiosas en China" src="images/tradicion/chinaillustrata.jpg" />
 </figure>
 
 También, como lo han estudiado extensamente Serge Gruzinski y Carmen Bernand[@bernandDescubrimientoConquistaExperiencia1996; @gruzinskiCuatroPartesMundo2010], en esta época, luego de la dominación de América y el Sudeste asiático por parte de Europa, se produce un proceso de mundialización, es decir, de conexión cultural entre todas las partes del mundo. En buena medida, la expansión del libro produce un intercambio de conocimientos a lo largo del planeta, y se gana una consciencia de la diversidad del mundo: tanto la occidentalización de las regiones dominadas, como la indagación curiosa de los europeos de las culturas que dominan a través de sus propios artefactos culturales. No obstante, se produce contradictoriamente y simultáneamente la destrucción de esos artefactos, vistos como heréticos, y su conservación estratégica, para alimentar la curiosidad de las naciones dominantes[@bernandDescubrimientoConquistaExperiencia1996].

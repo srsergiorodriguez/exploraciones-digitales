@@ -26,7 +26,7 @@ layout: layouts/cover.html
 
   <div class="version-buttons overline"><a href="{{ navigation.next.href }}">
     <button>Leer libro digital</button></a>
-    <button><a href="assets/ExploracionesDigitales.pdf" target="_blank">Descargar versión pdf para imprimir</a></button>
+    <button><a class="silent-link" href="assets/ExploracionesDigitales.pdf" target="_blank">Descargar versión pdf para imprimir</a></button>
   </div>
 
 </section>
