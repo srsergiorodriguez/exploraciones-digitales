@@ -57,12 +57,24 @@ async function setup() {
     if (!event[0].isIntersecting) {
       noLoop();
     } else {
+      reset();
       loop();
     }
   }, { threshold: 0.3 });
   observer.observe(d3.select(".box").node());
 
   system = getSystem(nodes, links);
+
+  createButton("Reiniciar")
+    .parent("general")
+    .position(10, 10)
+    .mouseClicked(reset);
+}
+
+function reset() {
+  for (let n of nodes) {
+    n.state = 10;
+  }
 }
 
 function draw() {
