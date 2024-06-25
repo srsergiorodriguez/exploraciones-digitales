@@ -1,0 +1,8 @@
+section[data-type="chapter"] {
+  counter-increment: title;
+}
+
+.chapter-headers h1::before {
+  color:var(--col1);
+  content: counters(title, ".") ".  ";
+}

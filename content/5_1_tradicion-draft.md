@@ -244,7 +244,7 @@ Un ejemplo de este objetivo son los proyectos derivados de los fenómenos de vio
 En nuestra conversación, Maria José Afanador comenta que "nos falta entender mejor la historia de las humanidades en América Latina. Cómo se han construido esos espacios disciplinares. Claramente son resonancias de unas escuelas y unas academias europeas, anglófonas; muchas veces desconocemos las tradiciones propias de nuestra región que pueden ser súper interesantes"[@afanadorllachEntrevistaMariaJose2021]. En esta línea, podemos pensar si estas formas de humanismo autóctono pueden dar una nueva relevancia a las humanidades en la crisis y pueden ayudar a construir una especificidad propia, no nacionalista, sino adaptada a los propósitos de comunidades situadas y sus formas de significado. En este punto, entonces, cabe ubicar las humanidades digitales desde una perspectiva latinoamericana y así abonar el terreno para las demás tensiones que se desarrollan en esta disertación.
 
 <sketch
-  height="305px"
+  height="300px"
   src="./assets/sketches/tradicion/generadorManifiestos"
   caption="Un generador experimental de textos latinoamericanistas. Usando un sistema de cadenas de Markov, comúnmente aplicado en obras de literatura electrónica, este generador remezcla distintos textos y crea una amalgama que brinca entre los términos usados en ellos. En este caso, produce combinaciones entre En defensa de mi raza de Manuel Quintín Lame, Facundo de Domingo Sarmiento, La filosofía americana como filosofía sin más de Leopoldo Zea, el Manifiesto Antropófago de Oswald de Andrade, y La Raza Cósmica de José Vasconcelos"
 />

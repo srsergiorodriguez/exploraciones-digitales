@@ -29,6 +29,13 @@ const metaphors = [
     targetConcepts: ["Asociaciones", "Controversias", "Formación de grupos"],
     sourceConcepts: ["Ataque", "Decaimiento", "Sostenimiento", "Desvanecimiento", "Sonido"],
     projections: [true, true, true, true, false]
+  },
+  {
+    target: "Escalabilidad",
+    source: "Plantación en esqueje",
+    targetConcepts: ["Trasladable", "Estable ante volumen", "Estructura no cambiante"],
+    sourceConcepts: ["No relación con entorno", "Reproducible"],
+    projections: [true, true]
   }
 ]
 

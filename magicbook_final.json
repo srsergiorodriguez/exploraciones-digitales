@@ -36,7 +36,7 @@
         "content/3_metodos.md",
         "content/4_mapa.md",
         {
-          "label": "Dimensiones",
+          "label": "Las dimensiones",
           "files": [
             "content/5_1_tradicion.md",
             "content/5_2_relacionamiento.md",
@@ -63,7 +63,7 @@
         "content/3_metodos_nott.md",
         "content/4_mapa_nott.md",
         {
-          "label": "Dimensiones",
+          "label": "Las dimensiones",
           "files": [
             "content/5_1_tradicion_nott.md",
             "content/5_2_relacionamiento_nott.md",
