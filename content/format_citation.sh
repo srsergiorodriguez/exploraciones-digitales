@@ -30,7 +30,7 @@ fi
 
 pandoc $1.md \
  --bibliography biblioteca.bib \
- --csl citation/chicago-fullnote-bibliography-with-ibid.csl \
+ --csl citation/chicago-fullnote-bibliography-with-ibid-es.csl \
  -M reference-section-title=Referencias \
  -f markdown+markdown_in_html_blocks-raw_html \
  -t markdown-citations-fenced_divs-raw_html \
@@ -40,7 +40,7 @@ pandoc $1.md \
 
 #  pandoc $1.md \
 #   --bibliography biblioteca.bib \
-#   --csl citation/chicago-fullnote-bibliography-with-ibid.csl \
+#   --csl citation/chicago-fullnote-bibliography-with-ibid-es.csl \
 #   -M reference-section-title=Referencias \
 #   -f markdown+markdown_in_html_blocks-raw_html \
 #   -t markdown-citations-fenced_divs-native_divs-raw_html \

@@ -59,13 +59,22 @@ nav[data-type="toc"] {
   counter-reset: page 1;
 }
 
-nav[data-type="toc"] ul {
+nav[data-type="toc"] ol,ul {
   margin: 5px 15px;
+  counter-reset: item;
+}
+
+nav[data-type="toc"] ol>li::before {
+  content: counters(item, ".") ".  ";
+  counter-increment: item;
+}
+
+nav[data-type="toc"] a[href] {
+  cursor: pointer;
 }
 
 nav[data-type="toc"] a[href]::after {
-  content: " --- P. " target-counter(attr(href), page);
-  cursor: pointer;
+  content: leader(' ') "p. " target-counter(attr(href), page);
 }
 
 nav[data-type="toc"] a[href] {
@@ -80,7 +89,10 @@ nav[data-type="toc"] li {
 span[data-type="footnote"] a {
   vertical-align: super;
   font-size: 7pt;
-  color: var(--colmain);
+  // color: var(--colmain);
+  
+  line-height: 0;
+  text-decoration: none;
 }
 
 .references-title {
@@ -103,17 +115,17 @@ section[data-type="chapter"] h2 {
 
 section[data-type="sect1"] h1 {
   font-size: var(--h1-size-sect);
-  color: red;
+  // color: red;
 }
 
 section[data-type="sect1"] h2 {
   font-size: var(--h2-size-sect);
-  color: blue;
+  // color: blue;
 }
 
 section[data-type="sect1"] h3 {
   font-size: var(--h2-size-sect);
-  color: green;
+  // color: green;
 }
 
 section[data-type="chapter"] p {

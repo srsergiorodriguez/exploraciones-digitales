@@ -20,7 +20,7 @@ def main():
   text = remove_bibliography(text)
   text = replace_after(text, '---', "—", 2)
   text = adjust_escapes(text)
-  text = adjust_months(text)
+  # text = adjust_months(text)
 
   with open(filename, 'w') as f:
     f.write(text)

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generador de manifiestos</title>
+    <link rel="stylesheet" href="../../style.css">
+  </head>
+  <body>
+    <div id="general">
+      <button class="generate-button">Generar texto</button>
+      <p id="text"></p>
+      <button class="generate-button">Generar texto</button>
+    </div>
+  </body>
+  <style>
+
+    body {
+      padding: 0;
+      margin: 0;
+    }
+
+    #general {
+      box-sizing: border-box;
+      padding: 20px;
+      margin: auto;
+      width: 650px;
+      height: 300px;
+      font-family: 'Baskerville';
+      background: var(--colbg);
+      border: solid 1px;
+      font-size: 22px;
+      overflow: scroll;
+    }
+
+  </style>
+  <script src="../../helpers.js"></script>
+  <script src="../../p5.min.js"></script>
+  <script src="../../d3.v7.min.js"></script>
+  <script src="../../aventura.js"></script>
+  <script src="sketch.js"></script>
+</html>
