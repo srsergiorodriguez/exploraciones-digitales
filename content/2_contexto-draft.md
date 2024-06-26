@@ -3,7 +3,7 @@ title: Problemas y estado del arte
 ---
 <a id="problemas-chapter"></a>
 <header class="chapter-headers">
-  <h1>{{ page.title }}</h1>
+  <h1 number="2">{{ page.title }}</h1>
 </header>
 
 ## Problemas de investigación

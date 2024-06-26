@@ -4,7 +4,7 @@ dimension: true
 ---
 <a id="tradicion-chapter"></a>
 <header class="chapter-headers" id="chapter-header">
-  <h1>{{ page.title }}</h1>
+  <h1 number="5.1">{{ page.title }}</h1>
 </header>
 
 ## Virtudes y vicios

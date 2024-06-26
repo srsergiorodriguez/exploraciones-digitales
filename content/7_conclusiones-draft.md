@@ -4,7 +4,7 @@ title: Conclusiones
 
 <a id="conclusiones-chapter"></a>
 <header class="chapter-headers">
-  <h1>{{ page.title }}</h1>
+  <h1 number="7">{{ page.title }}</h1>
 </header>
 
 A lo largo de esta disertación se han explorado múltiples tensiones de las humanidades digitales en el contexto latinoamericano. Estas tensiones pueden verse como el resultado de las posturas, discursos y controversias en el campo de las humanidades digitales que, moviéndose y atirantándose en diferentes direcciones, definen sus prácticas, formas de asociación y posibilidades futuras. Como se elaboró aquí, estas tensiones se relacionan entre sí de maneras complejas y entrecruzadas, pero pueden englobarse en cuatro dimensiones generales: **el lugar de las humanidades digitales y América Latina en la tradición humanística, los modos de relacionamiento con lo digital, la formación y sostenimiento de la comunidad de humanidades digitales, y las múltiples infraestructuras que las soportan**. En este capítulo final propongo, a manera de conclusión, un panorama conjunto de estas tensiones y dimensiones, y un resumen de las líneas de trabajo que planteé como mediación entre ellas. Cabe recalcar que aquí mediación no implica una resolución de las tensiones, que no son necesariamente negativas en sí mismas, sino una forma de hacerlas explícitas y de proponer caminos fructíferos para la propia comunidad de humanidades digitales y sus intereses propios, navegando las oportunidades y dificultades que aparecen en su desarrollo.

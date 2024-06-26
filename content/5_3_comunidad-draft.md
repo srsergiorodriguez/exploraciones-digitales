@@ -4,7 +4,7 @@ dimension: true
 ---
 <a id="comunidad-chapter"></a>
 <header class="chapter-headers">
-  <h1>{{ page.title }}</h1>
+  <h1 number="5.3">{{ page.title }}</h1>
 </header>
 
 ## Ecología de comunidades

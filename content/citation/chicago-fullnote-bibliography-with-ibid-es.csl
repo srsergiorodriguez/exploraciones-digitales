@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" demote-non-dropping-particle="display-and-sort" page-range-format="chicago">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" demote-non-dropping-particle="display-and-sort" page-range-format="chicago" default-locale="es-FR">
   <info>
     <title>Chicago Manual of Style 17th edition (full note, with Ibid.) ESPAÑOL</title>
-    <id>http://www.zotero.org/styles/chicago-fullnote-bibliography-with-ibid</id>
+    <!-- <id>http://www.zotero.org/styles/chicago-fullnote-bibliography-with-ibid</id>
     <link href="http://www.zotero.org/styles/chicago-fullnote-bibliography-with-ibid" rel="self"/>
-    <link href="http://www.chicagomanualofstyle.org/tools_citationguide.html" rel="documentation"/>
+    <link href="http://www.chicagomanualofstyle.org/tools_citationguide.html" rel="documentation"/> -->
     <author>
       <name>Julian Onions</name>
       <email>julian.onions@gmail.com</email>
@@ -42,31 +42,31 @@
   </info>
   <locale xml:lang="es">
     <terms>
-      <term form="short" name="month-01">Ene.</term>
-      <term form="short" name="month-02">Feb.</term>
-      <term form="short" name="month-03">Mar.</term>
-      <term form="short" name="month-04">Abr.</term>
-      <term form="short" name="month-05">May.</term>
-      <term form="short" name="month-06">Jun.</term>
-      <term form="short" name="month-07">Jul.</term>
-      <term form="short" name="month-08">Ago.</term>
-      <term form="short" name="month-09">Sept.</term>
-      <term form="short" name="month-10">Oct.</term>
-      <term form="short" name="month-11">Nov.</term>
-      <term form="short" name="month-12">Dic.</term>
+      <term form="short" name="month-01">ene.</term>
+      <term form="short" name="month-02">feb.</term>
+      <term form="short" name="month-03">mar.</term>
+      <term form="short" name="month-04">abr.</term>
+      <term form="short" name="month-05">may.</term>
+      <term form="short" name="month-06">jun.</term>
+      <term form="short" name="month-07">jul.</term>
+      <term form="short" name="month-08">ago.</term>
+      <term form="short" name="month-09">sept.</term>
+      <term form="short" name="month-10">oct.</term>
+      <term form="short" name="month-11">nov.</term>
+      <term form="short" name="month-12">dic.</term>
       <term name="editor" form="verb-short">ed.</term>
-      <term name="month-01">Enero</term>
-      <term name="month-02">Febrero</term>
-      <term name="month-03">Marzo</term>
-      <term name="month-04">Abril</term>
-      <term name="month-05">Mayo</term>
-      <term name="month-06">Junio</term>
-      <term name="month-07">Julio</term>
-      <term name="month-08">Agosto</term>
-      <term name="month-09">Septiembre</term>
-      <term name="month-10">Octubre</term>
-      <term name="month-11">Noviembre</term>
-      <term name="month-12">Diciembre</term>
+      <term name="month-01">enero</term>
+      <term name="month-02">febrero</term>
+      <term name="month-03">marzo</term>
+      <term name="month-04">abril</term>
+      <term name="month-05">mayo</term>
+      <term name="month-06">junio</term>
+      <term name="month-07">julio</term>
+      <term name="month-08">agosto</term>
+      <term name="month-09">septiembre</term>
+      <term name="month-10">octubre</term>
+      <term name="month-11">noviembre</term>
+      <term name="month-12">diciembre</term>
       <term name="editor" form="verb-short">ed.</term>
       <term name="translator" form="verb-short">trad.</term>
       <term name="translator" form="short">trad.</term>
@@ -75,6 +75,7 @@
       <term name="translator" form="short">trad.</term>
       <term name="no date">s.f.</term>
       <term name="and">y</term>
+      <term name="accessed">Accedido en</term>
     </terms>
   </locale>
   <macro name="editor-translator">

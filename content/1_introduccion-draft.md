@@ -4,7 +4,7 @@ layout: layouts/intro.html
 ---
 <a id="introduccion-chapter"></a>
 <header class="chapter-headers">
-  <h1>{{ page.title }}</h1>
+  <h1 number="1">{{ page.title }}</h1>
 </header>
 
 Esta disertación en forma de libro digital busca mapear, en cuatro dimensiones generales, las tensiones en la construcción de las comunidades y prácticas de las humanidades digitales en América Latina: con respecto a la tradición humanística, los modos de relacionamiento con lo digital, la formación de comunidad y las infraestructuras. Como contexto e introducción, quiero narrar en este capítulo los caminos que me llevaron a este tema y problema, y a tomar la perspectiva particular que defenderé en los capítulos que siguen.

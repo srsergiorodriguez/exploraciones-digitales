@@ -4,7 +4,7 @@ dimension: true
 ---
 <a id="infraestructuras-chapter"></a>
 <header class="chapter-headers">
-  <h1>{{ page.title }}</h1>
+  <h1 number="5.4">{{ page.title }}</h1>
 </header>
 
 ## El demonio invisible

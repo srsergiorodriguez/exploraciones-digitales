@@ -3,7 +3,7 @@ title: Sobre el libro digital
 ---
 <a id="reflexiones-chapter"></a>
 <header class="chapter-headers">
-  <h1>{{ page.title }}</h1>
+  <h1 number="6">{{ page.title }}</h1>
 </header>
 
 En su reflexión sobre el papel del *blogueo* en su proceso de aprendizaje, construcción de comunidad y divulgación investigativa en el marco de su práctica de las humandiades digitales, Ernesto Priego comenta que "el blogueo y la investigación digital abierta no pueden separarse de las humanidades digitales (DH). Unas humanidades digitales que diseminan los resultados de su investigación a través de los mismos métodos tradicionales que otros campos  "digitales" me parece una contradicción"[@priegoCanSubalternDH2022, p. 28]. En efecto, las humanidades digitales, como resultado de su propia lógica, se producen y se diseminan en comunidades formales e informales a través de distintos medios digitales como blogs, videos, podcasts, y otras formas de comunicación que podrían considerarse como no convencionales en la academia, pero que en este campo resultan fructíferas por su naturaleza multimodal, hipertextual e interconectada.

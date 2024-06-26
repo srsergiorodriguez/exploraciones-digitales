@@ -20,34 +20,11 @@ def main():
   text = remove_bibliography(text)
   text = replace_after(text, '---', "—", 2)
   text = adjust_escapes(text)
-  # text = adjust_months(text)
 
   with open(filename, 'w') as f:
     f.write(text)
   
   print(f"Python done: {filename}")
-
-def adjust_months(text):
-  translations = {
-    "january ": "Enero ",
-    "february ": "Febrero ",
-    "march ": "Marzo ",
-    "april ": "Abril ",
-    "may ": "Mayo ",
-    "june ": "Junio ",
-    "july ": "Julio ",
-    "august ": "Agosto ",
-    "september ": "Septiembre ",
-    "october ": "Octubre ",
-    "november ": "Noviembre ",
-    "december ": "Diciembre "
-  }
-
-  for t in translations:
-    month = re.compile(t, re.IGNORECASE)
-    text = re.sub(month, translations[t], text)
-
-  return text
 
 def adjust_escapes(text):
   opening = re.compile(r'\\\[', re.IGNORECASE)

@@ -3,7 +3,7 @@ title: Métodos y datos
 ---
 <a id="metodos-chapter"></a>
 <header class="chapter-headers">
-  <h1>{{ page.title }}</h1>
+  <h1 number="3">{{ page.title }}</h1>
 </header>
 
 Esta investigación se fundamenta en una metodología de investigación mixta, es decir, es una mezcla de métodos cualitativos, métodos digitales y de investigación-creación. Los métodos cualitativos comprenden teoría fundamentada, revisión bibliográfica y de estudios de caso, y observación participante; los métodos digitales comprenden análisis de textos, análisis de redes y visualización de datos; y la investigación-creación comprende escritura como investigación y piezas de programación creativa. Los métodos se llevaron a cabo en fases paralelas que se representan en el siguiente esquema:

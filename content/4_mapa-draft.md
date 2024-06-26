@@ -3,7 +3,7 @@ title: Mapa de navegación y aproximaciones teóricas
 ---
 <a id="mapa-chapter"></a>
 <header class="chapter-headers">
-  <h1>{{ page.title }}</h1>
+  <h1 number="4">{{ page.title }}</h1>
 </header>
 
 ## Un mapa multidimensional de tensiones

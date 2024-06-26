@@ -4,7 +4,7 @@ dimension: true
 ---
 <a id="relacionamiento-chapter"></a>
 <header class="chapter-headers" id="chapter-header">
-  <h1>{{ page.title }}</h1>
+  <h1 number="5.2">{{ page.title }}</h1>
 </header>
 
 ## De la carpa al archipiélago

@@ -100,9 +100,7 @@ ol[data-type="footnotes"] {
 }
 
 .chapter-headers h1::before {
-  color:var(--col1);
-  content: counter(title) ".  ";
-  counter-increment: title;
+  content: attr(number) ". ";
 }
 
 section[data-type="chapter"] h1 {
