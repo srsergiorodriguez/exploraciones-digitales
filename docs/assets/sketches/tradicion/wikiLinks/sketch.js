@@ -3,15 +3,16 @@ const m = {l: w * 0, r: w * 0, t: h * 0, b: h * 0, w, h}; //getStandardMargins()
 let tourstep = -1;
 
 const tour = [
-  {text: "Una lectura cercana de esta red de menciones puede ayudarnos a formar una idea de los múltiples participantes involucrados en la comunidad de humanidades digitales además de sus alcances, relaciones y diversos tipos: personas, asociaciones, instituciones educativas y culturales, publicaciones, etc. Aquí veremos solo algunos ejemplos.", title: "Humanidades", k: 20, highlights: []},
-  {text: "Los colores de la red corresponden vagamente a agrupaciones nacionales. Por ejemplo, este sector de color cyan contiene múltiples perfiles colombianos, como la Red Colombiana de Humanidades Digitales (ReHDi_Co), las profesoras Maria José Afanador y Stefania Gallini, la facultad de Artes y Humanidades de la Universidad de los Andes (ArtesUniandes), o el laboratorio de Cartografía Histórica e Historia digital de la Universidad Nacional (LabCaHID).", title: "Humanos", k: 20, highlights: []},
-  {text: "Sin embargo, la red no muestra solo relaciones locales. Por ejemplo, un poco más a la izquierda, en este sector se evidencian que la red Colombiana (ReHDi_Co) es también cercana a la red Mexicana (Red_HD) y a proyectos transnacionales, como Programming Historian (ProgHist).", title: "Marco Tulio Cicerón", k: 25, highlights: []},
-  {text: "Este fenómeno glocal se repite en múltiples partes de la red. Por ejemplo, aquí encontramos un sector de individuos e instituciones españolas y europeas, cercanas a la sociedad de Humanidades Digitales Hispánicas (HDHispanicas).", title: "Dinamarca", k: 30, highlights: []},
-  {text: "Pero también vemos que las instituciones españolas y de otras partes de europa guardan comunicación cercana con personas e instituciones en Argentina, como la Asociación Argentina de Humanidades Digitales (aahdArg), o las profesoras Gimena del Rio y Virginia Brussa. Vemos que ellas, de hecho, son un puente en la red que conecta a varias subcomunidades.", title: "Historia", k: 22, highlights: []},
-  {text: "Las publicaciones también juegan papeles mediadores, pues conectan a comunidades diferentes a través de sus ediciones. Un ejemplo es la Revista Telos, que editó un número especial sobre humanidades digitales en 2019.", title: "Humanista", k: 20, highlights: []},
-  {text: "O la revista de humanidades digitales, que publica artículos de autores de toda la comunidad, en español, inglés y portugués, y que en la red es cercana a proyectos como Humboldt Digital (humboldtdigital) o los premios informales de humanidades diigtales DH Awards (dhawards)", title: "Simbolismo", k: 20, highlights: []},
-  {text: "Algunos eventos también tienen papeles importantes, como el congreso de la ADHO realizado en México en 2018 (dh2018cdmx), que en esta red tiene conexión con instituciones educativas mexicanas y con otras intituciones internacionales, como Wikimedia; aquí vemos una conexión cercana con una persona que trabaja para la esta organización, Silvia Gutiérrez (espejolento)", title: "Dionisio de Tracia", k: 15, highlights: []},
-  {text: "Así, este es un entramado vivo de relacionamiento social. Las humanidades digitales, como campo, se deben al trabajo entre personas e instituciones que conforman una comunidad.", title: "Poder (social y político)", k: 20, highlights: []},
+  {text: "Esta es una red de artículos de Wikipedia (nodos amarillos) conectados directamente con la entrada sobre Humanidades (nodo azul), y los artículos conectados con ellos, sucesivamente (nodos verdes). La red de Wikipedia permite ver algunos de los temas que guardan relación con las humanidades en esta biblioteca de internet, de acuerdo con sus contribuidores.", title: "Humanidades", k: 18, highlights: []},
+  {text: "En una parte de la red se ve la relación con los problemas de lo 'Humano' del humanismo, en términos de faro moral y autodomesticación, pero también en términos de especie biológica. Mueva, acerque y aleje la red para ver algunos de los artículos secundarios alrededor de esos temas.", title: "Humanos", k: 12, highlights: []},
+  {text: "En esta sección se ven los grupos de estudio humanista renacentista, el trivium y el quadrivium. Hay además diversidad de artículos secundarios, entre ellos, relaciones con campos de estudio contemporáneos como la semiótica y el psicoanálisis, pero también referencias a la antigüedad clásica.", title: "Marco Tulio Cicerón", k: 20, highlights: []},
+  {text: "Aquí se ve un sector de la red guarda relación con la educación, y en consonancia con lo dicho en este capítulo, con su estrecha relación con el poder y la autoridad.", title: "Poder (social y político)", k: 16, highlights: []},
+  {text: "Aquí hay referencias a la interpretación de los textos y la hermenéutica, así como a campos y corrientes relacionadas como la ecdótica, los estudios de la comunicación el estructuralismo o el posestructuralismo.", title: "Dinamarca", k: 20, highlights: []},
+  {text: "En este lugar está el artículo de la disciplina de la Historia, conectada a periodos históricos y al nodo de las artes liberales.", title: "Historia", k: 17, highlights: []},
+  {text: "Por otra parte está la conexión con entradas de la crítica y la teoría del arte, que a su vez tienen relación con distintos géneros artísticos y literarios, autores, y géneros, tanto clásicos como modernos, y con la palabra humanista, en el sentido de practicante de las humanidades que se dedica a estudiar todos estos temas.", title: "Humanista", k: 16, highlights: []},
+  {text: "De forma similar, el nodo de los Clásicos, tiene relación con obras de la tradición grecolatina, pero también con el arte y la cultura contemporánea.", title: "Simbolismo", k: 15, highlights: []},
+  {text: "Esta sección tiene nodos relacionados con la disciplina de la filología y con el concepto o rol del intelectual", title: "Dionisio de Tracia", k: 10, highlights: []},
+  {text: "Puede seguir explorando la red y encontrar más conexiones en el entramado hipertextual de Wikipedia", title: "Humanidades", k: 18, highlights: []},
 ];
 
 async function setup() {
@@ -109,10 +110,9 @@ function getNetwork(nodeData, edgeData) {
   gDot.selectAll("text")
     .data(nodeData)
     .join("text")
-      .attr("x", d => x(d.x))
-      .attr("y", d => y(d.y))
+      .attr("transform", d => `translate(${x(d.x)},${y(d.y)}) rotate(-18)`)
       .style("fill", "black")
-      .style("font-size", 0.6)
+      .style("font-size", 0.8)
       .style("font-family", "var(--content-font)")
       .text(d => d.label)
       .style("paint-order", "stroke")
@@ -152,24 +152,6 @@ function getNetwork(nodeData, edgeData) {
       const coord = {x: node.x, y: node.y}
       
       zoomTo(coord, step.k);
-
-      if (step.highlights !== undefined) {
-        gDot.selectAll("text")
-          .style("font-size", d => step.highlights.includes(d.Label) ? 18 / step.k : 0.4)
-          .style("fill", d => step.highlights.includes(d.Label) ? "black" : "black")
-          .style("stroke", d => step.highlights.includes(d.Label) ? "white" : "none")
-          .style("stroke-width", d => step.highlights.includes(d.Label) ? 5 / step.k : 0.4)
-          .each(function(d) {
-            if (step.highlights.includes(d.Label)) {
-              d3.select(this).raise()
-            }
-          })
-      } else {
-        gDot.selectAll("text")
-          .style("fill", "black")
-          .style("font-size", 0.4)
-          .style("stroke", "none")
-      }
     },
     setDescription(text) {
       description.text(text);

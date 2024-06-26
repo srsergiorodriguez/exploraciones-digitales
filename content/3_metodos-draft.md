@@ -44,12 +44,12 @@ Cabe decir que algunas de las personas entrevistadas no se reconocen a sí misma
 
 Aunque las entrevistas semiestructuradas se desarrollaron como charlas informales relativamente extensas (1 hora aproximadamante), hay un protocolo general que orientó las preguntas y el hilo conductor de la conversación. El protocolo completo se puede consultar <a href="assets/documents/metodos/protocolo3.pdf" target="_blank">aquí</a>. Sin embargo, a grandes rasgos, las preguntas se orientaron alrededor de los siguientes temas:
 
-  1. la historia de origen y la trayectoria de la persona entrevistada,
-  2. los proyectos realizados dentro del marco de las humanidades digitales,
-  3. la reflexión acerca de las particularidades de las humanidades digitales o el desarrollo de proyectos digitales en su contexto particular y en América Latina,
-  4. la reflexión acerca de las diferencias infrastructurales de las humanidades digitales en América Latina,
-  5. la reflexión acerca de la institucionalización y la construcción de comunidades de práctica en el contexto de las humanidades digitales
-  6. la pregunta por el papel de las humanidades digitales en relación con la tradición general de las humanidades.
+  - la historia de origen y la trayectoria de la persona entrevistada,
+  - los proyectos realizados dentro del marco de las humanidades digitales,
+  - la reflexión acerca de las particularidades de las humanidades digitales o el desarrollo de proyectos digitales en su contexto particular y en América Latina,
+  - la reflexión acerca de las diferencias infrastructurales de las humanidades digitales en América Latina,
+  - la reflexión acerca de la institucionalización y la construcción de comunidades de práctica en el contexto de las humanidades digitales
+  - la pregunta por el papel de las humanidades digitales en relación con la tradición general de las humanidades.
 
 Este resumen condensa la versión final del protocolo de entrevistas, pero, siguiendo la naturaleza del método de teoría fundamentada, el protocolo sufrió variaciones previas, antes de que las categorías se refinaran en entrevistas posteriores. <a href="assets/documents/metodos/protocolo1.pdf" target="_blank">Aquí</a>, por ejemplo, se puede consultar el prototipo de protocolo que sirvió como piloto para las primeras tres entrevistas del proyecto.
 
@@ -196,7 +196,7 @@ En cuanto a los aspectos cuantitativos, hice uso de múltiples métodos computac
 
 Las incrustaciones de palabras, o *word embeddings*, son un método que consiste en derivar, por medio de algoritmos diversos, representaciones numéricas vectoriales de los términos presentes en un *corpus*, de acuerdo con sus relaciones contextuales[@gavinSpacesMeaningConceptual2019]. Este método sigue los principios de la semántica distribucional[@sahlgrenDistributionalHypothesis2008], que asume que los términos que suelen aparecer en el mismo contexto, es decir, cerca unos de otros en el texto, suelen tener relaciones semánticas. Así, las incrustaciones de palabras crean una especie de espacio semántico metafórico, los vectores, en el que los términos que se encuentran más cerca unos de otros tienen también significados similares o conectados. Sobre estos vectores es también posible usar algoritmos que agrupan, o encuentran *clústers*, que pueden interpretarse como grupos temáticos o como conjuntos de interés. 
 
-Principalmente, usé incrustaciones de palabras para analizar distintos corpus de publicaciones académicas relacionadas con humanidades digitales en el contexto hispanohablante y en el mundo. La estrategia fue similar a la investigación realizada por Kleymann et al.[@kleymannConceptualForaysCorpusbased2022], que consistió en hacer una pequeña historia conceptual del uso de "teoría" en múltiples revistas de humanidades digitales por medio del análisis basado en incrustaciones de palabras. En mi caso particular, estas incrustaciones permitieron hacer panoramas generales de los temas recurrentes en las publicaciones escogidas (<a href="https://reviewsindh.pubpub.org/" target="_blank">*Reviews in Digital Humanities*</a> y <a href="https://revistas.uned.es/index.php/RHD" target="_blank">*Revista de Humanidades Digitales (RHD)*</a>) y establecer comparaciones conceptuales entre ellas.
+Principalmente, usé incrustaciones de palabras para analizar distintos corpus de publicaciones académicas relacionadas con humanidades digitales en el contexto hispanohablante y en el mundo. La estrategia fue similar a la investigación realizada por Kleymann et al.[@kleymannConceptualForaysCorpus2022], que consistió en hacer una pequeña historia conceptual del uso de "teoría" en múltiples revistas de humanidades digitales por medio del análisis basado en incrustaciones de palabras. En mi caso particular, estas incrustaciones permitieron hacer panoramas generales de los temas recurrentes en las publicaciones escogidas (<a href="https://reviewsindh.pubpub.org/" target="_blank">*Reviews in Digital Humanities*</a> y <a href="https://revistas.uned.es/index.php/RHD" target="_blank">*Revista de Humanidades Digitales (RHD)*</a>) y establecer comparaciones conceptuales entre ellas.
 
 ### Análisis de redes
 

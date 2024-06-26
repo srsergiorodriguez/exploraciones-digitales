@@ -5,7 +5,7 @@ layout: layouts/cover.html
 
 <section class="single-page">
   <br/>
-  Este es una disertación doctoral en versión de libro digital. Desarrolla, en una serie de ensayos interactivos, un mapeo de las tensiones de las humanidades digitales en América Latina enmarcadas con cuatro dimensiones: 
+  Disertación doctoral en versión de libro digital. Desarrolla, en una serie de ensayos interactivos, un mapeo de las tensiones de las humanidades digitales en América Latina enmarcadas con cuatro dimensiones: 
   
   - La tradición humanística
   - Los modos de relacionmiento con lo digital
@@ -26,7 +26,7 @@ layout: layouts/cover.html
 
   <div class="version-buttons overline"><a href="{{ navigation.next.href }}">
     <button>Leer libro digital</button></a>
-    <button><a class="silent-link" href="assets/ExploracionesDigitales.pdf" target="_blank">Descargar versión pdf para imprimir</a></button>
+    <button><a class="silent-link" href="assets/MapeoHD_SergioRG.pdf" target="_blank">Descargar versión pdf para imprimir</a></button>
   </div>
 
 </section>
