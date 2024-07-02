@@ -1,5 +1,5 @@
 ---
-title: Un periplo en el mapa
+title: Un periplo por el mapa
 ---
 
 <a id="periplo-chapter"></a>
