@@ -296,7 +296,7 @@ En las humanidades digitales latinoamericanas se presenta una oportunidad para e
 
 ## Lo digital como fenómeno cultural
 
->"¿Qué es la cultura cuando se ha softwarizado?" —Lev Manovich[@manovichSoftwareTakesCommand2013, p. 41]
+>"¿Qué es la cultura cuando se ha softwarizado?" —Lev Manovich - Software takes command[@manovichSoftwareTakesCommand2013, p. 41]
 
 En la introducción de su libro *Understanding Digital Humanities*, editado hace ya una década, en 2012, David M. Berry diferencia tres momentos de las humanidades digitales: las 1.0, preocupadas por el archivo de documentos a través de la digitalización, las 2.0, centradas en la conservación de documentos nativos digitales, y las 3.0, que, según él, consisten en "ver el componente *digital* de las humanidades digitales a la luz de la especificidad del medio como una forma de entender cómo los cambios mediáticos producen cambios epistémicos"[@berryIntroductionUnderstandingDigital2012, p. 4]. Con "especificidad del medio" Berry se refiere a una noción planteada por el crítico de arte Clement Greenberg en su defensa del estilo pictórico del expresionismo abstracto norteamericano a mediadios del siglo pasado[@greenbergHaciaNuevoLaocoonte2020] como mencioné en el capítulo sobre [métodos](#metodos-chapter). Concretamente, cada medio artístico tiene su propia especificidad, es decir, cosas para las que se presta mejor —la pintura para chorrear, cubrir, embadurnar; el dibujo para hacer líneas, por ejemplo—, y, bajo esta visión, idealmente, el artista debe ganar conciencia de esa especificidad y aprovecharla.
 

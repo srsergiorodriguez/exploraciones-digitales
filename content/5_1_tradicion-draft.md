@@ -136,7 +136,7 @@ Sin embargo, como afirma Small: “una defensa es, después de todo, una defensa
 
 >"Un automóvil rugiente, que parece correr como la metralla, es más bello que la Victoria de Samotracia" -Filippo Tommaso Marinetti - Manifiesto Futurista[@marinettiManifisteFuturisme1909]
 
->“Hombres que habitaban en "máquinas de vivir" construidas en ciudades dominadas por los tubos electrónicos han inventado esa extraña ciencia que se llama cibernética, que rige la fisiología de los "cerebros electrónicos" y que, en días próximos, servirá para controlar los ejércitos de robots. En ese país no sólo se ha llegado a medir los colores y olores sino los sentimientos y emociones. Y esas medidas, convenientemente tabuladas, han sido puestas al servicio de las empresas mercantiles.” —Ernesto Sábato - Hombres y Engranajes [@sabatoHombresEngranajes1951, p. 54]
+>“Hombres que habitaban en "máquinas de vivir" construidas en ciudades dominadas por los tubos electrónicos han inventado esa extraña ciencia que se llama cibernética, que rige la fisiología de los "cerebros electrónicos" y que, en días próximos, servirá para controlar los ejércitos de robots. En ese país no sólo se ha llegado a medir los colores y olores sino los sentimientos y emociones. Y esas medidas, convenientemente tabuladas, han sido puestas al servicio de las empresas mercantiles.” —Ernesto Sábato - Hombres y Engranajes[@sabatoHombresEngranajes1951, p. 54]
 
 Como lo ha planteado Rodríguez Yunta: "Las DH \[Humanidades digitales\] reflejan la necesidad de las disciplinas humanísticas de reivindicarse en la sociedad de la información, y también de reinventarse y asumir la revolución tecnológica en todas sus consecuencias"[@rodriguez-yuntaCiberinfraestructuraParaHumanidades2014, p. 458]. En efecto, a grandes rasgos, **las humanidades digitales implican un doble movimiento: por un lado, son el estudio de los temas humanísticos tradicionales por medio de tecnologías digitales, y, por otro, son el estudio de lo digital como cultura, es decir, como producción humana y, por lo tanto, como tema humanístico**. A su vez, este doble movimiento pone a las humanidades digitales en una doble condición frente a la crisis, o sea, el lugar cada vez más incómodo para las humanidades dentro de las instituciones que ellas mismas crearon: las humanidades digitales son simultáneamente promesa de salvación y posible aceleración de la crisis —aunque podría ser una aceleración tal vez virtuosa, tal vez destructiva—.
 
@@ -172,7 +172,7 @@ Las humanidades digitales en América Latina pueden encaminarse a este horizonte
 
 ## Bárbaros en el ateneo
 
->"Tupy or not tupy" —Oswald de Andrade - Manifiesto Antropofago[@deandradeManifiestoAntropofago1928, p. 3]
+>"Tupy or not tupy" —Oswald de Andrade - Manifiesto Antropófago[@deandradeManifiestoAntropofago1928, p. 3]
 
 >No hay justificación para el nuevo término *Latino América* y sus derivados. Por razones históricas la justicia demanda que los nuevos términos desaparezcan. Si España merece el crédito de haber civilizado y desarrollado estos países sureños, ¿qué debemos decir de las naciones poderosas que quieren privarlas de este crédito? —Aurelio M. Espinosa - The term Latin America[@espinosaTermLatinAmerica1918, p. 139]
 
