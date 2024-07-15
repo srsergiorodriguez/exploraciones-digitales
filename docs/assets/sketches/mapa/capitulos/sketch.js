@@ -20,8 +20,8 @@ function makeTree(hierarchy) {
   const root = tree(hierarchy);
   const L = root.descendants().map(d => d.data);
 
-  const dimensions = ["Dimensiones", "Tradición humanística", "Modos de relacionamiento", "Formación de comunidad", "Infraestructura", "Reflexiones sobre el libro digital"];
-  const color = d3.scaleOrdinal().range([colmain, "#0070C0", "#FFC000", "#00B050", "#FF0000", colmain]).domain(dimensions);
+  const dimensions = ["Dimensiones", "Tradición humanística", "Modos de relacionamiento", "Formación de comunidad", "Infraestructura", "Reflexiones sobre el libro digital", "Periplo por el mapa"];
+  const color = d3.scaleOrdinal().range([colmain, "#0070C0", "#FFC000", "#00B050", "#FF0000", colmain, colmain]).domain(dimensions);
 
   const link = g.selectAll("path")
     .data(root.links().filter(d => {
