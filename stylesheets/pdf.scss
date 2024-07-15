@@ -70,9 +70,14 @@ nav[data-type="toc"] ol>li::before {
   counter-increment: item;
 }
 
-nav[data-type="toc"] a[href]::after {
+nav[data-type="toc"] a[href]:not(.subtitle)::after {
   content: leader('.') "p. " target-counter(attr(href), page);
 }
+
+nav[data-type="toc"] a[href].subtitle {
+  -prince-link: none ! important;
+}
+
 
 nav[data-type="toc"] a[href] {
   text-decoration: none;
@@ -99,8 +104,20 @@ ol[data-type="footnotes"] {
   font-size: var(--p-size);
 }
 
+.backreference-link {
+  cursor: pointer;
+  // -prince-pdf-destination: attr(href);
+  // -prince-link: attr(href);
+  content: "";
+}
+
 .chapter-headers h1::before {
   content: attr(number) ". ";
+}
+
+.dimension-header {
+  font-size: var(--h1-size);
+  text-align: center;
 }
 
 section[data-type="chapter"] h1 {

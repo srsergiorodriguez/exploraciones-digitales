@@ -1,7 +1,7 @@
 # Humanidades digitales en América Latina
 ## Un mapeo multidimensional de sus tensiones
 
-Este es el repositorio de la disertación doctoral de Sergio Rodríguez Gómez titulada Humanidades digitales en América Latina. Un mapeo multidimensional de sus tensiones. La disertación es un libro digital que puede leerse en línea o en formato pdf listo para imprimir. Para lograr esta doble posibilidad, el libro fue creado usando el sistema <a href="https://github.com/magicbookproject/magicbook" target="_blank">Magicbook project</a>. El sistema fue ajustado para adaptarse a las necesidades del libro y para localizar el resultado al idioma español.
+Este es el repositorio de la disertación doctoral de Sergio Rodríguez Gómez titulada ***Humanidades digitales en América Latina. Un mapeo multidimensional de sus tensiones***. La disertación es un libro digital que puede leerse en línea o en formato pdf listo para imprimir. Para lograr esta doble posibilidad, el libro fue creado usando el sistema <a href="https://github.com/magicbookproject/magicbook" target="_blank">Magicbook project</a>. El sistema fue ajustado para adaptarse a las necesidades del libro y para localizar el resultado al idioma español.
 
 Este repositorio es libre y abierto y se puede adaptar para crear proyectos similares.
 

@@ -243,6 +243,10 @@ iframe {
   user-select: none;
 }
 
+.dimension {
+  padding: 0px 10px;
+}
+
 .sidebar ul,ol.subcontent a[data-toc="chapter"] {
   // Dimensiones
   font-size: 0.85em;
@@ -250,12 +254,8 @@ iframe {
 }
 
 .toc-title {
+  margin: 10px;
   text-align: center;
-}
-
-.sidebar ul,ol.subcontent a[data-toc="sect1"] {
-  // Apartados
-  font-size: 0.85em;
 }
 
 .sidebar span {

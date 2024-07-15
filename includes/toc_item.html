@@ -3,7 +3,8 @@
   {% if item.href %}
     <a data-toc="{{ item.type }}" href="{{ item.href }}">{{ item.label }}</a>
   {% else %}
-    <span data-toc="{{ item.type }}">{{ item.label }}</span>
+    <a class="subtitle" data-toc="{{ item.type }}" data-type="xref" href="dimensiones.html">{{ item.label }}</a>
+    <!-- <span data-toc="{{ item.type }}">{{ item.label }}</span> -->
   {% endif %}
   {% if item.children.length > 0 && item.type === 'part' %}
     <ol class="subcontent">

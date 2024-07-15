@@ -38,14 +38,15 @@
         {
           "label": "Las dimensiones",
           "files": [
+            "content/5_0_dimensiones.md",
             "content/5_1_tradicion-draft.md",
             "content/5_2_relacionamiento-draft.md",
             "content/5_3_comunidad-draft.md",
             "content/5_4_infraestructura-draft.md"
           ]
         },
-        "content/6_reflexiones-draft.md",
-        "content/7_periplo-draft.md",
+        "content/6_periplo-draft.md",
+        "content/7_reflexiones-draft.md",
         "content/8_conclusiones.md",
         "content/9_agradecimientos.md"
       ]
