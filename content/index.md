@@ -24,8 +24,8 @@ layout: layouts/cover.html
 
   El libro existe en dos versiones, una digital, que se puede leer en el navegador y contiene elementos interactivos, y una en formato pdf, que tiene la diagramación de un libro convencional y elementos estáticos y puede leerse en pantalla o imprimirse:
 
-  <div class="version-buttons overline"><a href="{{ navigation.next.href }}">
-    <button>Leer libro digital</button></a>
+  <div class="version-buttons overline">
+    <a href="{{ navigation.next.href }}"><button>Leer libro digital</button></a>
     <a class="silent-link" href="assets/MapeoHD_SergioRG.pdf" target="_blank"><button>Descargar versión pdf para imprimir</button></a>
   </div>
 
