@@ -16,12 +16,7 @@ def main():
 
   text = adjust_html(text)
   text = to_inline(text, maketooltips)
-
-  if maketooltips:
-    get_bibliography(text)
-
   text = remove_bibliography(text)
-  
   text = replace_after(text, '---', "—", 2)
   text = adjust_escapes(text)
 
@@ -115,19 +110,6 @@ def replace_after(text, search, replace, n):
 def remove_bibliography(text):
   marker = re.compile('# Referencias', re.IGNORECASE)
   text = re.split(marker, text)[0]
-  return text
-
-def get_bibliography(text):
-  start = re.compile('# Referencias', re.IGNORECASE)
-  reflist = re.split(start, text)[1]
-  pattern = re.compile(r'<div id="[^"]+" class="csl-entry">\s*(.*?)\s*</div>', re.DOTALL)
-  matches = pattern.findall(reflist)
-
-  with open("13_referencias.md", 'a') as f:
-    f.write("\n".join(matches) + "\n")
-  
-  print(f"Python done: REFERENCES")
-
   return text
 
 if __name__ == "__main__":

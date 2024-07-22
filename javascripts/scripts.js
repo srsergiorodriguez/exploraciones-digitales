@@ -1,4 +1,4 @@
-console.log("JavaScript Activado");
+// console.log("JavaScript Activado");
 
 const sectionListElements = [];
 
@@ -9,43 +9,27 @@ window.onload = function() {
 async function setSectionMenu() {
   const dimension = document.getElementsByTagName("dimension")[0];
 
-  const aside = document.getElementsByTagName("aside")[0].getElementsByClassName("subcontent");
-
-  if (aside.length <= 0) return
-
-  const list = aside[0].children;
+  const subsectionList = document.getElementsByTagName("aside")[0].getElementsByClassName("subsection-toc");
+  if (subsectionList.length <= 0) return
 
   const header = document.getElementsByClassName("chapter-headers")[0].getElementsByTagName("h1")[0].textContent;
 
-  const anchors = [];
+  for (let s of subsectionList) {
+    const subsectionsParent = s.getAttribute("chapter-parent");
 
-  for (let l of list) {
-    const dimensionLinkName = l.querySelector("a").textContent;
-    if (dimensionLinkName === header) {
-      const dimensionList = l.querySelector("ul").getElementsByTagName("a");
-
-      for (let dl of dimensionList) {
-        const anchor = "#" + dl.getAttribute("href").split("#")[1];
-        const key = dl.textContent;
-        anchors.push({key, anchor});
-
-        if (dimension !== undefined) {
-          const li = document.createElement("li");
-          li.appendChild(dl.cloneNode(true));
-          sectionListElements.push(li);
-          dimension.appendChild(li);
-        }
-
-      }
+    if (subsectionsParent === header) {
+      const listElements = s.children;
       
+      for (let l of listElements) {
+        const li = document.createElement("li");
+        li.appendChild(l.cloneNode(true));
+        sectionListElements.push(li);
+        dimension.appendChild(li);
+      }
     }
+  }
 
-    const subcontents = l.getElementsByClassName('subcontent');
-
-    for (let s of subcontents) {
-      s.remove();
-    }
-  }  
+  for (let i = subsectionList.length - 1; i >= 0; i --) { subsectionList[i].remove() };
 }
 
 document.addEventListener("scroll", () => {
@@ -53,11 +37,10 @@ document.addEventListener("scroll", () => {
 
   if (visibleh1) {
     for (let l of sectionListElements) {
-      if (l.querySelector("a").textContent === visibleh1.textContent) {
+      if (l.textContent === visibleh1.textContent) {
         l.classList.add("current-section");
-
-        // const a = l.querySelector("a");
-        // a.classList.add("current-section");
+      } else {
+        l.classList.remove("current-section");
       }
     }
   }

@@ -2,8 +2,9 @@
 title: Agradecimientos
 ---
 
+<a id="agradecimientos-chapter"></a>
 <header class="chapter-headers">
-  <h1 number="9">{{ page.title }}</h1>
+  <h1 number="12">{{ page.title }}</h1>
 </header>
 
 En primer lugar quiero agradecer a mi familia, mi mamá Yolanda, mi papá Edilberto, mi hermana Paula y mi pareja María, por su compañía y apoyo constante.

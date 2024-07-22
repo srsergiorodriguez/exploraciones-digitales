@@ -215,18 +215,22 @@ iframe {
   // padding: 2em;
 }
 
-.toc-title {
-  margin: 10px;
-  text-align: center;
+.sidebar h1 {
   user-select: none;
   font-size: 1em;
 }
 
 .sidebar ol, ul {
   padding: 0 0 0 20px;
+  counter-reset: item;
 }
 
-.sidebar li {
+.sidebar ol>li:before {
+  content: counters(item, ".") ".  ";
+  counter-increment: item;
+}
+
+.sidebar ol>li {
   list-style-type: none;
 }
 
@@ -241,6 +245,17 @@ iframe {
 
 .dimension {
   padding: 0px 10px;
+}
+
+.sidebar ul,ol.subcontent a[data-toc="chapter"] {
+  // Dimensiones
+  // font-size: 0.85em;
+  // font-weight: bold;
+}
+
+.toc-title {
+  margin: 10px;
+  text-align: center;
 }
 
 .sidebar span {

@@ -1,10 +1,12 @@
 ---
-title: 4. Mapa de navegación y aproximaciones teóricas
+title: Mapa de navegación y aproximaciones teóricas
 ---
 <a id="mapa-chapter"></a>
 <header class="chapter-headers">
   <h1 number="4">{{ page.title }}</h1>
 </header>
+
+## Un mapa multidimensional de tensiones
 
 Los resultados de esta investigación, de acuerdo con los objetivos planteados en capítulos anteriores, consisten en la caracterización de una serie de dimensiones que estructuran múltiples tensiones de las humanidades digitales en América Latina. Los capítulos englobados en la sección 5, a continuación de esta, son entonces el desarrollo de esos resultados y dan cuenta de las formas exploratorias de la investigación, elementos descriptivos que caracterizan las dimensiones y las tensiones, y partes explicativas que desenvuelven las causalidades pero también los horizontes futuros y líneas de trabajo para las humanidades digitales en nuestro contexto.
 
@@ -59,7 +61,7 @@ Adicionalmente, como parte de los resultados de investigación, y debido a que e
 
 A continuación presento un resumen de cada una de las dimensiones:
 
-## 4.1. Dimensión de la tradición humanística
+### Dimensión de la tradición humanística
 
 La primera dimensión engloba las tensiones relacionadas con la tradición de las humanidades. Especialmente, esta dimensión se enfoca en tres tensiones:
 
@@ -73,7 +75,7 @@ Debido a que esta dimensión se basa principalmente en métodos de revisión bib
 
 Las aproximaciones teóricas y de caso particulares en las que me basé para construir la caracterización de esta dimensión se basan principalmente en investigaciones sobre la historia de las humanidades en general, reflexiones con respecto a la autenticidad del humanismo en América Latina, aproximaciones decoloniales a las humanidades y la propuesta del marco crítico para las humanidades digitales ofrecida por Nuria Rodríguez Ortega [@rodriguez-ortegaDigitalSocialSciences2022].
 
-## 4.2. Dimensión de los modos de relacionamiento con lo digital
+### Dimensión de los modos de relacionamiento con lo digital
 
 La segunda dimensión engloba lo que Patrik Svensson[@svenssonLandscapeDigitalHumanities2010] denomina *modos de relacionamiento* de las humanidades digitales. Es decir, las formas en las que lo digital es usado, entendido o estudiado desde una perspectiva humanística. Esto puese ser lo digital como método y herramienta, como pregunta de investigación, o como medio para una causa o forma de expresión. Esta dimensión se enfoca en tres tensiones principalmente:
 
@@ -83,7 +85,7 @@ La segunda dimensión engloba lo que Patrik Svensson[@svenssonLandscapeDigitalHu
 
 Las aproximaciones teóricas y de caso que fundamentaron esta dimensión son las prácticas convencionales de las humanidades digitales consignadas en *companions* y *coursebooks*, las subcorrientes de estas prácticas —especialmente la analítica cultural—, las propuestas de formas alternativas de activismo social desde el pensamiento digital o sobre el pensamiento digital, y algunos ejemplos de prácticas artísticas digitales precursoras en América Latina.
 
-## 4.3. Dimensión de la formación de comunidad
+### Dimensión de la formación de comunidad
 
 La tercera dimensión engloba las complejidades que comprende la formación de comunidades para desarrollar las prácticas de las humanidades digitales en América Latina. Esta dimensión se enfoca las siguientes tensiones:
 
@@ -95,7 +97,7 @@ Las líneas de trabajo propuestas en esta dimensión se enfocan principalmente e
 
 Las aproximaciones teóricas y los casos usados para esta dimensión se basan más que todo en teorías sociológicas sobre el concepto de comunidad, casos concretos de comunidades de prácticas y asociaciones en distintos países de América Latina así como mi propia experiencia dentro de la Red Colombiana de Humanidades Digitales, y la distinción de roles en las humanidades digitales establecida por Richard Papson entre académicos, intelectuales y bricolérs[@papsonScholarsIntellectualsBricoleurs2014].
 
-## 4.4. Dimensión de las infraestructuras
+### Dimensión de las infraestructuras
 
 La cuarta y última dimensión engloba el tema de las infraestructuras de las humanidades digitales, entendidas como formas de trabajo que facilitan el trabajo, ya sea humano, computacional o natural. Esta dimensión comprende tensiones como las siguientes:
 

@@ -35,20 +35,15 @@
         "content/2_contexto.md",
         "content/3_metodos.md",
         "content/4_mapa.md",
-        {
-          "label": "Las dimensiones",
-          "files": [
-            "content/5_0_dimensiones.md",
-            "content/5_1_tradicion.md",
-            "content/5_2_relacionamiento.md",
-            "content/5_3_comunidad.md",
-            "content/5_4_infraestructura.md"
-          ]
-        },
-        "content/6_periplo.md",
-        "content/7_reflexiones.md",
-        "content/8_conclusiones.md",
-        "content/9_agradecimientos.md"
+        "content/5_tradicion.md",
+        "content/6_relacionamiento.md",
+        "content/7_comunidad.md",
+        "content/8_infraestructura.md",
+        "content/9_periplo.md",
+        "content/10_reflexiones.md",
+        "content/11_conclusiones.md",
+        "content/12_agradecimientos.md",
+        "content/13_referencias_sorted.md"
       ]
     },
     {
@@ -64,20 +59,15 @@
         "content/2_contexto_nott.md",
         "content/3_metodos_nott.md",
         "content/4_mapa_nott.md",
-        {
-          "label": "Las dimensiones",
-          "files": [
-            "content/5_0_dimensiones_print.md",
-            "content/5_1_tradicion_nott.md",
-            "content/5_2_relacionamiento_nott.md",
-            "content/5_3_comunidad_nott.md",
-            "content/5_4_infraestructura_nott.md"
-          ]
-        },
-        "content/6_periplo_nott.md",
-        "content/7_reflexiones_nott.md",
-        "content/8_conclusiones.md",
-        "content/9_agradecimientos.md"
+        "content/5_tradicion_nott.md",
+        "content/6_relacionamiento_nott.md",
+        "content/7_comunidad_nott.md",
+        "content/8_infraestructura_nott.md",
+        "content/9_periplo_nott.md",
+        "content/10_reflexiones_nott.md",
+        "content/11_conclusiones.md",
+        "content/12_agradecimientos.md",
+        "content/13_referencias_sorted.md"
       ]
     }
   ]

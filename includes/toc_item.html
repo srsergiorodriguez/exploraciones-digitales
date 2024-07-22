@@ -1,19 +1,23 @@
 {% for item in children %}
 <li>
   {% if item.href %}
-    <a data-toc="{{ item.type }}" href="{{ item.href }}">{{ item.label }}</a>
+    {% assign numeral = item.label | split: " " | first %}
+    {% assign label = item.label | remove: numeral %}
+
+    {% if numeral <= 11 %}
+      <span>{{ numeral }}</span>
+      <a data-toc="{{ item.type }}" href="{{ item.href }}">{{ label }}</a>
+      {% if numeral >= 5 && numeral <= 8 %}
+        <ul class="subsection-toc" chapter-parent="{{ item.label }}">
+          {% include toc_item.html children=item.children subsection=true%}
+        </ul>
+      {% endif %}
+    {% else %}
+      <a data-toc="{{ item.type }}" href="{{ item.href }}">{{ item.label }}</a>
+    {% endif %}
+
   {% else %}
-    <a class="subtitle" data-toc="{{ item.type }}" data-type="xref" href="dimensiones.html">{{ item.label }}</a>
-    <!-- <span data-toc="{{ item.type }}">{{ item.label }}</span> -->
-  {% endif %}
-  {% if item.children.length > 0 && item.type === 'part' %}
-    <ol class="subcontent">
-      {% include toc_item.html children=item.children partchildren=true %}
-    </ol>
-  {% elsif partchildren and item.type === 'chapter' %}
-    <ul class="subcontent">
-      {% include toc_item.html children=item.children %}
-    </ul>
+    <span data-toc="{{ item.type }}">{{ item.label }}</span>
   {% endif %}
 </li>
 {% endfor %}
