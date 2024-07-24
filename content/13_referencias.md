@@ -21,6 +21,7 @@ Casas, Rosalba, y Tania Pérez-Bustos, eds. *Ciencia, Tecnología y Sociedad En 
 Chan, Anita. *Networking Peripheries: Technological Futures and the Myth of Digital Universalism*. Cambridge, Mass: MIT Press, 2013.
 Chilton, Gioia, y Patricia Leavy. «Arts-Based Research Practice: Merging Social Research and the Creative Arts». *The Oxford Handbook of Qualitative Research*, editado por Patricia Leavy, 403-22. Oxford: Oxford University Press, 2014. <https://doi.org/10.1093/oxfordhb/9780199811755.001.0001>.
 Chun, Wendy Hui Kyong, y Thomas Keenan, eds. *New Media, Old Media: A History and Theory Reader*. New York: Routledge, 2006.
+Coetzee, J. M. *Elizabeth Costello*. New York: Penguin Books, 2004.
 Cordeiro, Waldemar. «\"Arteonica\": Electronic Art». *Leonardo* 30, n.º 1 (1997): 33. <https://doi.org/10.2307/1576373>.
 Cortina, Adela. «EL FUTURO DE LAS HUMANIDADES». *Revista Chilena de Literatura*, n.º 84 (2013): 207-17. <http://www.jstor.org/stable/23595105>.
 Croxall, Brian, y Diane K. Jakacki, eds. *What We Teach When We Teach DH: Digital Humanities in the Classroom*. Minneapolis, MN: University of Minnesota Press, 2023.
@@ -33,6 +34,8 @@ Dewey, John. *Art as Experience*. New York, NY: Perigee, 1995.
 Deyrup, Marta Mestrovic. *Digital Scholarship*. New York: Routledge, 2009.
 Donoghue, Frank. «¿Tienen Futuro Las Humanidades?» *Revista chilena de literatura*, 2013, 227-32.
 Drucker, Johanna. *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Abingdon, Oxon ; New York: Routledge/Taylor & Francis, 2021.
+Eco, Umberto. *El nombre de la rosa*. Barcelona: Ed. Lumen, 1989.
+*El Infinito En Un Junco. La Invención de Los Libros En El Mundo Antiguo*. Bogotá: Penguin Random House, 2021.
 «Entrevista a Mariana Córdoba», 14 de octubre de 2021.
 «Entrevista a Riva Quiroga», 9 de febrero de 2022.
 Facultad de Humanidades y Ciencias de la Eduación - Universidad de la República Uruguay. «Humanidades Digitales». Humanidades digitales. Accedido en 22 de junio de 2024. <http://humanidades-digitales.fhuce.edu.uy/sobre-este-sitio>.
@@ -221,7 +224,6 @@ Giusti, Miguel. «El sentido de las humanidades». *El futuro de las humanidades
 Godwin, Joscelyn. *Athanasius Kircher: A Renaissance Man and the Quest for Lost Knowledge*. London: Thames and Hudson, 1979.
 Golumbia, David. *The cultural logic of computation*. Cambridge, Mass.: Harvard University Press, 2009.
 Gombrich, E. H. *Ideales e ídolos: ensayos sobre los valores en la historia del arte*. Madrid: Debate, 1999.
----------. *La Historia del arte*. New Yok: Phaidon, 2014.
 Gombrich, E. H. «Research in the Humanities: Ideals and Idols». *Daedalus* 102, n.º 2 (1973): 1-10. <http://www.jstor.org.ezproxy.javeriana.edu.co/stable/20024123>.
 Gómez-Cruz, Edgar, Paola Ricaurte, y Ignacio Siles. «Descolonizando Los Métodos Para Estudiar La Cultura Digital: Una Propuesta Desde Latinoamérica». *Cuadernos.info*, n.º 54 (2023): 160-81. <https://doi.org/10.7764/cdi.54.52605>.
 Gronbeck, Bruce E. «Is Communication a Humanities Discipline?: Struggles for Academic Identity». *Arts and Humanities in Higher Education* 4, n.º 3 (octubre de 2005): 229-46. <https://doi.org/10.1177/1474022205056167>.

@@ -6,7 +6,7 @@
   --h1-size-sect: 11pt;
   --h2-size-sect: 9pt;
   --p-size: 8pt;
-  --table-size: 7pt;
+  --table-size: 6pt;
   --blockquote-size: 7pt;
   --caption-size: 7pt;
   --footnote-size: 6pt;
@@ -51,6 +51,10 @@ p, ul, ol, code {
   font-size: var(--p-size);
   line-height: 2em;
   list-style-position: inside;
+}
+
+ul {
+  margin: 10px;
 }
 
 a {

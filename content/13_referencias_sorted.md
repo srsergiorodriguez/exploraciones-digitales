@@ -151,7 +151,6 @@ title: Referencias
 - Gold, Matthew K., y Lauren F. Klein, eds. *Debates in the Digital Humanities 2019*. Minneapolis London: University of Minnesota Press, 2019.
 - Golumbia, David. *The cultural logic of computation*. Cambridge, Mass.: Harvard University Press, 2009.
 - Gombrich, E. H. *Ideales e ídolos: ensayos sobre los valores en la historia del arte*. Madrid: Debate, 1999.
-- ---------. *La Historia del arte*. New Yok: Phaidon, 2014.
 - Gombrich, E. H. «Research in the Humanities: Ideals and Idols». *Daedalus* 102, n.º 2 (1973): 1-10. <http://www.jstor.org.ezproxy.javeriana.edu.co/stable/20024123>.
 - González Ocampo, María Eugenia, Sophie Álamo, y Agustina Miglorini. «Las Desapariciones de Luciano Arruga y Franco Casco: Investigación Sobre La Construcción Discursiva de Los Casos a Través de La Metodología Digital de La Analítica Cultural». *Virtualis* 7, n.º 14 (2016): 136-53.
 - Greenberg, Clement. «Hacia un nuevo Laocoonte Towards a Newer Laocoon». *Revista Co-herencia* 17, n.º 33 (2020): 19+. <https://link.gale.com/apps/doc/A645242161/IFME?u=googlescholar&sid=googleScholar&xid=150312cc>.
