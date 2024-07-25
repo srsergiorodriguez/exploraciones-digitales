@@ -88,7 +88,7 @@ title: Referencias
 - Del Rio Riande, Gimena, Lucía Cantamutto, y Gabriela Striker, eds. *Las Humanidades Digitales Desde Argentina. Tecnologías, Culturas, Saberes*. Buenos Aires: Editorial de la Facultad de Filosofía y Letras. Universidad de Buenos Aires, 2015.
 - Del Rio Riande, Gimena, Romina De León, Gabriel Calarco, Gabriela Striker, Lucía Cantamutto, Natalia Corbellini, y Irene Mangiarotti, eds. *La Cultura de Los Datos : Actas Del II Congreso Internacional de La Asociación Argentina de Humanidades Digitales*. Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educación. Universidad Nacional de Rosario. La Plata, Rosario, 2018.
 - Del Rio Riande, Gimena, y Susanna Allés-Torrent. «¿Quién Conforma La Comunidad de La TEI En Español? Análisis de Los Datos de Una Encuesta: Who Defines the Community of the TEI in Spanish? Data Analysis of a Survey». *Journal of the Text Encoding Initiative*, n.º 16 (18 de mayo de 2023). <https://doi.org/10.4000/jtei.4927>.
-- Del Rio Riande, Gimena del. «¿De Qué Hablamos Cuando Hablamos de Humanidades Digitales?» *Actas de Las I Jornadas de Humanidades Digitales*. Buenos Aires, 2014.
+- Del Rio Riande, Gimena. «¿De Qué Hablamos Cuando Hablamos de Humanidades Digitales?» *Actas de Las I Jornadas de Humanidades Digitales*. Buenos Aires, 2014.
 - ---------. «Digital Humanities and Visible and Invisible Infrastructures». *Global Debates in the Digital Humanities*, editado por Domenico Fiormonte, Sukanta Chaudhuri, y Paola Ricaurte, 247-58. Minneapolis: University of Minnesota Press, 2022.
 - ---------. «Humanidades Digitales o Las Humanidades En La Interesección de Lo Digital, Lo Público, Lo Mínimo y Lo Abierto». *Publicaciones de la Asociación Argentina de Humanidades Digitales* 3 (2022).
 - Dewey, John. *Art as Experience*. New York, NY: Perigee, 1995.
@@ -217,8 +217,9 @@ title: Referencias
 - Marinetti, Filippo Tommaso. «Manifiste Du Futurisme». *Le Figaro*, 20 de febrero de 1909, 51 edición.
 - Marres, Noortje. «Why Map Issues? On Controversy Analysis as a Digital Method». *Science, Technology & Human Values* 40, n.º 5 (septiembre de 2015): 655-86. <https://doi.org/10.1177/0162243915574602>.
 - Martín-Barbero, Jesús. *De los medios a las mediaciones: comunicación, cultura y hegemonía*. México: Gili, 2001.
-- Martín-Barbero, Jesús. *Procesos de comunicación y matrices de cultura: itinerario para salir de la razón dualista*. México: Gili, 1989.
+- ---------. *Procesos de comunicación y matrices de cultura: itinerario para salir de la razón dualista*. México: Gili, 1989.
 - Martínez-Gamboa, Ricardo. «Big Data En Humanidades Digitales: De La Escritura Digital a La \"Lectura Distante\"». *Revista Chilena de Literatura*, n.º 94 (diciembre de 2016): 39-58. <https://doi.org/10.4067/S0718-22952016000300003>.
+- Marín Altamirano, Catalina, ed. *Centros de Escritura Universitarios: Una Estrategia Para La Permanencia Estudiantil*. Colombia: Universidad Santiago de Cali, 2020.
 - Maturana R., Humberto, y Francisco J. Varela. *El árbol del conocimiento: las bases biológicas del conocimiento humano*. Buenos Aires: Lumen, 2003.
 - Maturana, Humberto R, Francisco J. Varela, y Stafford Beer. *Autopoiesis and Cognition: The Realization of the Living*. Dordrecht: Reidel, 1980.
 - Maturana, Humberto R. *La realidad: ¿objetiva o construida? fundamentos biológicos de la realidad II*. Anthropos Editorial, 1995. <https://books.google.com?id=4vFGfZoICg4C>.
@@ -266,7 +267,7 @@ title: Referencias
 - Pinker, Steven. *En defensa de la ilustración: por la razón, la ciencia, el humanismo y el progreso*. Barcelona: Paidós, 2019.
 - Piper, Andrew. «There Will Be Numbers». *Journal of Cultural Analytics*, 23 de mayo de 2016. <https://doi.org/10.22148/16.006>.
 - Presner, Todd. «The Digital Humanities Manifesto 2.0». Humanities Blast, 2009.
-- Priani Saisó, Ernesto, Paul Spence, Isabel Galina Rusell, Elena González-Blanco García, y Daniel Alves. «Las Humanidades Digitales En Español Y Portugués. Un Estudio De Caso DíaHD/DiaHD». *Anuario Americanista Europeo* 12 (2014): 5-18.
+- Priani Saisó, Ernesto, Paul Spence, Isabel Galina Russell, Elena González-Blanco García, y Daniel Alves. «Las Humanidades Digitales En Español Y Portugués. Un Estudio De Caso DíaHD/DiaHD». *Anuario Americanista Europeo* 12 (2014): 5-18.
 - Priani Saisó, Ernesto. «Codificación y Buenas Prácticas. Crítica a La Delimitación de Las Humanidades Digitales En América Latina.» *Relaciones Estudios de Historia y Sociedad* 40, n.º 158 (8 de noviembre de 2019): 129-44. <https://doi.org/10.24901/rehs.v40i158.343>.
 - ---------. «La Gestación Del Concepto Humanismo En La Primera Década Del Siglo Xx En México». *Figuras. Revista Académica de Investigación* 2, n.º 3 (2021): 27-43.
 - Priego, Ernesto. «Can the Subaltern \"Do\" DH? A Reflection on the Challenges and Opportunities for the Digital Humanities». *Global Debates in the Digital Humanities*, editado por Domenico Fiormonte, Sukanta Chaudhuri, y Paola Ricaurte, 28-35. Minneapolis: University of Minnesota Press, 2022.

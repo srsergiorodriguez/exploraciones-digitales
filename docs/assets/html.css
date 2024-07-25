@@ -79,6 +79,17 @@ pre, code {
   word-wrap: break-word;
 }
 
+.references-block li {
+  list-style-type: none;
+  text-indent: -26px;
+  padding-left: 26px;
+}
+
+.references-block ul {
+  padding: 0;
+  margin: 0;
+}
+
 body {
   box-sizing: border-box;
   padding: 0;
@@ -285,22 +296,18 @@ iframe {
   font-weight: 400;
 }
 
-.sidebar h1 {
+.toc-title {
+  margin: 10px;
+  text-align: center;
   user-select: none;
   font-size: 1em;
 }
 
 .sidebar ol, ul {
   padding: 0 0 0 20px;
-  counter-reset: item;
 }
 
-.sidebar ol > li:before {
-  content: counters(item, ".") ".  ";
-  counter-increment: item;
-}
-
-.sidebar ol > li {
+.sidebar li {
   list-style-type: none;
 }
 
@@ -315,16 +322,6 @@ iframe {
 
 .dimension {
   padding: 0px 10px;
-}
-
-.sidebar ul, ol.subcontent a[data-toc=chapter] {
-  font-size: 0.85em;
-  font-weight: bold;
-}
-
-.toc-title {
-  margin: 10px;
-  text-align: center;
 }
 
 .sidebar span {

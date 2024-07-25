@@ -7,6 +7,7 @@
   --h2-size-sect: 9pt;
   --p-size: 8pt;
   --table-size: 6pt;
+  --code-size: 7pt;
   --blockquote-size: 7pt;
   --caption-size: 7pt;
   --footnote-size: 6pt;
@@ -47,10 +48,15 @@ section.flex-cover {
   text-align: center;
 }
 
-p, ul, ol, code {
+p, ul, ol {
   font-size: var(--p-size);
   line-height: 2em;
   list-style-position: inside;
+}
+
+code {
+  font-size: var(--code-size);
+  line-height: 1.2em;
 }
 
 ul {
@@ -118,7 +124,7 @@ nav[data-type="toc"] li {
 
 *::footnote-marker {
   // Number in front of footnote
-  font-weight: normal;
+  font-weight: bold;
 }
 
 .footnote {

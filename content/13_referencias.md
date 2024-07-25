@@ -26,7 +26,8 @@ Cordeiro, Waldemar. «\"Arteonica\": Electronic Art». *Leonardo* 30, n.º 1 (19
 Cortina, Adela. «EL FUTURO DE LAS HUMANIDADES». *Revista Chilena de Literatura*, n.º 84 (2013): 207-17. <http://www.jstor.org/stable/23595105>.
 Croxall, Brian, y Diane K. Jakacki, eds. *What We Teach When We Teach DH: Digital Humanities in the Classroom*. Minneapolis, MN: University of Minnesota Press, 2023.
 Dagnino, Renato. «El Pensamiento En Ciencia, Tecnología y Sociedad En Latinoamérica : Una Interpretación Política de Su Trayectoria». *Redes* 7, n.º 3 (1996). <http://ridaa.unq.edu.ar/handle/20.500.11807/504>.
-Del Rio Riande, Gimena. «Digital Humanities and Visible and Invisible Infrastructures». *Global Debates in the Digital Humanities*, editado por Domenico Fiormonte, Sukanta Chaudhuri, y Paola Ricaurte, 247-58. Minneapolis: University of Minnesota Press, 2022.
+Del Rio Riande, Gimena. «¿De Qué Hablamos Cuando Hablamos de Humanidades Digitales?» *Actas de Las I Jornadas de Humanidades Digitales*. Buenos Aires, 2014.
+---------. «Digital Humanities and Visible and Invisible Infrastructures». *Global Debates in the Digital Humanities*, editado por Domenico Fiormonte, Sukanta Chaudhuri, y Paola Ricaurte, 247-58. Minneapolis: University of Minnesota Press, 2022.
 Del Rio Riande, Gimena, Gabriel Calarco, Gabriela Striker, y Romina De León, eds. *Humanidades Digitales: Construcciones Locales En Contextos Globales. Actas Del Congreso Internacional de La Asociación Argentina de Humanidades Digitales - AAHD*. Buenos Aires: Editorial de la Facultad de Filosofía y Letras. Universidad de Buenos Aires, 2018.
 Del Rio Riande, Gimena, Lucía Cantamutto, y Gabriela Striker, eds. *Las Humanidades Digitales Desde Argentina. Tecnologías, Culturas, Saberes*. Buenos Aires: Editorial de la Facultad de Filosofía y Letras. Universidad de Buenos Aires, 2015.
 Del Rio Riande, Gimena, Romina De León, Gabriel Calarco, Gabriela Striker, Lucía Cantamutto, Natalia Corbellini, y Irene Mangiarotti, eds. *La Cultura de Los Datos : Actas Del II Congreso Internacional de La Asociación Argentina de Humanidades Digitales*. Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educación. Universidad Nacional de Rosario. La Plata, Rosario, 2018.
@@ -37,7 +38,6 @@ Drucker, Johanna. *The Digital Humanities Coursebook: An Introduction to Digital
 Eco, Umberto. *El nombre de la rosa*. Barcelona: Ed. Lumen, 1989.
 «Entrevista a Mariana Córdoba», 14 de octubre de 2021.
 «Entrevista a Riva Quiroga», 9 de febrero de 2022.
-Facultad de Humanidades y Ciencias de la Eduación - Universidad de la República Uruguay. «Humanidades Digitales». Humanidades digitales. Accedido en 22 de junio de 2024. <http://humanidades-digitales.fhuce.edu.uy/sobre-este-sitio>.
 Fernández l'Hoeste, Héctor D., y Juan Carlos Rodríguez, eds. *Digital Humanities in Latin America*. Gainesville: University of Florida Press, 2020.
 Fiormonte, Domenico. «Lenguas, códigos, representación. Márgenes de las Humanidades Digitales». *Humanidades digitales*, editado por Isabel Galina Russell, Miriam Peña Pimentel, Ernesto Priani Saisó, José Francisco Barrón Tovar, David Domínguez Herbón, y Adriana Álvarez Sánchez, 39-81. Ciudad de México: Bonilla Artigas Editores / Red de Humanidades Digitales, 2018.
 ---------. «¿Por qué las Humanidades Digitales necesitan al Sur?» *Humanidades digitales: construcciones locales en contextos globales: actas del I Congreso Internacional de la Asociación Argentina de Humanidades Digitales (AAHD)*, editado por Asociación Argentina de Humanidades Digitales, Gimena del Rio Riande, Gabriel Calarco, Gabriela Striker, Romina de León, y Asociación Argentina de Humanidades Digitales. Ciudad Autónoma de Buenos Aires: FILO:UBA, Facultad de Filosofía y Letras : Filo Digital, Repositorio Institucional, 2018.
@@ -45,8 +45,8 @@ Fiormonte, Domenico. «Lenguas, códigos, representación. Márgenes de las Huma
 Fiormonte, Domenico, Sukanta Chaudhuri, y Paola Ricaurte, eds. *Global Debates in the Digital Humanities*. Minneapolis: University of Minnesota Press, 2022.
 Fiormonte, Domenico, Teresa Numerico, y Francesca Tomasi. *The Digital Humanist: A Critical Inquiry*. Brooklyn: punctum books, 2015.
 Fuller, Michael A. «Digital Humanities and the Discontents of Meaning». *Journal of Chinese History* 4, n.º 2 (julio de 2020): 259-75. <https://doi.org/10.1017/jch.2020.13>.
-Galina Rusell, Isabel. «¿Qué Son Las Humanidades Digitales?» *Revista Digital Universitaria* 12, n.º 7 (2011): 3-10.
 Galina Russell, Isabel. «La institucionalización de las Humanidades Digitales». *Humanidades digitales*, editado por Isabel Galina Russell, Miriam Peña Pimentel, Ernesto Priani Saisó, José Francisco Barrón Tovar, David Domínguez Herbón, y Adriana Álvarez Sánchez, 17-37. Ciudad de México: Bonilla Artigas Editores / Red de Humanidades Digitales, 2018.
+---------. «¿Qué Son Las Humanidades Digitales?» *Revista Digital Universitaria* 12, n.º 7 (2011): 3-10.
 Galina Russell, Isabel, Miriam Peña Pimentel, Ernesto Priani Saisó, José Francisco Barrón Tovar, David Domínguez Herbón, y Adriana Álvarez Sánchez, eds. *Humanidades digitales I. Recepción, institucionalización y crítica*. Ciudad de México: Bonilla Artigas Editores / Red de Humanidades Digitales, 2018.
 García Canclini, Néstor. *Ciudadanos reemplazados por algoritmos*. Bielefeld: transcript, 2019.
 Gavin, Michael, Collin Jennings, Lauren Kersey, y Brad Pasanek. «Spaces of Meaning: Conceptual HIstory, Vector Semantics, and Close Reading». *Debates in the Digital Humanities 2019*, editado por Matthew K. Gold y Lauren F. Klein, 243-67. Minneapolis London: University of Minnesota Press, 2019.
@@ -61,8 +61,6 @@ Gombrich, E. H. «Research in the Humanities: Ideals and Idols». *Daedalus* 102
 Gómez-Cruz, Edgar, Paola Ricaurte, y Ignacio Siles. «Descolonizando Los Métodos Para Estudiar La Cultura Digital: Una Propuesta Desde Latinoamérica». *Cuadernos.info*, n.º 54 (2023): 160-81. <https://doi.org/10.7764/cdi.54.52605>.
 Hanna, Alex, y Tina M. Park. «Against Scale: Provocations and Resistances to Scale Thinking», 2020. <https://doi.org/10.48550/ARXIV.2010.08850>.
 Harpham, G. G. «Finding Ourselves: The Humanities as a Discipline». *American Literary History* 25, n.º 3 (1 de septiembre de 2013): 509-34. <https://doi.org/10.1093/alh/ajt027>.
-HD LAB. «Semana de Humanidades Digitales en Costa Rica». HD LAB, 31 de agosto de 2023. <https://hdlabconicet.github.io/semana-hd-costa-rica/>.
-HDCI Cuba. «hdcicuba». HDCI Cuba, 30 de marzo de 2022. <http://hdci780876991.wordpress.com>.
 Hockey, Susan. «The History of Humanities Computing». *A Companion to Digital Humanities*, editado por Susan Schreibman, Raymond George Siemens, y John Unsworth, 3-19. Malden, MA: Blackwell Pub, 2004.
 Høyrup, Jens. *Human Sciences: Reappraising the Humanities through History and Philosophy*. Albany, NY: State University of New York Press, 2000.
 Humanidades Digitales, Asociación Argentina de, Gimena del Rio Riande, Gabriel Calarco, Gabriela Striker, Romina de León, y Asociación Argentina de Humanidades Digitales, eds. *Humanidades digitales: construcciones locales en contextos globales: actas del I Congreso Internacional de la Asociación Argentina de Humanidades Digitales (AAHD)*. Ciudad Autónoma de Buenos Aires: FILO:UBA, Facultad de Filosofía y Letras : Filo Digital, Repositorio Institucional, 2018.
@@ -97,13 +95,13 @@ Papert, Seymour. «Teaching Children to Be Mathematicians Versus Teaching About 
 Papson, Stephen. «Scholars, Intellectuals, and Bricoleurs». *Arts and Humanities in Higher Education* 13, n.º 4 (octubre de 2014): 377-94. <https://doi.org/10.1177/1474022213487951>.
 Pepi Patrón. «El Valor de Las Humanidades». *Summa Humanitatis* 1, n.º 1 (18 de abril de 2007). <https://revistas.pucp.edu.pe/index.php/summa_humanitatis/article/view/2311>.
 Piper, Andrew. «There Will Be Numbers». *Journal of Cultural Analytics*, 23 de mayo de 2016. <https://doi.org/10.22148/16.006>.
+PLACEHOLDER, PLACEHOLDER. *PLACEHOLDER*, 9999.
 Presner, Todd. «The Digital Humanities Manifesto 2.0». Humanities Blast, 2009.
 Priani Saisó, Ernesto. «La Gestación Del Concepto Humanismo En La Primera Década Del Siglo Xx En México». *Figuras. Revista Académica de Investigación* 2, n.º 3 (2021): 27-43.
-Priani Saisó, Ernesto, Paul Spence, Isabel Galina Rusell, Elena González-Blanco García, y Daniel Alves. «Las Humanidades Digitales En Español Y Portugués. Un Estudio De Caso DíaHD/DiaHD». *Anuario Americanista Europeo* 12 (2014): 5-18.
+Priani Saisó, Ernesto, Paul Spence, Isabel Galina Russell, Elena González-Blanco García, y Daniel Alves. «Las Humanidades Digitales En Español Y Portugués. Un Estudio De Caso DíaHD/DiaHD». *Anuario Americanista Europeo* 12 (2014): 5-18.
 Prieto Ñañez, Fabián. «Interacciones de La Computación y La Vida Cotidiana En Los Ochenta». *Tecnologías de La Comunicación: Una Breve Historia Material*, editado por Sandra Sánchez y Jimena Zuluaga Trujillo, 135-54. Bogotá: Universidad de los Andes, Centro de Estudios en Periodismo, Facultad de Artes y Humanidades, 2019.
 Puffer, Sheila M., y James R. Meindl. «The Congruence of Motives and Incentives in a Voluntary Organization». *Journal of Organizational Behavior* 13, n.º 4 (julio de 1992): 425-34. <https://doi.org/10.1002/job.4030130409>.
 Ricaurte Quijano, Paola. *Descolonizar y Despatriarcalizar Las Tecnologías*. México, D.F.: Centro de Cultura Digital, 2023.
-Rio Riande, Gimena del. «¿De Qué Hablamos Cuando Hablamos de Humanidades Digitales?» *Actas de Las I Jornadas de Humanidades Digitales*. Buenos Aires, 2014.
 Rodríguez Gómez, Sergio. «An Agential-Narrative Approach on Art Semiosis». *Technoetic Arts* 17, n.º 3 (1 de octubre de 2019): 281-95. <https://doi.org/10.1386/tear_00021_1>.
 ---------. «Organización, Experiencia y Adaptación. Tres Conexiones Biosemióticas Entre El Pensamiento de von Uexküll y La Biología Enactiva de Maturana y Varela». *Revista Colombiana de Filosofía de la Ciencia* 21, n.º 43 (5 de noviembre de 2021). <https://doi.org/10.18270/rcfc.v43i21.3365>.
 Rodríguez, Sergio. «Recurrences and Human Agential Meaning Grounding: Laying a Path in Walking». *Biosemiotics* 9, n.º 2 (agosto de 2016): 169-84. <https://doi.org/10.1007/s12304-016-9267-2>.
@@ -124,18 +122,7 @@ Terras, Melissa M., Julianne Nyhan, y Edward Vanhoutte, eds. *Defining Digital H
 Trigo, Abril. «Las Humanidades En La Encrucijada de La Globalización». *Revista de Crítica Literaria Latinoamericana* 34, n.º 68 (2008): 33-53. <http://www.jstor.org/stable/25479078>.
 Tsing, Anna Lowenhaupt. «On Nonscalability». *Common Knowledge* 18, n.º 3 (1 de agosto de 2012): 505-24. <https://doi.org/10.1215/0961754X-1630424>.
 Underwood, W. E. «A Genealogy of Distant Reading». *Digital Humanities Quarterly*, 2017. <http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html>.
-Universidad de Bogotá Jorge Tadeo Lozano. «Diplomado en Gestión de Repositorios y Humanidades digitales». Universidad de Bogotá Jorge Tadeo Lozano. Accedido en 5 de febrero de 2024. <https://www.utadeo.edu.co/noticia/programese-en-la-utadeo/sistema-de-bibliotecas/104046/diplomado-en-gestion-de-repositorios-y-humanidades-digitales-2023>.
-Universidad del Pacífico. «Pregrado en Humanidades Digitales». Universidad del Pacífico. Accedido en 5 de febrero de 2024. <https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/humanidades-digitales>.
-Universidad del Rosario. «Introducción a Las Humanidades Digitales». Universidad del Rosario. Accedido en 5 de febrero de 2024. <https://educacioncontinua.urosario.edu.co/escuela-ciencias-humanas/diplomado/introduccion-humanidades-digitales>.
-Universidad Externado de Colombia. «Diplomado en humanidades digitales y tecnologías emergentes: navegando la infoesfera con inteligencia artificial». Universidad Externado de Colombia. Accedido en 5 de febrero de 2024. <https://www.uexternado.edu.co/programa/ciencias-sociales-y-humanas/diplomado-en-humanidades-digitales-y-tecnologias-emergentes-navegando-la-infoesfera-con-inteligencia-artificial/>.
-Universidad Finis Terrae. «Diplomado en Humanidades Digitales». Universidad Finis Terrae, 25 de enero de 2022. <https://postgrados.uft.cl/programas/facultad-de-humanidades-y-comunicaciones/diplomado-en-humanidades-digitales/>.
-Universidad Nacional Autónoma de México. «Introducción a Las Humanidades Digitales». Universidad Nacional Autónoma de México. Accedido en 5 de febrero de 2024. <https://www.iib.unam.mx/index.php/instituto-de-investigaciones-bibliograficas/difusion-y-docencia/educacion-continua/624-introduccion-a-las-humanidades-digitales>.
----------. «Proyectos de Humanidades Digitales Para La Bibliotecología -- Educación Continua». Universidad Nacional Autónoma de México. Accedido en 5 de febrero de 2024. <https://ec.filos.unam.mx/humanidades-digitales-para-las-humanidades/>.
-Universidad Sergio Árboleda. «Diplomado En Humanidades Digitales». Universidad Sergio Arboleda. Accedido en 5 de febrero de 2024. <https://www.usergioarboleda.edu.co/educacion-continuada/diplomado-en-humanidades-digitales/>.
-Universidad UCES. «Diplomatura En Humanidades Digitales». Universidad UCES. Accedido en 5 de febrero de 2024. <https://www.uces.edu.ar/carreras-escuela-negocios/gestion-del-talento-humano/diplomatura-humanidades-digitales>.
 University of Virginia. «Index of DH Conferences - ADHO Annual Conference». Library University of Virginia. Accedido en 20 de febrero de 2024. <https://dh-abstracts.library.virginia.edu/conference_series/1>.
-Unversidad Veracruzana. «Curso de Humanidades Digitales Impartiré La Facultad de Letras Españolas». Unversidad Veracruzana. Accedido en 5 de febrero de 2024. <https://www.uv.mx/difusioncultural/general/curso-de-humanidades-digitales-impartire-la-facultad-de-letras-espanolas/>.
-UPRRP. «Humanidades Digitales - Centro para la Excelencia Académica». Centro para la Excelencia Académica UPRRP, 9 de septiembre de 2022. <https://cea.uprrp.edu/ciclo-de-las-humanidades-digitales/>.
 Vallejo, Irene. *El Infinito En Un Junco. La Invención de Los Libros En El Mundo Antiguo*. Bogotá: Penguin Random House, 2021.
 Varela, F. G., H. R. Maturana, y R. Uribe. «Autopoiesis: The Organization of Living Systems, Its Characterization and a Model». *Biosystems* 5, n.º 4 (1 de mayo de 1974): 187-96. <https://doi.org/10.1016/0303-2647(74)90031-8>.
 Vertesi, Janet, y David Ribes. *digitalSTS: A Field Guide for Science & Technology Studies*. Princeton University Press, 2019. <https://doi.org/10.1515/9780691190600>.
@@ -238,6 +225,7 @@ Liu, Alan. «Toward Critical Infrastructure Studies», 2018.
 MacDonald, Richard L., Nick Couldry, y Luke Dickens. «Digitization and Materiality: Researching Community Memory Practice Today». *The Sociological Review* 63, n.º 1 (febrero de 2015): 102-20. <https://doi.org/10.1111/1467-954X.12215>.
 Maire Palma, Gonzalo Andrés. «El Museo de Arte: La Taxonomía y El Patrimonio Como Operaciones de Formación Del Objeto y El Espacio Actual». *Aisthesis Revista Chilena de Investigaciones Estéticas*, n.º 69 (2021). <https://doi.org/10.7764/69.20>.
 Maíz, Claudio. «\"EL HUMANISMO CÍVICO\": A UN EPISODIO EN EL REPUBLICANISMO HISPANOAMERICANO». *Atenea (Concepción)*, n.º 513 (julio de 2016): 105-24. <https://doi.org/10.4067/S0718-04622016000100007>.
+Marín Altamirano, Catalina, ed. *Centros de Escritura Universitarios: Una Estrategia Para La Permanencia Estudiantil*. Colombia: Universidad Santiago de Cali, 2020.
 Marinetti, Filippo Tommaso. «Manifiste Du Futurisme». *Le Figaro*, 20 de febrero de 1909, 51 edición.
 Martín-Barbero, Jesús. *De los medios a las mediaciones: comunicación, cultura y hegemonía*. México: Gili, 2001.
 Mazzucchelli, Aldo. «El Pecado Original de Las Humanidades». *Revista Chilena de Literatura*, n.º 84 (septiembre de 2013): 37-55. <https://doi.org/10.4067/S0718-22952013000200004>.

@@ -243,7 +243,7 @@ function draw() {
   <sketch
     height="407px"
     src="./assets/sketches/infraestructuras/generativo"
-    caption="Interactivo 16. Una animación y su código en JavaScript. Las funciones usan palabras en inglés mientras que los comentarios en español indican el funcionamiento para la personas que revisen el código."
+    caption="Interactivo 16. Una animación y su código en JavaScript. Las funciones usan palabras en inglés mientras que los comentarios en español indican el funcionamiento para la personas que revisen el código"
   />
 </div>
 

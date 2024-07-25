@@ -13,7 +13,7 @@ do
   sleep 1
 done
 
-python3 format_references.py
+# python3 format_references.py
 
 cd ..
 
