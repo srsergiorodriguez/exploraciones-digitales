@@ -35,7 +35,6 @@ Deyrup, Marta Mestrovic. *Digital Scholarship*. New York: Routledge, 2009.
 Donoghue, Frank. «¿Tienen Futuro Las Humanidades?» *Revista chilena de literatura*, 2013, 227-32.
 Drucker, Johanna. *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Abingdon, Oxon ; New York: Routledge/Taylor & Francis, 2021.
 Eco, Umberto. *El nombre de la rosa*. Barcelona: Ed. Lumen, 1989.
-*El Infinito En Un Junco. La Invención de Los Libros En El Mundo Antiguo*. Bogotá: Penguin Random House, 2021.
 «Entrevista a Mariana Córdoba», 14 de octubre de 2021.
 «Entrevista a Riva Quiroga», 9 de febrero de 2022.
 Facultad de Humanidades y Ciencias de la Eduación - Universidad de la República Uruguay. «Humanidades Digitales». Humanidades digitales. Accedido en 22 de junio de 2024. <http://humanidades-digitales.fhuce.edu.uy/sobre-este-sitio>.
@@ -83,7 +82,7 @@ Levenberg, Lewis, Tai Neilson, y David Rheams, eds. *Research Methods for the Di
 Lombana Bermudez, Andrés. «La Evolución de Las Brechas Digitales y El Auge de La Inteligencia Artificial (IA)». *Revista Mexicana de Bachillerato a Distancia* 10, n.º 20 (15 de agosto de 2018): 17. <https://doi.org/10.22201/cuaed.20074751e.2018.20.65884>.
 Madsen, Rune. «Programming Design Systems». Programming design systems, 2019. <https://programmingdesignsystems.com/>.
 Maturana, Humberto R. *La realidad: ¿objetiva o construida? fundamentos biológicos de la realidad II*. Anthropos Editorial, 1995. <https://books.google.com?id=4vFGfZoICg4C>.
-Maturana R., Humberto, y Francisco J. ( Varela. *El árbol del conocimiento: las bases biológicas del conocimiento humano*. Buenos Aires: Lumen, 2003.
+Maturana R., Humberto, y Francisco J. Varela. *El árbol del conocimiento: las bases biológicas del conocimiento humano*. Buenos Aires: Lumen, 2003.
 Mazzucchelli, Aldo. «El Pecado Original de Las Humanidades». *Revista Chilena de Literatura*, n.º 84 (septiembre de 2013): 37-55. <https://doi.org/10.4067/S0718-22952013000200004>.
 McLuhan, Marshall. *Understanding Media: The Extensions of Man*. Cambridge, Mass: MIT Press, 1994.
 Mejías, Ulises, y Nick Couldry. «Colonialismo de Datos: Repensando La Relación de Los Datos Masivos Con El Sujeto Contemporáneo». *Virtualis; Vol. 10, Núm. 18 (2019): Tecnopolítica disidente y cultura digital en América Latina*, 20 de mayo de 2019. <https://www.revistavirtualis.mx/index.php/virtualis/article/view/289>.
@@ -137,6 +136,7 @@ Universidad UCES. «Diplomatura En Humanidades Digitales». Universidad UCES. Ac
 University of Virginia. «Index of DH Conferences - ADHO Annual Conference». Library University of Virginia. Accedido en 20 de febrero de 2024. <https://dh-abstracts.library.virginia.edu/conference_series/1>.
 Unversidad Veracruzana. «Curso de Humanidades Digitales Impartiré La Facultad de Letras Españolas». Unversidad Veracruzana. Accedido en 5 de febrero de 2024. <https://www.uv.mx/difusioncultural/general/curso-de-humanidades-digitales-impartire-la-facultad-de-letras-espanolas/>.
 UPRRP. «Humanidades Digitales - Centro para la Excelencia Académica». Centro para la Excelencia Académica UPRRP, 9 de septiembre de 2022. <https://cea.uprrp.edu/ciclo-de-las-humanidades-digitales/>.
+Vallejo, Irene. *El Infinito En Un Junco. La Invención de Los Libros En El Mundo Antiguo*. Bogotá: Penguin Random House, 2021.
 Varela, F. G., H. R. Maturana, y R. Uribe. «Autopoiesis: The Organization of Living Systems, Its Characterization and a Model». *Biosystems* 5, n.º 4 (1 de mayo de 1974): 187-96. <https://doi.org/10.1016/0303-2647(74)90031-8>.
 Vertesi, Janet, y David Ribes. *digitalSTS: A Field Guide for Science & Technology Studies*. Princeton University Press, 2019. <https://doi.org/10.1515/9780691190600>.
 Vigo, Edgardo Antonio, Luis Pazos, Omar Gancedo, José María Calderón Pando, y Edgardo Antonio Vigo. «Diagonal Cero - Número 20». *Diagonal Cero* no. 20 (1966). <http://sedici.unlp.edu.ar/handle/10915/45890>.
@@ -172,7 +172,7 @@ Coen, Enrico. *De las células a las civilizaciones: los principios de cambio qu
 Geertz, Clifford. *The Interpretation of Cultures: Selected Essays*. New York: Basic Books, 2017.
 Latour, Bruno. «An Attempt at a \"Compositionist Manifesto\"». *New Literary History* 41, n.º 3 (2010): 471-90. <http://www.jstor.org/stable/40983881>.
 ---------. *Reassembling the Social: An Introduction to Actor-Network-Theory*. Oxford ; New York: Oxford University Press, 2005.
-Liu, Alan. «Toward Critical Infrastructure Studies», 2018. [https://cistudies.org/wp-content/ uploads/Toward-Critical-Infrastructure-Studies.pdf](https://cistudies.org/wp-content/ uploads/Toward-Critical-Infrastructure-Studies.pdf).
+Liu, Alan. «Toward Critical Infrastructure Studies», 2018.
 Lourenço, Ramon Fernandes, y Maria Inês Tomaél. «Actor-Network Theory and Cartography of Controversies in Information Science». *Transinformacao* 30 (2018): 121-40.
 Marres, Noortje. «Why Map Issues? On Controversy Analysis as a Digital Method». *Science, Technology & Human Values* 40, n.º 5 (septiembre de 2015): 655-86. <https://doi.org/10.1177/0162243915574602>.
 Martín-Barbero, Jesús. *Procesos de comunicación y matrices de cultura: itinerario para salir de la razón dualista*. México: Gili, 1989.
@@ -194,7 +194,6 @@ Brown, John Seely, y Paul Duguid. *The Social Life of Information*. Boston, Mass
 Calvet, Louis-Jean. *Lingüística y colonialismo: breve tratado de glotofagia*. Benos Aires: Fondo de Cultura Económica, 2005.
 Cardoso, Rene Patricio. «Las Humanidades En La Universidad. La Tradición Humanística En La Universidad Mexicana y Particularmente En La Universidad Autónoma Del Estado de México». *PUCARA* 1, n.º 30 (24 de noviembre de 2019): 39-70. <https://doi.org/10.18537/puc.30.01.02>.
 Carolina Gainza. «Literature and Algorithms: \"Aesthesis\" and \"Mathesis\" in Digital Humanities». *Humanities and Big Data in Ibero-America: Theory, Methodology and Practical Applications*, editado por Ana Gallego Cuiñas y Daniel Torres-Salinas, 137-52. Boston: De Gruyter, 2023.
-*Centros de escritura universitarios: una estrategia para la permanencia estudiantil*. Colombia: Universidad Santiago de Cali, 2020.
 Chartier, Roger. *Escuchar a Los Muertos Con Los Ojos. Lección Inaugural En El Collège de France*. Buenos Aires: Katz, 2008.
 Clifford, James. *The Predicament of Culture: Twentieth-Century Ethnography, Literature, and Art*. Cambridge, Mass: Harvard University Press, 1988.
 Coetzee, J. M. *Elizabeth Costello*. New York: Penguin Books, 2004.
@@ -208,7 +207,6 @@ Eco, Umberto. *A hombros de gigantes*. Lumen, 2018.
 ---------. *El nombre de la rosa*. Barcelona: Ed. Lumen, 1989.
 ---------. *The Search for the Perfect Language*. Oxford: Blackwell Publishers, 1995.
 Ejército Zapatista de Liberación Nacional. «Cuarta Declaración de La Selva Lacandona». Cuarta declaración de la Selva Lacandona. Accedido en 23 de enero de 2024. <https://palabra.ezln.org.mx/comunicados/1996/1996_01_01_a.htm>.
-*El Infinito En Un Junco. La Invención de Los Libros En El Mundo Antiguo*. Bogotá: Penguin Random House, 2021.
 «Entrevista a Christina Boyles», 9 de marzo de 2023.
 «Entrevista a Domenico Fiormonte», 4 de noviembre de 2021.
 «Entrevista a Ernesto Priani», 30 de abril de 2021.
@@ -236,7 +234,7 @@ Heidegger, Martin. *Carta sobre el humanismo*. Alianza Editorial, 2013.
 Høyrup, Jens. *Human Sciences: Reappraising the Humanities through History and Philosophy*. Albany, NY: State University of New York Press, 2000.
 Jenkins, Henry. *Confronting the Challenges of Participatory Culture: Media Education for the 21st Century*. Cambridge, MA: The MIT Press, 2009.
 Latour, Bruno. *Nunca fuimos modernos: Ensayos de antropología simétrica*. Madrid: Clave Intelectual, 2022.
-Liu, Alan. «Toward Critical Infrastructure Studies», 2018. [https://cistudies.org/wp-content/ uploads/Toward-Critical-Infrastructure-Studies.pdf](https://cistudies.org/wp-content/ uploads/Toward-Critical-Infrastructure-Studies.pdf).
+Liu, Alan. «Toward Critical Infrastructure Studies», 2018.
 MacDonald, Richard L., Nick Couldry, y Luke Dickens. «Digitization and Materiality: Researching Community Memory Practice Today». *The Sociological Review* 63, n.º 1 (febrero de 2015): 102-20. <https://doi.org/10.1111/1467-954X.12215>.
 Maire Palma, Gonzalo Andrés. «El Museo de Arte: La Taxonomía y El Patrimonio Como Operaciones de Formación Del Objeto y El Espacio Actual». *Aisthesis Revista Chilena de Investigaciones Estéticas*, n.º 69 (2021). <https://doi.org/10.7764/69.20>.
 Maíz, Claudio. «\"EL HUMANISMO CÍVICO\": A UN EPISODIO EN EL REPUBLICANISMO HISPANOAMERICANO». *Atenea (Concepción)*, n.º 513 (julio de 2016): 105-24. <https://doi.org/10.4067/S0718-04622016000100007>.
@@ -268,6 +266,7 @@ Tello Vázquez, Amanda. «Políticas Públicas e Interculturalidad». *Intercult
 Torres Martínez, Rubén. «Sobre El Concepto de América Latina ¿Invención Francesa?» *Cahiers d'études romanes*, n.º 32 (5 de diciembre de 2016): 89-98. <https://doi.org/10.4000/etudesromanes.5141>.
 Trigo, Abril. «Las Humanidades En La Encrucijada de La Globalización». *Revista de Crítica Literaria Latinoamericana* 34, n.º 68 (2008): 33-53. <http://www.jstor.org/stable/25479078>.
 Umaña Luna, Eduardo. *Camilo y El Nuevo Humanismo: Paz Con Justicia Social*. Bogotá: Universidad Nacional de Colombia, 2003.
+Vallejo, Irene. *El Infinito En Un Junco. La Invención de Los Libros En El Mundo Antiguo*. Bogotá: Penguin Random House, 2021.
 Villalón, Cristóbal de. *El Scholástico*. Madrid: CSIC, 1967.
 Weststeijn, Thijs. «'Signs That Signify by Themselves'. Writing with Images in the Seventeenth Century». *The Making of the Humanities. Vol 1. Early Modern Europe*, editado por Rens Bod, Jaap Maat, y Thijs Weststeijn. Amsterdam: Amsterdam University Press, 2010.
 Windelband, Wilhelm. «History and Natural Science». *History and Theory* 19, n.º 2 (febrero de 1980): 165. <https://doi.org/10.2307/2504797>.
@@ -301,7 +300,6 @@ Deyrup, Marta Mestrovic. *Digital Scholarship*. New York: Routledge, 2009.
 Drucker, Johanna. *Visualization and Interpretation: Humanistic Approaches to Display*. Cambridge, Massachusetts: The MIT Press, 2020.
 Eco, Umberto. *El nombre de la rosa*. Barcelona: Ed. Lumen, 1989.
 ---------. *La estructura ausente*. Barcelona: Debolsillo, 2011.
-*El Infinito En Un Junco. La Invención de Los Libros En El Mundo Antiguo*. Bogotá: Penguin Random House, 2021.
 «Entrevista a Alex Gil», 21 de febrero de 2023.
 «Entrevista a Ania Hernández Quintana», 8 de octubre de 2021.
 «Entrevista a Antonio Rojas Castro», 3 de octubre de 2022.
@@ -330,6 +328,7 @@ Flanders, Julia, y Fotis Jannidis. *The Shape of Data in Digital Humanities: Mod
 Frank, Jane. *Paint or Pixel: The Digital Divide in Illustration Art*. New York, NY: Nonstop Press, 2008.
 Fuller, Matthew, ed. *Software Studies: A Lexicon*. Cambridge, Mass: MIT Press, 2008.
 Fuller, Michael A. «Digital Humanities and the Discontents of Meaning». *Journal of Chinese History* 4, n.º 2 (julio de 2020): 259-75. <https://doi.org/10.1017/jch.2020.13>.
+Gallini, Stefania. «El siglo decimonónico latinoamericano en la Red». *Historia Crítica*, n.º 34 (julio de 2007): 148-58. <https://doi.org/10.7440/histcrit34.2007.06>.
 Gane, Nicholas, y David Beer. *New Media. the Key Concepts*. English ed. The Key Concepts, 1747-6550. Oxford ; New York: Berg, 2008.
 García Fernández, Javier. «Descolonizar El Pasado. Perspectivas Críticas Con Los Legados Coloniales En La Historia y La Historiografía». *Antípoda. Revista de Antropología y Arqueología*, n.º 51 (12 de abril de 2023): 51-75. <https://doi.org/10.7440/antipoda51.2023.03>.
 Gavin, Michael, Collin Jennings, Lauren Kersey, y Brad Pasanek. «Spaces of Meaning: Conceptual HIstory, Vector Semantics, and Close Reading». *Debates in the Digital Humanities 2019*, editado por Matthew K. Gold y Lauren F. Klein, 243-67. Minneapolis London: University of Minnesota Press, 2019.
@@ -337,7 +336,6 @@ Gibson, James J. *The Ecological Approach to Visual Perception*. New York: Psych
 Gleick, James. *Chaos: Making a New Science*. New York: Penguin Books, 2008.
 Golumbia, David. *The cultural logic of computation*. Cambridge, Mass.: Harvard University Press, 2009.
 Gombrich, E. H. *Ideales e ídolos: ensayos sobre los valores en la historia del arte*. Madrid: Debate, 1999.
-Gómez-Cruz, Edgar, Paola Ricaurte, y Ignacio Siles. «Descolonizando Los Métodos Para Estudiar La Cultura Digital: Una Propuesta Desde Latinoamérica». *Cuadernos.info*, n.º 54 (2023): 160-81. <https://doi.org/10.7764/cdi.54.52605>.
 González Ocampo, María Eugenia, Sophie Álamo, y Agustina Miglorini. «Las Desapariciones de Luciano Arruga y Franco Casco: Investigación Sobre La Construcción Discursiva de Los Casos a Través de La Metodología Digital de La Analítica Cultural». *Virtualis* 7, n.º 14 (2016): 136-53.
 Greenberg, Clement. «Hacia un nuevo Laocoonte Towards a Newer Laocoon». *Revista Co-herencia* 17, n.º 33 (2020): 19+. <https://link.gale.com/apps/doc/A645242161/IFME?u=googlescholar&sid=googleScholar&xid=150312cc>.
 Guez, Emmanuel, Morgane Stricot, Lionel Broye, y Stéphane Bizet. «The Afterlives of Network-Based Artworks». *Journal of the Institute of Conservation* 40, n.º 2 (4 de mayo de 2017): 105-20. <https://doi.org/10.1080/19455224.2017.1320299>.
@@ -389,7 +387,6 @@ Rogers, Richard. *Digital Methods*. Cambridge, Massachusetts: The MIT Press, 201
 ---------. *Doing Digital Methods*. Thousand Oaks, CA: SAGE Publications, 2019.
 Rosemberg, Daniel. «Data Before the Fact». *\"Raw Data\" Is an Oxymoron*, editado por Lisa Gitelman, 15-40. The MIT Press, 2013. <https://doi.org/10.7551/mitpress/9302.001.0001>.
 Roux, Gustavo I. de. «Juntos Contra La Computadora». *Acción y Conocimiento: Como Romper El Monopolio Con Investigación - Acción Participativa*, editado por Orlando Fals-Borda, 53-72. Santa Fé de Bogotá: CINEP, 1991.
-Sábato, Ernesto. *Hombres y Engranajes*. Buenos Aires: Emecé Editores, 1951.
 Sahlgren, Magnus. «The Distributional Hypothesis». *Rivista di Linguistica* 20, n.º 1 (2008): 33-53.
 Salgado Carvajal, Laura. «Disputas Por La Memoria y Sus Repercusiones En El Derecho de Las Víctimas En El Contexto Actual Colombiano». *Diálogos de Derecho y Política* 0, n.º 28 (10 de agosto de 2021): 84-113. <https://revistas.udea.edu.co/index.php/derypol/article/view/347181>.
 Senier. «Decolonizing the Archive: Digitizing Native Literature with Students and Tribal Communities». *Resilience: A Journal of the Environmental Humanities* 1, n.º 3 (2014). <https://doi.org/10.5250/resilience.1.3.006>.
@@ -402,10 +399,10 @@ Svensson, Patrik. «Beyond the Big Tent». *Debates in the Digital Humanities*, 
 ---------. «The Landscape of Digital Humanities». *DHQ. Digital Humanities Quarterly* 4, n.º 1 (2010). <https://digitalhumanities.org/dhq/vol/4/1/000080/000080.html>.
 Tello, Andrés Maximiliano. «"Otro Fin de Mundo Es Posible". Revuelta y Anarchivismo». *Re-presentaciones. Periodismo, Comunicación y Sociedad*, n.º 12 (12 de enero de 2020): 77-91. <https://doi.org/10.35588/rp.v0i12.4320>.
 ---------. «Tecnologías Insurgentes. Apropiación Tecnológica y Disidencias Maquínicas En América Latina». *Tecnología, Política y Algoritmos En América Latina.*, editado por Andrés Maximiliano Tello, 55-77. Viña del Mar: CENALTES ediciones, 2020.
----------. «Una Archivología (Im)Posible. Sobre La Noción de Archivo En El Pensamiento Filosófico». *Síntesis. Revista de Filosofía* 1, n.º 1 (5 de octubre de 2018): 43. <https://doi.org/10.15691/0718-5448Vol1Iss1a234>.
 Ueda, Hiroto. «La Función de La Tilde En La Grafía Abreviada n Del Español Medieval». *Cuadernos del Instituto Historia de la Lengua*, n.º 8 (2013): 343-60. <https://doi.org/10.58576/cilengua.vi8.121>.
 Underwood, Ted. *Distant Horizons: Digital Evidence and Literary Change*. Chicago: The University of Chicago Press, 2019.
 Underwood, W. E. «A Genealogy of Distant Reading». *Digital Humanities Quarterly*, 2017. <http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html>.
+Vallejo, Irene. *El Infinito En Un Junco. La Invención de Los Libros En El Mundo Antiguo*. Bogotá: Penguin Random House, 2021.
 Venturini, Tommaso, Liliana Bounegru, Jonathan Gray, y Richard Rogers. «A Reality Check(List) for Digital Methods». *New Media & Society* 20, n.º 11 (noviembre de 2018): 4195-4217. <https://doi.org/10.1177/1461444818769236>.
 Warburg, Aby. *Atlas Mnemosyne*. Ediciones Akal, 2010. <https://books.google.com?id=CnZUSAAACAAJ>.
 Wardrip-Fruin, Noah, y Nick Montfort, eds. *The New Media Reader*. Cambridge, Mass: MIT Press, 2003.
@@ -434,10 +431,11 @@ Eco, Umberto. *A hombros de gigantes*. Lumen, 2018.
 «Entrevista a Maria José Afanador», 3 de septiembre de 2021.
 «Entrevista a Riva Quiroga», 9 de febrero de 2022.
 «Entrevista a Zoe LeBlanc», 4 de abril de 2023.
+Gallini, Stefania, y Serge Noiret. «La historia digital en la era del Web 2.0. Introducción al dossier Historia digital». *Historia Crítica*, n.º 43 (enero de 2011): 16-37. <https://doi.org/10.7440/histcrit43.2011.03>.
 Gutiérrez De La Torre, Silvia Eunice. «Bibliotecas y Humanidades Digitales En América Latina». *Revista de Humanidades Digitales* 5 (25 de noviembre de 2020): 113. <https://doi.org/10.5944/rhd.vol.5.2020.27826>.
 Luhmann, Niklas. *Organización y decisión: autopoiesis, acción y entendimiento comunicativo*. Barcelona: Anthropos, 2005.
 Maturana, Humberto R, Francisco J. Varela, y Stafford Beer. *Autopoiesis and Cognition: The Realization of the Living*. Dordrecht: Reidel, 1980.
-Maturana R., Humberto, y Francisco J. ( Varela. *El árbol del conocimiento: las bases biológicas del conocimiento humano*. Buenos Aires: Lumen, 2003.
+Maturana R., Humberto, y Francisco J. Varela. *El árbol del conocimiento: las bases biológicas del conocimiento humano*. Buenos Aires: Lumen, 2003.
 Niño, Douglas. *Elementos de semiótica agentiva*. Bogotá: Universidad de Bogotá Jorge Tadeo Lozano, 2015.
 Ostrom, Elinor. *Governing the Commons: The Evolution of Institutions for Collective Action*. 1.ª ed. Cambridge University Press, 1990. <https://doi.org/10.1017/CBO9780511807763>.
 Papson, Stephen. «Scholars, Intellectuals, and Bricoleurs». *Arts and Humanities in Higher Education* 13, n.º 4 (octubre de 2014): 377-94. <https://doi.org/10.1177/1474022213487951>.
@@ -502,13 +500,14 @@ Kreimer, Pablo, y Hebe Vessuri. «Latin American Science, Technology, and Societ
 Langer, Erick D. «Generations of Scientists and Engineers: Origins of the Computer Industry in Brazil». *Latin American Research Review* 24, n.º 2 (1989): 95-111. <https://doi.org/10.1017/S0023879100022846>.
 Larkin, Brian. «The Politics and Poetics of Infrastructure». *Annual Review of Anthropology* 42, n.º 1 (21 de octubre de 2013): 327-43. <https://doi.org/10.1146/annurev-anthro-092412-155522>.
 Latour, Bruno. *Reassembling the Social: An Introduction to Actor-Network-Theory*. Oxford ; New York: Oxford University Press, 2005.
-Liu, Alan. «Toward Critical Infrastructure Studies», 2018. [https://cistudies.org/wp-content/ uploads/Toward-Critical-Infrastructure-Studies.pdf](https://cistudies.org/wp-content/ uploads/Toward-Critical-Infrastructure-Studies.pdf).
+Liu, Alan. «Toward Critical Infrastructure Studies», 2018.
 Lombana Bermudez, Andrés. «By Any Platforms Necessary: The Makeshift Infrastructures of Bogota's Public School Communities During the Covid-19 PandemicAndres Lombana-Bermudez / Universidad Javeriana -- Flow», 4 de junio de 2021. <https://www.flowjournal.org/2021/06/by-any-platforms-necessary/>.
 ---------. «La Evolución de Las Brechas Digitales y El Auge de La Inteligencia Artificial (IA)». *Revista Mexicana de Bachillerato a Distancia* 10, n.º 20 (15 de agosto de 2018): 17. <https://doi.org/10.22201/cuaed.20074751e.2018.20.65884>.
 Mackenzie, Adrian. «Internationalization». *Software Studies: A Lexicon*, editado por Matthew Fuller, 153-61. Leonardo Books. Cambridge, Mass: MIT Press, 2008.
 Malazita, James. «Epistemic Infrastructure, the Instrumental Turn, and the Digital Humanities». *People, Practice, Power: Digital Humanities Outside the Center*, editado por Ángel David Nieves, Anne B. McGrail, y Siobhan Senier, 3-23. Minneapolis: University of Minnesota Press, 2021.
 Martín-Barbero, Jesús. *Procesos de comunicación y matrices de cultura: itinerario para salir de la razón dualista*. México: Gili, 1989.
 McLuhan, Marshall. *Understanding Media: The Extensions of Man*. Cambridge, Mass: MIT Press, 1994.
+Medina, Eden. *Cybernetic Revolutionaries: Technology and Politics in Allende's Chile*. Cambridge, Mass: MIT Press, 2014.
 Medina, Eden, Ivan da Costa Marques, y Christina Holmes, eds. *Beyond Imported Magic: Essays on Science, Technology, and Society in Latin America*. Inside Technology. London, England Cambridge, Massachusetts: The MIT Press, 2014.
 Merton, Robert K. «The Matthew Effect in Science: The Reward and Communication Systems of Science Are Considered.» *Science* 159, n.º 3810 (5 de enero de 1968): 56-63. <https://doi.org/10.1126/science.159.3810.56>.
 Meza, Aurelio. «Decolonizar Las Humanidades Digitales: Cómo Diseñar Un Repositorio Digital de Sur a Norte». *Intervenciones en estudios culturales* 4 (2017): 109-31.
@@ -566,6 +565,7 @@ Bjørn, Kim, y Jean-Michel Jarre. *Push Turn Move: Interface Design in Electroni
 Case, Nicky. «Explorable Explanations: The Plan». Nicky Case's Blog, 2015. <https://blog.ncase.me/explorable-explanations-the-plan/>.
 Eco, Umberto. «El Vértigo de Las Listas». Traducido por Carmen Espejo-Cala. *IC Revista Científica de Información y Comunicación* 8 (2011): 15-34.
 «Entrevista a Jaime Borja», 11 de marzo de 2024.
+Gallini, Stefania, y Serge Noiret. «La historia digital en la era del Web 2.0. Introducción al dossier Historia digital». *Historia Crítica*, n.º 43 (enero de 2011): 16-37. <https://doi.org/10.7440/histcrit43.2011.03>.
 Kholmatova, Alla. *Design Systems: A Practical Guide to Creating Design Languages for Digital Products*. Freiburg: Smashing Media AG, 2017.
 Lakoff, George, y Mark Johnson. *Metáforas de La Vida Cotidiana*. Madrid: Cátedra, 2015.
 Latour, Bruno. *Reassembling the Social: An Introduction to Actor-Network-Theory*. Oxford ; New York: Oxford University Press, 2005.
