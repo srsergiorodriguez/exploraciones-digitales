@@ -63,7 +63,8 @@ Estas entrevistas a profesores de UIUC siguieron un protocolo derivado, similar 
 
 La tabla 1 describe el libro de códigos final derivado del etiquetado de las entrevistas. En el método de teoría fundamentada este libro describe las teorías, categorías y etiquetas resultantes del método de codificación:
 
-<figcaption>Tabla 1. Libro de códigos de las entrevistas<figcaption>
+<figcaption style="text-align:center;">Tabla 1. Libro de códigos de las entrevistas</figcaption>
+
 <table>
 <thead><tr><th title="Field #1">Categoría</th>
 <th title="Field #2">Código</th>
@@ -179,7 +180,8 @@ La tabla 1 describe el libro de códigos final derivado del etiquetado de las en
 <td>Aprendizaje</td>
 <td>Referencias al aprendizaje individual de la persona entrevistada en las prácticas de las humanidades digitales: sus dificultades, oportunidades y recorridos particulares</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
 
 ### 3.3.2. Observación participante
 
