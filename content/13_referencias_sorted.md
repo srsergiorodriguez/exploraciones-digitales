@@ -9,7 +9,6 @@ title: Referencias
 
 <div class="references-block">
 
-
 - ADHO. *Digital Humanities 2011: Conference Abstracts : Stanford University, Stanford, CA, USA, June 19-22, 2011*. Stanford, California: Stanford University Library, 2011.
 - Adobe. «Adobe Flash Player End of Life». Adobe Flash Player EOL General Information Page, 13 de enero de 2021. <https://www.adobe.com/uk/products/flashplayer/end-of-life.html>.
 - Adorno, T. W. «The Essay as Form». Traducido por Bob Hullot-Kentor y Frederic Will. *New German Critique*, n.º 32 (primavera de 1984): 151. <https://doi.org/10.2307/488160>.
@@ -73,10 +72,10 @@ title: Referencias
 - Colbert, Eleanor, Lucian Li, David Satten-Lopez, y Elizabeth Schwartz. «Scanning Labor». Scanning Labor, 2022. <https://scanninglabor.github.io/IAScanningLabor/credits.html>.
 - Coletta, Michela. *Decadent Modernity: Civilization and 'Latinidad' in Spanish America, 1880-1920*. Liverpool: Liverpool University Press, 2018.
 - Company, Houghton Mifflin, ed. *Dictionary of Computer and Internet Words: An A to Z Guide to Hardware, Software, and Cyberspace*. Boston: Houghton Mifflin, 2001.
-- Cordeiro, Waldemar. «\"Arteonica\": Electronic Art». *Leonardo* 30, n.º 1 (1997): 33. <https://doi.org/10.2307/1576373>.
+- Cordeiro, Waldemar. «"Arteonica": Electronic Art». *Leonardo* 30, n.º 1 (1997): 33. <https://doi.org/10.2307/1576373>.
 - Cortina, Adela. «EL FUTURO DE LAS HUMANIDADES». *Revista Chilena de Literatura*, n.º 84 (2013): 207-17. <http://www.jstor.org/stable/23595105>.
 - Couldry, Nick. «Surveillance-Democracy». *Journal of Information Technology & Politics* 14, n.º 2 (3 de abril de 2017): 182-88. <https://doi.org/10.1080/19331681.2017.1309310>.
-- Couldry, Nick. «Theorising Media as Practice». *Social Semiotics* 14, n.º 2 (agosto de 2004): 115-32. <https://doi.org/10.1080/1035033042000238295>.
+- ---------. «Theorising Media as Practice». *Social Semiotics* 14, n.º 2 (agosto de 2004): 115-32. <https://doi.org/10.1080/1035033042000238295>.
 - Cresswell, Julia, ed. *Little Oxford Dictionary of Word Origins*. Oxford: Oxford Univ. Press, 2014.
 - Croxall, Brian, y Diane K. Jakacki, eds. *What We Teach When We Teach DH: Digital Humanities in the Classroom*. Minneapolis, MN: University of Minnesota Press, 2023.
 - Cruz Rodríguez, Edwin. «La Interculturalidad En Las Políticas de Educación Intercultural». *Praxis & Saber* 6, n.º 12 (2015): 191. <https://doi.org/10.19053/22160159.3769>.
@@ -88,21 +87,21 @@ title: Referencias
 - Del Rio Riande, Gimena, Lucía Cantamutto, y Gabriela Striker, eds. *Las Humanidades Digitales Desde Argentina. Tecnologías, Culturas, Saberes*. Buenos Aires: Editorial de la Facultad de Filosofía y Letras. Universidad de Buenos Aires, 2015.
 - Del Rio Riande, Gimena, Romina De León, Gabriel Calarco, Gabriela Striker, Lucía Cantamutto, Natalia Corbellini, y Irene Mangiarotti, eds. *La Cultura de Los Datos : Actas Del II Congreso Internacional de La Asociación Argentina de Humanidades Digitales*. Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educación. Universidad Nacional de Rosario. La Plata, Rosario, 2018.
 - Del Rio Riande, Gimena, y Susanna Allés-Torrent. «¿Quién Conforma La Comunidad de La TEI En Español? Análisis de Los Datos de Una Encuesta: Who Defines the Community of the TEI in Spanish? Data Analysis of a Survey». *Journal of the Text Encoding Initiative*, n.º 16 (18 de mayo de 2023). <https://doi.org/10.4000/jtei.4927>.
-- Del Rio Riande, Gimena. «¿De Qué Hablamos Cuando Hablamos de Humanidades Digitales?» *Actas de Las I Jornadas de Humanidades Digitales*. Buenos Aires, 2014.
-- ---------. «Digital Humanities and Visible and Invisible Infrastructures». *Global Debates in the Digital Humanities*, editado por Domenico Fiormonte, Sukanta Chaudhuri, y Paola Ricaurte, 247-58. Minneapolis: University of Minnesota Press, 2022.
+- Del Rio Riande, Gimena. «Digital Humanities and Visible and Invisible Infrastructures». *Global Debates in the Digital Humanities*, editado por Domenico Fiormonte, Sukanta Chaudhuri, y Paola Ricaurte, 247-58. Minneapolis: University of Minnesota Press, 2022.
 - ---------. «Humanidades Digitales o Las Humanidades En La Interesección de Lo Digital, Lo Público, Lo Mínimo y Lo Abierto». *Publicaciones de la Asociación Argentina de Humanidades Digitales* 3 (2022).
+- ---------. «¿De Qué Hablamos Cuando Hablamos de Humanidades Digitales?» *Actas de Las I Jornadas de Humanidades Digitales*. Buenos Aires, 2014.
 - Dewey, John. *Art as Experience*. New York, NY: Perigee, 1995.
 - Deyrup, Marta Mestrovic. *Digital Scholarship*. New York: Routledge, 2009.
 - Donoghue, Frank. «¿Tienen Futuro Las Humanidades?» *Revista chilena de literatura*, 2013, 227-32.
 - Drucker, Johanna. *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Abingdon, Oxon ; New York: Routledge/Taylor & Francis, 2021.
-- Drucker, Johanna. *Visualization and Interpretation: Humanistic Approaches to Display*. Cambridge, Massachusetts: The MIT Press, 2020.
-- Drucker, Johanna. «Humanities Approaches to Graphical Display». *Digital Humanities Quarterly* 5, n.º 1 (2011).
+- ---------. *Visualization and Interpretation: Humanistic Approaches to Display*. Cambridge, Massachusetts: The MIT Press, 2020.
+- ---------. «Humanities Approaches to Graphical Display». *Digital Humanities Quarterly* 5, n.º 1 (2011).
 - E. Stake, Robert. *Investigación Con Estudio de Casos*. Madrid: Morata, 1999.
 - Eco, Umberto. *A hombros de gigantes*. Lumen, 2018.
 - ---------. *El nombre de la rosa*. Barcelona: Ed. Lumen, 1989.
 - ---------. *The Search for the Perfect Language*. Oxford: Blackwell Publishers, 1995.
 - ---------. *La estructura ausente*. Barcelona: Debolsillo, 2011.
-- ---------. «El Vértigo de Las Listas». Traducido por Carmen Espejo-Cala. *IC Revista Científica de Información y Comunicación* 8 (2011): 15-34.
+- ---------. «El Vértigo de Las Listas». *IC Revista Científica de Información y Comunicación* 8 (2011): 15-34.
 - Edwards, Paul N. «Infrastructure and Modernity: Force, Time, and Social Organization in the History of Sociotechnical Systems». *Modernity and Technology*, editado por Thomas J. Misa, Philip Brey, y Andrew Feenberg, 185-226. Cambridge, Mass: MIT Press, 2003.
 - Ejército Zapatista de Liberación Nacional. «Cuarta Declaración de La Selva Lacandona». Cuarta declaración de la Selva Lacandona. Accedido en 23 de enero de 2024. <https://palabra.ezln.org.mx/comunicados/1996/1996_01_01_a.htm>.
 - Escobar Varela, Miguel. *Theater as Data: Computational Journeys into Theater Research*. Ann Arbor: University of Michigan Press, 2021.
@@ -113,7 +112,6 @@ title: Referencias
 - Evans, Peter B. «Declining Hegemony and Assertive Industrialization: U.S.-Brazil Conflicts in the Computer Industry». *International Organization* 43, n.º 2 (1989): 207-38. <https://doi.org/10.1017/S0020818300032896>.
 - Fals-Borda, Orlando, ed. *Acción y Conocimiento: Como Romper El Monopolio Con Investigación - Acción Participativa*. Santa Fé de Bogotá: CINEP, 1991.
 - Fernández l'Hoeste, Héctor D., y Juan Carlos Rodríguez, eds. *Digital Humanities in Latin America*. Gainesville: University of Florida Press, 2020.
-- Fernández l'Hoeste, Héctor, y Rodríguez. «Introduction: In and Out of Digital Humanities; Nations, Networks, and Practices in Latinx America». *Digital Humanities in Latin America*, editado por Héctor D. Fernández l'Hoeste y Juan Carlos Rodríguez, 1-22. Gainesville: University of Florida Press, 2020.
 - Fiormonte, Domenico, Sukanta Chaudhuri, y Paola Ricaurte, eds. *Global Debates in the Digital Humanities*. Minneapolis: University of Minnesota Press, 2022.
 - Fiormonte, Domenico, Teresa Numerico, y Francesca Tomasi. *The Digital Humanist: A Critical Inquiry*. Brooklyn: punctum books, 2015.
 - Fiormonte, Domenico. «Lenguas, códigos, representación. Márgenes de las Humanidades Digitales». *Humanidades digitales*, editado por Isabel Galina Russell, Miriam Peña Pimentel, Ernesto Priani Saisó, José Francisco Barrón Tovar, David Domínguez Herbón, y Adriana Álvarez Sánchez, 39-81. Ciudad de México: Bonilla Artigas Editores / Red de Humanidades Digitales, 2018.
@@ -126,11 +124,11 @@ title: Referencias
 - Freire, Paulo. *Pedagogía Del Oprimido*. México D.F.: Siglo XXI, 2019.
 - Fuller, Matthew, ed. *Software Studies: A Lexicon*. Cambridge, Mass: MIT Press, 2008.
 - Fuller, Michael A. «Digital Humanities and the Discontents of Meaning». *Journal of Chinese History* 4, n.º 2 (julio de 2020): 259-75. <https://doi.org/10.1017/jch.2020.13>.
-- Galina Russell, Isabel. «¿Qué Son Las Humanidades Digitales?» *Revista Digital Universitaria* 12, n.º 7 (2011): 3-10.
 - Galina Russell, Isabel, Miriam Peña Pimentel, Ernesto Priani Saisó, José Francisco Barrón Tovar, David Domínguez Herbón, y Adriana Álvarez Sánchez, eds. *Humanidades digitales I. Recepción, institucionalización y crítica*. Ciudad de México: Bonilla Artigas Editores / Red de Humanidades Digitales, 2018.
 - Galina Russell, Isabel. «La institucionalización de las Humanidades Digitales». *Humanidades digitales*, editado por Isabel Galina Russell, Miriam Peña Pimentel, Ernesto Priani Saisó, José Francisco Barrón Tovar, David Domínguez Herbón, y Adriana Álvarez Sánchez, 17-37. Ciudad de México: Bonilla Artigas Editores / Red de Humanidades Digitales, 2018.
+- ---------. «¿Qué Son Las Humanidades Digitales?» *Revista Digital Universitaria* 12, n.º 7 (2011): 3-10.
 - Gallini, Stefania, y Serge Noiret. «La historia digital en la era del Web 2.0. Introducción al dossier Historia digital». *Historia Crítica*, n.º 43 (enero de 2011): 16-37. <https://doi.org/10.7440/histcrit43.2011.03>.
-- Gallini, Stefania. «El siglo decimonónico latinoamericano en la Red». *Historia Crítica*, n.º 34 (julio de 2007): 148-58. <https://doi.org/10.7440/histcrit34.2007.06>.
+- ---------. «El siglo decimonónico latinoamericano en la Red». *Historia Crítica*, n.º 34 (julio de 2007): 148-58. <https://doi.org/10.7440/histcrit34.2007.06>.
 - Gane, Nicholas, y David Beer. *New Media. the Key Concepts*. English ed. The Key Concepts, 1747-6550. Oxford ; New York: Berg, 2008.
 - García Canclini, Néstor. *Ciudadanos reemplazados por algoritmos*. Bielefeld: transcript, 2019.
 - García Fernández, Javier. «Descolonizar El Pasado. Perspectivas Críticas Con Los Legados Coloniales En La Historia y La Historiografía». *Antípoda. Revista de Antropología y Arqueología*, n.º 51 (12 de abril de 2023): 51-75. <https://doi.org/10.7440/antipoda51.2023.03>.
@@ -147,7 +145,7 @@ title: Referencias
 - Gold, Matthew K., y Lauren F. Klein, eds. *Debates in the Digital Humanities 2019*. Minneapolis London: University of Minnesota Press, 2019.
 - Golumbia, David. *The cultural logic of computation*. Cambridge, Mass.: Harvard University Press, 2009.
 - Gombrich, E. H. *Ideales e ídolos: ensayos sobre los valores en la historia del arte*. Madrid: Debate, 1999.
-- Gombrich, E. H. «Research in the Humanities: Ideals and Idols». *Daedalus* 102, n.º 2 (1973): 1-10. <http://www.jstor.org.ezproxy.javeriana.edu.co/stable/20024123>.
+- ---------. «Research in the Humanities: Ideals and Idols». *Daedalus* 102, n.º 2 (1973): 1-10. <http://www.jstor.org.ezproxy.javeriana.edu.co/stable/20024123>.
 - González Ocampo, María Eugenia, Sophie Álamo, y Agustina Miglorini. «Las Desapariciones de Luciano Arruga y Franco Casco: Investigación Sobre La Construcción Discursiva de Los Casos a Través de La Metodología Digital de La Analítica Cultural». *Virtualis* 7, n.º 14 (2016): 136-53.
 - Greenberg, Clement. «Hacia un nuevo Laocoonte Towards a Newer Laocoon». *Revista Co-herencia* 17, n.º 33 (2020): 19+. <https://link.gale.com/apps/doc/A645242161/IFME?u=googlescholar&sid=googleScholar&xid=150312cc>.
 - Grier, David Alan. *When Computers Were Human*. Princeton University Press, 2013.
@@ -158,8 +156,6 @@ title: Referencias
 - Gutiérrez De La Torre, Silvia Eunice. «Bibliotecas y Humanidades Digitales En América Latina». *Revista de Humanidades Digitales* 5 (25 de noviembre de 2020): 113. <https://doi.org/10.5944/rhd.vol.5.2020.27826>.
 - Gómez-Cruz, Edgar, Paola Ricaurte, y Ignacio Siles. «Descolonizando Los Métodos Para Estudiar La Cultura Digital: Una Propuesta Desde Latinoamérica». *Cuadernos.info*, n.º 54 (2023): 160-81. <https://doi.org/10.7764/cdi.54.52605>.
 - H. Floris, Cohen. «Music as Science and as Art. The Sixteenth/Seventeenth-Century Destruction of Cosmic Harmony». *The Making of the Humanities. Vol 1. Early Modern Europe*, editado por Rens Bod, Jaap Maat, y Thijs Weststeijn, 59-74. Amsterdam: Amsterdam University Press, 2010.
-- HD LAB. «Semana de Humanidades Digitales en Costa Rica». HD LAB, 31 de agosto de 2023. <https://hdlabconicet.github.io/semana-hd-costa-rica/>.
-- HDCI Cuba. «hdcicuba». HDCI Cuba, 30 de marzo de 2022. <http://hdci780876991.wordpress.com>.
 - Habermas, Jürgen. «Modernity --- An Incomplete Project». *Modernism/Postmodernism*, editado por Peter Brooker, 3-15. London ; New York: Longman, 1992.
 - Halty Carrere, Máximo. «¿Hacia Un Nuevo Orden Tecnológico?» *Estudios Internacionales* 8, n.º 32 (1975): 33-50.
 - Hanna, Alex, y Tina M. Park. «Against Scale: Provocations and Resistances to Scale Thinking», 2020. <https://doi.org/10.48550/ARXIV.2010.08850>.
@@ -193,8 +189,8 @@ title: Referencias
 - Larkin, Brian. «The Politics and Poetics of Infrastructure». *Annual Review of Anthropology* 42, n.º 1 (21 de octubre de 2013): 327-43. <https://doi.org/10.1146/annurev-anthro-092412-155522>.
 - Laschinger, Verena. «Digital Humanities in Developed and Emerging Markets». *CLCWeb: Comparative Literature and Culture* 13, n.º 3 (1 de septiembre de 2011). <https://doi.org/10.7771/1481-4374.1807>.
 - Latour, Bruno. *Nunca fuimos modernos: Ensayos de antropología simétrica*. Madrid: Clave Intelectual, 2022.
-- ---------. «An Attempt at a \"Compositionist Manifesto\"». *New Literary History* 41, n.º 3 (2010): 471-90. <http://www.jstor.org/stable/40983881>.
 - ---------. *Reassembling the Social: An Introduction to Actor-Network-Theory*. Oxford ; New York: Oxford University Press, 2005.
+- ---------. «An Attempt at a "Compositionist Manifesto"». *New Literary History* 41, n.º 3 (2010): 471-90. <http://www.jstor.org/stable/40983881>.
 - ---------. «On Recalling Ant». *The Sociological Review* 47 (mayo de 1999): 15-25. <https://doi.org/10.1111/j.1467-954X.1999.tb03480.x>.
 - Levenberg, Lewis, Tai Neilson, y David Rheams, eds. *Research Methods for the Digital Humanities*. Cham: Springer International Publishing : Imprint: Palgrave Macmillan, 2018. <https://doi.org/10.1007/978-3-319-96713-4>.
 - Liu, Alan. «Toward Critical Infrastructure Studies», 2018.
@@ -224,7 +220,7 @@ title: Referencias
 - Maturana, Humberto R, Francisco J. Varela, y Stafford Beer. *Autopoiesis and Cognition: The Realization of the Living*. Dordrecht: Reidel, 1980.
 - Maturana, Humberto R. *La realidad: ¿objetiva o construida? fundamentos biológicos de la realidad II*. Anthropos Editorial, 1995. <https://books.google.com?id=4vFGfZoICg4C>.
 - Mazzucchelli, Aldo. «El Pecado Original de Las Humanidades». *Revista Chilena de Literatura*, n.º 84 (septiembre de 2013): 37-55. <https://doi.org/10.4067/S0718-22952013000200004>.
-- Maíz, Claudio. «\"EL HUMANISMO CÍVICO\": A UN EPISODIO EN EL REPUBLICANISMO HISPANOAMERICANO». *Atenea (Concepción)*, n.º 513 (julio de 2016): 105-24. <https://doi.org/10.4067/S0718-04622016000100007>.
+- Maíz, Claudio. «"EL HUMANISMO CÍVICO": A UN EPISODIO EN EL REPUBLICANISMO HISPANOAMERICANO». *Atenea (Concepción)*, n.º 513 (julio de 2016): 105-24. <https://doi.org/10.4067/S0718-04622016000100007>.
 - McDowell, Ruth B. *Symmetry: A Design System for Quiltmakers*. Lafayette, Calif: C & T Pub, 1994.
 - McGann, Jerome J. *A New Republic of Letters: Memory and Scholarship in the Age of Digital Reproduction*. Cambridge, Massachusetts: Harvard University Press, 2014.
 - McLuhan, Marshall. *Understanding Media: The Extensions of Man*. Cambridge, Mass: MIT Press, 1994.
@@ -236,7 +232,7 @@ title: Referencias
 - Merton, Robert K. «The Matthew Effect in Science: The Reward and Communication Systems of Science Are Considered.» *Science* 159, n.º 3810 (5 de enero de 1968): 56-63. <https://doi.org/10.1126/science.159.3810.56>.
 - Meza, Aurelio. «Decolonizar Las Humanidades Digitales: Cómo Diseñar Un Repositorio Digital de Sur a Norte». *Intervenciones en estudios culturales* 4 (2017): 109-31.
 - Meza, Nohelia. «Visualizing Networks of Cultural Discourses in Latin American Electronic Literature». *Revista de Humanidades Digitales* 6 (26 de noviembre de 2021): 101-21. <https://doi.org/10.5944/rhd.vol.6.2021.30866>.
-- Mitchell, Melanie. *Complexity: A Guided Tour*. Oxford \[England\] ; New York: Oxford University Press, 2009.
+- Mitchell, Melanie. *Complexity: A Guided Tour*. Oxford England ; New York: Oxford University Press, 2009.
 - Mladentseva, Anna. «Responding to Obsolescence in Flash-Based Net Art: A Case Study on Migrating Sinae Kim's *Genesis*». *Journal of the Institute of Conservation* 45, n.º 1 (2 de enero de 2022): 52-68. <https://doi.org/10.1080/19455224.2021.2007412>.
 - Molano Camargo, Frank. «El humanismo en perspectiva histórica». *Escuela y formación humanista miradas desde la investigación educativa*, editado por Diego H Arias Gómez y Frank Molano Camargo, 13-30, 2016.
 - Monge Acuña, Virginia. «La Codificación En El Método de Investigación de La Grounded Theory o Teoría Fundamentada». *Innovaciones Educativas* 17, n.º 22 (1 de julio de 2015): 77-84. <https://doi.org/10.22458/ie.v17i22.1100>.
@@ -256,8 +252,8 @@ title: Referencias
 - Nussbaum, Martha C. *Not for Profit: Why Democracy Needs the Humanities*. Princeton: Princeton University Press, 2016.
 - Nyhan, Julianne, Marco Passarotti, y Steven E. Jones, eds. *One Origin of Digital Humanities: Fr Roberto Busa in His Own Words*. Cham, Switzerland: Springer, 2019.
 - Ortega Vázquez, Guillermo Salvador. «Mediatización y Digitalización Del Patrimonio Cultural. El Caso de La Mediateca Del Instituto Nacional de Antropología e Historia». *Revista de Humanidades Digitales* 4 (1 de noviembre de 2019): 69. <https://doi.org/10.5944/rhd.vol.4.2019.25110>.
-- Ostrom, Elinor. «Beyond Markets and States: Polycentric Governance of Complex Economic Systems». *American Economic Review* 100, n.º 3 (2010): 641-72. <https://doi.org/10.1257/aer.100.3.641>.
-- ---------. *Governing the Commons: The Evolution of Institutions for Collective Action*. 1.ª ed. Cambridge University Press, 1990. <https://doi.org/10.1017/CBO9780511807763>.
+- Ostrom, Elinor. *Governing the Commons: The Evolution of Institutions for Collective Action*. 1.ª ed. Cambridge University Press, 1990. <https://doi.org/10.1017/CBO9780511807763>.
+- ---------. «Beyond Markets and States: Polycentric Governance of Complex Economic Systems». *American Economic Review* 100, n.º 3 (2010): 641-72. <https://doi.org/10.1257/aer.100.3.641>.
 - Papert, Seymour. «Teaching Children to Be Mathematicians Versus Teaching About Mathematics». *International Journal of Mathematical Education in Science and Technology* 3, n.º 3 (julio de 1972): 249-62. <https://doi.org/10.1080/0020739700030306>.
 - Papson, Stephen. «Scholars, Intellectuals, and Bricoleurs». *Arts and Humanities in Higher Education* 13, n.º 4 (octubre de 2014): 377-94. <https://doi.org/10.1177/1474022213487951>.
 - Parikka, Jussi. *A Geology of Media*. Electronic Mediations, volume 46. Minneapolis ; London: University of Minnesota Press, 2015.
@@ -315,7 +311,7 @@ title: Referencias
 - Siles, Ignacio. *Living with Algorithms: Agency and User Culture in Costa Rica*. Cambridge, Massachusetts: The MIT Press, 2023.
 - Sinykin, Dan, y Edwin Roland. «Against Conglomeration». *Journal of Cultural Analytics* 6, n.º 2 (20 de abril de 2021). <https://doi.org/10.22148/001c.22331>.
 - Sinykin, Dan. «Distant Reading and Literary Knowledge - Post45», 6 de mayo de 2019. <https://post45.org/2019/05/distant-reading-and-literary-knowledge/>.
-- Siré, Nestor. «!!\!Cuban Creativity». Weird Economies, 18 de octubre de 2021. <https://weirdeconomies.com/contributions/cuban-creativity>.
+- Siré, Nestor. «!!!Cuban Creativity». Weird Economies, 18 de octubre de 2021. <https://weirdeconomies.com/contributions/cuban-creativity>.
 - Sloterdijk, Peter. *Normas para el parque humano*. Madrid: Siruela, 2008.
 - Small, Helen. *The Value of the Humanities*. Oxford New York: Oxford University Press, 2016.
 - Snow, C. P. *The Two Cultures*. London ; New York: Cambridge University Press, 1993.
@@ -330,22 +326,23 @@ title: Referencias
 - Sula, Chris Alen, y Heather V Hill. «The Early History of Digital Humanities: An Analysis of Computers and the Humanities (1966--2004) and Literary and Linguistic Computing (1986--2004)». *Digital Scholarship in the Humanities*, 5 de noviembre de 2019, fqz072. <https://doi.org/10.1093/llc/fqz072>.
 - Svensson, Patrik. «Beyond the Big Tent». *Debates in the Digital Humanities*, editado por Matthew K. Gold, 36-49. Minneapolis: Univ Of Minnesota Press, 2012.
 - ---------. «The Landscape of Digital Humanities». *DHQ. Digital Humanities Quarterly* 4, n.º 1 (2010). <https://digitalhumanities.org/dhq/vol/4/1/000080/000080.html>.
+- Svensson, Patrik. «The Landscape of Digital Humanities». *DHQ. Digital Humanities Quarterly* 4, n.º 1 (2010). <https://digitalhumanities.org/dhq/vol/4/1/000080/000080.html>.
 - Sábato, Ernesto. *Hombres y Engranajes*. Buenos Aires: Emecé Editores, 1951.
 - Takhteyev, Yuri. *Coding Places: Software Practice in a South American City*. Cambridge, Mass: MIT Press, 2012.
 - Tello Vázquez, Amanda. «Políticas Públicas e Interculturalidad». *Interculturalidad. Problemáticas y Perspectivas Diversas*, editado por Fernando Garcés y Rubén Bravo, 167-84. Editorial Abya-Yala, 2019. <https://doi.org/10.7476/9789978104972>.
 - Tello, Andrés Maximiliano, ed. *Tecnología, Política y Algoritmos En América Latina.* Viña del Mar: CENALTES ediciones, 2020.
-- Tello, Andrés Maximiliano. «"Otro Fin de Mundo Es Posible". Revuelta y Anarchivismo». *Re-presentaciones. Periodismo, Comunicación y Sociedad*, n.º 12 (12 de enero de 2020): 77-91. <https://doi.org/10.35588/rp.v0i12.4320>.
+- ---------. «"Otro Fin de Mundo Es Posible". Revuelta y Anarchivismo». *Re-presentaciones. Periodismo, Comunicación y Sociedad*, n.º 12 (12 de enero de 2020): 77-91. <https://doi.org/10.35588/rp.v0i12.4320>.
 - ---------. «Tecnologías Insurgentes. Apropiación Tecnológica y Disidencias Maquínicas En América Latina». *Tecnología, Política y Algoritmos En América Latina.*, editado por Andrés Maximiliano Tello, 55-77. Viña del Mar: CENALTES ediciones, 2020.
 - Terras, Melissa M., Julianne Nyhan, y Edward Vanhoutte, eds. *Defining Digital Humanities: A Reader*. Farnham, Surrey, England : Burlington, VT: Ashgate Publishing Limited ; Ashgate Publishing Company, 2013.
 - Torres Martínez, Rubén. «Sobre El Concepto de América Latina ¿Invención Francesa?» *Cahiers d'études romanes*, n.º 32 (5 de diciembre de 2016): 89-98. <https://doi.org/10.4000/etudesromanes.5141>.
 - Trigo, Abril. «Las Humanidades En La Encrucijada de La Globalización». *Revista de Crítica Literaria Latinoamericana* 34, n.º 68 (2008): 33-53. <http://www.jstor.org/stable/25479078>.
 - Tsatsou, Panayiota. «Digital Divides Revisited: What Is New about Divides and Their Research?» *Media, Culture & Society* 33, n.º 2 (marzo de 2011): 317-31. <https://doi.org/10.1177/0163443710393865>.
 - Tsing, Anna Lowenhaupt. «On Nonscalability». *Common Knowledge* 18, n.º 3 (1 de agosto de 2012): 505-24. <https://doi.org/10.1215/0961754X-1630424>.
-- UPRRP. «Humanidades Digitales - Centro para la Excelencia Académica». Centro para la Excelencia Académica UPRRP, 9 de septiembre de 2022. <https://cea.uprrp.edu/ciclo-de-las-humanidades-digitales/>.
 - Ueda, Hiroto. «La Función de La Tilde En La Grafía Abreviada n Del Español Medieval». *Cuadernos del Instituto Historia de la Lengua*, n.º 8 (2013): 343-60. <https://doi.org/10.58576/cilengua.vi8.121>.
 - Umaña Luna, Eduardo. *Camilo y El Nuevo Humanismo: Paz Con Justicia Social*. Bogotá: Universidad Nacional de Colombia, 2003.
 - Underwood, Ted. *Distant Horizons: Digital Evidence and Literary Change*. Chicago: The University of Chicago Press, 2019.
 - Underwood, W. E. «A Genealogy of Distant Reading». *Digital Humanities Quarterly*, 2017. <http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html>.
+- University of Virginia. «Index of DH Conferences - ADHO Annual Conference». Library University of Virginia. Accedido en 20 de febrero de 2024. <https://dh-abstracts.library.virginia.edu/conference_series/1>.
 - Vallejo, Irene. *El Infinito En Un Junco. La Invención de Los Libros En El Mundo Antiguo*. Bogotá: Penguin Random House, 2021.
 - Varela, F. G., H. R. Maturana, y R. Uribe. «Autopoiesis: The Organization of Living Systems, Its Characterization and a Model». *Biosystems* 5, n.º 4 (1 de mayo de 1974): 187-96. <https://doi.org/10.1016/0303-2647(74)90031-8>.
 - Vaughan, Nicolás. «Introducción a la codificación de textos en TEI (parte 1)». *Programming Historian*, 27 de julio de 2021. <https://programminghistorian.org/es/lecciones/introduccion-a-tei-1>.
