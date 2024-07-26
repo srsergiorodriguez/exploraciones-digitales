@@ -27,7 +27,7 @@ No obstante, y desafortunadamente, es mucho mayor la cantidad de explicaciones e
 
 Adicional a esto, la gran mayoría de piezas existentes están en inglés, siguiendo el patrón de brecha lingüística que se elaboró en el capítulo [8](#infraestructuras-chapter), sobre infraestructuras. Las brechas técnicas, presupuestales, y la suposición de que el inglés es la lengua franca para la comunicación del conocimiento dan como resultado un efecto de apego preferencial incluso en proyectos de esta naturaleza, pues se asume que las piezas en inglés tendrán audiencias más amplias y así se justifica el esfuerzo y el conocimiento que debe emplearse en su elaboración.
 
-Por este motivo, la mayoría de referentes que me brindaron ideas y ejemplos sobre estrategias, alternativas y maneras de comunicar con efectividad por medio de piezas interactivas provienen de este acervo centrado en las ciencias y la computación, principalmente en inglés. La siguiente tabla (tabla 7) presenta algunos de estos ejemplos:
+Por este motivo, la mayoría de referentes que me brindaron ideas y ejemplos sobre estrategias, alternativas y maneras de comunicar con efectividad por medio de piezas interactivas provienen de este acervo centrado en las ciencias y la computación, principalmente en inglés. La siguiente tabla (7) presenta algunos de estos ejemplos:
 
 <sketch
   height="410px"
@@ -75,14 +75,7 @@ Siguiendo tal lógica, este proyecto requirió construir un sistema de diseño q
 
 ### 10.2.1. Identidad gráfica
 
-En este sistema de diseño dispuse una identidad gráfica que afecta a todas las partes que componen el libro digital. En términos generales, esta identidad gráfica puede resumirse en: paleta de colores, recursos tipográficos, y estilo de los componentes. Debido a que el tema de esta disertación se relaciona con la conjunción entre las humanidades y las tecnologías y culturas digitales, la identidad gráfica busca soportar las ideas alrededor de esa relación. Así, hace uso de elementos estilísticos que podrían considerarse como tradicionales de las prácticas humanísticas —por ejemplo, el uso de tipografías serifadas: Baskerville y Noto Serif (figura 27), o el uso, en los encabezados de secciones de decoraciones tipo dingbats o glifos que son reminiscentes de los libros antiguos— en combinación con elementos estilísticos propios de las culturas digitales (figura 28) —como los emojis presentes en algunos interactivos, los hipervínculos, o los botones—. 
-
-La paleta de colores escogida (figura 26) —dada por colores azules, rosados y blancos grisáceos— también busca un equilibro entre lo humanístico y lo digital, entre las asociaciones comunes que tenemos con respecto a los libros, el color matizado del papel y sus elementos mínimos y regulares, y los colores vibrantes y planos del diseño web contemporáneo. El modo de lectura, busca, en un sentido similar, combinar un formato de lectura académico —con las correspondientes subsecciones, citas, notas al pie y listas de referencias— con la prestación de deslizamiento o *scrolling* de los exploradores de internet. Por su parte, el libro en pdf mantiene el estilo general del libro digital —la tipografía y los colores—, pero se acerca más a la forma de presentación de una disertación doctoral convencional y está en un formato que facilita su impresión.
-
-<figure class="illustration border">
-  <figcaption>Figura 26. Paleta de colores del libro digital</figcaption>
-  <img alt="Un pantallazo de los colores usados en el libro" src="images/reflexiones/paleta1.png" />
-</figure>
+En este sistema de diseño dispuse una identidad gráfica que afecta a todas las partes que componen el libro digital. En términos generales, esta identidad gráfica puede resumirse en: paleta de colores, recursos tipográficos, y estilo de los componentes. Debido a que el tema de esta disertación se relaciona con la conjunción entre las humanidades y las tecnologías y culturas digitales, la identidad gráfica busca soportar las ideas alrededor de esa relación. Así, hace uso de elementos estilísticos que podrían considerarse como tradicionales de las prácticas humanísticas —por ejemplo, el uso de tipografías serifadas: Baskerville y Noto Serif (figura 27), o el uso, en los encabezados de secciones de decoraciones tipo dingbats o glifos que son reminiscentes de los libros antiguos— en combinación con elementos estilísticos propios de las culturas digitales (figura 28) —como los emojis presentes en algunos interactivos, los hipervínculos, o los botones—.
 
 <figure class="illustration border">
   <figcaption>Figura 27. La tipografía de los textos y el diseño de los títulos, que usa glifos, es reminiscente del diseño tradicional de libros impresos antiguos</figcaption>
@@ -94,16 +87,24 @@ La paleta de colores escogida (figura 26) —dada por colores azules, rosados y 
   <img alt="Pantallazo de una pieza interactiva con emojis" src="images/reflexiones/emojis1.png" />
 </figure>
 
+La paleta de colores escogida (figura 29) —dada por colores azules, rosados y blancos grisáceos— también busca un equilibro entre lo humanístico y lo digital, entre las asociaciones comunes que tenemos con respecto a los libros, el color matizado del papel y sus elementos mínimos y regulares, y los colores vibrantes y planos del diseño web contemporáneo. El modo de lectura, busca, en un sentido similar, combinar un formato de lectura académico —con las correspondientes subsecciones, citas, notas al pie y listas de referencias— con la prestación de deslizamiento o *scrolling* de los exploradores de internet. Por su parte, el libro en pdf mantiene el estilo general del libro digital —la tipografía y los colores—, pero se acerca más a la forma de presentación de una disertación doctoral convencional y está en un formato que facilita su impresión.
+
+<figure class="illustration border">
+  <figcaption>Figura 29. Paleta de colores del libro digital</figcaption>
+  <img alt="Un pantallazo de los colores usados en el libro" src="images/reflexiones/paleta1.png" />
+</figure>
+
+
 ### 10.2.2. Componentes
 
 Los componentes de un sistema de diseño buscan solucionar problemas recurrentes en la interacción con los usuarios. En el caso de este libro digital, los principales componentes son los que se encargan de disponer el texto y las piezas interactivas en sus distintos formatos de una forma que sea narrativamente consistente y que mantenga el hilo conductor y la argumentación. Como analogía, podemos pensar que este libro funciona como una especie de *pop up* digital, en la medida en la que se revelan nuevos sentidos a través de la interacción curiosa de quien lee, pero, al igual que con un pop up, se desarrollaron una serie de técnicas para facilitar el trabajo de la fabricación del libro. Así, luego de varios experimentos y prototipos, se fueron decantando algunas piezas interactivas que se pueden clasificar en cuatro tipos: piezas de análisis, micro colecciones, metáforas interactivas, y piezas artísticas. 
 
 #### 10.2.2.1. Piezas de análisis
 
-Las piezas de análisis son aquellas en las que se aplica algún método de las humanidades digitales para desarrollar alguna interpretación del tema de un capítulo y que, por medio de visualizaciones de datos, desenvuelve, examina y explica tal interpretación. En los ensayos de este proyecto, destacan especialmente las representaciones de vectores de palabras, los grafos o redes, y los mapas. Regularmente, estas piezas siguen una lógica en la que la visualización, debido a que esta basada en conjuntos de datos relativamente extensos, presenta una vista general que luego puede recorrerse en más detalle a través de elementos interactivos como botones, selectores o deslizadores. Es decir, sigue los principios de búsqueda de información propuestos por North y Shneiderman: sobrevuelo, filtrado y acercamiento[@northSnapTogetherVisualizationUser2003] (figura 29). De este modo, estos elementos interactivos permiten variar entre seguir un hilo narrativo y argumentativo que se ancla al capítulo en el que están insertos, o explorar los datos libremente. Algunos ejemplos de estas piezas de análisis son las visitas guidadas de los espacios semánticos de distintas revistas de humanidades digitales en el capítulo [6](#relacionamiento-chapter), sobre los modos de relacionamiento con lo digital, o la representación visual de la red de menciones en el capítulo [7](#comunidad-chapter), sobre la formación de comunidad en las humanidades digitales.
+Las piezas de análisis son aquellas en las que se aplica algún método de las humanidades digitales para desarrollar alguna interpretación del tema de un capítulo y que, por medio de visualizaciones de datos, desenvuelve, examina y explica tal interpretación. En los ensayos de este proyecto, destacan especialmente las representaciones de vectores de palabras, los grafos o redes, y los mapas. Regularmente, estas piezas siguen una lógica en la que la visualización, debido a que esta basada en conjuntos de datos relativamente extensos, presenta una vista general que luego puede recorrerse en más detalle a través de elementos interactivos como botones, selectores o deslizadores. Es decir, sigue los principios de búsqueda de información propuestos por North y Shneiderman: sobrevuelo, filtrado y acercamiento[@northSnapTogetherVisualizationUser2003] (figura 30). De este modo, estos elementos interactivos permiten variar entre seguir un hilo narrativo y argumentativo que se ancla al capítulo en el que están insertos, o explorar los datos libremente. Algunos ejemplos de estas piezas de análisis son las visitas guidadas de los espacios semánticos de distintas revistas de humanidades digitales en el capítulo [6](#relacionamiento-chapter), sobre los modos de relacionamiento con lo digital, o la representación visual de la red de menciones en el capítulo [7](#comunidad-chapter), sobre la formación de comunidad en las humanidades digitales.
 
 <figure class="illustration">
-  <figcaption>Figura 29. Representación del modelo de búsqueda de información de North y Shneiderman</figcaption>
+  <figcaption>Figura 30. Representación del modelo de búsqueda de información de North y Shneiderman</figcaption>
   <img alt="Esquema de North y Shneiderman" src="images/reflexiones/busquedainformacion.png" />
 </figure>
 
