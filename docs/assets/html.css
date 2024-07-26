@@ -519,6 +519,10 @@ ol[data-type=footnotes] li {
   padding: 1em 0;
 }
 
+.separator {
+  border-top: 1px solid var(--colblack);
+}
+
 .silent-link {
   color: inherit;
   text-decoration: inherit;
