@@ -506,6 +506,25 @@ ol[data-type=footnotes] li {
   text-decoration: none;
   font-size: 1em;
   padding: 0px 10px;
+  display: block;
+}
+
+.bookmark {
+  top: 20px;
+  text-decoration: none;
+  font-size: 1em;
+  padding: 0px 10px;
+  display: block;
+}
+
+.paragraph-number {
+  color: gray;
+  cursor: pointer;
+  font-size: 0.8em;
+}
+
+.paragraph-number:hover {
+  color: var(--colmain);
 }
 
 .centered {

@@ -149,7 +149,6 @@ Rodríguez Gómez, Sergio. «Signos Visuales a Escala Humana: Una Clasificación
 Rogers, Richard. *Digital Methods*. Cambridge, Massachusetts: The MIT Press, 2013.
 ---------. *Doing Digital Methods*. Thousand Oaks, CA: SAGE Publications, 2019.
 Sahlgren, Magnus. «The Distributional Hypothesis». *Rivista di Linguistica* 20, n.º 1 (2008): 33-53.
-Schmidt, Johannes F. K. «Niklas Luhmann's Card Index: The Fabrication of Serendipity». *Sociologica* Vol 12 (26 de julio de 2018): 53-60 Pages. <https://doi.org/10.6092/ISSN.1971-8853/8350>.
 Venturini, Tommaso, Liliana Bounegru, Jonathan Gray, y Richard Rogers. «A Reality Check(List) for Digital Methods». *New Media & Society* 20, n.º 11 (noviembre de 2018): 4195-4217. <https://doi.org/10.1177/1461444818769236>.
 Wilkinson, Leland. *The Grammar of Graphics*. Springer Science & Business Media, 2013. <https://books.google.com?id=ZiwLCAAAQBAJ>.
 Ashby, William Ross. *An Introduction to Cybernetics.* New York,: J. Wiley, 1956. <https://doi.org/10.5962/bhl.title.5851>.
@@ -268,6 +267,7 @@ Agamben, Giorgio. *The Coming Community*. Minneapolis: Univ. of Minnesota Press,
 Ahmed, Siraj. *Archaeology Of Babel. The Colonial Foundation of the Humanities*. Stanford University Press, 2018.
 Araneda, Leslie, y Camilo Murcia Galindo. «Reparation + Resistance. Digital Archives in Latin America.» En línea y Universidad de Illinois en Urbana-Champaign, 20 de abril de 2023.
 Ardevól, Elisenda. «Big Data y Descripción Densa». *Virtualis* 7, n.º 14 (2016): 15-37.
+Arroyo-Ramirez, Elvia. «Invisible Defaults and Perceived Limitations: Processing the Juan Gelman Files». On Archivy, 31 de octubre de 2016. <https://medium.com/on-archivy/invisible-defaults-and-perceived-limitations-processing-the-juan-gelman-files-4187fdd36759>.
 Berry, David M. «Introduction: Understanding the Digital Humanities». *Understanding Digital Humanities*, editado por David M. Berry, 1-20. Houndmills New York: Palgrave Macmillan, 2012.
 ---------. *Understanding Digital Humanities*. Houndmills New York: Palgrave Macmillan, 2012.
 Blanke, Tobias. «Cultural Analytics». *Encyclopedia of Big Data*, editado por Laurie A. Schintler y Connie L. McNeely, 1-5. Cham: Springer International Publishing, 2017. <https://doi.org/10.1007/978-3-319-32001-4_48-1>.

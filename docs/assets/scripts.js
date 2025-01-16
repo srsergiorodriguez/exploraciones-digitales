@@ -1,5 +1,40 @@
 // console.log("JavaScript Activado");
 
+const chapters = [
+  "",
+  "introduccion",
+  "contexto",
+  "metodos",
+  "mapa",
+  "tradicion",
+  "relacionamiento",
+  "comunidad",
+  "infraestructura",
+  "periplo",
+  "reflexiones",
+  "conclusiones",
+  "agradecimientos",
+  "referencias_sorted",
+  "figuras",
+  "licencia"
+];
+
+function setBookmark(number, count) {
+  localStorage.setItem("exploracionesDigitales-separapaginas", [number, count]);
+  alert("Marcapáginas guardado. Puede usarlo para continuar leyendo desde aquí luego");
+}
+
+function goToBookmark() {
+  let item = localStorage.getItem("exploracionesDigitales-separapaginas")//.split(",");
+  if (item === null) {
+    localStorage.setItem("exploracionesDigitales-separapaginas", [1, 1]);
+    item = localStorage.getItem("exploracionesDigitales-separapaginas")
+  }
+  const [chapter, paragraph] = item.split(",");
+  // window.location.href = `./${chapters[chapter]}-draft.html#bookmark-${chapter}-${paragraph}`;
+  window.location.href = `./${chapters[chapter]}.html#bookmark-${chapter}-${paragraph}`;
+}
+
 const sectionListElements = [];
 
 window.onload = function() {

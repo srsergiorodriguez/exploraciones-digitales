@@ -10,7 +10,8 @@
   "addPlugins": [
     "./plugins/addSketch.js",
     "./plugins/addVideo.js",
-    "./plugins/mdClass.js"
+    "./plugins/mdClass.js",
+    "./plugins/pNumeration.js"
   ],
   "disablePlugins": [
     "magicbook-katex",
@@ -43,7 +44,9 @@
         "content/10_reflexiones.md",
         "content/11_conclusiones.md",
         "content/12_agradecimientos.md",
-        "content/13_referencias_sorted.md"
+        "content/13_referencias_sorted.md",
+        "content/14_figuras.md",
+        "content/15_licencia.md"
       ]
     }
   ]

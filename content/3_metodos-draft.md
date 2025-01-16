@@ -27,8 +27,8 @@ Los resultados de esta disertación se basan en parte en una serie de entrevista
 
 Las personas entrevistadas fueron escogidas por medio de la revisión de las bases de datos y directorios de redes de humanidades digitales en América Latina y a través de la estrategia de *bola de nieve*[@hernandezsampieriMetodologiaInvestigacion2014], es decir, la recomendación recurrente por parte de las personas previamente entrevistadas de nuevas personas para contactar. La lista de personas entrevistadas es la siguiente:
 
-- **Ernesto Priani**, profesor de filosofía de la UNAM en México y director de la Red de Humanidades Digitales (RHD) mexicana;
-- **Isabel Galina**, profesora de la UNAM en México, miembro de la RHD y coordinadora de múltiples publicaciones relacionadas con humanidades digitales en América Latina y el mundo;
+- **Ernesto Priani**, profesor de filosofía de la UNAM en México y director de la Red de Humanidades Digitales (RedHD) mexicana;
+- **Isabel Galina**, profesora de la UNAM en México, miembro de la RedHD y coordinadora de múltiples publicaciones relacionadas con humanidades digitales en América Latina y el mundo;
 - **Riva Quiroga**, profesora en varias universidades chilenas, editora del proyecto Programming Historian en español y coordinadora del grupo R Ladies en Chile, un grupo de mujeres y personas diversas interesadas en el uso de programación para las humanidades y ciencias sociales;
 - **Carolina Zúñiga**, profesora de la Facultad de Comunicación y Letras de la Univeridad Diego Portales en Chile y co-coordinadora de la Cartografía de la Literatura Digital Latinoamericana;
 - **Gimena del Rio Riande**, Investigadora Adjunta del CONICET en Argentina, presidente de la Asociación Argentina de Humanidades Digitales (AAHD);

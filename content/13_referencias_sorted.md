@@ -22,6 +22,7 @@ title: Referencias
 - Araneda, Leslie, y Camilo Murcia Galindo. «Reparation + Resistance. Digital Archives in Latin America.» En línea y Universidad de Illinois en Urbana-Champaign, 20 de abril de 2023.
 - Ardevól, Elisenda. «Big Data y Descripción Densa». *Virtualis* 7, n.º 14 (2016): 15-37.
 - Arocena, Rodrigo, y Peter Senker. «Technology, Inequality, and Underdevelopment: The Case of Latin America». *Science, Technology, & Human Values* 28, n.º 1 (enero de 2003): 15-33. <https://doi.org/10.1177/0162243902238493>.
+- Arroyo-Ramirez, Elvia. “Invisible Defaults and Perceived Limitations: Processing the Juan Gelman Files”. On Archivy (blog), el 31 de octubre de 2016. https://medium.com/on-archivy/invisible-defaults-and-perceived-limitations-processing-the-juan-gelman-files-4187fdd36759.
 - Ashby, William Ross. *An Introduction to Cybernetics.* New York,: J. Wiley, 1956. <https://doi.org/10.5962/bhl.title.5851>.
 - Barabási, Albert-László, y Réka Albert. «Emergence of Scaling in Random Networks». *Science* 286, n.º 5439 (15 de octubre de 1999): 509-12. <https://doi.org/10.1126/science.286.5439.509>.
 - Barone, Tom, y Elliot W. Eisner. *Arts Based Research*. Los Angeles London New Delhi Singapore Washington DC: Sage, 2012.
